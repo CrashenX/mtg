@@ -1,0 +1,56 @@
+#!/usr/bin/perl -w
+use strict;
+use Getopt::Long;
+use Pod::Usage;
+
+my $deck_size  = 60;
+my $num_copies = 4;
+my $num_draws  = 7;
+my $help       = 0;
+my $error      = 0;
+
+my $options = GetOptions ("s|deck-size=i"  => \$deck_size,
+                          "c|num-copies=i" => \$num_copies,
+                          "d|num-draws=i"  => \$num_draws,
+                          "h|help"         => \$help);
+my $description =
+    "\nThis program determines the probability of drawing at least\n"
+  . "one copy of a card within a deck of the specified size by\n"  
+  . "the specified number of draws given the specified number of\n"
+  . "copies of the card in the deck.\n\n"
+  . "  -s, --deck-size        The size of the deck             (default 60)\n"
+  . "  -c, --num-copies       The number of copies of the card (default  4)\n"
+  . "  -d, --draws            The number of draws taken        (default  7)\n"
+  . "  -h, --help             This help message\n";
+my $exit_status = 0;
+my $verbose_lvl = 0;
+my $help_output = \*STDERR;
+
+if($deck_size  < 1 || $num_copies < 0 || $num_copies > $deck_size
+                   || $num_draws  < 0 || $num_draws > $deck_size) {
+    $error = 1;
+    $exit_status = 1;
+    $description = "\nInvalid value specified for option.\n" . $description;
+}
+
+pod2usage(
+  { -message => $description,
+    -exitval => $exit_status,
+    -verbose => $verbose_lvl,
+    -output =>  $help_output }
+) if($help || $error);
+
+my $num_factor  = $deck_size - $num_copies;
+my $den_factor  = $deck_size;
+my $numerator   = 1;
+my $denominator = 1;
+
+for(my $i = 0; $i < $num_draws; ++$i, --$num_factor, --$den_factor) {
+    $numerator   *= $num_factor; 
+    $denominator *= $den_factor; 
+}
+
+my $probability = (1 - ($numerator / $denominator)) * 100;
+printf("\nThe probability of drawing at least one copy in a %s card deck\n" .
+       "by draw %d when there are %d copies in the deck is %.2f%s.\n",
+       $deck_size, $num_draws, $num_copies, $probability, '%');
