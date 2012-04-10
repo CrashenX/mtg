@@ -99,70 +99,150 @@ LANDFALL|DECK|U|NORM|4|Gemstone Mine
 LANDFALL|DECK|U|NORM|4|Treva's Ruins
 LANDFALL|SIDE|C|NORM|2|Grazing Gladehart
 NONE|FREE|C|NORM|2|Wickerbough Elder
+NONE|FREE|M|NORM|1|Admonition Angel
+NONE|FREE|M|NORM|1|Ajani Goldmane
+NONE|FREE|M|NORM|1|Angelic Overseer
+NONE|FREE|M|NORM|1|Chandra Ablaze
+NONE|FREE|M|NORM|1|Child of Alara
+NONE|FREE|M|NORM|1|Elspeth Tirel
+NONE|FREE|M|NORM|1|Felidar Sovereign
+NONE|FREE|M|NORM|1|Maelstrom Archangel
+NONE|FREE|R|FOIL|1|Arashi, the Sky Asunder
+NONE|FREE|R|NORM|1|Aegis of Honor
+NONE|FREE|R|NORM|1|Akron Legionnaire
+NONE|FREE|R|NORM|1|Akuta, Born of Ash
+NONE|FREE|R|NORM|1|Anaba Spirit Crafter
+NONE|FREE|R|NORM|1|Arashi, the Sky Asunder
+NONE|FREE|R|NORM|1|Archive Trap
+NONE|FREE|R|NORM|1|Archon of Redemption
+NONE|FREE|R|NORM|1|Ashes of the Fallen
+NONE|FREE|R|NORM|1|Back from the Brink
+NONE|FREE|R|NORM|1|Barren Glory
+NONE|FREE|R|NORM|1|Beastmaster Ascension
+NONE|FREE|R|NORM|1|Blasphemous Act
+NONE|FREE|R|NORM|1|Bounteous Kirin
 NONE|FREE|R|NORM|1|Cauldron of Souls
-
-
-# incomplete list
-
-Akuta, Born of Ash
-Angelic Overseer
-Arashi, the Sky Asunder
-Ashes of the Fallen
-Back from the Brink
-Bounteous Kirin
-Celestial Colonnade
-Cerebral Eruption
-Choice of Damnations
-Clifftop Retreat
-Conundrum Sphinx
-Cryptoplasm
-Djinn of Wishes
-Eternal Dominion
-Galvanoth
-Genesis Wave
-Gigantiform
-Glacial Fortress
-Goblin Guide
-Hidetsugu's Second Rite
-Homura, Human Ascendant
-Infernal Kirin
-Jiwari, the Earth Aflame
-Kagemaro, First to Suffer
-Kaho, Minamo Historian
-Kemba, Kha Regent
-Kessig Cagebreakers
-Lavaball Trap
-Madrush Cyclops
-Marsh Flats
-Masumaro, First to Live
-Meishin, the Mind Cage
-Misty Rainforest
-Neverending Torment
-Oracle of Mul Daya
-Pain's Reward
-Peacekeeper
-Phyrexian Revoker
-Predatory Urge
-Promise of Bunrei
-Propaganda
-Pure Intentions
-Rally the Horder
-Ratchet Bomb
-Reki, the History of Kamigawa
-Rite of Replication
-River Kelpie
-Sakashima the Impostor
-Sarcomancy
-Seachrome Coast
-Shape Anew
-Soramaro, First to Dream
-Sphinx of Lost Truths
-Spikeshot Elder
-Stenchskipper
-Strata Scythe
-Tower of Calamities
-Urza's Mine
-Verdant Catacombs
-Winding Canyons
-Winds of Rath
-Wine of Blood and Iron
+NONE|FREE|R|NORM|1|Cauldron of Souls
+NONE|FREE|R|NORM|1|Cerebral Eruption
+NONE|FREE|R|NORM|1|Chain Stasis
+NONE|FREE|R|NORM|1|Chandra's Phoenix
+NONE|FREE|R|NORM|1|Choice of Damnations
+NONE|FREE|R|NORM|1|Clifftop Retreat
+NONE|FREE|R|NORM|1|Conundrum Sphinx
+NONE|FREE|R|NORM|1|Cycle of Life
+NONE|FREE|R|NORM|1|Demonic Tutor
+NONE|FREE|R|NORM|1|Deranged Outcast
+NONE|FREE|R|NORM|1|Dingus Egg
+NONE|FREE|R|NORM|1|Emeria, the Sky Ruin
+NONE|FREE|R|NORM|1|Eternal Dominion
+NONE|FREE|R|NORM|1|Fastbond
+NONE|FREE|R|NORM|1|Fungusaur
+NONE|FREE|R|NORM|1|Galvanoth
+NONE|FREE|R|NORM|1|Gavony Township
+NONE|FREE|R|NORM|1|Geist-Honored Monk
+NONE|FREE|R|NORM|1|Gigantiform
+NONE|FREE|R|NORM|1|Grinning Totem
+NONE|FREE|R|NORM|1|Hidetsugu's Second Rite
+NONE|FREE|R|NORM|1|Homura, Human Ascendant
+NONE|FREE|R|NORM|1|Horn of Greed
+NONE|FREE|R|NORM|1|Infernal Kirin
+NONE|FREE|R|NORM|1|Jade Monolith
+NONE|FREE|R|NORM|1|Kagemaro, First to Suffer
+NONE|FREE|R|NORM|1|Kami of the Crescent Moon
+NONE|FREE|R|NORM|1|Kataki, War's Wage
+NONE|FREE|R|NORM|1|Kessig Cagebreakers
+NONE|FREE|R|NORM|1|Kessig, Wolf Run
+NONE|FREE|R|NORM|1|Kezzerdrix
+NONE|FREE|R|NORM|1|Kiyomaro, First to Stand
+NONE|FREE|R|NORM|1|Knowledge Pool
+NONE|FREE|R|NORM|1|Kuldotha Phoenix
+NONE|FREE|R|NORM|1|Lavaball Trap
+NONE|FREE|R|NORM|1|Leyline of Anticipation
+NONE|FREE|R|NORM|1|Madrush Cyclops
+NONE|FREE|R|NORM|1|Markov Blademaster
+NONE|FREE|R|NORM|1|Marsh Flats
+NONE|FREE|R|NORM|1|Marshal's Anthem
+NONE|FREE|R|NORM|1|Masumaro, First to Live
+NONE|FREE|R|NORM|1|Meishin, the Mind Cage
+NONE|FREE|R|NORM|1|Melira, Sylvok Outcast
+NONE|FREE|R|NORM|1|Michiko Konda, Truth Seeker
+NONE|FREE|R|NORM|1|Mirari
+NONE|FREE|R|NORM|1|Mirror Sheen
+NONE|FREE|R|NORM|1|Mossword Bridge
+NONE|FREE|R|NORM|1|Nature's Revolt
+NONE|FREE|R|NORM|1|Near-Death Experience
+NONE|FREE|R|NORM|1|Nephalia Drownyard
+NONE|FREE|R|NORM|1|Neverending Torment
+NONE|FREE|R|NORM|1|Ob Nixilis, the Fallen
+NONE|FREE|R|NORM|1|One with Nothing
+NONE|FREE|R|NORM|1|Oran-Rief, the Vastwood
+NONE|FREE|R|NORM|1|Pain's Reward
+NONE|FREE|R|NORM|1|Peacekeeper
+NONE|FREE|R|NORM|1|Predatory Urge
+NONE|FREE|R|NORM|1|Primitive Etchings
+NONE|FREE|R|NORM|1|Promise of Bunrei
+NONE|FREE|R|NORM|1|Pure Intentions
+NONE|FREE|R|NORM|1|Pyromancer Ascension
+NONE|FREE|R|NORM|1|Rally the Horde
+NONE|FREE|R|NORM|1|Ratchet Bomb
+NONE|FREE|R|NORM|1|Reki, the History of Kamigawa
+NONE|FREE|R|NORM|1|Rite of Flourishing
+NONE|FREE|R|NORM|1|River Kelpie
+NONE|FREE|R|NORM|1|Rowen
+NONE|FREE|R|NORM|1|Rune-Tail, Kitsune Ascendant
+NONE|FREE|R|NORM|1|Scroll of Origins
+NONE|FREE|R|NORM|1|Seer's Sundial
+NONE|FREE|R|NORM|1|Selective Memory
+NONE|FREE|R|NORM|1|Shape Anew
+NONE|FREE|R|NORM|1|Soramaro, First to Dream
+NONE|FREE|R|NORM|1|Sphinx of Jwar Isle
+NONE|FREE|R|NORM|1|Sphinx of Lost Truths
+NONE|FREE|R|NORM|1|Stenchskipper
+NONE|FREE|R|NORM|1|Storm Cauldron
+NONE|FREE|R|NORM|1|Strata Scythe
+NONE|FREE|R|NORM|1|Surgical Extraction
+NONE|FREE|R|NORM|1|Teferi's Imp
+NONE|FREE|R|NORM|1|Tomorrow, Azami's Familiar
+NONE|FREE|R|NORM|1|Truce
+NONE|FREE|R|NORM|1|Undead Alchemist
+NONE|FREE|R|NORM|1|Uyo, Silent Prophet
+NONE|FREE|R|NORM|1|Veilstone Amulet
+NONE|FREE|R|NORM|1|Venser's Journal
+NONE|FREE|R|NORM|1|Winding Canyons
+NONE|FREE|R|NORM|1|Winds of Rath
+NONE|FREE|R|NORM|1|Wine of Blood and Iron
+NONE|FREE|R|NORM|1|Witch-Maw Nephilim
+NONE|FREE|R|NORM|2|Archmage Ascension
+NONE|FREE|R|NORM|2|Artificial Evolution
+NONE|FREE|R|NORM|2|Celestial Colonnade
+NONE|FREE|R|NORM|2|Contagion Engine
+NONE|FREE|R|NORM|2|Cryptoplasm
+NONE|FREE|R|NORM|2|Dissipation Field
+NONE|FREE|R|NORM|2|Djinn of Wishes
+NONE|FREE|R|NORM|2|Emeria Angel
+NONE|FREE|R|NORM|2|Erayo, Soratami Ascendant
+NONE|FREE|R|NORM|2|Glacial Fortress
+NONE|FREE|R|NORM|2|Glen Elendra Archmage
+NONE|FREE|R|NORM|2|Heretic's Punishment
+NONE|FREE|R|NORM|2|Hokori, Dust Drinker
+NONE|FREE|R|NORM|2|Howling Mine
+NONE|FREE|R|NORM|2|Idyllic Tutor
+NONE|FREE|R|NORM|2|Inexorable Tide
+NONE|FREE|R|NORM|2|Jiwari, the Earth Aflame
+NONE|FREE|R|NORM|2|Kemba, Kha Regent
+NONE|FREE|R|NORM|2|Roil Elemental
+NONE|FREE|R|NORM|2|Sasaya, Orochi Ascendant
+NONE|FREE|R|NORM|2|Surgespanner
+NONE|FREE|R|NORM|2|True Conviction
+NONE|FREE|R|NORM|3|Kaho, Minamo Historian
+NONE|FREE|R|NORM|3|Verdant Catacombs
+NONE|FREE|R|NORM|4|Divert
+NONE|FREE|R|NORM|4|Exotic Orcard
+NONE|FREE|R|NORM|4|Loyal Sentry
+NONE|FREE|R|NORM|4|Serra Ascendant
+NONE|FREE|R|NORM|4|Twincast
+NONE|FREE|R|NORM|4|Underworld Dreams
+NONE|FREE|R|NORM|4|Vebulid
+NONE|FREE|R|NORM|4|Walking Archive
+NONE|FREE|U|NORM|1|Propaganda
+NONE|FREE|U|NORM|1|Urza's Mine
