@@ -24,9 +24,9 @@ FISH|SIDE|U|NORM|1|Merfolk Wayfinder
 FISH|SIDE|U|NORM|1|Puresight Merrow
 FISH|SIDE|U|NORM|1|Surgespanner
 FISH|SIDE|U|NORM|3|Sage of Fables
+GROWTH,FISH|DECK|R|NORM|2|Earthcraft
 GROWTH,FISH|DECK|R|NORM|4|Hinterland Harbor
 GROWTH,FISH|DECK|U|NORM|2|Paradise Mantle
-GROWTH,FISH|DECK|R|NORM|2|Earthcraft
 GROWTH|DECK|C|NORM|10|Forest
 GROWTH|DECK|C|NORM|1|Llanowar Reborn
 GROWTH|DECK|C|NORM|4|Primal Cocoon
@@ -41,8 +41,7 @@ GROWTH|DECK|R|NORM|4|Protean Hydra
 GROWTH|DECK|R|NORM|4|Scute Mob
 GROWTH|DECK|U|NORM|4|Gilder Bairn
 GROWTH|DECK|U|NORM|4|Plaxcaster Frogling
-NONE|FREE|C|NORM|2|Wickerbough Elder
-NONE|FREE|R|NORM|1|Cauldron of Souls
+GROWTH|SIDE|C|NORM|15|Forest
 GWLAND|DECK|C|NORM|1|Sejiri Steppe
 GWLAND|DECK|C|NORM|2|Qasali Pridemage
 GWLAND|DECK|C|NORM|4|Plains
@@ -74,6 +73,9 @@ GWLAND|DECK|U|NORM|3|Enlightened Tutor
 GWLAND|DECK|U|NORM|4|Swords to Plowshares
 GWLAND|SIDE|R|NORM|1|Armageddon
 GWLAND|SIDE|R|NORM|1|Land Tax
+GWLAND|SIDE|C|NORM|13|Forest
+NONE|FREE|C|NORM|2|Wickerbough Elder
+NONE|FREE|R|NORM|1|Cauldron of Souls
 
 
 # incomplete list
