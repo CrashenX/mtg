@@ -50,7 +50,6 @@ GWLAND|DECK|M|NORM|1|Rampaging Baloths
 GWLAND|DECK|M|NORM|1|Sword of Feast and Famine
 GWLAND|DECK|M|NORM|1|Sword of War and Peace
 GWLAND|DECK|M|NORM|2|Knight of the Reliquary
-GWLAND|DECK|M|NORM|3|Lotus Cobra
 GWLAND|DECK|R|NORM|0|Green Sun's Zenith
 GWLAND|DECK|R|NORM|0|Petrified Field
 GWLAND|DECK|R|NORM|0|Sylvan Library
@@ -62,18 +61,43 @@ GWLAND|DECK|R|NORM|1|Terravore
 GWLAND|DECK|R|NORM|2|Flagstones of Trokair
 GWLAND|DECK|R|NORM|2|Sunpetal Grove
 GWLAND|DECK|R|NORM|3|Armageddon
-GWLAND|DECK|R|NORM|3|Exploration
 GWLAND|DECK|U|NORM|0|Eternal Witness
 GWLAND|DECK|U|NORM|0|Mistveil Plains
-GWLAND|DECK|U|NORM|1|Glacial Chasm
 GWLAND|DECK|U|NORM|1|Riftstone Portal
-GWLAND|DECK|U|NORM|1|Sterling Grove
-GWLAND|DECK|U|NORM|1|Strip Mine
-GWLAND|DECK|U|NORM|3|Enlightened Tutor
 GWLAND|DECK|U|NORM|4|Swords to Plowshares
+GWLAND|SIDE|C|NORM|13|Forest
 GWLAND|SIDE|R|NORM|1|Armageddon
 GWLAND|SIDE|R|NORM|1|Land Tax
-GWLAND|SIDE|C|NORM|13|Forest
+LANDFALL,GWLAND|DECK|M|NORM|3|Lotus Cobra
+LANDFALL,GWLAND|DECK|R|NORM|3|Exploration
+LANDFALL,GWLAND|DECK|U|NORM|1|Glacial Chasm
+LANDFALL,GWLAND|DECK|U|NORM|1|Sterling Grove
+LANDFALL,GWLAND|DECK|U|NORM|1|Strip Mine
+LANDFALL,GWLAND|DECK|U|NORM|3|Enlightened Tutor
+LANDFALL|DECK|C|NORM|1|Piranha Marsh
+LANDFALL|DECK|C|NORM|2|Grazing Gladehart
+LANDFALL|DECK|C|NORM|4|Brainstorm
+LANDFALL|DECK|M|NORM|1|Admonition Angel
+LANDFALL|DECK|R|NORM|1|Azusa, Lost but Seeking
+LANDFALL|DECK|R|NORM|1|Banefire
+LANDFALL|DECK|R|NORM|1|Fastbond
+LANDFALL|DECK|R|NORM|1|Meloku the Clouded Mirror
+LANDFALL|DECK|R|NORM|1|Oboro, Palace in the Clouds
+LANDFALL|DECK|R|NORM|1|Zur the Enchanter
+LANDFALL|DECK|R|NORM|2|Crucible of Worlds
+LANDFALL|DECK|R|NORM|2|Oracle of Mul Daya
+LANDFALL|DECK|R|NORM|2|Trade Routes
+LANDFALL|DECK|R|NORM|2|Undiscovered Paradise
+LANDFALL|DECK|R|NORM|4|Birds of Paradise
+LANDFALL|DECK|R|NORM|4|Reflecting Pool
+LANDFALL|DECK|R|NORM|4|Tendo Ice Bridge
+LANDFALL|DECK|U|NORM|1|Demonic Tutor
+LANDFALL|DECK|U|NORM|1|Sterling Grove
+LANDFALL|DECK|U|NORM|2|Zuran Orb
+LANDFALL|DECK|U|NORM|3|Glacial Chasm
+LANDFALL|DECK|U|NORM|4|Gemstone Mine
+LANDFALL|DECK|U|NORM|4|Treva's Ruins
+LANDFALL|SIDE|C|NORM|2|Grazing Gladehart
 NONE|FREE|C|NORM|2|Wickerbough Elder
 NONE|FREE|R|NORM|1|Cauldron of Souls
 
