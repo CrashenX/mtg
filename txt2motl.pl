@@ -16,7 +16,7 @@ my @cards = read_file('jesse.cards');
 for my $card (@cards) {
     my @fields = split(/\|/,$card);
 
-    next if(0 == $fields[4]);
+    next if(0 == $fields[4] || 'C' eq $fields[2]);
 
     chomp($fields[5]);
 
