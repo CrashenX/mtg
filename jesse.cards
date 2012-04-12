@@ -64,6 +64,7 @@ GWLAND|DECK|R|NORM|3|Armageddon
 GWLAND|DECK|U|NORM|0|Eternal Witness
 GWLAND|DECK|U|NORM|0|Mistveil Plains
 GWLAND|DECK|U|NORM|1|Riftstone Portal
+GWLAND|DECK|U|NORM|1|Sterling Grove
 GWLAND|DECK|U|NORM|4|Swords to Plowshares
 GWLAND|SIDE|C|NORM|13|Forest
 GWLAND|SIDE|R|NORM|1|Armageddon
@@ -71,7 +72,6 @@ GWLAND|SIDE|R|NORM|1|Land Tax
 LANDFALL,GWLAND|DECK|M|NORM|3|Lotus Cobra
 LANDFALL,GWLAND|DECK|R|NORM|3|Exploration
 LANDFALL,GWLAND|DECK|U|NORM|1|Glacial Chasm
-LANDFALL,GWLAND|DECK|U|NORM|1|Sterling Grove
 LANDFALL,GWLAND|DECK|U|NORM|1|Strip Mine
 LANDFALL,GWLAND|DECK|U|NORM|3|Enlightened Tutor
 LANDFALL|DECK|C|NORM|1|Piranha Marsh
@@ -190,7 +190,6 @@ NONE|FREE|R|NORM|1|Rite of Flourishing
 NONE|FREE|R|NORM|1|River Kelpie
 NONE|FREE|R|NORM|1|Rowen
 NONE|FREE|R|NORM|1|Rune-Tail, Kitsune Ascendant
-NONE|FREE|R|NORM|4|Sand Silos
 NONE|FREE|R|NORM|1|Scroll of Origins
 NONE|FREE|R|NORM|1|Seer's Sundial
 NONE|FREE|R|NORM|1|Selective Memory
@@ -240,6 +239,7 @@ NONE|FREE|R|NORM|3|Verdant Catacombs
 NONE|FREE|R|NORM|4|Divert
 NONE|FREE|R|NORM|4|Exotic Orcard
 NONE|FREE|R|NORM|4|Loyal Sentry
+NONE|FREE|R|NORM|4|Sand Silos
 NONE|FREE|R|NORM|4|Serra Ascendant
 NONE|FREE|R|NORM|4|Twincast
 NONE|FREE|R|NORM|4|Underworld Dreams
