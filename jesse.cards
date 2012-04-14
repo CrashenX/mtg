@@ -59,6 +59,7 @@ GWLAND|DECK|R|NORM|1|Limited Resources
 GWLAND|DECK|R|NORM|1|Lotus Vale
 GWLAND|DECK|R|NORM|1|Terravore
 GWLAND|DECK|R|NORM|2|Flagstones of Trokair
+GWLAND|DECK|R|NORM|2|Knight of the Reliquary
 GWLAND|DECK|R|NORM|2|Sunpetal Grove
 GWLAND|DECK|R|NORM|3|Armageddon
 GWLAND|DECK|U|NORM|0|Eternal Witness
@@ -131,7 +132,6 @@ NONE|FREE|R|NORM|1|Choice of Damnations
 NONE|FREE|R|NORM|1|Clifftop Retreat
 NONE|FREE|R|NORM|1|Conundrum Sphinx
 NONE|FREE|R|NORM|1|Cycle of Life
-NONE|FREE|R|NORM|1|Demonic Tutor
 NONE|FREE|R|NORM|1|Deranged Outcast
 NONE|FREE|R|NORM|1|Dingus Egg
 NONE|FREE|R|NORM|1|Emeria, the Sky Ruin
@@ -201,7 +201,6 @@ NONE|FREE|R|NORM|1|Sphinx of Lost Truths
 NONE|FREE|R|NORM|1|Stenchskipper
 NONE|FREE|R|NORM|1|Storm Cauldron
 NONE|FREE|R|NORM|1|Strata Scythe
-NONE|FREE|R|NORM|1|Surgical Extraction
 NONE|FREE|R|NORM|1|Teferi's Imp
 NONE|FREE|R|NORM|1|Tomorrow, Azami's Familiar
 NONE|FREE|R|NORM|1|Truce
@@ -236,12 +235,12 @@ NONE|FREE|R|NORM|2|Sasaya, Orochi Ascendant
 NONE|FREE|R|NORM|2|Surgespanner
 NONE|FREE|R|NORM|2|True Conviction
 NONE|FREE|R|NORM|3|Kaho, Minamo Historian
+NONE|FREE|R|NORM|3|Serra Ascendant
 NONE|FREE|R|NORM|3|Verdant Catacombs
 NONE|FREE|R|NORM|4|Divert
 NONE|FREE|R|NORM|4|Exotic Orcard
 NONE|FREE|R|NORM|4|Loyal Sentry
 NONE|FREE|R|NORM|4|Sand Silos
-NONE|FREE|R|NORM|4|Serra Ascendant
 NONE|FREE|R|NORM|4|Twincast
 NONE|FREE|R|NORM|4|Underworld Dreams
 NONE|FREE|R|NORM|4|Vebulid
