@@ -60,8 +60,8 @@ GWLAND|DECK|R|NORM|1|Lotus Vale
 GWLAND|DECK|R|NORM|1|Terravore
 GWLAND|DECK|R|NORM|2|Flagstones of Trokair
 GWLAND|DECK|R|NORM|2|Knight of the Reliquary
-GWLAND|DECK|R|NORM|2|Sunpetal Grove
 GWLAND|DECK|R|NORM|3|Armageddon
+GWLAND|DECK|R|NORM|3|Sunpetal Grove
 GWLAND|DECK|U|NORM|0|Eternal Witness
 GWLAND|DECK|U|NORM|0|Mistveil Plains
 GWLAND|DECK|U|NORM|1|Riftstone Portal
@@ -104,7 +104,6 @@ NONE|FREE|C|NORM|2|Wickerbough Elder
 NONE|FREE|M|NORM|1|Admonition Angel
 NONE|FREE|M|NORM|1|Ajani Goldmane
 NONE|FREE|M|NORM|1|Angelic Overseer
-NONE|FREE|M|NORM|1|Chandra Ablaze
 NONE|FREE|M|NORM|1|Child of Alara
 NONE|FREE|M|NORM|1|Elspeth Tirel
 NONE|FREE|M|NORM|1|Felidar Sovereign
@@ -139,6 +138,7 @@ NONE|FREE|R|NORM|1|Eternal Dominion
 NONE|FREE|R|NORM|1|Fastbond
 NONE|FREE|R|NORM|1|Fungusaur
 NONE|FREE|R|NORM|1|Galvanoth
+NONE|FREE|R|NORM|1|Gargoyle Castle
 NONE|FREE|R|NORM|1|Gavony Township
 NONE|FREE|R|NORM|1|Geist-Honored Monk
 NONE|FREE|R|NORM|1|Gigantiform
@@ -199,6 +199,7 @@ NONE|FREE|R|NORM|1|Soramaro, First to Dream
 NONE|FREE|R|NORM|1|Sphinx of Jwar Isle
 NONE|FREE|R|NORM|1|Sphinx of Lost Truths
 NONE|FREE|R|NORM|1|Stenchskipper
+NONE|FREE|R|NORM|1|Stirring Wildwood
 NONE|FREE|R|NORM|1|Storm Cauldron
 NONE|FREE|R|NORM|1|Strata Scythe
 NONE|FREE|R|NORM|1|Teferi's Imp
@@ -212,6 +213,7 @@ NONE|FREE|R|NORM|1|Winding Canyons
 NONE|FREE|R|NORM|1|Winds of Rath
 NONE|FREE|R|NORM|1|Wine of Blood and Iron
 NONE|FREE|R|NORM|1|Witch-Maw Nephilim
+NONE|FREE|R|NORM|1|Woodland Cemetery
 NONE|FREE|R|NORM|2|Archmage Ascension
 NONE|FREE|R|NORM|2|Artificial Evolution
 NONE|FREE|R|NORM|2|Celestial Colonnade
@@ -230,13 +232,11 @@ NONE|FREE|R|NORM|2|Idyllic Tutor
 NONE|FREE|R|NORM|2|Inexorable Tide
 NONE|FREE|R|NORM|2|Jiwari, the Earth Aflame
 NONE|FREE|R|NORM|2|Kemba, Kha Regent
-NONE|FREE|R|NORM|2|Roil Elemental
 NONE|FREE|R|NORM|2|Sasaya, Orochi Ascendant
 NONE|FREE|R|NORM|2|Surgespanner
 NONE|FREE|R|NORM|2|True Conviction
 NONE|FREE|R|NORM|3|Kaho, Minamo Historian
 NONE|FREE|R|NORM|3|Serra Ascendant
-NONE|FREE|R|NORM|3|Verdant Catacombs
 NONE|FREE|R|NORM|4|Divert
 NONE|FREE|R|NORM|4|Exotic Orcard
 NONE|FREE|R|NORM|4|Loyal Sentry
@@ -244,6 +244,7 @@ NONE|FREE|R|NORM|4|Sand Silos
 NONE|FREE|R|NORM|4|Twincast
 NONE|FREE|R|NORM|4|Underworld Dreams
 NONE|FREE|R|NORM|4|Vebulid
+NONE|FREE|R|NORM|4|Verdant Catacombs
 NONE|FREE|R|NORM|4|Walking Archive
 NONE|FREE|U|FOIL|1|Landbind Ritual
 NONE|FREE|U|NORM|1|Aether Figment
@@ -286,6 +287,7 @@ NONE|FREE|U|NORM|1|Trigon of Corruption
 NONE|FREE|U|NORM|1|Trigon of Rage
 NONE|FREE|U|NORM|1|Unstable Footing
 NONE|FREE|U|NORM|1|Urza's Mine
+NONE|FREE|U|NORM|1|Vivid Grove
 NONE|FREE|U|NORM|2|Arc Trail
 NONE|FREE|U|NORM|2|Celestial Dawn
 NONE|FREE|U|NORM|2|Contagion Clasp
