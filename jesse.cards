@@ -138,6 +138,7 @@ NONE|FREE|R|NORM|1|Gargoyle Castle
 NONE|FREE|R|NORM|1|Gavony Township
 NONE|FREE|R|NORM|1|Geist-Honored Monk
 NONE|FREE|R|NORM|1|Gigantiform
+NONE|FREE|R|NORM|1|Glen Elendra Archmage
 NONE|FREE|R|NORM|1|Grinning Totem
 NONE|FREE|R|NORM|1|Homura, Human Ascendant
 NONE|FREE|R|NORM|1|Horn of Greed
@@ -211,18 +212,17 @@ NONE|FREE|R|NORM|2|Djinn of Wishes
 NONE|FREE|R|NORM|2|Emeria Angel
 NONE|FREE|R|NORM|2|Erayo, Soratami Ascendant
 NONE|FREE|R|NORM|2|Glacial Fortress
-NONE|FREE|R|NORM|1|Glen Elendra Archmage
 NONE|FREE|R|NORM|2|Heretic's Punishment
 NONE|FREE|R|NORM|2|Hokori, Dust Drinker
 NONE|FREE|R|NORM|2|Howling Mine
 NONE|FREE|R|NORM|2|Idyllic Tutor
 NONE|FREE|R|NORM|2|Inexorable Tide
 NONE|FREE|R|NORM|2|Jiwari, the Earth Aflame
+NONE|FREE|R|NORM|2|Kaho, Minamo Historian
 NONE|FREE|R|NORM|2|Kemba, Kha Regent
 NONE|FREE|R|NORM|2|Sasaya, Orochi Ascendant
 NONE|FREE|R|NORM|2|Surgespanner
 NONE|FREE|R|NORM|2|True Conviction
-NONE|FREE|R|NORM|2|Kaho, Minamo Historian
 NONE|FREE|R|NORM|3|Serra Ascendant
 NONE|FREE|R|NORM|4|Divert
 NONE|FREE|R|NORM|4|Exotic Orcard
@@ -344,7 +344,6 @@ NONE|FREE|U|NORM|2|Brave the Elements
 NONE|FREE|U|NORM|2|Celestial Dawn
 NONE|FREE|U|NORM|2|Contagion Clasp
 NONE|FREE|U|NORM|2|Core Prowler
-NONE|FREE|U|NORM|3|Culling Dais
 NONE|FREE|U|NORM|2|Darksteel Axe
 NONE|FREE|U|NORM|2|Ebony Owl Netsuke
 NONE|FREE|U|NORM|2|Evermind
@@ -386,6 +385,7 @@ NONE|FREE|U|NORM|2|Unstable Footing
 NONE|FREE|U|NORM|2|Viridian Claw
 NONE|FREE|U|NORM|2|Whispersilk Cloak
 NONE|FREE|U|NORM|3|Auriok Edgewright
+NONE|FREE|U|NORM|3|Culling Dais
 NONE|FREE|U|NORM|3|Diabolic Tutor
 NONE|FREE|U|NORM|3|Dispense Justice
 NONE|FREE|U|NORM|3|Eiganjo Free-Riders
