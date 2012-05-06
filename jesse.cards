@@ -52,24 +52,26 @@ GWLAND|DECK|M|NORM|1|Sword of War and Peace
 GWLAND|DECK|M|NORM|2|Knight of the Reliquary
 GWLAND|DECK|R|NORM|0|Green Sun's Zenith
 GWLAND|DECK|R|NORM|0|Petrified Field
-GWLAND|DECK|R|NORM|0|Sylvan Library
-GWLAND|DECK|R|NORM|0|Sylvan Safekeeper
-GWLAND|DECK|R|NORM|1|Flagstones of Trokair
 GWLAND|DECK|R|NORM|1|Land Tax
 GWLAND|DECK|R|NORM|1|Limited Resources
 GWLAND|DECK|R|NORM|1|Lotus Vale
+GWLAND|DECK|R|NORM|1|Sylvan Library
+GWLAND|DECK|R|NORM|1|Sylvan Safekeeper
 GWLAND|DECK|R|NORM|1|Terravore
+GWLAND|DECK|R|NORM|2|Flagstones of Trokair
 GWLAND|DECK|R|NORM|2|Knight of the Reliquary
 GWLAND|DECK|R|NORM|3|Armageddon
-GWLAND|DECK|R|NORM|3|Sunpetal Grove
+GWLAND|DECK|R|NORM|4|Sunpetal Grove
 GWLAND|DECK|U|NORM|0|Eternal Witness
 GWLAND|DECK|U|NORM|0|Mistveil Plains
 GWLAND|DECK|U|NORM|1|Riftstone Portal
 GWLAND|DECK|U|NORM|1|Sterling Grove
 GWLAND|DECK|U|NORM|4|Swords to Plowshares
-GWLAND|SIDE|C|NORM|13|Forest
+GWLAND|SIDE|C|NORM|11|Forest
 GWLAND|SIDE|R|NORM|1|Armageddon
+GWLAND|SIDE|R|NORM|1|Gaddock Teeg
 GWLAND|SIDE|R|NORM|1|Land Tax
+GWLAND|SIDE|R|NORM|1|Terravore
 LANDFALL,GWLAND|DECK|M|NORM|3|Lotus Cobra
 LANDFALL,GWLAND|DECK|R|NORM|3|Exploration
 LANDFALL,GWLAND|DECK|U|NORM|1|Glacial Chasm
@@ -85,6 +87,7 @@ LANDFALL|DECK|R|NORM|1|Fastbond
 LANDFALL|DECK|R|NORM|1|Meloku the Clouded Mirror
 LANDFALL|DECK|R|NORM|1|Oboro, Palace in the Clouds
 LANDFALL|DECK|R|NORM|1|Oracle of Mul Daya
+LANDFALL|DECK|R|NORM|1|Vampiric Tutor
 LANDFALL|DECK|R|NORM|1|Zur the Enchanter
 LANDFALL|DECK|R|NORM|2|Crucible of Worlds
 LANDFALL|DECK|R|NORM|2|Trade Routes
@@ -103,36 +106,30 @@ NONE|DECK|R|NORM|1|Oracle of Mul Daya
 NONE|FREE|C|NORM|2|Wickerbough Elder
 NONE|FREE|M|NORM|1|Admonition Angel
 NONE|FREE|M|NORM|1|Ajani Goldmane
-NONE|FREE|M|NORM|1|Angelic Overseer
 NONE|FREE|M|NORM|1|Child of Alara
 NONE|FREE|M|NORM|1|Elspeth Tirel
 NONE|FREE|M|NORM|1|Felidar Sovereign
-NONE|FREE|M|NORM|1|Maelstrom Archangel
 NONE|FREE|R|FOIL|1|Arashi, the Sky Asunder
 NONE|FREE|R|NORM|1|Aegis of Honor
 NONE|FREE|R|NORM|1|Akron Legionnaire
-NONE|FREE|R|NORM|1|Akuta, Born of Ash
 NONE|FREE|R|NORM|1|Anaba Spirit Crafter
 NONE|FREE|R|NORM|1|Arashi, the Sky Asunder
 NONE|FREE|R|NORM|1|Archive Trap
 NONE|FREE|R|NORM|1|Archon of Redemption
-NONE|FREE|R|NORM|1|Ashes of the Fallen
+NONE|FREE|R|NORM|1|Artificial Evolution
 NONE|FREE|R|NORM|1|Back from the Brink
 NONE|FREE|R|NORM|1|Barren Glory
 NONE|FREE|R|NORM|1|Beastmaster Ascension
 NONE|FREE|R|NORM|1|Blasphemous Act
-NONE|FREE|R|NORM|1|Bounteous Kirin
 NONE|FREE|R|NORM|1|Cauldron of Souls
 NONE|FREE|R|NORM|1|Cerebral Eruption
 NONE|FREE|R|NORM|1|Chain Stasis
-NONE|FREE|R|NORM|1|Chandra's Phoenix
 NONE|FREE|R|NORM|1|Choice of Damnations
-NONE|FREE|R|NORM|1|Clifftop Retreat
 NONE|FREE|R|NORM|1|Conundrum Sphinx
-NONE|FREE|R|NORM|1|Cycle of Life
 NONE|FREE|R|NORM|1|Deranged Outcast
 NONE|FREE|R|NORM|1|Dingus Egg
 NONE|FREE|R|NORM|1|Emeria, the Sky Ruin
+NONE|FREE|R|NORM|1|Erayo, Soratami Ascendant
 NONE|FREE|R|NORM|1|Eternal Dominion
 NONE|FREE|R|NORM|1|Fastbond
 NONE|FREE|R|NORM|1|Fungusaur
@@ -142,88 +139,67 @@ NONE|FREE|R|NORM|1|Gavony Township
 NONE|FREE|R|NORM|1|Geist-Honored Monk
 NONE|FREE|R|NORM|1|Gigantiform
 NONE|FREE|R|NORM|1|Grinning Totem
-NONE|FREE|R|NORM|1|Hidetsugu's Second Rite
 NONE|FREE|R|NORM|1|Homura, Human Ascendant
-NONE|FREE|R|NORM|1|Horn of Greed
 NONE|FREE|R|NORM|1|Infernal Kirin
-NONE|FREE|R|NORM|1|Jade Monolith
+NONE|FREE|R|NORM|1|Isamaru, Hound of Konda
 NONE|FREE|R|NORM|1|Kagemaro, First to Suffer
-NONE|FREE|R|NORM|1|Kami of the Crescent Moon
+NONE|FREE|R|NORM|1|Kaho, Minamo Historian
 NONE|FREE|R|NORM|1|Kataki, War's Wage
 NONE|FREE|R|NORM|1|Kessig Cagebreakers
 NONE|FREE|R|NORM|1|Kessig, Wolf Run
-NONE|FREE|R|NORM|1|Kezzerdrix
 NONE|FREE|R|NORM|1|Kiyomaro, First to Stand
 NONE|FREE|R|NORM|1|Knowledge Pool
 NONE|FREE|R|NORM|1|Kuldotha Phoenix
 NONE|FREE|R|NORM|1|Lavaball Trap
 NONE|FREE|R|NORM|1|Leyline of Anticipation
 NONE|FREE|R|NORM|1|Madrush Cyclops
-NONE|FREE|R|NORM|1|Markov Blademaster
 NONE|FREE|R|NORM|1|Marsh Flats
 NONE|FREE|R|NORM|1|Marshal's Anthem
-NONE|FREE|R|NORM|1|Masumaro, First to Live
-NONE|FREE|R|NORM|1|Meishin, the Mind Cage
 NONE|FREE|R|NORM|1|Melira, Sylvok Outcast
-NONE|FREE|R|NORM|1|Michiko Konda, Truth Seeker
 NONE|FREE|R|NORM|1|Mirari
-NONE|FREE|R|NORM|1|Mirror Sheen
-NONE|FREE|R|NORM|1|Mosswort Bridge
 NONE|FREE|R|NORM|1|Nature's Revolt
 NONE|FREE|R|NORM|1|Near-Death Experience
-NONE|FREE|R|NORM|1|Nephalia Drownyard
 NONE|FREE|R|NORM|1|Neverending Torment
 NONE|FREE|R|NORM|1|Ob Nixilis, the Fallen
 NONE|FREE|R|NORM|1|One with Nothing
 NONE|FREE|R|NORM|1|Oran-Rief, the Vastwood
 NONE|FREE|R|NORM|1|Pain's Reward
-NONE|FREE|R|NORM|1|Peacekeeper
+NONE|FREE|R|NORM|1|Phyrexian Crusader
 NONE|FREE|R|NORM|1|Predatory Urge
 NONE|FREE|R|NORM|1|Primitive Etchings
-NONE|FREE|R|NORM|1|Promise of Bunrei
-NONE|FREE|R|NORM|1|Pure Intentions
 NONE|FREE|R|NORM|1|Pyromancer Ascension
 NONE|FREE|R|NORM|1|Rally the Horde
 NONE|FREE|R|NORM|1|Ratchet Bomb
-NONE|FREE|R|NORM|1|Reki, the History of Kamigawa
 NONE|FREE|R|NORM|1|Rite of Flourishing
-NONE|FREE|R|NORM|1|River Kelpie
 NONE|FREE|R|NORM|1|Rowen
 NONE|FREE|R|NORM|1|Rune-Tail, Kitsune Ascendant
-NONE|FREE|R|NORM|1|Scroll of Origins
+NONE|FREE|R|NORM|1|Sand Silos
 NONE|FREE|R|NORM|1|Seer's Sundial
 NONE|FREE|R|NORM|1|Selective Memory
+NONE|FREE|R|NORM|1|Sensei's Divining Top
 NONE|FREE|R|NORM|1|Shape Anew
-NONE|FREE|R|NORM|1|Soramaro, First to Dream
 NONE|FREE|R|NORM|1|Sphinx of Jwar Isle
 NONE|FREE|R|NORM|1|Sphinx of Lost Truths
 NONE|FREE|R|NORM|1|Stenchskipper
 NONE|FREE|R|NORM|1|Stirring Wildwood
 NONE|FREE|R|NORM|1|Storm Cauldron
 NONE|FREE|R|NORM|1|Strata Scythe
+NONE|FREE|R|NORM|1|Student of Warfare
 NONE|FREE|R|NORM|1|Teferi's Imp
-NONE|FREE|R|NORM|1|Tomorrow, Azami's Familiar
 NONE|FREE|R|NORM|1|Truce
 NONE|FREE|R|NORM|1|Undead Alchemist
-NONE|FREE|R|NORM|1|Uyo, Silent Prophet
-NONE|FREE|R|NORM|1|Veilstone Amulet
 NONE|FREE|R|NORM|1|Venser's Journal
-NONE|FREE|R|NORM|1|Winding Canyons
-NONE|FREE|R|NORM|1|Winds of Rath
 NONE|FREE|R|NORM|1|Wine of Blood and Iron
 NONE|FREE|R|NORM|1|Witch-Maw Nephilim
 NONE|FREE|R|NORM|1|Woodland Cemetery
 NONE|FREE|R|NORM|2|Archmage Ascension
-NONE|FREE|R|NORM|2|Artificial Evolution
 NONE|FREE|R|NORM|2|Celestial Colonnade
 NONE|FREE|R|NORM|2|Contagion Engine
 NONE|FREE|R|NORM|2|Cryptoplasm
 NONE|FREE|R|NORM|2|Dissipation Field
 NONE|FREE|R|NORM|2|Djinn of Wishes
 NONE|FREE|R|NORM|2|Emeria Angel
-NONE|FREE|R|NORM|2|Erayo, Soratami Ascendant
 NONE|FREE|R|NORM|2|Glacial Fortress
-NONE|FREE|R|NORM|2|Glen Elendra Archmage
 NONE|FREE|R|NORM|2|Heretic's Punishment
 NONE|FREE|R|NORM|2|Hokori, Dust Drinker
 NONE|FREE|R|NORM|2|Howling Mine
@@ -231,18 +207,13 @@ NONE|FREE|R|NORM|2|Idyllic Tutor
 NONE|FREE|R|NORM|2|Inexorable Tide
 NONE|FREE|R|NORM|2|Jiwari, the Earth Aflame
 NONE|FREE|R|NORM|2|Kemba, Kha Regent
-NONE|FREE|R|NORM|2|Sasaya, Orochi Ascendant
-NONE|FREE|R|NORM|2|Surgespanner
 NONE|FREE|R|NORM|2|True Conviction
-NONE|FREE|R|NORM|3|Kaho, Minamo Historian
 NONE|FREE|R|NORM|3|Serra Ascendant
 NONE|FREE|R|NORM|4|Divert
 NONE|FREE|R|NORM|4|Exotic Orcard
 NONE|FREE|R|NORM|4|Loyal Sentry
-NONE|FREE|R|NORM|4|Sand Silos
 NONE|FREE|R|NORM|4|Twincast
 NONE|FREE|R|NORM|4|Underworld Dreams
-NONE|FREE|R|NORM|4|Vebulid
 NONE|FREE|R|NORM|4|Verdant Catacombs
 NONE|FREE|R|NORM|4|Walking Archive
 NONE|FREE|U|FOIL|1|Fiend Hunter
@@ -319,6 +290,7 @@ NONE|FREE|U|NORM|1|Needlebite Trap
 NONE|FREE|U|NORM|1|Novijen, Heart of Progress
 NONE|FREE|U|NORM|1|Onyx Mage
 NONE|FREE|U|NORM|1|Overrun
+NONE|FREE|U|NORM|1|Path to Exile
 NONE|FREE|U|NORM|1|Phyrexia's Core
 NONE|FREE|U|NORM|1|Pierce Strider
 NONE|FREE|U|NORM|1|Plague Myr
