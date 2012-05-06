@@ -135,10 +135,10 @@ NONE|FREE|R|NORM|1|Fastbond
 NONE|FREE|R|NORM|1|Fungusaur
 NONE|FREE|R|NORM|1|Galvanoth
 NONE|FREE|R|NORM|1|Gargoyle Castle
-NONE|FREE|R|NORM|1|Gavony Township
 NONE|FREE|R|NORM|1|Geist-Honored Monk
 NONE|FREE|R|NORM|1|Gigantiform
 NONE|FREE|R|NORM|1|Grinning Totem
+NONE|FREE|R|NORM|1|Hellkite Charger
 NONE|FREE|R|NORM|1|Homura, Human Ascendant
 NONE|FREE|R|NORM|1|Infernal Kirin
 NONE|FREE|R|NORM|1|Isamaru, Hound of Konda
@@ -188,6 +188,7 @@ NONE|FREE|R|NORM|1|Student of Warfare
 NONE|FREE|R|NORM|1|Teferi's Imp
 NONE|FREE|R|NORM|1|Truce
 NONE|FREE|R|NORM|1|Undead Alchemist
+NONE|FREE|R|NORM|1|Valakut, the Molten Pinnacle
 NONE|FREE|R|NORM|1|Venser's Journal
 NONE|FREE|R|NORM|1|Wine of Blood and Iron
 NONE|FREE|R|NORM|1|Witch-Maw Nephilim
@@ -199,6 +200,7 @@ NONE|FREE|R|NORM|2|Cryptoplasm
 NONE|FREE|R|NORM|2|Dissipation Field
 NONE|FREE|R|NORM|2|Djinn of Wishes
 NONE|FREE|R|NORM|2|Emeria Angel
+NONE|FREE|R|NORM|2|Gavony Township
 NONE|FREE|R|NORM|2|Glacial Fortress
 NONE|FREE|R|NORM|2|Heretic's Punishment
 NONE|FREE|R|NORM|2|Hokori, Dust Drinker
@@ -220,6 +222,8 @@ NONE|FREE|U|FOIL|1|Fiend Hunter
 NONE|FREE|U|FOIL|1|Hollowhenge Scavenger
 NONE|FREE|U|FOIL|1|Landbind Ritual
 NONE|FREE|U|FOIL|1|Lure
+NONE|FREE|U|FOIL|1|Merciless Predator
+NONE|FREE|U|FOIL|1|Murasa Pyromancer
 NONE|FREE|U|FOIL|1|Necropede
 NONE|FREE|U|FOIL|1|Ulvenwald Mystics
 NONE|FREE|U|NORM|1|Aether Figment
@@ -254,6 +258,7 @@ NONE|FREE|U|NORM|1|Excavation
 NONE|FREE|U|NORM|1|Feast of Blood
 NONE|FREE|U|NORM|1|Feldon's Cane
 NONE|FREE|U|NORM|1|Full Moon's Rise
+NONE|FREE|U|NORM|1|Gatekeeper of Malakir
 NONE|FREE|U|NORM|1|Gavony Ironwright
 NONE|FREE|U|NORM|1|Glasses of Urza
 NONE|FREE|U|NORM|1|Graypelt Refuge
@@ -266,8 +271,8 @@ NONE|FREE|U|NORM|1|Honden of Life's Web
 NONE|FREE|U|NORM|1|Honden of Night's Reach
 NONE|FREE|U|NORM|1|Honden of Seeing Winds
 NONE|FREE|U|NORM|1|Inferno Trap
-NONE|FREE|U|NORM|1|Inquisitor's Flail
 NONE|FREE|U|NORM|1|Intangible Virtue
+NONE|FREE|U|NORM|1|Into the Maw of Hell
 NONE|FREE|U|NORM|1|Jwar Isle Refuge
 NONE|FREE|U|NORM|1|Kazandu Refuge
 NONE|FREE|U|NORM|1|Kemba's Legion
@@ -300,6 +305,7 @@ NONE|FREE|U|NORM|1|Quest for Pure Flame
 NONE|FREE|U|NORM|1|Quest for the Holy Relic
 NONE|FREE|U|NORM|1|Rage Thrower
 NONE|FREE|U|NORM|1|Renounce
+NONE|FREE|U|NORM|1|Runeflare Trap
 NONE|FREE|U|NORM|1|Scourge of Geier Reach
 NONE|FREE|U|NORM|1|Scrib Nibblers
 NONE|FREE|U|NORM|1|Sengir Vampire
@@ -313,6 +319,7 @@ NONE|FREE|U|NORM|1|Sphere of the Suns
 NONE|FREE|U|NORM|1|Spider Spawning
 NONE|FREE|U|NORM|1|Stormblood Berserker
 NONE|FREE|U|NORM|1|Tracker's Instincts
+NONE|FREE|U|NORM|1|Trapmaker's Snare
 NONE|FREE|U|NORM|1|Trepanation Blade
 NONE|FREE|U|NORM|1|Trigon of Corruption
 NONE|FREE|U|NORM|1|Trigon of Rage
@@ -321,7 +328,6 @@ NONE|FREE|U|NORM|1|Vivid Grove
 NONE|FREE|U|NORM|1|Windborne Charge
 NONE|FREE|U|NORM|1|Wreath of Geists
 NONE|FREE|U|NORM|2|Abattoir Ghoul
-NONE|FREE|U|NORM|2|Akoum Refuge
 NONE|FREE|U|NORM|2|Arc Trail
 NONE|FREE|U|NORM|2|Boneyard Wurm
 NONE|FREE|U|NORM|2|Brave the Elements
@@ -333,18 +339,16 @@ NONE|FREE|U|NORM|2|Ebony Owl Netsuke
 NONE|FREE|U|NORM|2|Evermind
 NONE|FREE|U|NORM|2|Footsteps of the Goryo
 NONE|FREE|U|NORM|2|Gaea's Blessing
-NONE|FREE|U|NORM|2|Geyser Glider
 NONE|FREE|U|NORM|2|Ghost-Lit Redeemer
 NONE|FREE|U|NORM|2|Ghost-Lit Warder
 NONE|FREE|U|NORM|2|Golem's Heart
 NONE|FREE|U|NORM|2|Graceful Adept
 NONE|FREE|U|NORM|2|Infiltration Lens
+NONE|FREE|U|NORM|2|Inquisitor's Flail
 NONE|FREE|U|NORM|2|Ivory Crane Netsuke
 NONE|FREE|U|NORM|2|Kashi-Tribe Elite
 NONE|FREE|U|NORM|2|Kiku's Shadow
 NONE|FREE|U|NORM|2|Levitation
-NONE|FREE|U|NORM|2|Living Tsunami
-NONE|FREE|U|NORM|2|Murder Crows
 NONE|FREE|U|NORM|2|Nikko-Onna
 NONE|FREE|U|NORM|2|Primal Bellow
 NONE|FREE|U|NORM|2|Riddlesmith
@@ -364,22 +368,26 @@ NONE|FREE|U|NORM|2|Tangle Angler
 NONE|FREE|U|NORM|2|Telepathy
 NONE|FREE|U|NORM|2|Throne of Geth
 NONE|FREE|U|NORM|2|Trigon of Mending
-NONE|FREE|U|NORM|2|Turntimber Basilisk
 NONE|FREE|U|NORM|2|Unstable Footing
 NONE|FREE|U|NORM|2|Viridian Claw
 NONE|FREE|U|NORM|2|Whispersilk Cloak
+NONE|FREE|U|NORM|3|Akoum Refuge
 NONE|FREE|U|NORM|3|Auriok Edgewright
 NONE|FREE|U|NORM|3|Culling Dais
 NONE|FREE|U|NORM|3|Diabolic Tutor
 NONE|FREE|U|NORM|3|Dispense Justice
 NONE|FREE|U|NORM|3|Eiganjo Free-Riders
+NONE|FREE|U|NORM|3|Geyser Glider
 NONE|FREE|U|NORM|3|Grafted Exoskeleton
 NONE|FREE|U|NORM|3|Hail of Arrows
 NONE|FREE|U|NORM|3|Hand of Cruelty
+NONE|FREE|U|NORM|3|Living Tsunami
+NONE|FREE|U|NORM|3|Murder Crows
 NONE|FREE|U|NORM|3|Necropede
 NONE|FREE|U|NORM|3|Rally the Peasants
 NONE|FREE|U|NORM|3|Soratami Mirror-Mage
 NONE|FREE|U|NORM|3|Trigon of Thought
+NONE|FREE|U|NORM|3|Turntimber Basilisk
 NONE|FREE|U|NORM|3|Vedalken Infuser
 NONE|FREE|U|NORM|4|Bad River
 NONE|FREE|U|NORM|4|Basalt Monolith
