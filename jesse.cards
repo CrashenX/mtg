@@ -231,7 +231,6 @@ NONE|FREE|U|FOIL|1|Merciless Predator
 NONE|FREE|U|FOIL|1|Murasa Pyromancer
 NONE|FREE|U|FOIL|1|Necropede
 NONE|FREE|U|FOIL|1|Ulvenwald Mystics
-NONE|FREE|U|NORM|1|Aether Figment
 NONE|FREE|U|NORM|1|Aether Flash
 NONE|FREE|U|NORM|1|Aura of Silence
 NONE|FREE|U|NORM|1|Blazing Torch
@@ -248,7 +247,6 @@ NONE|FREE|U|NORM|1|Choking Fumes
 NONE|FREE|U|NORM|1|Cobra Trap
 NONE|FREE|U|NORM|1|Consume Spirit
 NONE|FREE|U|NORM|1|Crown of Empires
-NONE|FREE|U|NORM|1|Curiosity
 NONE|FREE|U|NORM|1|Curse of Exhaustion
 NONE|FREE|U|NORM|1|Curse of Thirst
 NONE|FREE|U|NORM|1|Curse of the Nightly Hunt
@@ -262,23 +260,24 @@ NONE|FREE|U|NORM|1|Entomber Exarch
 NONE|FREE|U|NORM|1|Excavation
 NONE|FREE|U|NORM|1|Feast of Blood
 NONE|FREE|U|NORM|1|Feldon's Cane
-NONE|FREE|U|NORM|1|Full Moon's Rise
+NONE|FREE|U|NORM|1|Gallows Warden
 NONE|FREE|U|NORM|1|Gatekeeper of Malakir
 NONE|FREE|U|NORM|1|Gavony Ironwright
 NONE|FREE|U|NORM|1|Glasses of Urza
+NONE|FREE|U|NORM|1|Goblin Ruinblaster
+NONE|FREE|U|NORM|1|Grasp of Phantoms
 NONE|FREE|U|NORM|1|Graypelt Refuge
 NONE|FREE|U|NORM|1|Grim Flowering
-NONE|FREE|U|NORM|1|Hedron Crab
 NONE|FREE|U|NORM|1|Hellfire Mongrel
 NONE|FREE|U|NORM|1|Honden of Cleansing Fire
 NONE|FREE|U|NORM|1|Honden of Infinite Rage
 NONE|FREE|U|NORM|1|Honden of Life's Web
 NONE|FREE|U|NORM|1|Honden of Night's Reach
 NONE|FREE|U|NORM|1|Honden of Seeing Winds
-NONE|FREE|U|NORM|1|Inferno Trap
 NONE|FREE|U|NORM|1|Intangible Virtue
 NONE|FREE|U|NORM|1|Into the Maw of Hell
 NONE|FREE|U|NORM|1|Jwar Isle Refuge
+NONE|FREE|U|NORM|1|Kazandu Blademaster
 NONE|FREE|U|NORM|1|Kazandu Refuge
 NONE|FREE|U|NORM|1|Kemba's Legion
 NONE|FREE|U|NORM|1|Khalni Gem
@@ -286,10 +285,10 @@ NONE|FREE|U|NORM|1|Kismet
 NONE|FREE|U|NORM|1|Knight of Dawn
 NONE|FREE|U|NORM|1|Kor Aeronaut
 NONE|FREE|U|NORM|1|Kor Duelist
-NONE|FREE|U|NORM|1|Landbind Ritual
 NONE|FREE|U|NORM|1|Lead the Stampede
 NONE|FREE|U|NORM|1|Library of Leng
-NONE|FREE|U|NORM|1|Midnight Haunting
+NONE|FREE|U|NORM|1|Mask of Avacyn
+NONE|FREE|U|NORM|1|Mausoleum Guard
 NONE|FREE|U|NORM|1|Mind Sludge
 NONE|FREE|U|NORM|1|Mind Stone
 NONE|FREE|U|NORM|1|Mnemonic Sliver
@@ -302,9 +301,11 @@ NONE|FREE|U|NORM|1|Onyx Mage
 NONE|FREE|U|NORM|1|Overrun
 NONE|FREE|U|NORM|1|Phyrexia's Core
 NONE|FREE|U|NORM|1|Pierce Strider
+NONE|FREE|U|NORM|1|Pitfall Trap
 NONE|FREE|U|NORM|1|Plague Myr
 NONE|FREE|U|NORM|1|Plaguemaw Beast
 NONE|FREE|U|NORM|1|Propaganda
+NONE|FREE|U|NORM|1|Quest for Ancient Secrets
 NONE|FREE|U|NORM|1|Quest for Pure Flame
 NONE|FREE|U|NORM|1|Quest for the Holy Relic
 NONE|FREE|U|NORM|1|Rage Thrower
@@ -312,6 +313,7 @@ NONE|FREE|U|NORM|1|Renounce
 NONE|FREE|U|NORM|1|Runeflare Trap
 NONE|FREE|U|NORM|1|Scourge of Geier Reach
 NONE|FREE|U|NORM|1|Scrib Nibblers
+NONE|FREE|U|NORM|1|Seascape Aerialist
 NONE|FREE|U|NORM|1|Sengir Vampire
 NONE|FREE|U|NORM|1|Shattered Perception
 NONE|FREE|U|NORM|1|Shepherd of the Lost
@@ -322,14 +324,15 @@ NONE|FREE|U|NORM|1|Spectral Rider
 NONE|FREE|U|NORM|1|Sphere of the Suns
 NONE|FREE|U|NORM|1|Spider Spawning
 NONE|FREE|U|NORM|1|Stormblood Berserker
+NONE|FREE|U|NORM|1|Summoner's Bane
 NONE|FREE|U|NORM|1|Tracker's Instincts
+NONE|FREE|U|NORM|1|Trailblazer's Boots
 NONE|FREE|U|NORM|1|Trapmaker's Snare
 NONE|FREE|U|NORM|1|Trepanation Blade
 NONE|FREE|U|NORM|1|Trigon of Corruption
 NONE|FREE|U|NORM|1|Trigon of Rage
 NONE|FREE|U|NORM|1|Urza's Mine
 NONE|FREE|U|NORM|1|Vivid Grove
-NONE|FREE|U|NORM|1|Windborne Charge
 NONE|FREE|U|NORM|1|Wreath of Geists
 NONE|FREE|U|NORM|2|Abattoir Ghoul
 NONE|FREE|U|NORM|2|Arc Trail
@@ -337,21 +340,27 @@ NONE|FREE|U|NORM|2|Boneyard Wurm
 NONE|FREE|U|NORM|2|Celestial Dawn
 NONE|FREE|U|NORM|2|Contagion Clasp
 NONE|FREE|U|NORM|2|Core Prowler
+NONE|FREE|U|NORM|2|Curiosity
 NONE|FREE|U|NORM|2|Darksteel Axe
 NONE|FREE|U|NORM|2|Ebony Owl Netsuke
 NONE|FREE|U|NORM|2|Evermind
 NONE|FREE|U|NORM|2|Footsteps of the Goryo
+NONE|FREE|U|NORM|2|Full Moon's Rise
 NONE|FREE|U|NORM|2|Gaea's Blessing
 NONE|FREE|U|NORM|2|Ghost-Lit Redeemer
 NONE|FREE|U|NORM|2|Ghost-Lit Warder
 NONE|FREE|U|NORM|2|Golem's Heart
 NONE|FREE|U|NORM|2|Graceful Adept
+NONE|FREE|U|NORM|2|Inferno Trap
 NONE|FREE|U|NORM|2|Infiltration Lens
 NONE|FREE|U|NORM|2|Inquisitor's Flail
 NONE|FREE|U|NORM|2|Ivory Crane Netsuke
 NONE|FREE|U|NORM|2|Kashi-Tribe Elite
 NONE|FREE|U|NORM|2|Kiku's Shadow
+NONE|FREE|U|NORM|2|Landbind Ritual
 NONE|FREE|U|NORM|2|Levitation
+NONE|FREE|U|NORM|2|Merfolk Wayfinder
+NONE|FREE|U|NORM|2|Midnight Haunting
 NONE|FREE|U|NORM|2|Nikko-Onna
 NONE|FREE|U|NORM|2|Path to Exile
 NONE|FREE|U|NORM|2|Primal Bellow
@@ -375,6 +384,8 @@ NONE|FREE|U|NORM|2|Trigon of Mending
 NONE|FREE|U|NORM|2|Unstable Footing
 NONE|FREE|U|NORM|2|Viridian Claw
 NONE|FREE|U|NORM|2|Whispersilk Cloak
+NONE|FREE|U|NORM|2|Windborne Charge
+NONE|FREE|U|NORM|3|Aether Figment
 NONE|FREE|U|NORM|3|Akoum Refuge
 NONE|FREE|U|NORM|3|Auriok Edgewright
 NONE|FREE|U|NORM|3|Brave the Elements
@@ -386,6 +397,7 @@ NONE|FREE|U|NORM|3|Geyser Glider
 NONE|FREE|U|NORM|3|Grafted Exoskeleton
 NONE|FREE|U|NORM|3|Hail of Arrows
 NONE|FREE|U|NORM|3|Hand of Cruelty
+NONE|FREE|U|NORM|3|Hedron Crab
 NONE|FREE|U|NORM|3|Living Tsunami
 NONE|FREE|U|NORM|3|Murder Crows
 NONE|FREE|U|NORM|3|Necropede
