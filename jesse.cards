@@ -232,6 +232,8 @@ NONE|FREE|U|FOIL|1|Murasa Pyromancer
 NONE|FREE|U|FOIL|1|Necropede
 NONE|FREE|U|FOIL|1|Ulvenwald Mystics
 NONE|FREE|U|NORM|1|Aether Flash
+NONE|FREE|U|NORM|1|Arbalest Elite
+NONE|FREE|U|NORM|1|Arrow Volley Trap
 NONE|FREE|U|NORM|1|Aura of Silence
 NONE|FREE|U|NORM|1|Blazing Torch
 NONE|FREE|U|NORM|1|Blood Feud
@@ -247,6 +249,7 @@ NONE|FREE|U|NORM|1|Choking Fumes
 NONE|FREE|U|NORM|1|Cobra Trap
 NONE|FREE|U|NORM|1|Consume Spirit
 NONE|FREE|U|NORM|1|Crown of Empires
+NONE|FREE|U|NORM|1|Crumbling Colossus
 NONE|FREE|U|NORM|1|Curse of Exhaustion
 NONE|FREE|U|NORM|1|Curse of Thirst
 NONE|FREE|U|NORM|1|Curse of the Nightly Hunt
@@ -267,6 +270,7 @@ NONE|FREE|U|NORM|1|Goblin Ruinblaster
 NONE|FREE|U|NORM|1|Grasp of Phantoms
 NONE|FREE|U|NORM|1|Graypelt Refuge
 NONE|FREE|U|NORM|1|Grim Flowering
+NONE|FREE|U|NORM|1|Hagra Diabolist
 NONE|FREE|U|NORM|1|Hellfire Mongrel
 NONE|FREE|U|NORM|1|Honden of Cleansing Fire
 NONE|FREE|U|NORM|1|Honden of Infinite Rage
@@ -281,6 +285,7 @@ NONE|FREE|U|NORM|1|Kazandu Refuge
 NONE|FREE|U|NORM|1|Kemba's Legion
 NONE|FREE|U|NORM|1|Khalni Gem
 NONE|FREE|U|NORM|1|Kismet
+NONE|FREE|U|NORM|1|Kite Shield
 NONE|FREE|U|NORM|1|Knight of Dawn
 NONE|FREE|U|NORM|1|Kor Aeronaut
 NONE|FREE|U|NORM|1|Kor Duelist
@@ -297,7 +302,6 @@ NONE|FREE|U|NORM|1|Mycosynth Fiend
 NONE|FREE|U|NORM|1|Needlebite Trap
 NONE|FREE|U|NORM|1|Novijen, Heart of Progress
 NONE|FREE|U|NORM|1|Onyx Mage
-NONE|FREE|U|NORM|1|Overrun
 NONE|FREE|U|NORM|1|Phyrexia's Core
 NONE|FREE|U|NORM|1|Pierce Strider
 NONE|FREE|U|NORM|1|Pitfall Trap
@@ -308,7 +312,9 @@ NONE|FREE|U|NORM|1|Quest for Ancient Secrets
 NONE|FREE|U|NORM|1|Quest for Pure Flame
 NONE|FREE|U|NORM|1|Quest for the Holy Relic
 NONE|FREE|U|NORM|1|Rage Thrower
+NONE|FREE|U|NORM|1|Ravenous Trap
 NONE|FREE|U|NORM|1|Renounce
+NONE|FREE|U|NORM|1|River Boa
 NONE|FREE|U|NORM|1|Runeflare Trap
 NONE|FREE|U|NORM|1|Scourge of Geier Reach
 NONE|FREE|U|NORM|1|Scrib Nibblers
@@ -325,11 +331,11 @@ NONE|FREE|U|NORM|1|Spider Spawning
 NONE|FREE|U|NORM|1|Stormblood Berserker
 NONE|FREE|U|NORM|1|Summoner's Bane
 NONE|FREE|U|NORM|1|Tracker's Instincts
-NONE|FREE|U|NORM|1|Trailblazer's Boots
 NONE|FREE|U|NORM|1|Trapmaker's Snare
 NONE|FREE|U|NORM|1|Trepanation Blade
 NONE|FREE|U|NORM|1|Trigon of Corruption
 NONE|FREE|U|NORM|1|Trigon of Rage
+NONE|FREE|U|NORM|1|Trusty Machete
 NONE|FREE|U|NORM|1|Urza's Mine
 NONE|FREE|U|NORM|1|Vivid Grove
 NONE|FREE|U|NORM|1|Wreath of Geists
@@ -361,6 +367,7 @@ NONE|FREE|U|NORM|2|Levitation
 NONE|FREE|U|NORM|2|Merfolk Wayfinder
 NONE|FREE|U|NORM|2|Midnight Haunting
 NONE|FREE|U|NORM|2|Nikko-Onna
+NONE|FREE|U|NORM|2|Overrun
 NONE|FREE|U|NORM|2|Path to Exile
 NONE|FREE|U|NORM|2|Primal Bellow
 NONE|FREE|U|NORM|2|Riddlesmith
@@ -379,6 +386,7 @@ NONE|FREE|U|NORM|2|Spirit Link
 NONE|FREE|U|NORM|2|Tangle Angler
 NONE|FREE|U|NORM|2|Telepathy
 NONE|FREE|U|NORM|2|Throne of Geth
+NONE|FREE|U|NORM|2|Trailblazer's Boots
 NONE|FREE|U|NORM|2|Trigon of Mending
 NONE|FREE|U|NORM|2|Unstable Footing
 NONE|FREE|U|NORM|2|Viridian Claw
@@ -387,7 +395,6 @@ NONE|FREE|U|NORM|2|Windborne Charge
 NONE|FREE|U|NORM|3|Aether Figment
 NONE|FREE|U|NORM|3|Akoum Refuge
 NONE|FREE|U|NORM|3|Auriok Edgewright
-NONE|FREE|U|NORM|3|Brave the Elements
 NONE|FREE|U|NORM|3|Culling Dais
 NONE|FREE|U|NORM|3|Diabolic Tutor
 NONE|FREE|U|NORM|3|Dispense Justice
@@ -407,6 +414,7 @@ NONE|FREE|U|NORM|3|Turntimber Basilisk
 NONE|FREE|U|NORM|3|Vedalken Infuser
 NONE|FREE|U|NORM|4|Bad River
 NONE|FREE|U|NORM|4|Basalt Monolith
+NONE|FREE|U|NORM|4|Brave the Elements
 NONE|FREE|U|NORM|4|Callow Jushi
 NONE|FREE|U|NORM|4|Charge Across the Araba
 NONE|FREE|U|NORM|4|Consecrate Land
