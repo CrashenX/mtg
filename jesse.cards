@@ -71,6 +71,7 @@ GWLAND|SIDE|C|NORM|11|Forest
 GWLAND|SIDE|R|NORM|1|Armageddon
 GWLAND|SIDE|R|NORM|1|Gaddock Teeg
 GWLAND|SIDE|R|NORM|1|Land Tax
+GWLAND|SIDE|R|NORM|1|Sylvan Library
 LANDFALL,GWLAND|DECK|M|NORM|3|Lotus Cobra
 LANDFALL,GWLAND|DECK|R|NORM|3|Exploration
 LANDFALL,GWLAND|DECK|U|NORM|1|Glacial Chasm
@@ -218,8 +219,8 @@ NONE|FREE|R|NORM|4|Exotic Orcard
 NONE|FREE|R|NORM|4|Loyal Sentry
 NONE|FREE|R|NORM|4|Twincast
 NONE|FREE|R|NORM|4|Underworld Dreams
+NONE|FREE|R|NORM|4|Verdant Catacombs
 NONE|FREE|R|NORM|4|Walking Archive
-NONE|FREE|R|NORM|5|Verdant Catacombs
 NONE|FREE|U|FOIL|1|Hollowhenge Scavenger
 NONE|FREE|U|FOIL|1|Landbind Ritual
 NONE|FREE|U|FOIL|1|Lure
