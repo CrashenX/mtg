@@ -116,6 +116,7 @@ NONE|FREE|R|NORM|1|Anaba Spirit Crafter
 NONE|FREE|R|NORM|1|Arashi, the Sky Asunder
 NONE|FREE|R|NORM|1|Archive Trap
 NONE|FREE|R|NORM|1|Archon of Redemption
+NONE|FREE|R|NORM|1|Arid Mesa
 NONE|FREE|R|NORM|1|Artificial Evolution
 NONE|FREE|R|NORM|1|Back from the Brink
 NONE|FREE|R|NORM|1|Barren Glory
@@ -127,6 +128,7 @@ NONE|FREE|R|NORM|1|Cerebral Eruption
 NONE|FREE|R|NORM|1|Chain Stasis
 NONE|FREE|R|NORM|1|Choice of Damnations
 NONE|FREE|R|NORM|1|Conundrum Sphinx
+NONE|FREE|R|NORM|1|Cosi's Trickster
 NONE|FREE|R|NORM|1|Deranged Outcast
 NONE|FREE|R|NORM|1|Dingus Egg
 NONE|FREE|R|NORM|1|Divine Reckoning
@@ -165,7 +167,6 @@ NONE|FREE|R|NORM|1|Near-Death Experience
 NONE|FREE|R|NORM|1|Neverending Torment
 NONE|FREE|R|NORM|1|Ob Nixilis, the Fallen
 NONE|FREE|R|NORM|1|One with Nothing
-NONE|FREE|R|NORM|1|Oran-Rief, the Vastwood
 NONE|FREE|R|NORM|1|Pain's Reward
 NONE|FREE|R|NORM|1|Predatory Urge
 NONE|FREE|R|NORM|1|Primitive Etchings
@@ -212,7 +213,9 @@ NONE|FREE|R|NORM|2|Idyllic Tutor
 NONE|FREE|R|NORM|2|Inexorable Tide
 NONE|FREE|R|NORM|2|Jiwari, the Earth Aflame
 NONE|FREE|R|NORM|2|Kemba, Kha Regent
+NONE|FREE|R|NORM|2|Oran-Rief, the Vastwood
 NONE|FREE|R|NORM|2|True Conviction
+NONE|FREE|R|NORM|3|Proclamation of Rebirth
 NONE|FREE|R|NORM|3|Serra Ascendant
 NONE|FREE|R|NORM|4|Divert
 NONE|FREE|R|NORM|4|Exotic Orcard
@@ -432,4 +435,3 @@ NONE|FREE|U|NORM|4|Twisted Image
 NONE|FREE|U|NORM|4|Umbral Mantle
 NONE|FREE|U|NORM|4|Vedalken Anatomist
 NONE|FREE|U|NORM|4|Vedalken Mastermind
-NONE|FREE|R|NORM|3|Proclamation of Rebirth
