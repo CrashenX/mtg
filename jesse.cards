@@ -45,7 +45,10 @@ GROWTH|SIDE|C|NORM|15|Forest
 GWLAND|DECK|C|NORM|1|Sejiri Steppe
 GWLAND|DECK|C|NORM|2|Qasali Pridemage
 GWLAND|DECK|C|NORM|4|Plains
-GWLAND|DECK|C|NORM|7|Forest
+GWLAND|DECK|C|NORM|6|Forest
+GWLAND|DECK|M|FOIL|1|Dryad Arbor
+GWLAND|DECK|M|FOIL|1|Glacial Chasm
+GWLAND|DECK|M|FOIL|1|Maze of Ith
 GWLAND|DECK|M|NORM|1|Rampaging Baloths
 GWLAND|DECK|M|NORM|1|Sword of Feast and Famine
 GWLAND|DECK|M|NORM|1|Sword of Fire and Ice
@@ -62,7 +65,6 @@ GWLAND|DECK|R|NORM|2|Knight of the Reliquary
 GWLAND|DECK|R|NORM|3|Armageddon
 GWLAND|DECK|R|NORM|4|Sunpetal Grove
 GWLAND|DECK|U|NORM|0|Eternal Witness
-GWLAND|DECK|U|NORM|0|Maze of Ith
 GWLAND|DECK|U|NORM|0|Mistveil Plains
 GWLAND|DECK|U|NORM|1|Riftstone Portal
 GWLAND|DECK|U|NORM|1|Sterling Grove
@@ -73,7 +75,6 @@ GWLAND|SIDE|R|NORM|1|Gaddock Teeg
 GWLAND|SIDE|R|NORM|1|Limited Resources
 LANDFALL,GWLAND|DECK|M|NORM|3|Lotus Cobra
 LANDFALL,GWLAND|DECK|R|NORM|3|Exploration
-LANDFALL,GWLAND|DECK|U|NORM|1|Glacial Chasm
 LANDFALL,GWLAND|DECK|U|NORM|1|Strip Mine
 LANDFALL,GWLAND|DECK|U|NORM|3|Enlightened Tutor
 LANDFALL|DECK|C|NORM|1|Piranha Marsh
@@ -97,12 +98,26 @@ LANDFALL|DECK|R|NORM|4|Tendo Ice Bridge
 LANDFALL|DECK|U|NORM|1|Demonic Tutor
 LANDFALL|DECK|U|NORM|1|Sterling Grove
 LANDFALL|DECK|U|NORM|2|Zuran Orb
-LANDFALL|DECK|U|NORM|3|Glacial Chasm
 LANDFALL|DECK|U|NORM|4|Gemstone Mine
+LANDFALL|DECK|U|NORM|4|Glacial Chasm
 LANDFALL|DECK|U|NORM|4|Treva's Ruins
 LANDFALL|SIDE|C|NORM|2|Grazing Gladehart
 NONE|DECK|R|NORM|1|Oracle of Mul Daya
 NONE|FREE|C|NORM|2|Wickerbough Elder
+NONE|FREE|M|FOIL|1|Dryad Arbor
+NONE|FREE|M|FOIL|1|Glacial Chasm
+NONE|FREE|M|FOIL|1|Maze of Ith
+NONE|FREE|M|FOIL|2|Ancient Tomb
+NONE|FREE|M|FOIL|2|Boseiju, Who Shelters All
+NONE|FREE|M|FOIL|2|Cephalid Coliseum
+NONE|FREE|M|FOIL|2|Desert
+NONE|FREE|M|FOIL|2|Forbidden Orchard
+NONE|FREE|M|FOIL|2|Grove of the Burnwillows
+NONE|FREE|M|FOIL|2|High Market
+NONE|FREE|M|FOIL|2|Shivan Gorge
+NONE|FREE|M|FOIL|2|Urborg, Tomb of Yawgmoth
+NONE|FREE|M|FOIL|2|Vesuva
+NONE|FREE|M|FOIL|2|Windbrisk Heights
 NONE|FREE|M|NORM|1|Admonition Angel
 NONE|FREE|M|NORM|1|Ajani Goldmane
 NONE|FREE|M|NORM|1|Child of Alara
