@@ -65,7 +65,7 @@ GWLAND|DECK|R|NORM|2|Knight of the Reliquary
 GWLAND|DECK|R|NORM|3|Armageddon
 GWLAND|DECK|R|NORM|4|Sunpetal Grove
 GWLAND|DECK|U|NORM|0|Eternal Witness
-GWLAND|DECK|U|NORM|0|Mistveil Plains
+GWLAND|DECK|U|NORM|1|Mistveil Plains
 GWLAND|DECK|U|NORM|1|Riftstone Portal
 GWLAND|DECK|U|NORM|1|Sterling Grove
 GWLAND|DECK|U|NORM|4|Swords to Plowshares
@@ -118,7 +118,6 @@ NONE|FREE|M|FOIL|2|Shivan Gorge
 NONE|FREE|M|FOIL|2|Urborg, Tomb of Yawgmoth
 NONE|FREE|M|FOIL|2|Vesuva
 NONE|FREE|M|FOIL|2|Windbrisk Heights
-NONE|FREE|M|NORM|1|Admonition Angel
 NONE|FREE|M|NORM|1|Ajani Goldmane
 NONE|FREE|M|NORM|1|Child of Alara
 NONE|FREE|M|NORM|1|Felidar Sovereign
@@ -158,11 +157,9 @@ NONE|FREE|R|NORM|1|Geist-Honored Monk
 NONE|FREE|R|NORM|1|Gigantiform
 NONE|FREE|R|NORM|1|Grinning Totem
 NONE|FREE|R|NORM|1|Halo Hunter
-NONE|FREE|R|NORM|1|Hellkite Charger
 NONE|FREE|R|NORM|1|Homura, Human Ascendant
 NONE|FREE|R|NORM|1|Infernal Kirin
 NONE|FREE|R|NORM|1|Isamaru, Hound of Konda
-NONE|FREE|R|NORM|1|Kagemaro, First to Suffer
 NONE|FREE|R|NORM|1|Kaho, Minamo Historian
 NONE|FREE|R|NORM|1|Kataki, War's Wage
 NONE|FREE|R|NORM|1|Kessig Cagebreakers
@@ -202,7 +199,6 @@ NONE|FREE|R|NORM|1|Sphinx of Lost Truths
 NONE|FREE|R|NORM|1|Stenchskipper
 NONE|FREE|R|NORM|1|Storm Cauldron
 NONE|FREE|R|NORM|1|Strata Scythe
-NONE|FREE|R|NORM|1|Student of Warfare
 NONE|FREE|R|NORM|1|Sylvan Library
 NONE|FREE|R|NORM|1|Teferi's Imp
 NONE|FREE|R|NORM|1|Truce
@@ -228,6 +224,7 @@ NONE|FREE|R|NORM|2|Inexorable Tide
 NONE|FREE|R|NORM|2|Jiwari, the Earth Aflame
 NONE|FREE|R|NORM|2|Kemba, Kha Regent
 NONE|FREE|R|NORM|2|Oran-Rief, the Vastwood
+NONE|FREE|R|NORM|2|Student of Warfare
 NONE|FREE|R|NORM|2|True Conviction
 NONE|FREE|R|NORM|2|Verdant Catacombs
 NONE|FREE|R|NORM|3|Proclamation of Rebirth
