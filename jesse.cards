@@ -110,8 +110,6 @@ LANDFALL|DECK|U|NORM|4|Gemstone Mine
 LANDFALL|DECK|U|NORM|4|Glacial Chasm
 LANDFALL|DECK|U|NORM|4|Treva's Ruins
 LANDFALL|SIDE|C|NORM|2|Grazing Gladehart
-NONE|DECK|R|NORM|1|Oracle of Mul Daya
-NONE|FREE|C|NORM|2|Wickerbough Elder
 NONE|FREE|M|FOIL|1|Dryad Arbor
 NONE|FREE|M|FOIL|1|Glacial Chasm
 NONE|FREE|M|FOIL|1|Maze of Ith
@@ -171,7 +169,6 @@ NONE|FREE|R|NORM|1|Archive Trap
 NONE|FREE|R|NORM|1|Archmage Ascension
 NONE|FREE|R|NORM|1|Archon of Redemption
 NONE|FREE|R|NORM|1|Arid Mesa
-NONE|FREE|R|NORM|1|Armageddon
 NONE|FREE|R|NORM|1|Artificial Evolution
 NONE|FREE|R|NORM|1|Awakening Zone
 NONE|FREE|R|NORM|1|Back from the Brink
@@ -188,8 +185,6 @@ NONE|FREE|R|NORM|1|Caged Sun
 NONE|FREE|R|NORM|1|Cauldron of Souls
 NONE|FREE|R|NORM|1|Celestial Colonnade
 NONE|FREE|R|NORM|1|Celestial Mantle
-NONE|FREE|R|NORM|1|Cerebral Eruption
-NONE|FREE|R|NORM|1|Cerebral Eruption
 NONE|FREE|R|NORM|1|Chain Reaction
 NONE|FREE|R|NORM|1|Chain Stasis
 NONE|FREE|R|NORM|1|Chancellor of the Dross
@@ -198,7 +193,6 @@ NONE|FREE|R|NORM|1|Choice of Damnations
 NONE|FREE|R|NORM|1|Coalition Relic
 NONE|FREE|R|NORM|1|Conquering Manticore
 NONE|FREE|R|NORM|1|Conqueror's Pledge
-NONE|FREE|R|NORM|1|Contagion Engine
 NONE|FREE|R|NORM|1|Conundrum Sphinx
 NONE|FREE|R|NORM|1|Copperline Gorge
 NONE|FREE|R|NORM|1|Coralhelm Commander
@@ -227,8 +221,6 @@ NONE|FREE|R|NORM|1|Feral Hydra
 NONE|FREE|R|NORM|1|Forgotten Ancient
 NONE|FREE|R|NORM|1|Fungusaur
 NONE|FREE|R|NORM|1|Galvanoth
-NONE|FREE|R|NORM|1|Gargoyle Castle
-NONE|FREE|R|NORM|1|Gargoyle Castle
 NONE|FREE|R|NORM|1|Geist-Honored Monk
 NONE|FREE|R|NORM|1|Gerrard Capashen
 NONE|FREE|R|NORM|1|Gigantiform
@@ -241,8 +233,6 @@ NONE|FREE|R|NORM|1|Grindclock
 NONE|FREE|R|NORM|1|Grinning Totem
 NONE|FREE|R|NORM|1|Gutter Grime
 NONE|FREE|R|NORM|1|Guul Draz Assassin
-NONE|FREE|R|NORM|1|Halo Hunter
-NONE|FREE|R|NORM|1|Halo Hunter
 NONE|FREE|R|NORM|1|Hoarding Dragon
 NONE|FREE|R|NORM|1|Homura, Human Ascendant
 NONE|FREE|R|NORM|1|Hound of Griselbrand
@@ -262,15 +252,10 @@ NONE|FREE|R|NORM|1|Kessig, Wolf Run
 NONE|FREE|R|NORM|1|Killing Wave
 NONE|FREE|R|NORM|1|Kiyomaro, First to Stand
 NONE|FREE|R|NORM|1|Knowledge Pool
-NONE|FREE|R|NORM|1|Kuldotha Phoenix
-NONE|FREE|R|NORM|1|Kuldotha Phoenix
 NONE|FREE|R|NORM|1|Land Tax
 NONE|FREE|R|NORM|1|Lashwrithe
-NONE|FREE|R|NORM|1|Lavaball Trap
 NONE|FREE|R|NORM|1|Lavaclaw Reaches
 NONE|FREE|R|NORM|1|Leonin Abunas
-NONE|FREE|R|NORM|1|Leyline of Anticipation
-NONE|FREE|R|NORM|1|Leyline of Anticipation
 NONE|FREE|R|NORM|1|Life's Finale
 NONE|FREE|R|NORM|1|Livewire Lash
 NONE|FREE|R|NORM|1|Living Death
@@ -280,11 +265,7 @@ NONE|FREE|R|NORM|1|Magister Sphinx
 NONE|FREE|R|NORM|1|Magma Phoenix
 NONE|FREE|R|NORM|1|Magmaw
 NONE|FREE|R|NORM|1|March of the Machines
-NONE|FREE|R|NORM|1|Marshal's Anthem
-NONE|FREE|R|NORM|1|Marshal's Anthem
 NONE|FREE|R|NORM|1|Master Transmuter
-NONE|FREE|R|NORM|1|Melira, Sylvok Outcast
-NONE|FREE|R|NORM|1|Melira, Sylvok Outcast
 NONE|FREE|R|NORM|1|Memnarch
 NONE|FREE|R|NORM|1|Memoricide
 NONE|FREE|R|NORM|1|Mimic Vat
@@ -295,12 +276,11 @@ NONE|FREE|R|NORM|1|Mosswort Bridge
 NONE|FREE|R|NORM|1|Mycoloth
 NONE|FREE|R|NORM|1|Myr Propagator
 NONE|FREE|R|NORM|1|Nature's Revolt
-NONE|FREE|R|NORM|1|Near-Death Experience
-NONE|FREE|R|NORM|1|Near-Death Experience
 NONE|FREE|R|NORM|1|Neverending Torment
 NONE|FREE|R|NORM|1|Nim Deathmantle
 NONE|FREE|R|NORM|1|Ob Nixilis, the Fallen
 NONE|FREE|R|NORM|1|One with Nothing
+NONE|FREE|R|NORM|1|Oracle of Mul Daya
 NONE|FREE|R|NORM|1|Pain's Reward
 NONE|FREE|R|NORM|1|Painful Quandary
 NONE|FREE|R|NORM|1|Phyrexian Arena
@@ -311,18 +291,11 @@ NONE|FREE|R|NORM|1|Phyrexian Plaguelord
 NONE|FREE|R|NORM|1|Phyrexian Processor
 NONE|FREE|R|NORM|1|Phyrexian Unlife
 NONE|FREE|R|NORM|1|Praetor's Grasp
-NONE|FREE|R|NORM|1|Predatory Urge
-NONE|FREE|R|NORM|1|Predatory Urge
 NONE|FREE|R|NORM|1|Primal Command
 NONE|FREE|R|NORM|1|Primitive Etchings
-NONE|FREE|R|NORM|1|Proclamation of Rebirth
 NONE|FREE|R|NORM|1|Protean Hydra
-NONE|FREE|R|NORM|1|Pyromancer Ascension
-NONE|FREE|R|NORM|1|Pyromancer Ascension
 NONE|FREE|R|NORM|1|Quicksilver Gargantuan
 NONE|FREE|R|NORM|1|Rally the Horde
-NONE|FREE|R|NORM|1|Ratchet Bomb
-NONE|FREE|R|NORM|1|Ratchet Bomb
 NONE|FREE|R|NORM|1|Renegade Doppelganger
 NONE|FREE|R|NORM|1|Rite of Flourishing
 NONE|FREE|R|NORM|1|Rite of Replication
@@ -340,15 +313,12 @@ NONE|FREE|R|NORM|1|Shape Anew
 NONE|FREE|R|NORM|1|Skyship Weatherlight
 NONE|FREE|R|NORM|1|Soul Conduit
 NONE|FREE|R|NORM|1|Sphinx of Jwar Isle
-NONE|FREE|R|NORM|1|Sphinx of Lost Truths
-NONE|FREE|R|NORM|1|Sphinx of Lost Truths
 NONE|FREE|R|NORM|1|Sphinx of Magosi
 NONE|FREE|R|NORM|1|Sphinx-Bone Wand
 NONE|FREE|R|NORM|1|Spikeshot Elder
 NONE|FREE|R|NORM|1|Steel Overseer
 NONE|FREE|R|NORM|1|Stenchskipper
 NONE|FREE|R|NORM|1|Storm Cauldron
-NONE|FREE|R|NORM|2|Strata Scythe
 NONE|FREE|R|NORM|1|Sunblast Angel
 NONE|FREE|R|NORM|1|Sylvan Library
 NONE|FREE|R|NORM|1|Talus Paladin
@@ -369,8 +339,6 @@ NONE|FREE|R|NORM|1|Undead Alchemist
 NONE|FREE|R|NORM|1|Unwinding Clock
 NONE|FREE|R|NORM|1|Valakut, the Molten Pinnacle
 NONE|FREE|R|NORM|1|Vengeful Archon
-NONE|FREE|R|NORM|1|Venser's Journal
-NONE|FREE|R|NORM|1|Venser's Journal
 NONE|FREE|R|NORM|1|Verdeloth the Ancient
 NONE|FREE|R|NORM|1|Voidslime
 NONE|FREE|R|NORM|1|War's Toll
@@ -385,15 +353,17 @@ NONE|FREE|R|NORM|2|Asceticism
 NONE|FREE|R|NORM|2|Birthing Pod
 NONE|FREE|R|NORM|2|Blackcleave Cliffs
 NONE|FREE|R|NORM|2|Carnifex Demon
-NONE|FREE|R|NORM|2|Contagion Engine
+NONE|FREE|R|NORM|2|Cerebral Eruption
 NONE|FREE|R|NORM|2|Cryptoplasm
 NONE|FREE|R|NORM|2|Day of Judgment
 NONE|FREE|R|NORM|2|Dissipation Field
 NONE|FREE|R|NORM|2|Djinn of Wishes
 NONE|FREE|R|NORM|2|Emeria Angel
 NONE|FREE|R|NORM|2|Engulfing Slagwurm
+NONE|FREE|R|NORM|2|Gargoyle Castle
 NONE|FREE|R|NORM|2|Gavony Township
 NONE|FREE|R|NORM|2|Glacial Fortress
+NONE|FREE|R|NORM|2|Halo Hunter
 NONE|FREE|R|NORM|2|Hand of the Praetors
 NONE|FREE|R|NORM|2|Heretic's Punishment
 NONE|FREE|R|NORM|2|Hex Parasite
@@ -404,34 +374,46 @@ NONE|FREE|R|NORM|2|Inexorable Tide
 NONE|FREE|R|NORM|2|Jiwari, the Earth Aflame
 NONE|FREE|R|NORM|2|Kemba, Kha Regent
 NONE|FREE|R|NORM|2|Kor Spiritdancer
-NONE|FREE|R|NORM|2|Lavaball Trap
+NONE|FREE|R|NORM|2|Kuldotha Phoenix
+NONE|FREE|R|NORM|2|Leyline of Anticipation
 NONE|FREE|R|NORM|2|Lodestone Golem
 NONE|FREE|R|NORM|2|Malakir Bloodwitch
+NONE|FREE|R|NORM|2|Marshal's Anthem
+NONE|FREE|R|NORM|2|Melira, Sylvok Outcast
 NONE|FREE|R|NORM|2|Mitotic Slime
 NONE|FREE|R|NORM|2|Molimo, Maro-Sorcerer
 NONE|FREE|R|NORM|2|Myr Battlesphere
 NONE|FREE|R|NORM|2|Myr Superion
+NONE|FREE|R|NORM|2|Near-Death Experience
 NONE|FREE|R|NORM|2|Norn's Annex
 NONE|FREE|R|NORM|2|Oran-Rief, the Vastwood
 NONE|FREE|R|NORM|2|Phyrexian Swarmlord
+NONE|FREE|R|NORM|2|Predatory Urge
+NONE|FREE|R|NORM|2|Pyromancer Ascension
+NONE|FREE|R|NORM|2|Ratchet Bomb
 NONE|FREE|R|NORM|2|Slag Fiend
 NONE|FREE|R|NORM|2|Spawnsire of Ulamog
+NONE|FREE|R|NORM|2|Sphinx of Lost Truths
+NONE|FREE|R|NORM|2|Strata Scythe
 NONE|FREE|R|NORM|2|Student of Warfare
 NONE|FREE|R|NORM|2|Surgical Extraction
 NONE|FREE|R|NORM|2|Tempered Steel
 NONE|FREE|R|NORM|2|Terastodon
 NONE|FREE|R|NORM|2|True Conviction
+NONE|FREE|R|NORM|2|Venser's Journal
 NONE|FREE|R|NORM|2|Verdant Catacombs
-NONE|FREE|R|NORM|3|Proclamation of Rebirth
-NONE|FREE|R|NORM|4|Armageddon
+NONE|FREE|R|NORM|3|Contagion Engine
+NONE|FREE|R|NORM|3|Lavaball Trap
 NONE|FREE|R|NORM|4|Divert
 NONE|FREE|R|NORM|4|Exotic Orcard
 NONE|FREE|R|NORM|4|Loyal Sentry
+NONE|FREE|R|NORM|4|Proclamation of Rebirth
 NONE|FREE|R|NORM|4|Royal Assassin
 NONE|FREE|R|NORM|4|Serra Ascendant
 NONE|FREE|R|NORM|4|Twincast
 NONE|FREE|R|NORM|4|Underworld Dreams
 NONE|FREE|R|NORM|4|Walking Archive
+NONE|FREE|R|NORM|5|Armageddon
 NONE|FREE|U|FOIL|1|Hollowhenge Scavenger
 NONE|FREE|U|FOIL|1|Landbind Ritual
 NONE|FREE|U|FOIL|1|Lure
