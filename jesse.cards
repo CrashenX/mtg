@@ -57,18 +57,19 @@ GWLAND|DECK|C|NORM|6|Forest
 GWLAND|DECK|M|FOIL|1|Dryad Arbor
 GWLAND|DECK|M|FOIL|1|Glacial Chasm
 GWLAND|DECK|M|FOIL|1|Maze of Ith
+GWLAND|DECK|M|NORM|0|Sword of Fire and Ice
 GWLAND|DECK|M|NORM|1|Rampaging Baloths
 GWLAND|DECK|M|NORM|1|Sword of Feast and Famine
-GWLAND|DECK|M|NORM|1|Sword of Fire and Ice
 GWLAND|DECK|M|NORM|1|Sword of War and Peace
+GWLAND|DECK|M|NORM|1|Vesuva
 GWLAND|DECK|M|NORM|2|Knight of the Reliquary
+GWLAND|DECK|R|NORM|1|Flagstones of Trokair
 GWLAND|DECK|R|NORM|1|Green Sun's Zenith
 GWLAND|DECK|R|NORM|1|Land Tax
 GWLAND|DECK|R|NORM|1|Lotus Vale
 GWLAND|DECK|R|NORM|1|Sylvan Library
 GWLAND|DECK|R|NORM|1|Sylvan Safekeeper
 GWLAND|DECK|R|NORM|1|Terravore
-GWLAND|DECK|R|NORM|2|Flagstones of Trokair
 GWLAND|DECK|R|NORM|2|Knight of the Reliquary
 GWLAND|DECK|R|NORM|3|Armageddon
 GWLAND|DECK|R|NORM|4|Sunpetal Grove
@@ -101,7 +102,7 @@ LANDFALL|DECK|R|NORM|2|Crucible of Worlds
 LANDFALL|DECK|R|NORM|2|Trade Routes
 LANDFALL|DECK|R|NORM|2|Undiscovered Paradise
 LANDFALL|DECK|R|NORM|4|Birds of Paradise
-LANDFALL|DECK|R|NORM|4|Reflecting Pool
+LANDFALL|DECK|R|NORM|2|Reflecting Pool
 LANDFALL|DECK|R|NORM|4|Tendo Ice Bridge
 LANDFALL|DECK|U|NORM|1|Demonic Tutor
 LANDFALL|DECK|U|NORM|1|Sterling Grove
@@ -115,6 +116,7 @@ NONE|FREE|M|FOIL|1|Glacial Chasm
 NONE|FREE|M|FOIL|1|Maze of Ith
 NONE|FREE|M|FOIL|1|Phyrexian Negator
 NONE|FREE|M|FOIL|1|Urza's Rage
+NONE|FREE|M|FOIL|1|Vesuva
 NONE|FREE|M|FOIL|2|Ancient Tomb
 NONE|FREE|M|FOIL|2|Boseiju, Who Shelters All
 NONE|FREE|M|FOIL|2|Cephalid Coliseum
@@ -124,7 +126,6 @@ NONE|FREE|M|FOIL|2|Grove of the Burnwillows
 NONE|FREE|M|FOIL|2|High Market
 NONE|FREE|M|FOIL|2|Shivan Gorge
 NONE|FREE|M|FOIL|2|Urborg, Tomb of Yawgmoth
-NONE|FREE|M|FOIL|2|Vesuva
 NONE|FREE|M|FOIL|2|Windbrisk Heights
 NONE|FREE|M|NORM|1|Ajani Goldmane
 NONE|FREE|M|NORM|1|Cast Through Time
@@ -189,7 +190,6 @@ NONE|FREE|R|NORM|1|Chain Stasis
 NONE|FREE|R|NORM|1|Chancellor of the Dross
 NONE|FREE|R|NORM|1|Chancellor of the Tangle
 NONE|FREE|R|NORM|1|Choice of Damnations
-NONE|FREE|R|NORM|1|Coalition Relic
 NONE|FREE|R|NORM|1|Conquering Manticore
 NONE|FREE|R|NORM|1|Conqueror's Pledge
 NONE|FREE|R|NORM|1|Conundrum Sphinx
@@ -251,7 +251,6 @@ NONE|FREE|R|NORM|1|Kessig, Wolf Run
 NONE|FREE|R|NORM|1|Killing Wave
 NONE|FREE|R|NORM|1|Kiyomaro, First to Stand
 NONE|FREE|R|NORM|1|Knowledge Pool
-NONE|FREE|R|NORM|1|Land Tax
 NONE|FREE|R|NORM|1|Lashwrithe
 NONE|FREE|R|NORM|1|Lavaclaw Reaches
 NONE|FREE|R|NORM|1|Leonin Abunas
@@ -260,7 +259,6 @@ NONE|FREE|R|NORM|1|Livewire Lash
 NONE|FREE|R|NORM|1|Living Death
 NONE|FREE|R|NORM|1|Loxodon Warhammer
 NONE|FREE|R|NORM|1|Madrush Cyclops
-NONE|FREE|R|NORM|1|Magister Sphinx
 NONE|FREE|R|NORM|1|Magma Phoenix
 NONE|FREE|R|NORM|1|Magmaw
 NONE|FREE|R|NORM|1|March of the Machines
@@ -276,7 +274,6 @@ NONE|FREE|R|NORM|1|Mycoloth
 NONE|FREE|R|NORM|1|Myr Propagator
 NONE|FREE|R|NORM|1|Nature's Revolt
 NONE|FREE|R|NORM|1|Neverending Torment
-NONE|FREE|R|NORM|1|Nim Deathmantle
 NONE|FREE|R|NORM|1|Ob Nixilis, the Fallen
 NONE|FREE|R|NORM|1|One with Nothing
 NONE|FREE|R|NORM|1|Oracle of Mul Daya
@@ -290,7 +287,6 @@ NONE|FREE|R|NORM|1|Phyrexian Plaguelord
 NONE|FREE|R|NORM|1|Phyrexian Processor
 NONE|FREE|R|NORM|1|Phyrexian Unlife
 NONE|FREE|R|NORM|1|Praetor's Grasp
-NONE|FREE|R|NORM|1|Primal Command
 NONE|FREE|R|NORM|1|Primitive Etchings
 NONE|FREE|R|NORM|1|Protean Hydra
 NONE|FREE|R|NORM|1|Quicksilver Gargantuan
@@ -319,7 +315,6 @@ NONE|FREE|R|NORM|1|Steel Overseer
 NONE|FREE|R|NORM|1|Stenchskipper
 NONE|FREE|R|NORM|1|Storm Cauldron
 NONE|FREE|R|NORM|1|Sunblast Angel
-NONE|FREE|R|NORM|1|Sylvan Library
 NONE|FREE|R|NORM|1|Talus Paladin
 NONE|FREE|R|NORM|1|Teferi's Imp
 NONE|FREE|R|NORM|1|Telemin Performance
@@ -347,7 +342,6 @@ NONE|FREE|R|NORM|1|Wolfbriar Elemental
 NONE|FREE|R|NORM|1|Woodland Cemetery
 NONE|FREE|R|NORM|1|World Queller
 NONE|FREE|R|NORM|1|Xenograft
-NONE|FREE|R|NORM|3|Archmage Ascension
 NONE|FREE|R|NORM|2|Asceticism
 NONE|FREE|R|NORM|2|Birthing Pod
 NONE|FREE|R|NORM|2|Blackcleave Cliffs
@@ -401,6 +395,7 @@ NONE|FREE|R|NORM|2|Terastodon
 NONE|FREE|R|NORM|2|True Conviction
 NONE|FREE|R|NORM|2|Venser's Journal
 NONE|FREE|R|NORM|2|Verdant Catacombs
+NONE|FREE|R|NORM|3|Archmage Ascension
 NONE|FREE|R|NORM|3|Contagion Engine
 NONE|FREE|R|NORM|3|Lavaball Trap
 NONE|FREE|R|NORM|4|Divert
@@ -412,7 +407,7 @@ NONE|FREE|R|NORM|4|Serra Ascendant
 NONE|FREE|R|NORM|4|Twincast
 NONE|FREE|R|NORM|4|Underworld Dreams
 NONE|FREE|R|NORM|4|Walking Archive
-NONE|FREE|R|NORM|5|Armageddon
+NONE|FREE|R|NORM|4|Armageddon
 NONE|FREE|U|FOIL|1|Hollowhenge Scavenger
 NONE|FREE|U|FOIL|1|Landbind Ritual
 NONE|FREE|U|FOIL|1|Lure
@@ -423,7 +418,6 @@ NONE|FREE|U|FOIL|1|Ulvenwald Mystics
 NONE|FREE|U|NORM|1|Aether Flash
 NONE|FREE|U|NORM|1|Arbalest Elite
 NONE|FREE|U|NORM|1|Arrow Volley Trap
-NONE|FREE|U|NORM|1|Aura of Silence
 NONE|FREE|U|NORM|1|Blazing Torch
 NONE|FREE|U|NORM|1|Blood Feud
 NONE|FREE|U|NORM|1|Bramblecrush
@@ -570,12 +564,12 @@ NONE|FREE|U|NORM|2|Slayer of the Wicked
 NONE|FREE|U|NORM|2|Sleep
 NONE|FREE|U|NORM|2|Soratami Cloud Chariot
 NONE|FREE|U|NORM|2|Soratami Seer
-NONE|FREE|U|NORM|2|Spellbook
+NONE|FREE|U|NORM|1|Spellbook
 NONE|FREE|U|NORM|2|Spirit Link
 NONE|FREE|U|NORM|2|Tangle Angler
 NONE|FREE|U|NORM|2|Telepathy
 NONE|FREE|U|NORM|2|Throne of Geth
-NONE|FREE|U|NORM|2|Trailblazer's Boots
+NONE|FREE|U|NORM|1|Trailblazer's Boots
 NONE|FREE|U|NORM|2|Trigon of Mending
 NONE|FREE|U|NORM|2|Unstable Footing
 NONE|FREE|U|NORM|2|Viridian Claw
