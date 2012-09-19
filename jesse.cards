@@ -54,9 +54,9 @@ GWLAND|DECK|C|NORM|1|Sejiri Steppe
 GWLAND|DECK|C|NORM|2|Qasali Pridemage
 GWLAND|DECK|C|NORM|4|Plains
 GWLAND|DECK|C|NORM|6|Forest
+GWLAND|DECK|M|FOIL|0|Maze of Ith
 GWLAND|DECK|M|FOIL|1|Dryad Arbor
 GWLAND|DECK|M|FOIL|1|Glacial Chasm
-GWLAND|DECK|M|FOIL|1|Maze of Ith
 GWLAND|DECK|M|NORM|0|Sword of Fire and Ice
 GWLAND|DECK|M|NORM|1|Rampaging Baloths
 GWLAND|DECK|M|NORM|1|Sword of Feast and Famine
@@ -168,7 +168,6 @@ NONE|FREE|R|NORM|1|Angelheart Vial
 NONE|FREE|R|NORM|1|Arashi, the Sky Asunder
 NONE|FREE|R|NORM|1|Archive Trap
 NONE|FREE|R|NORM|1|Archon of Redemption
-NONE|FREE|R|NORM|1|Arid Mesa
 NONE|FREE|R|NORM|1|Artificial Evolution
 NONE|FREE|R|NORM|1|Awakening Zone
 NONE|FREE|R|NORM|1|Back from the Brink
@@ -224,7 +223,6 @@ NONE|FREE|R|NORM|1|Geist-Honored Monk
 NONE|FREE|R|NORM|1|Gerrard Capashen
 NONE|FREE|R|NORM|1|Gigantiform
 NONE|FREE|R|NORM|1|Glistening Oil
-NONE|FREE|R|NORM|1|Goblin Guide
 NONE|FREE|R|NORM|1|Grand Architect
 NONE|FREE|R|NORM|1|Grappling Hook
 NONE|FREE|R|NORM|1|Grim Poppet
@@ -299,7 +297,6 @@ NONE|FREE|R|NORM|1|Rowen
 NONE|FREE|R|NORM|1|Rune-Tail, Kitsune Ascendant
 NONE|FREE|R|NORM|1|Sadistic Sacrament
 NONE|FREE|R|NORM|1|Sand Silos
-NONE|FREE|R|NORM|1|Scalding Tarn
 NONE|FREE|R|NORM|1|Sea Gate Loremaster
 NONE|FREE|R|NORM|1|Seer's Sundial
 NONE|FREE|R|NORM|1|Selective Memory
@@ -343,7 +340,6 @@ NONE|FREE|R|NORM|1|World Queller
 NONE|FREE|R|NORM|1|Xenograft
 NONE|FREE|R|NORM|2|Asceticism
 NONE|FREE|R|NORM|2|Birthing Pod
-NONE|FREE|R|NORM|2|Blackcleave Cliffs
 NONE|FREE|R|NORM|2|Carnifex Demon
 NONE|FREE|R|NORM|2|Cerebral Eruption
 NONE|FREE|R|NORM|2|Cryptoplasm
