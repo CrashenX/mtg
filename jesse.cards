@@ -6,6 +6,7 @@ BIGNASTY|DECK|R|NORM|1|Sundering Titan
 BIGNASTY|DECK|R|NORM|1|Terastodon
 BIGNASTY|DECK|R|NORM|1|Vigor
 BIGNASTY|SIDE|R|NORM|1|Terra Stomper
+BIGNASTY|SIDE|M|NORM|2|Primeval Titan
 FISH|DECK|C|NORM|12|ISLAND
 FISH|DECK|C|NORM|1|Sinking Feeling
 FISH|DECK|C|NORM|4|Saprazzan Skerry
@@ -89,7 +90,7 @@ LANDFALL,GWLAND|DECK|U|NORM|3|Enlightened Tutor
 LANDFALL|DECK|C|NORM|1|Piranha Marsh
 LANDFALL|DECK|C|NORM|2|Grazing Gladehart
 LANDFALL|DECK|C|NORM|4|Brainstorm
-LANDFALL|DECK|M|NORM|1|Admonition Angel
+LANDFALL|DECK|M|NORM|0|Admonition Angel
 LANDFALL|DECK|R|NORM|1|Azusa, Lost but Seeking
 LANDFALL|DECK|R|NORM|1|Banefire
 LANDFALL|DECK|R|NORM|1|Fastbond
@@ -122,8 +123,8 @@ NONE|FREE|M|FOIL|2|Boseiju, Who Shelters All
 NONE|FREE|M|FOIL|2|Cephalid Coliseum
 NONE|FREE|M|FOIL|2|Desert
 NONE|FREE|M|FOIL|2|Forbidden Orchard
-NONE|FREE|M|FOIL|2|Grove of the Burnwillows
-NONE|FREE|M|FOIL|2|High Market
+NONE|FREE|M|FOIL|1|Grove of the Burnwillows
+NONE|FREE|M|FOIL|1|High Market
 NONE|FREE|M|FOIL|2|Shivan Gorge
 NONE|FREE|M|FOIL|2|Urborg, Tomb of Yawgmoth
 NONE|FREE|M|FOIL|2|Windbrisk Heights
@@ -328,7 +329,6 @@ NONE|FREE|R|NORM|1|Turntimber Ranger
 NONE|FREE|R|NORM|1|Unbreathing Horde
 NONE|FREE|R|NORM|1|Undead Alchemist
 NONE|FREE|R|NORM|1|Unwinding Clock
-NONE|FREE|R|NORM|1|Valakut, the Molten Pinnacle
 NONE|FREE|R|NORM|1|Vengeful Archon
 NONE|FREE|R|NORM|1|Verdeloth the Ancient
 NONE|FREE|R|NORM|1|Voidslime
@@ -350,7 +350,6 @@ NONE|FREE|R|NORM|2|Emeria Angel
 NONE|FREE|R|NORM|2|Engulfing Slagwurm
 NONE|FREE|R|NORM|2|Gargoyle Castle
 NONE|FREE|R|NORM|2|Gavony Township
-NONE|FREE|R|NORM|2|Glacial Fortress
 NONE|FREE|R|NORM|2|Halo Hunter
 NONE|FREE|R|NORM|2|Hand of the Praetors
 NONE|FREE|R|NORM|2|Heretic's Punishment
@@ -619,3 +618,4 @@ NONE|FREE|U|NORM|4|Twisted Image
 NONE|FREE|U|NORM|4|Umbral Mantle
 NONE|FREE|U|NORM|4|Vedalken Anatomist
 NONE|FREE|U|NORM|4|Vedalken Mastermind
+NONE|FREE|R|NORM|1|Stoneforge Mystic
