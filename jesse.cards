@@ -1,20 +1,20 @@
-BIGNASTY|DECK|M|NORM|1|Ulamog, the Infinite Gyre
 BIGNASTY|DECK|M|NORM|1|Eye of Ugin
 BIGNASTY|DECK|M|NORM|1|Platinum Emperion
+BIGNASTY|DECK|M|NORM|1|Ulamog, the Infinite Gyre
 BIGNASTY|DECK|R|NORM|1|Eldrazi Temple
 BIGNASTY|DECK|R|NORM|1|Summoning Trap
 BIGNASTY|DECK|R|NORM|1|Sundering Titan
 BIGNASTY|DECK|R|NORM|1|Terastodon
 BIGNASTY|DECK|R|NORM|1|Vigor
-BIGNASTY|SIDE|R|NORM|1|Terra Stomper
 BIGNASTY|SIDE|M|NORM|2|Primeval Titan
-FISH|DECK|R|NORM|1|Minamo, School at Water's Edge
-FISH|DECK|C|NORM|12|ISLAND
+BIGNASTY|SIDE|R|NORM|1|Terra Stomper
+FISH|DECK|C|NORM|11|ISLAND
 FISH|DECK|C|NORM|1|Sinking Feeling
 FISH|DECK|C|NORM|4|Saprazzan Skerry
 FISH|DECK|C|NORM|4|Stonybrook Banneret
 FISH|DECK|R|NORM|1|Azami, Lady of Scrolls
 FISH|DECK|R|NORM|1|Kira, Great Glass-Spinner
+FISH|DECK|R|NORM|1|Minamo, School at Water's Edge
 FISH|DECK|R|NORM|1|Miren, the Moaning Well
 FISH|DECK|R|NORM|2|Glen Elendra Archmage
 FISH|DECK|R|NORM|2|Sapphire Medallion
@@ -116,6 +116,8 @@ LANDFALL|DECK|U|NORM|4|Treva's Ruins
 LANDFALL|SIDE|C|NORM|2|Grazing Gladehart
 NONE|FREE|M|FOIL|1|Dryad Arbor
 NONE|FREE|M|FOIL|1|Glacial Chasm
+NONE|FREE|M|FOIL|1|Grove of the Burnwillows
+NONE|FREE|M|FOIL|1|High Market
 NONE|FREE|M|FOIL|1|Maze of Ith
 NONE|FREE|M|FOIL|1|Phyrexian Negator
 NONE|FREE|M|FOIL|1|Urza's Rage
@@ -125,8 +127,6 @@ NONE|FREE|M|FOIL|2|Boseiju, Who Shelters All
 NONE|FREE|M|FOIL|2|Cephalid Coliseum
 NONE|FREE|M|FOIL|2|Desert
 NONE|FREE|M|FOIL|2|Forbidden Orchard
-NONE|FREE|M|FOIL|1|Grove of the Burnwillows
-NONE|FREE|M|FOIL|1|High Market
 NONE|FREE|M|FOIL|2|Shivan Gorge
 NONE|FREE|M|FOIL|2|Urborg, Tomb of Yawgmoth
 NONE|FREE|M|FOIL|2|Windbrisk Heights
@@ -224,6 +224,7 @@ NONE|FREE|R|NORM|1|Grinning Totem
 NONE|FREE|R|NORM|1|Gutter Grime
 NONE|FREE|R|NORM|1|Hoarding Dragon
 NONE|FREE|R|NORM|1|Homura, Human Ascendant
+NONE|FREE|R|NORM|1|Idyllic Tutor
 NONE|FREE|R|NORM|1|Immortal Coil
 NONE|FREE|R|NORM|1|Infernal Kirin
 NONE|FREE|R|NORM|1|Isamaru, Hound of Konda
@@ -252,11 +253,13 @@ NONE|FREE|R|NORM|1|Memnarch
 NONE|FREE|R|NORM|1|Memoricide
 NONE|FREE|R|NORM|1|Mimic Vat
 NONE|FREE|R|NORM|1|Mirari
+NONE|FREE|R|NORM|1|Molimo, Maro-Sorcerer
 NONE|FREE|R|NORM|1|Molten Psyche
 NONE|FREE|R|NORM|1|Mosswort Bridge
 NONE|FREE|R|NORM|1|Mycoloth
 NONE|FREE|R|NORM|1|Myr Propagator
 NONE|FREE|R|NORM|1|Nature's Revolt
+NONE|FREE|R|NORM|1|Near-Death Experience
 NONE|FREE|R|NORM|1|Neverending Torment
 NONE|FREE|R|NORM|1|Ob Nixilis, the Fallen
 NONE|FREE|R|NORM|1|Oracle of Mul Daya
@@ -267,6 +270,7 @@ NONE|FREE|R|NORM|1|Phyrexian Colossus
 NONE|FREE|R|NORM|1|Phyrexian Ingester
 NONE|FREE|R|NORM|1|Phyrexian Metamorph
 NONE|FREE|R|NORM|1|Phyrexian Plaguelord
+NONE|FREE|R|NORM|1|Phyrexian Swarmlord
 NONE|FREE|R|NORM|1|Phyrexian Unlife
 NONE|FREE|R|NORM|1|Praetor's Grasp
 NONE|FREE|R|NORM|1|Primitive Etchings
@@ -274,8 +278,8 @@ NONE|FREE|R|NORM|1|Protean Hydra
 NONE|FREE|R|NORM|1|Quicksilver Gargantuan
 NONE|FREE|R|NORM|1|Rally the Horde
 NONE|FREE|R|NORM|1|Renegade Doppelganger
-NONE|FREE|R|NORM|1|Rites of Flourishing
 NONE|FREE|R|NORM|1|Rite of Replication
+NONE|FREE|R|NORM|1|Rites of Flourishing
 NONE|FREE|R|NORM|1|Rith, the Awakener
 NONE|FREE|R|NORM|1|Rowen
 NONE|FREE|R|NORM|1|Rune-Tail, Kitsune Ascendant
@@ -292,6 +296,7 @@ NONE|FREE|R|NORM|1|Sphinx of Magosi
 NONE|FREE|R|NORM|1|Sphinx-Bone Wand
 NONE|FREE|R|NORM|1|Spikeshot Elder
 NONE|FREE|R|NORM|1|Steel Overseer
+NONE|FREE|R|NORM|1|Stoneforge Mystic
 NONE|FREE|R|NORM|1|Sunblast Angel
 NONE|FREE|R|NORM|1|Talus Paladin
 NONE|FREE|R|NORM|1|Teferi's Imp
@@ -331,7 +336,6 @@ NONE|FREE|R|NORM|2|Heretic's Punishment
 NONE|FREE|R|NORM|2|Hex Parasite
 NONE|FREE|R|NORM|2|Hokori, Dust Drinker
 NONE|FREE|R|NORM|2|Howling Mine
-NONE|FREE|R|NORM|1|Idyllic Tutor
 NONE|FREE|R|NORM|2|Inexorable Tide
 NONE|FREE|R|NORM|2|Jiwari, the Earth Aflame
 NONE|FREE|R|NORM|2|Kemba, Kha Regent
@@ -343,13 +347,10 @@ NONE|FREE|R|NORM|2|Malakir Bloodwitch
 NONE|FREE|R|NORM|2|Marshal's Anthem
 NONE|FREE|R|NORM|2|Melira, Sylvok Outcast
 NONE|FREE|R|NORM|2|Mitotic Slime
-NONE|FREE|R|NORM|1|Molimo, Maro-Sorcerer
 NONE|FREE|R|NORM|2|Myr Battlesphere
 NONE|FREE|R|NORM|2|Myr Superion
-NONE|FREE|R|NORM|1|Near-Death Experience
 NONE|FREE|R|NORM|2|Norn's Annex
 NONE|FREE|R|NORM|2|Oran-Rief, the Vastwood
-NONE|FREE|R|NORM|1|Phyrexian Swarmlord
 NONE|FREE|R|NORM|2|Predatory Urge
 NONE|FREE|R|NORM|2|Pyromancer Ascension
 NONE|FREE|R|NORM|2|Ratchet Bomb
@@ -357,7 +358,6 @@ NONE|FREE|R|NORM|2|Slag Fiend
 NONE|FREE|R|NORM|2|Spawnsire of Ulamog
 NONE|FREE|R|NORM|2|Sphinx of Lost Truths
 NONE|FREE|R|NORM|2|Strata Scythe
-NONE|FREE|R|NORM|4|Student of Warfare
 NONE|FREE|R|NORM|2|Surgical Extraction
 NONE|FREE|R|NORM|2|Tempered Steel
 NONE|FREE|R|NORM|2|Terastodon
@@ -374,6 +374,7 @@ NONE|FREE|R|NORM|4|Loyal Sentry
 NONE|FREE|R|NORM|4|Proclamation of Rebirth
 NONE|FREE|R|NORM|4|Royal Assassin
 NONE|FREE|R|NORM|4|Serra Ascendant
+NONE|FREE|R|NORM|4|Student of Warfare
 NONE|FREE|R|NORM|4|Twincast
 NONE|FREE|R|NORM|4|Underworld Dreams
 NONE|FREE|R|NORM|4|Walking Archive
@@ -593,4 +594,3 @@ NONE|FREE|U|NORM|4|Twisted Image
 NONE|FREE|U|NORM|4|Umbral Mantle
 NONE|FREE|U|NORM|4|Vedalken Anatomist
 NONE|FREE|U|NORM|4|Vedalken Mastermind
-NONE|FREE|R|NORM|1|Stoneforge Mystic
