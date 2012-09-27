@@ -7,8 +7,8 @@ BIGNASTY|DECK|R|NORM|1|Sundering Titan
 BIGNASTY|DECK|R|NORM|1|Terastodon
 BIGNASTY|DECK|R|NORM|1|Vigor
 BIGNASTY|SIDE|M|NORM|2|Primeval Titan
-BIGNASTY|SIDE|R|NORM|1|Terra Stomper
 BIGNASTY|SIDE|R|NORM|1|Mystifying Maze
+BIGNASTY|SIDE|R|NORM|1|Terra Stomper
 FISH|DECK|C|NORM|11|ISLAND
 FISH|DECK|C|NORM|1|Sinking Feeling
 FISH|DECK|C|NORM|4|Saprazzan Skerry
@@ -19,6 +19,7 @@ FISH|DECK|R|NORM|1|Minamo, School at Water's Edge
 FISH|DECK|R|NORM|1|Miren, the Moaning Well
 FISH|DECK|R|NORM|2|Glen Elendra Archmage
 FISH|DECK|R|NORM|2|Sapphire Medallion
+FISH|DECK|R|NORM|2|lord of Atlantis
 FISH|DECK|R|NORM|4|Merfolk Sovereign
 FISH|DECK|R|NORM|4|Wake Thrasher
 FISH|DECK|U|NORM|1|Sage of Fables
@@ -28,6 +29,7 @@ FISH|DECK|U|NORM|2|Paradise Mantle
 FISH|DECK|U|NORM|3|Leech Bonder
 FISH|DECK|U|NORM|3|Puresight Merrow
 FISH|DECK|U|NORM|4|Merrow Reejerey
+FISH|DECK|U|NORM|4|Sage's Dousing
 FISH|SIDE|C|NORM|2|Springleaf Drum
 FISH|SIDE|C|NORM|3|Island
 FISH|SIDE|C|NORM|3|Sinking Feeling
@@ -36,8 +38,6 @@ FISH|SIDE|U|NORM|1|Merfolk Wayfinder
 FISH|SIDE|U|NORM|1|Puresight Merrow
 FISH|SIDE|U|NORM|1|Surgespanner
 FISH|SIDE|U|NORM|3|Sage of Fables
-FISH|DECK|U|NORM|4|Sage's Dousing
-FISH|DECK|R|NORM|2|lord of Atlantis
 GROWTH,FISH|DECK|R|NORM|2|Earthcraft
 GROWTH,FISH|DECK|R|NORM|4|Hinterland Harbor
 GROWTH,FISH|DECK|U|NORM|2|Paradise Mantle
@@ -57,7 +57,6 @@ GROWTH|DECK|U|NORM|4|Gilder Bairn
 GROWTH|DECK|U|NORM|4|Plaxcaster Frogling
 GROWTH|SIDE|C|NORM|15|Forest
 GWLAND|DECK|C|NORM|1|Sejiri Steppe
-GWLAND|DECK|R|NORM|1|Cavern of Souls
 GWLAND|DECK|C|NORM|2|Qasali Pridemage
 GWLAND|DECK|C|NORM|4|Plains
 GWLAND|DECK|C|NORM|6|Forest
@@ -70,14 +69,15 @@ GWLAND|DECK|M|NORM|1|Sword of Feast and Famine
 GWLAND|DECK|M|NORM|1|Sword of War and Peace
 GWLAND|DECK|M|NORM|1|Vesuva
 GWLAND|DECK|M|NORM|2|Knight of the Reliquary
+GWLAND|DECK|R|NORM|1|Cavern of Souls
 GWLAND|DECK|R|NORM|1|Flagstones of Trokair
-GWLAND|DECK|R|NORM|4|Green Sun's Zenith
 GWLAND|DECK|R|NORM|1|Land Tax
 GWLAND|DECK|R|NORM|1|Sylvan Library
 GWLAND|DECK|R|NORM|1|Sylvan Safekeeper
 GWLAND|DECK|R|NORM|1|Terravore
 GWLAND|DECK|R|NORM|2|Knight of the Reliquary
 GWLAND|DECK|R|NORM|3|Armageddon
+GWLAND|DECK|R|NORM|4|Green Sun's Zenith
 GWLAND|DECK|R|NORM|4|Sunpetal Grove
 GWLAND|DECK|U|NORM|1|Eternal Witness
 GWLAND|DECK|U|NORM|1|Mistveil Plains
@@ -86,9 +86,9 @@ GWLAND|DECK|U|NORM|1|Sterling Grove
 GWLAND|DECK|U|NORM|4|Swords to Plowshares
 GWLAND|SIDE|C|NORM|11|Forest
 GWLAND|SIDE|R|NORM|1|Gaddock Teeg
-GWLAND|SIDE|R|NORM|1|Ulvenwald Tracker
 GWLAND|SIDE|R|NORM|1|Limited Resources
 GWLAND|SIDE|R|NORM|1|Petrified Field
+GWLAND|SIDE|R|NORM|1|Ulvenwald Tracker
 LANDFALL,GWLAND|DECK|M|NORM|3|Lotus Cobra
 LANDFALL,GWLAND|DECK|R|NORM|4|Exploration
 LANDFALL,GWLAND|DECK|R|NORM|4|Noble Hierarch
@@ -301,7 +301,6 @@ NONE|FREE|R|NORM|1|Sphinx of Magosi
 NONE|FREE|R|NORM|1|Sphinx-Bone Wand
 NONE|FREE|R|NORM|1|Spikeshot Elder
 NONE|FREE|R|NORM|1|Steel Overseer
-NONE|FREE|R|NORM|3|Stoneforge Mystic
 NONE|FREE|R|NORM|1|Sunblast Angel
 NONE|FREE|R|NORM|1|Talus Paladin
 NONE|FREE|R|NORM|1|Teferi's Imp
@@ -372,6 +371,7 @@ NONE|FREE|R|NORM|2|Verdant Catacombs
 NONE|FREE|R|NORM|3|Archmage Ascension
 NONE|FREE|R|NORM|3|Contagion Engine
 NONE|FREE|R|NORM|3|Lavaball Trap
+NONE|FREE|R|NORM|3|Stoneforge Mystic
 NONE|FREE|R|NORM|4|Armageddon
 NONE|FREE|R|NORM|4|Divert
 NONE|FREE|R|NORM|4|Exotic Orchard
@@ -379,16 +379,17 @@ NONE|FREE|R|NORM|4|Loyal Sentry
 NONE|FREE|R|NORM|4|Proclamation of Rebirth
 NONE|FREE|R|NORM|4|Royal Assassin
 NONE|FREE|R|NORM|4|Serra Ascendant
-NONE|FREE|R|NORM|6|Student of Warfare
 NONE|FREE|R|NORM|4|Twincast
 NONE|FREE|R|NORM|4|Underworld Dreams
 NONE|FREE|R|NORM|4|Walking Archive
+NONE|FREE|R|NORM|6|Student of Warfare
 NONE|FREE|U|FOIL|1|Hollowhenge Scavenger
 NONE|FREE|U|FOIL|1|Landbind Ritual
 NONE|FREE|U|FOIL|1|Lure
 NONE|FREE|U|FOIL|1|Murasa Pyromancer
 NONE|FREE|U|FOIL|1|Necropede
 NONE|FREE|U|NORM|1|Aether Flash
+NONE|FREE|U|NORM|1|Ajani's Pridemate
 NONE|FREE|U|NORM|1|Arbalest Elite
 NONE|FREE|U|NORM|1|Arrow Volley Trap
 NONE|FREE|U|NORM|1|Blazing Torch
@@ -599,4 +600,3 @@ NONE|FREE|U|NORM|4|Twisted Image
 NONE|FREE|U|NORM|4|Umbral Mantle
 NONE|FREE|U|NORM|4|Vedalken Anatomist
 NONE|FREE|U|NORM|4|Vedalken Mastermind
-NONE|FREE|U|NORM|1|Ajani's Pridemate
