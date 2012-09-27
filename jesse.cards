@@ -8,6 +8,7 @@ BIGNASTY|DECK|R|NORM|1|Terastodon
 BIGNASTY|DECK|R|NORM|1|Vigor
 BIGNASTY|SIDE|M|NORM|2|Primeval Titan
 BIGNASTY|SIDE|R|NORM|1|Terra Stomper
+BIGNASTY|SIDE|R|NORM|1|Mystifying Maze
 FISH|DECK|C|NORM|11|ISLAND
 FISH|DECK|C|NORM|1|Sinking Feeling
 FISH|DECK|C|NORM|4|Saprazzan Skerry
@@ -35,6 +36,8 @@ FISH|SIDE|U|NORM|1|Merfolk Wayfinder
 FISH|SIDE|U|NORM|1|Puresight Merrow
 FISH|SIDE|U|NORM|1|Surgespanner
 FISH|SIDE|U|NORM|3|Sage of Fables
+FISH|DECK|U|NORM|4|Sage's Dousing
+FISH|DECK|R|NORM|2|lord of Atlantis
 GROWTH,FISH|DECK|R|NORM|2|Earthcraft
 GROWTH,FISH|DECK|R|NORM|4|Hinterland Harbor
 GROWTH,FISH|DECK|U|NORM|2|Paradise Mantle
@@ -54,6 +57,7 @@ GROWTH|DECK|U|NORM|4|Gilder Bairn
 GROWTH|DECK|U|NORM|4|Plaxcaster Frogling
 GROWTH|SIDE|C|NORM|15|Forest
 GWLAND|DECK|C|NORM|1|Sejiri Steppe
+GWLAND|DECK|R|NORM|1|Cavern of Souls
 GWLAND|DECK|C|NORM|2|Qasali Pridemage
 GWLAND|DECK|C|NORM|4|Plains
 GWLAND|DECK|C|NORM|6|Forest
@@ -67,7 +71,7 @@ GWLAND|DECK|M|NORM|1|Sword of War and Peace
 GWLAND|DECK|M|NORM|1|Vesuva
 GWLAND|DECK|M|NORM|2|Knight of the Reliquary
 GWLAND|DECK|R|NORM|1|Flagstones of Trokair
-GWLAND|DECK|R|NORM|1|Green Sun's Zenith
+GWLAND|DECK|R|NORM|4|Green Sun's Zenith
 GWLAND|DECK|R|NORM|1|Land Tax
 GWLAND|DECK|R|NORM|1|Sylvan Library
 GWLAND|DECK|R|NORM|1|Sylvan Safekeeper
@@ -82,6 +86,7 @@ GWLAND|DECK|U|NORM|1|Sterling Grove
 GWLAND|DECK|U|NORM|4|Swords to Plowshares
 GWLAND|SIDE|C|NORM|11|Forest
 GWLAND|SIDE|R|NORM|1|Gaddock Teeg
+GWLAND|SIDE|R|NORM|1|Ulvenwald Tracker
 GWLAND|SIDE|R|NORM|1|Limited Resources
 GWLAND|SIDE|R|NORM|1|Petrified Field
 LANDFALL,GWLAND|DECK|M|NORM|3|Lotus Cobra
@@ -296,7 +301,7 @@ NONE|FREE|R|NORM|1|Sphinx of Magosi
 NONE|FREE|R|NORM|1|Sphinx-Bone Wand
 NONE|FREE|R|NORM|1|Spikeshot Elder
 NONE|FREE|R|NORM|1|Steel Overseer
-NONE|FREE|R|NORM|1|Stoneforge Mystic
+NONE|FREE|R|NORM|3|Stoneforge Mystic
 NONE|FREE|R|NORM|1|Sunblast Angel
 NONE|FREE|R|NORM|1|Talus Paladin
 NONE|FREE|R|NORM|1|Teferi's Imp
@@ -374,7 +379,7 @@ NONE|FREE|R|NORM|4|Loyal Sentry
 NONE|FREE|R|NORM|4|Proclamation of Rebirth
 NONE|FREE|R|NORM|4|Royal Assassin
 NONE|FREE|R|NORM|4|Serra Ascendant
-NONE|FREE|R|NORM|4|Student of Warfare
+NONE|FREE|R|NORM|6|Student of Warfare
 NONE|FREE|R|NORM|4|Twincast
 NONE|FREE|R|NORM|4|Underworld Dreams
 NONE|FREE|R|NORM|4|Walking Archive
@@ -594,3 +599,4 @@ NONE|FREE|U|NORM|4|Twisted Image
 NONE|FREE|U|NORM|4|Umbral Mantle
 NONE|FREE|U|NORM|4|Vedalken Anatomist
 NONE|FREE|U|NORM|4|Vedalken Mastermind
+NONE|FREE|U|NORM|1|Ajani's Pridemate
