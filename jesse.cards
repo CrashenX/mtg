@@ -2,7 +2,7 @@ BIGNASTY|DECK|M|NORM|1|Eye of Ugin
 BIGNASTY|DECK|M|NORM|1|Platinum Emperion
 BIGNASTY|DECK|M|NORM|1|Ulamog, the Infinite Gyre
 BIGNASTY|DECK|R|NORM|1|Eldrazi Temple
-BIGNASTY|DECK|R|NORM|1|Summoning Trap
+BIGNASTY|DECK|R|NORM|2|Summoning Trap
 BIGNASTY|DECK|R|NORM|1|Sundering Titan
 BIGNASTY|DECK|R|NORM|1|Terastodon
 BIGNASTY|DECK|R|NORM|1|Vigor
@@ -64,7 +64,7 @@ GWLAND|DECK|M|FOIL|0|Maze of Ith
 GWLAND|DECK|M|FOIL|1|Dryad Arbor
 GWLAND|DECK|M|FOIL|1|Glacial Chasm
 GWLAND|DECK|M|FOIL|2|Knight of the Reliquary
-GWLAND|DECK|M|NORM|0|Sword of Fire and Ice
+GWLAND|DECK|M|NORM|1|Sword of Fire and Ice
 GWLAND|DECK|M|NORM|1|Rampaging Baloths
 GWLAND|DECK|M|NORM|1|Sword of Feast and Famine
 GWLAND|DECK|M|NORM|1|Sword of War and Peace
@@ -77,7 +77,7 @@ GWLAND|DECK|R|NORM|1|Sylvan Safekeeper
 GWLAND|DECK|R|NORM|1|Terravore
 GWLAND|DECK|R|NORM|2|Knight of the Reliquary
 GWLAND|DECK|R|NORM|3|Armageddon
-GWLAND|DECK|R|NORM|3|Stoneforge Mystic
+GWLAND|DECK|R|NORM|4|Stoneforge Mystic
 GWLAND|DECK|R|NORM|4|Birds of Paradise
 GWLAND|DECK|R|NORM|4|Green Sun's Zenith
 GWLAND|DECK|R|NORM|4|Noble Hierarch
