@@ -2,10 +2,10 @@ BIGNASTY|DECK|M|NORM|1|Eye of Ugin
 BIGNASTY|DECK|M|NORM|1|Platinum Emperion
 BIGNASTY|DECK|M|NORM|1|Ulamog, the Infinite Gyre
 BIGNASTY|DECK|R|NORM|1|Eldrazi Temple
-BIGNASTY|DECK|R|NORM|2|Summoning Trap
 BIGNASTY|DECK|R|NORM|1|Sundering Titan
 BIGNASTY|DECK|R|NORM|1|Terastodon
 BIGNASTY|DECK|R|NORM|1|Vigor
+BIGNASTY|DECK|R|NORM|2|Summoning Trap
 BIGNASTY|SIDE|M|NORM|2|Primeval Titan
 BIGNASTY|SIDE|R|NORM|1|Mystifying Maze
 BIGNASTY|SIDE|R|NORM|1|Terra Stomper
@@ -60,13 +60,14 @@ GWLAND|DECK|C|NORM|1|Sejiri Steppe
 GWLAND|DECK|C|NORM|2|Qasali Pridemage
 GWLAND|DECK|C|NORM|3|Plains
 GWLAND|DECK|C|NORM|7|Forest
-GWLAND|DECK|M|FOIL|0|Maze of Ith
+GWLAND|DECK|M|FOIL|1|Batterskull
 GWLAND|DECK|M|FOIL|1|Dryad Arbor
 GWLAND|DECK|M|FOIL|1|Glacial Chasm
+GWLAND|DECK|M|FOIL|1|Maze of Ith
 GWLAND|DECK|M|FOIL|2|Knight of the Reliquary
-GWLAND|DECK|M|NORM|1|Sword of Fire and Ice
 GWLAND|DECK|M|NORM|1|Rampaging Baloths
 GWLAND|DECK|M|NORM|1|Sword of Feast and Famine
+GWLAND|DECK|M|NORM|1|Sword of Fire and Ice
 GWLAND|DECK|M|NORM|1|Sword of War and Peace
 GWLAND|DECK|M|NORM|1|Vesuva
 GWLAND|DECK|R|NORM|1|Cavern of Souls
@@ -77,10 +78,10 @@ GWLAND|DECK|R|NORM|1|Sylvan Safekeeper
 GWLAND|DECK|R|NORM|1|Terravore
 GWLAND|DECK|R|NORM|2|Knight of the Reliquary
 GWLAND|DECK|R|NORM|3|Armageddon
-GWLAND|DECK|R|NORM|4|Stoneforge Mystic
 GWLAND|DECK|R|NORM|4|Birds of Paradise
 GWLAND|DECK|R|NORM|4|Green Sun's Zenith
 GWLAND|DECK|R|NORM|4|Noble Hierarch
+GWLAND|DECK|R|NORM|4|Stoneforge Mystic
 GWLAND|DECK|R|NORM|4|Sunpetal Grove
 GWLAND|DECK|U|NORM|1|Enlightened Tutor
 GWLAND|DECK|U|NORM|1|Eternal Witness
