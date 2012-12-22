@@ -66,8 +66,6 @@ GWLAND|DECK|M|FOIL|1|Glacial Chasm
 GWLAND|DECK|M|FOIL|1|Maze of Ith
 GWLAND|DECK|M|FOIL|2|Knight of the Reliquary
 GWLAND|DECK|M|NORM|1|Rampaging Baloths
-GWLAND|DECK|M|NORM|1|Sword of Feast and Famine
-GWLAND|DECK|M|NORM|1|Sword of Fire and Ice
 GWLAND|DECK|M|NORM|1|Sword of War and Peace
 GWLAND|DECK|M|NORM|1|Vesuva
 GWLAND|DECK|R|NORM|1|Cavern of Souls
@@ -75,20 +73,22 @@ GWLAND|DECK|R|NORM|1|Flagstones of Trokair
 GWLAND|DECK|R|NORM|1|Land Tax
 GWLAND|DECK|R|NORM|1|Sylvan Library
 GWLAND|DECK|R|NORM|1|Sylvan Safekeeper
+GWLAND|DECK|R|NORM|1|Temple Garden
 GWLAND|DECK|R|NORM|1|Terravore
 GWLAND|DECK|R|NORM|2|Knight of the Reliquary
 GWLAND|DECK|R|NORM|3|Armageddon
+GWLAND|DECK|R|NORM|3|Sunpetal Grove
 GWLAND|DECK|R|NORM|4|Birds of Paradise
 GWLAND|DECK|R|NORM|4|Green Sun's Zenith
 GWLAND|DECK|R|NORM|4|Noble Hierarch
 GWLAND|DECK|R|NORM|4|Stoneforge Mystic
-GWLAND|DECK|R|NORM|4|Sunpetal Grove
 GWLAND|DECK|U|NORM|1|Enlightened Tutor
 GWLAND|DECK|U|NORM|1|Eternal Witness
 GWLAND|DECK|U|NORM|1|Mistveil Plains
 GWLAND|DECK|U|NORM|1|Riftstone Portal
 GWLAND|DECK|U|NORM|4|Swords to Plowshares
-GWLAND|SIDE|C|NORM|10|Forest
+GWLAND|SIDE|M|NORM|1|Sword of Feast and Famine
+GWLAND|SIDE|M|NORM|1|Sword of Fire and Ice
 GWLAND|SIDE|R|NORM|1|Gaddock Teeg
 GWLAND|SIDE|R|NORM|1|Limited Resources
 GWLAND|SIDE|R|NORM|1|Petrified Field
@@ -197,6 +197,7 @@ NONE|FREE|R|NORM|1|Chain Stasis
 NONE|FREE|R|NORM|1|Chancellor of the Dross
 NONE|FREE|R|NORM|1|Chancellor of the Tangle
 NONE|FREE|R|NORM|1|Choice of Damnations
+NONE|FREE|R|NORM|1|Collective Blessing
 NONE|FREE|R|NORM|1|Conquering Manticore
 NONE|FREE|R|NORM|1|Conqueror's Pledge
 NONE|FREE|R|NORM|1|Conundrum Sphinx
@@ -218,10 +219,12 @@ NONE|FREE|R|NORM|1|Ezuri's Brigade
 NONE|FREE|R|NORM|1|Ezuri, Renegade Leader
 NONE|FREE|R|NORM|1|Fastbond
 NONE|FREE|R|NORM|1|Feral Hydra
+NONE|FREE|R|NORM|1|Firewing Phoenix
 NONE|FREE|R|NORM|1|Fungusaur
 NONE|FREE|R|NORM|1|Galvanoth
 NONE|FREE|R|NORM|1|Geist-Honored Monk
 NONE|FREE|R|NORM|1|Gigantiform
+NONE|FREE|R|NORM|1|Glacial Fortress
 NONE|FREE|R|NORM|1|Glistening Oil
 NONE|FREE|R|NORM|1|Grand Architect
 NONE|FREE|R|NORM|1|Grappling Hook
@@ -268,6 +271,7 @@ NONE|FREE|R|NORM|1|Near-Death Experience
 NONE|FREE|R|NORM|1|Neverending Torment
 NONE|FREE|R|NORM|1|Ob Nixilis, the Fallen
 NONE|FREE|R|NORM|1|Oracle of Mul Daya
+NONE|FREE|R|NORM|1|Overgrown Tomb
 NONE|FREE|R|NORM|1|Pain's Reward
 NONE|FREE|R|NORM|1|Painful Quandary
 NONE|FREE|R|NORM|1|Phyrexian Arena
@@ -295,11 +299,13 @@ NONE|FREE|R|NORM|1|Selective Memory
 NONE|FREE|R|NORM|1|Semblance Anvil
 NONE|FREE|R|NORM|1|Shape Anew
 NONE|FREE|R|NORM|1|Skyship Weatherlight
+NONE|FREE|R|NORM|1|Slaughter Games
 NONE|FREE|R|NORM|1|Soul Conduit
 NONE|FREE|R|NORM|1|Sphinx of Jwar Isle
 NONE|FREE|R|NORM|1|Sphinx of Magosi
 NONE|FREE|R|NORM|1|Sphinx-Bone Wand
 NONE|FREE|R|NORM|1|Spikeshot Elder
+NONE|FREE|R|NORM|1|Steam Vents
 NONE|FREE|R|NORM|1|Steel Overseer
 NONE|FREE|R|NORM|1|Sunblast Angel
 NONE|FREE|R|NORM|1|Talus Paladin
@@ -384,12 +390,15 @@ NONE|FREE|U|FOIL|1|Landbind Ritual
 NONE|FREE|U|FOIL|1|Lure
 NONE|FREE|U|FOIL|1|Murasa Pyromancer
 NONE|FREE|U|FOIL|1|Necropede
+NONE|FREE|U|NORM|1|Acidic Slime
 NONE|FREE|U|NORM|1|Aether Flash
 NONE|FREE|U|NORM|1|Ajani's Pridemate
 NONE|FREE|U|NORM|1|Arbalest Elite
 NONE|FREE|U|NORM|1|Arrow Volley Trap
+NONE|FREE|U|NORM|1|Azorius Justiciar
 NONE|FREE|U|NORM|1|Blazing Torch
 NONE|FREE|U|NORM|1|Blood Feud
+NONE|FREE|U|NORM|1|Blood Reckoning
 NONE|FREE|U|NORM|1|Bramblecrush
 NONE|FREE|U|NORM|1|Brass Squire
 NONE|FREE|U|NORM|1|Burning Vengeance
@@ -399,7 +408,9 @@ NONE|FREE|U|NORM|1|Carrion Call
 NONE|FREE|U|NORM|1|Celestial Purge
 NONE|FREE|U|NORM|1|Chill
 NONE|FREE|U|NORM|1|Choking Fumes
+NONE|FREE|U|NORM|1|Chronomaton
 NONE|FREE|U|NORM|1|Cobra Trap
+NONE|FREE|U|NORM|1|Codex Shredder
 NONE|FREE|U|NORM|1|Consume Spirit
 NONE|FREE|U|NORM|1|Crown of Empires
 NONE|FREE|U|NORM|1|Crumbling Colossus
@@ -414,6 +425,7 @@ NONE|FREE|U|NORM|1|Elixir of Immortality
 NONE|FREE|U|NORM|1|Endure
 NONE|FREE|U|NORM|1|Entomber Exarch
 NONE|FREE|U|NORM|1|Excavation
+NONE|FREE|U|NORM|1|Fall of the Gavel
 NONE|FREE|U|NORM|1|Feast of Blood
 NONE|FREE|U|NORM|1|Feldon's Cane
 NONE|FREE|U|NORM|1|Gallows Warden
@@ -423,6 +435,7 @@ NONE|FREE|U|NORM|1|Goblin Ruinblaster
 NONE|FREE|U|NORM|1|Grasp of Phantoms
 NONE|FREE|U|NORM|1|Graypelt Refuge
 NONE|FREE|U|NORM|1|Grim Flowering
+NONE|FREE|U|NORM|1|Guttersnipe
 NONE|FREE|U|NORM|1|Hagra Diabolist
 NONE|FREE|U|NORM|1|Hellfire Mongrel
 NONE|FREE|U|NORM|1|Honden of Cleansing Fire
@@ -444,6 +457,7 @@ NONE|FREE|U|NORM|1|Kor Aeronaut
 NONE|FREE|U|NORM|1|Kor Duelist
 NONE|FREE|U|NORM|1|Lead the Stampede
 NONE|FREE|U|NORM|1|Library of Leng
+NONE|FREE|U|NORM|1|Lyev Skynight
 NONE|FREE|U|NORM|1|Mask of Avacyn
 NONE|FREE|U|NORM|1|Mausoleum Guard
 NONE|FREE|U|NORM|1|Mind Sludge
@@ -451,6 +465,7 @@ NONE|FREE|U|NORM|1|Mind Stone
 NONE|FREE|U|NORM|1|Mnemonic Sliver
 NONE|FREE|U|NORM|1|Moan of the Unhallowed
 NONE|FREE|U|NORM|1|Mountain Valley
+NONE|FREE|U|NORM|1|Mwonvuli Beast Tracker
 NONE|FREE|U|NORM|1|Mycosynth Fiend
 NONE|FREE|U|NORM|1|Needlebite Trap
 NONE|FREE|U|NORM|1|Novijen, Heart of Progress
@@ -465,10 +480,13 @@ NONE|FREE|U|NORM|1|Quest for Ancient Secrets
 NONE|FREE|U|NORM|1|Quest for Pure Flame
 NONE|FREE|U|NORM|1|Quest for the Holy Relic
 NONE|FREE|U|NORM|1|Rage Thrower
+NONE|FREE|U|NORM|1|Rakdos Ragemutt
 NONE|FREE|U|NORM|1|Ravenous Trap
 NONE|FREE|U|NORM|1|Renounce
+NONE|FREE|U|NORM|1|Rewind
 NONE|FREE|U|NORM|1|River Boa
 NONE|FREE|U|NORM|1|Runeflare Trap
+NONE|FREE|U|NORM|1|Savage Surge
 NONE|FREE|U|NORM|1|Scourge of Geier Reach
 NONE|FREE|U|NORM|1|Scrib Nibblers
 NONE|FREE|U|NORM|1|Seascape Aerialist
@@ -484,6 +502,8 @@ NONE|FREE|U|NORM|1|Sphere of the Suns
 NONE|FREE|U|NORM|1|Spider Spawning
 NONE|FREE|U|NORM|1|Stormblood Berserker
 NONE|FREE|U|NORM|1|Summoner's Bane
+NONE|FREE|U|NORM|1|Tablet of the Guilds
+NONE|FREE|U|NORM|1|Thoughtflare
 NONE|FREE|U|NORM|1|Tracker's Instincts
 NONE|FREE|U|NORM|1|Trailblazer's Boots
 NONE|FREE|U|NORM|1|Trapmaker's Snare
@@ -493,6 +513,7 @@ NONE|FREE|U|NORM|1|Trigon of Rage
 NONE|FREE|U|NORM|1|Trusty Machete
 NONE|FREE|U|NORM|1|Urza's Mine
 NONE|FREE|U|NORM|1|Vivid Grove
+NONE|FREE|U|NORM|1|Volcanic Geyser
 NONE|FREE|U|NORM|1|Wreath of Geists
 NONE|FREE|U|NORM|2|Abattoir Ghoul
 NONE|FREE|U|NORM|2|Arc Trail
