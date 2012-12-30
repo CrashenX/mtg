@@ -197,7 +197,6 @@ NONE|FREE|R|NORM|1|Chain Stasis
 NONE|FREE|R|NORM|1|Chancellor of the Dross
 NONE|FREE|R|NORM|1|Chancellor of the Tangle
 NONE|FREE|R|NORM|1|Choice of Damnations
-NONE|FREE|R|NORM|1|Collective Blessing
 NONE|FREE|R|NORM|1|Conquering Manticore
 NONE|FREE|R|NORM|1|Conqueror's Pledge
 NONE|FREE|R|NORM|1|Conundrum Sphinx
@@ -207,6 +206,7 @@ NONE|FREE|R|NORM|1|Cosi's Trickster
 NONE|FREE|R|NORM|1|Creeping Tar Pit
 NONE|FREE|R|NORM|1|Crypt of Agadeem
 NONE|FREE|R|NORM|1|Darkslick Shores
+NONE|FREE|R|NORM|1|Death's Presence
 NONE|FREE|R|NORM|1|Dingus Egg
 NONE|FREE|R|NORM|1|Divine Reckoning
 NONE|FREE|R|NORM|1|Dormant Gomazoa
@@ -257,6 +257,7 @@ NONE|FREE|R|NORM|1|Loxodon Warhammer
 NONE|FREE|R|NORM|1|Madrush Cyclops
 NONE|FREE|R|NORM|1|Magma Phoenix
 NONE|FREE|R|NORM|1|Magmaw
+NONE|FREE|R|NORM|1|Martial Law
 NONE|FREE|R|NORM|1|Master Transmuter
 NONE|FREE|R|NORM|1|Memoricide
 NONE|FREE|R|NORM|1|Mimic Vat
@@ -271,7 +272,6 @@ NONE|FREE|R|NORM|1|Near-Death Experience
 NONE|FREE|R|NORM|1|Neverending Torment
 NONE|FREE|R|NORM|1|Ob Nixilis, the Fallen
 NONE|FREE|R|NORM|1|Oracle of Mul Daya
-NONE|FREE|R|NORM|1|Overgrown Tomb
 NONE|FREE|R|NORM|1|Pain's Reward
 NONE|FREE|R|NORM|1|Painful Quandary
 NONE|FREE|R|NORM|1|Phyrexian Arena
@@ -301,6 +301,7 @@ NONE|FREE|R|NORM|1|Shape Anew
 NONE|FREE|R|NORM|1|Skyship Weatherlight
 NONE|FREE|R|NORM|1|Slaughter Games
 NONE|FREE|R|NORM|1|Soul Conduit
+NONE|FREE|R|NORM|1|Soul of the Harvest
 NONE|FREE|R|NORM|1|Sphinx of Jwar Isle
 NONE|FREE|R|NORM|1|Sphinx of Magosi
 NONE|FREE|R|NORM|1|Sphinx-Bone Wand
@@ -332,6 +333,7 @@ NONE|FREE|R|NORM|2|Asceticism
 NONE|FREE|R|NORM|2|Birthing Pod
 NONE|FREE|R|NORM|2|Carnifex Demon
 NONE|FREE|R|NORM|2|Cerebral Eruption
+NONE|FREE|R|NORM|2|Collective Blessing
 NONE|FREE|R|NORM|2|Cryptoplasm
 NONE|FREE|R|NORM|2|Day of Judgment
 NONE|FREE|R|NORM|2|Dissipation Field
@@ -361,6 +363,7 @@ NONE|FREE|R|NORM|2|Myr Battlesphere
 NONE|FREE|R|NORM|2|Myr Superion
 NONE|FREE|R|NORM|2|Norn's Annex
 NONE|FREE|R|NORM|2|Oran-Rief, the Vastwood
+NONE|FREE|R|NORM|2|Overgrown Tomb
 NONE|FREE|R|NORM|2|Predatory Urge
 NONE|FREE|R|NORM|2|Pyromancer Ascension
 NONE|FREE|R|NORM|2|Ratchet Bomb
