@@ -38,8 +38,6 @@ FISH|SIDE|U|NORM|1|Merfolk Wayfinder
 FISH|SIDE|U|NORM|1|Puresight Merrow
 FISH|SIDE|U|NORM|1|Surgespanner
 FISH|SIDE|U|NORM|3|Sage of Fables
-GROWTH,FISH|DECK|R|NORM|2|Earthcraft
-GROWTH,FISH|DECK|R|NORM|4|Hinterland Harbor
 GROWTH,FISH|DECK|U|NORM|2|Paradise Mantle
 GROWTH|DECK|C|NORM|10|Forest
 GROWTH|DECK|C|NORM|1|Llanowar Reborn
@@ -50,6 +48,7 @@ GROWTH|DECK|R|FOIL|1|Training Grounds
 GROWTH|DECK|R|NORM|1|Murkfiend Liege
 GROWTH|DECK|R|NORM|1|Training Grounds
 GROWTH|DECK|R|NORM|2|Asceticism
+GROWTH|DECK|R|NORM|4|Hinterland Harbor
 GROWTH|DECK|R|NORM|4|Leyline of Vitality
 GROWTH|DECK|R|NORM|4|Protean Hydra
 GROWTH|DECK|R|NORM|4|Scute Mob
@@ -121,279 +120,10 @@ LANDFALL|DECK|U|NORM|4|Gemstone Mine
 LANDFALL|DECK|U|NORM|4|Glacial Chasm
 LANDFALL|DECK|U|NORM|4|Treva's Ruins
 LANDFALL|SIDE|C|NORM|2|Grazing Gladehart
-NONE|FREE|M|FOIL|1|Dryad Arbor
-NONE|FREE|M|FOIL|1|Glacial Chasm
-NONE|FREE|M|FOIL|1|Grove of the Burnwillows
-NONE|FREE|M|FOIL|1|High Market
-NONE|FREE|M|FOIL|1|Maze of Ith
-NONE|FREE|M|FOIL|1|Phyrexian Negator
-NONE|FREE|M|FOIL|1|Urza's Rage
-NONE|FREE|M|FOIL|1|Vesuva
-NONE|FREE|M|FOIL|2|Ancient Tomb
-NONE|FREE|M|FOIL|2|Boseiju, Who Shelters All
-NONE|FREE|M|FOIL|2|Cephalid Coliseum
-NONE|FREE|M|FOIL|2|Desert
-NONE|FREE|M|FOIL|2|Forbidden Orchard
-NONE|FREE|M|FOIL|2|Shivan Gorge
-NONE|FREE|M|FOIL|2|Urborg, Tomb of Yawgmoth
-NONE|FREE|M|FOIL|2|Windbrisk Heights
-NONE|FREE|M|NORM|1|Ajani Goldmane
-NONE|FREE|M|NORM|1|Cast Through Time
-NONE|FREE|M|NORM|1|Chandra Nalaar
-NONE|FREE|M|NORM|1|Child of Alara
-NONE|FREE|M|NORM|1|Demon of Death's Gate
-NONE|FREE|M|NORM|1|Felidar Sovereign
-NONE|FREE|M|NORM|1|Garruk Wildspeaker
-NONE|FREE|M|NORM|1|Indomitable Archangel
-NONE|FREE|M|NORM|1|Khalni Hydra
-NONE|FREE|M|NORM|1|Lorthos, the Tidemaker
-NONE|FREE|M|NORM|1|Mox Opal
-NONE|FREE|M|NORM|1|Platinum Emperion
-NONE|FREE|M|NORM|1|Sheoldred, Whispering One
-NONE|FREE|M|NORM|1|Warren Instigator
-NONE|FREE|M|NORM|1|Wrexial, the Risen Deep
-NONE|FREE|M|NORM|2|Etched Monstrosity
-NONE|FREE|R|FOIL|1|Arashi, the Sky Asunder
-NONE|FREE|R|FOIL|1|Archon of Redemption
-NONE|FREE|R|FOIL|1|Elemental Resonance
-NONE|FREE|R|FOIL|1|Flameblast Dragon
-NONE|FREE|R|FOIL|1|Gelatinous Genesis
-NONE|FREE|R|FOIL|1|Gigantomancer
-NONE|FREE|R|FOIL|1|Invader Parasite
-NONE|FREE|R|FOIL|1|Kessig Cagebreakers
-NONE|FREE|R|FOIL|1|Memoricide
-NONE|FREE|R|FOIL|1|Putrefax
-NONE|FREE|R|FOIL|1|Sadistic Sacrament
-NONE|FREE|R|FOIL|1|Spawnsire of Ulamog
-NONE|FREE|R|FOIL|1|Surgical Extraction
-NONE|FREE|R|FOIL|1|Verdant Force
-NONE|FREE|R|FOIL|2|Captivating Vampire
-NONE|FREE|R|FOIL|2|Sunblast Angel
-NONE|FREE|R|FOIL|2|Wolfbriar Elemental
-NONE|FREE|R|NORM|1|Aegis of Honor
-NONE|FREE|R|NORM|1|Akron Legionnaire
-NONE|FREE|R|NORM|1|Anaba Spirit Crafter
-NONE|FREE|R|NORM|1|Angelheart Vial
-NONE|FREE|R|NORM|1|Arashi, the Sky Asunder
-NONE|FREE|R|NORM|1|Archive Trap
-NONE|FREE|R|NORM|1|Archon of Redemption
-NONE|FREE|R|NORM|1|Awakening Zone
-NONE|FREE|R|NORM|1|Back from the Brink
-NONE|FREE|R|NORM|1|Baneful Omen
-NONE|FREE|R|NORM|1|Barren Glory
-NONE|FREE|R|NORM|1|Bazaar Trader
-NONE|FREE|R|NORM|1|Beastmaster Ascension
-NONE|FREE|R|NORM|1|Blade of the Bloodchief
-NONE|FREE|R|NORM|1|Blasphemous Act
-NONE|FREE|R|NORM|1|Bludgeon Brawl
-NONE|FREE|R|NORM|1|Brittle Effigy
-NONE|FREE|R|NORM|1|Cackling Counterpart
-NONE|FREE|R|NORM|1|Caged Sun
-NONE|FREE|R|NORM|1|Cauldron of Souls
-NONE|FREE|R|NORM|1|Celestial Colonnade
-NONE|FREE|R|NORM|1|Celestial Mantle
-NONE|FREE|R|NORM|1|Chain Reaction
-NONE|FREE|R|NORM|1|Chain Stasis
-NONE|FREE|R|NORM|1|Chancellor of the Dross
-NONE|FREE|R|NORM|1|Chancellor of the Tangle
-NONE|FREE|R|NORM|1|Choice of Damnations
-NONE|FREE|R|NORM|1|Conquering Manticore
-NONE|FREE|R|NORM|1|Conqueror's Pledge
-NONE|FREE|R|NORM|1|Conundrum Sphinx
-NONE|FREE|R|NORM|1|Copperline Gorge
-NONE|FREE|R|NORM|1|Coralhelm Commander
-NONE|FREE|R|NORM|1|Cosi's Trickster
-NONE|FREE|R|NORM|1|Creeping Tar Pit
-NONE|FREE|R|NORM|1|Crypt of Agadeem
-NONE|FREE|R|NORM|1|Darkslick Shores
-NONE|FREE|R|NORM|1|Death's Presence
-NONE|FREE|R|NORM|1|Dingus Egg
-NONE|FREE|R|NORM|1|Divine Reckoning
-NONE|FREE|R|NORM|1|Dormant Gomazoa
-NONE|FREE|R|NORM|1|Duplicant
-NONE|FREE|R|NORM|1|Eldrazi Conscription
-NONE|FREE|R|NORM|1|Emeria, the Sky Ruin
-NONE|FREE|R|NORM|1|Etched Champion
-NONE|FREE|R|NORM|1|Eternal Dominion
-NONE|FREE|R|NORM|1|Ezuri's Brigade
-NONE|FREE|R|NORM|1|Ezuri, Renegade Leader
-NONE|FREE|R|NORM|1|Fastbond
-NONE|FREE|R|NORM|1|Feral Hydra
-NONE|FREE|R|NORM|1|Firewing Phoenix
-NONE|FREE|R|NORM|1|Fungusaur
-NONE|FREE|R|NORM|1|Galvanoth
-NONE|FREE|R|NORM|1|Geist-Honored Monk
-NONE|FREE|R|NORM|1|Gigantiform
-NONE|FREE|R|NORM|1|Glacial Fortress
-NONE|FREE|R|NORM|1|Glistening Oil
-NONE|FREE|R|NORM|1|Grand Architect
-NONE|FREE|R|NORM|1|Grappling Hook
-NONE|FREE|R|NORM|1|Grim Poppet
-NONE|FREE|R|NORM|1|Grindclock
-NONE|FREE|R|NORM|1|Grinning Totem
-NONE|FREE|R|NORM|1|Hoarding Dragon
-NONE|FREE|R|NORM|1|Homura, Human Ascendant
-NONE|FREE|R|NORM|1|Idyllic Tutor
-NONE|FREE|R|NORM|1|Immortal Coil
-NONE|FREE|R|NORM|1|Infernal Kirin
-NONE|FREE|R|NORM|1|Isamaru, Hound of Konda
-NONE|FREE|R|NORM|1|Jinxed Idol
-NONE|FREE|R|NORM|1|Jor Kadeen, the Prevailer
-NONE|FREE|R|NORM|1|Kamahl, Fist of Krosa
-NONE|FREE|R|NORM|1|Kataki, War's Wage
-NONE|FREE|R|NORM|1|Kazuul Warlord
-NONE|FREE|R|NORM|1|Kazuul, Tyrant of the Cliffs
-NONE|FREE|R|NORM|1|Kessig Cagebreakers
-NONE|FREE|R|NORM|1|Kessig Wolf Run
-NONE|FREE|R|NORM|1|Kiyomaro, First to Stand
-NONE|FREE|R|NORM|1|Knowledge Pool
-NONE|FREE|R|NORM|1|Lashwrithe
-NONE|FREE|R|NORM|1|Lavaclaw Reaches
-NONE|FREE|R|NORM|1|Leonin Abunas
-NONE|FREE|R|NORM|1|Life's Finale
-NONE|FREE|R|NORM|1|Livewire Lash
-NONE|FREE|R|NORM|1|Living Death
-NONE|FREE|R|NORM|1|Loxodon Warhammer
-NONE|FREE|R|NORM|1|Madrush Cyclops
-NONE|FREE|R|NORM|1|Magma Phoenix
-NONE|FREE|R|NORM|1|Magmaw
-NONE|FREE|R|NORM|1|Martial Law
-NONE|FREE|R|NORM|1|Master Transmuter
-NONE|FREE|R|NORM|1|Memoricide
-NONE|FREE|R|NORM|1|Mimic Vat
-NONE|FREE|R|NORM|1|Mirari
-NONE|FREE|R|NORM|1|Molimo, Maro-Sorcerer
-NONE|FREE|R|NORM|1|Molten Psyche
-NONE|FREE|R|NORM|1|Mosswort Bridge
-NONE|FREE|R|NORM|1|Mycoloth
-NONE|FREE|R|NORM|1|Myr Propagator
-NONE|FREE|R|NORM|1|Nature's Revolt
-NONE|FREE|R|NORM|1|Near-Death Experience
-NONE|FREE|R|NORM|1|Neverending Torment
-NONE|FREE|R|NORM|1|Ob Nixilis, the Fallen
-NONE|FREE|R|NORM|1|Oracle of Mul Daya
-NONE|FREE|R|NORM|1|Pain's Reward
-NONE|FREE|R|NORM|1|Painful Quandary
-NONE|FREE|R|NORM|1|Phyrexian Arena
-NONE|FREE|R|NORM|1|Phyrexian Colossus
-NONE|FREE|R|NORM|1|Phyrexian Ingester
-NONE|FREE|R|NORM|1|Phyrexian Metamorph
-NONE|FREE|R|NORM|1|Phyrexian Plaguelord
-NONE|FREE|R|NORM|1|Phyrexian Swarmlord
-NONE|FREE|R|NORM|1|Phyrexian Unlife
-NONE|FREE|R|NORM|1|Praetor's Grasp
-NONE|FREE|R|NORM|1|Primitive Etchings
-NONE|FREE|R|NORM|1|Protean Hydra
-NONE|FREE|R|NORM|1|Quicksilver Gargantuan
-NONE|FREE|R|NORM|1|Rally the Horde
-NONE|FREE|R|NORM|1|Renegade Doppelganger
-NONE|FREE|R|NORM|1|Rite of Replication
-NONE|FREE|R|NORM|1|Rites of Flourishing
-NONE|FREE|R|NORM|1|Rith, the Awakener
-NONE|FREE|R|NORM|1|Rowen
-NONE|FREE|R|NORM|1|Rune-Tail, Kitsune Ascendant
-NONE|FREE|R|NORM|1|Sadistic Sacrament
-NONE|FREE|R|NORM|1|Sea Gate Loremaster
-NONE|FREE|R|NORM|1|Seer's Sundial
-NONE|FREE|R|NORM|1|Selective Memory
-NONE|FREE|R|NORM|1|Semblance Anvil
-NONE|FREE|R|NORM|1|Shape Anew
-NONE|FREE|R|NORM|1|Skyship Weatherlight
-NONE|FREE|R|NORM|1|Slaughter Games
-NONE|FREE|R|NORM|1|Soul Conduit
-NONE|FREE|R|NORM|1|Soul of the Harvest
-NONE|FREE|R|NORM|1|Sphinx of Jwar Isle
-NONE|FREE|R|NORM|1|Sphinx of Magosi
-NONE|FREE|R|NORM|1|Sphinx-Bone Wand
-NONE|FREE|R|NORM|1|Spikeshot Elder
-NONE|FREE|R|NORM|1|Steam Vents
-NONE|FREE|R|NORM|1|Steel Overseer
-NONE|FREE|R|NORM|1|Sunblast Angel
-NONE|FREE|R|NORM|1|Talus Paladin
-NONE|FREE|R|NORM|1|Teferi's Imp
-NONE|FREE|R|NORM|1|Telemin Performance
-NONE|FREE|R|NORM|1|Torpor Orb
-NONE|FREE|R|NORM|1|Training Grounds
-NONE|FREE|R|NORM|1|Traumatize
-NONE|FREE|R|NORM|1|Troll Ascetic
-NONE|FREE|R|NORM|1|Tuktuk the Explorer
-NONE|FREE|R|NORM|1|Tunnel Ignus
-NONE|FREE|R|NORM|1|Turntimber Ranger
-NONE|FREE|R|NORM|1|Unbreathing Horde
-NONE|FREE|R|NORM|1|Undead Alchemist
-NONE|FREE|R|NORM|1|Unwinding Clock
-NONE|FREE|R|NORM|1|Vengeful Archon
-NONE|FREE|R|NORM|1|Voidslime
-NONE|FREE|R|NORM|1|Wine of Blood and Iron
-NONE|FREE|R|NORM|1|Witch-Maw Nephilim
-NONE|FREE|R|NORM|1|Wolfbriar Elemental
-NONE|FREE|R|NORM|1|World Queller
-NONE|FREE|R|NORM|1|Xenograft
-NONE|FREE|R|NORM|2|Asceticism
-NONE|FREE|R|NORM|2|Birthing Pod
-NONE|FREE|R|NORM|2|Carnifex Demon
-NONE|FREE|R|NORM|2|Cerebral Eruption
-NONE|FREE|R|NORM|2|Collective Blessing
-NONE|FREE|R|NORM|2|Cryptoplasm
-NONE|FREE|R|NORM|2|Day of Judgment
-NONE|FREE|R|NORM|2|Dissipation Field
-NONE|FREE|R|NORM|2|Djinn of Wishes
-NONE|FREE|R|NORM|2|Emeria Angel
-NONE|FREE|R|NORM|2|Engulfing Slagwurm
-NONE|FREE|R|NORM|2|Gargoyle Castle
-NONE|FREE|R|NORM|2|Gavony Township
-NONE|FREE|R|NORM|2|Halo Hunter
-NONE|FREE|R|NORM|2|Hand of the Praetors
-NONE|FREE|R|NORM|2|Heretic's Punishment
-NONE|FREE|R|NORM|2|Hex Parasite
-NONE|FREE|R|NORM|2|Hokori, Dust Drinker
-NONE|FREE|R|NORM|2|Howling Mine
-NONE|FREE|R|NORM|2|Inexorable Tide
-NONE|FREE|R|NORM|2|Jiwari, the Earth Aflame
-NONE|FREE|R|NORM|2|Kemba, Kha Regent
-NONE|FREE|R|NORM|2|Kor Spiritdancer
-NONE|FREE|R|NORM|2|Kuldotha Phoenix
-NONE|FREE|R|NORM|2|Leyline of Anticipation
-NONE|FREE|R|NORM|2|Lodestone Golem
-NONE|FREE|R|NORM|2|Malakir Bloodwitch
-NONE|FREE|R|NORM|2|Marshal's Anthem
-NONE|FREE|R|NORM|2|Melira, Sylvok Outcast
-NONE|FREE|R|NORM|2|Mitotic Slime
-NONE|FREE|R|NORM|2|Myr Battlesphere
-NONE|FREE|R|NORM|2|Myr Superion
-NONE|FREE|R|NORM|2|Norn's Annex
-NONE|FREE|R|NORM|2|Oran-Rief, the Vastwood
-NONE|FREE|R|NORM|2|Overgrown Tomb
-NONE|FREE|R|NORM|2|Predatory Urge
-NONE|FREE|R|NORM|2|Pyromancer Ascension
-NONE|FREE|R|NORM|2|Ratchet Bomb
-NONE|FREE|R|NORM|2|Slag Fiend
-NONE|FREE|R|NORM|2|Spawnsire of Ulamog
-NONE|FREE|R|NORM|2|Sphinx of Lost Truths
-NONE|FREE|R|NORM|2|Strata Scythe
-NONE|FREE|R|NORM|2|Student of Warfare
-NONE|FREE|R|NORM|2|Surgical Extraction
-NONE|FREE|R|NORM|2|Tempered Steel
-NONE|FREE|R|NORM|2|Terastodon
-NONE|FREE|R|NORM|2|True Conviction
-NONE|FREE|R|NORM|2|Venser's Journal
-NONE|FREE|R|NORM|3|Archmage Ascension
-NONE|FREE|R|NORM|3|Contagion Engine
-NONE|FREE|R|NORM|3|Lavaball Trap
-NONE|FREE|R|NORM|4|Armageddon
-NONE|FREE|R|NORM|4|Divert
-NONE|FREE|R|NORM|4|Exotic Orchard
-NONE|FREE|R|NORM|4|Loyal Sentry
-NONE|FREE|R|NORM|4|Royal Assassin
-NONE|FREE|R|NORM|4|Twincast
-NONE|FREE|R|NORM|4|Underworld Dreams
-NONE|FREE|R|NORM|4|Walking Archive
-NONE|FREE|U|FOIL|1|Hollowhenge Scavenger
-NONE|FREE|U|FOIL|1|Landbind Ritual
-NONE|FREE|U|FOIL|1|Lure
-NONE|FREE|U|FOIL|1|Murasa Pyromancer
-NONE|FREE|U|FOIL|1|Necropede
-
+WW|DECK|R|NORM|4|Proclamation of Rebirth
+WW|DECK|R|NORM|4|Serra Ascendant
+WW|DECK|R|NORM|4|Student of Warfare
+WW|DECK|U|NORM|3|Ajani's Pridemate
 NONE|FREE|U|NORM|3|Abattoir Ghoul
 NONE|FREE|U|NORM|1|Abuna Acolyte
 NONE|FREE|U|NORM|2|Acid Web Spider
@@ -401,94 +131,145 @@ NONE|FREE|U|NORM|1|Acidic Slime
 NONE|FREE|U|NORM|2|Act of Aggression
 NONE|FREE|U|FOIL|1|Act of Aggression
 NONE|FREE|U|NORM|3|Act of Treason
+NONE|FREE|R|NORM|1|Aegis of Honor
 NONE|FREE|U|NORM|4|Aether Figment
 NONE|FREE|U|NORM|1|Aether Flash
 NONE|FREE|U|NORM|2|Affa Guard Hound
 NONE|FREE|U|NORM|2|Air Elemental
 NONE|FREE|U|NORM|1|Air Servant
+NONE|FREE|M|NORM|1|Ajani Goldmane
 NONE|FREE|U|NORM|1|Akoum Boulderfoot
 NONE|FREE|U|NORM|4|Akoum Refuge
+NONE|FREE|R|NORM|1|Akron Legionnaire
 NONE|FREE|U|NORM|1|Allied Strategies
 NONE|FREE|U|NORM|2|Alloy Myr
 NONE|FREE|U|NORM|2|Alluring Siren
+NONE|FREE|R|NORM|1|Anaba Spirit Crafter
+NONE|FREE|M|FOIL|2|Ancient Tomb
 NONE|FREE|U|NORM|1|Angel's Tomb
+NONE|FREE|R|NORM|1|Angelheart Vial
 NONE|FREE|U|NORM|1|Angelic Armaments
+NONE|FREE|R|FOIL|1|Arashi, the Sky Asunder
+NONE|FREE|R|NORM|1|Arashi, the Sky Asunder
 NONE|FREE|U|NORM|1|Arbalest Elite
 NONE|FREE|U|NORM|4|Arc Trail
+NONE|FREE|R|NORM|1|Archive Trap
+NONE|FREE|R|NORM|3|Archmage Ascension
+NONE|FREE|R|FOIL|1|Archon of Redemption
+NONE|FREE|R|NORM|1|Archon of Redemption
 NONE|FREE|U|NORM|2|Argent Mutation
 NONE|FREE|U|NORM|2|Arm with Aether
+NONE|FREE|R|NORM|4|Armageddon
 NONE|FREE|U|NORM|2|Armored Ascension
 NONE|FREE|U|NORM|3|Arrogant Bloodlord
 NONE|FREE|U|NORM|1|Arrow Volley Trap
 NONE|FREE|U|NORM|2|Artisan of Kozilek
+NONE|FREE|R|NORM|2|Asceticism
 NONE|FREE|U|NORM|6|Auriok Edgewright
 NONE|FREE|U|NORM|1|Auriok Survivors
 NONE|FREE|U|NORM|1|Autumn's Veil
+NONE|FREE|R|NORM|1|Awakening Zone
 NONE|FREE|U|NORM|1|Azorius Aethermage
 NONE|FREE|U|NORM|1|Azorius Charm
 NONE|FREE|U|NORM|1|Azorius Herald
 NONE|FREE|U|NORM|1|Azorius Justiciar
+NONE|FREE|R|NORM|1|Back from the Brink
 NONE|FREE|U|NORM|4|Bad River
 NONE|FREE|U|NORM|3|Baloth Cage Trap
 NONE|FREE|U|NORM|2|Baloth Woodcrasher
+NONE|FREE|R|NORM|1|Baneful Omen
 NONE|FREE|U|NORM|1|Barbed Battlegear
 NONE|FREE|U|FOIL|1|Barbed Battlegear
 NONE|FREE|U|NORM|1|Barrage Ogre
+NONE|FREE|R|NORM|1|Barren Glory
 NONE|FREE|U|NORM|1|Barter in Blood
 NONE|FREE|U|NORM|4|Basalt Monolith
 NONE|FREE|U|NORM|1|Battleground Geist
 NONE|FREE|U|NORM|1|Batwing Brume
+NONE|FREE|R|NORM|1|Bazaar Trader
 NONE|FREE|U|NORM|2|Beast Within
+NONE|FREE|R|NORM|1|Beastmaster Ascension
 NONE|FREE|U|NORM|5|Bellowing Tanglewurm
 NONE|FREE|U|NORM|2|Bestial Menace
+NONE|FREE|R|NORM|2|Birthing Pod
 NONE|FREE|U|NORM|1|Biting Tether
 NONE|FREE|U|NORM|1|Bitterheart Witch
 NONE|FREE|U|NORM|1|Black Knight
+NONE|FREE|R|NORM|1|Blade of the Bloodchief
 NONE|FREE|U|NORM|2|Blanchwood Armor
+NONE|FREE|R|NORM|1|Blasphemous Act
 NONE|FREE|U|NORM|4|Blazing Torch
 NONE|FREE|U|NORM|1|Blood Feud
 NONE|FREE|U|NORM|1|Blood Reckoning
 NONE|FREE|U|NORM|1|Bloodhusk Ritualist
 NONE|FREE|U|NORM|4|Bloodshot Trainee
+NONE|FREE|R|NORM|1|Bludgeon Brawl
 NONE|FREE|U|NORM|2|Boar Umbra
+NONE|FREE|U|NORM|1|Boldwyr Intimidator
 NONE|FREE|U|NORM|1|Bone Shredder
 NONE|FREE|U|NORM|2|Boneyard Wurm
+NONE|FREE|M|FOIL|2|Boseiju, Who Shelters All
 NONE|FREE|U|NORM|1|Brace for Impact
 NONE|FREE|U|NORM|1|Brain Pry
 NONE|FREE|U|NORM|1|Bramblecrush
 NONE|FREE|U|NORM|1|Bramblesnap
 NONE|FREE|U|NORM|1|Brass Squire
 NONE|FREE|U|NORM|4|Brave the Elements
+NONE|FREE|R|NORM|1|Brittle Effigy
 NONE|FREE|U|NORM|2|Broodwarden
 NONE|FREE|U|NORM|2|Brutalizer Exarch
 NONE|FREE|U|NORM|2|Builder's Blessing
 NONE|FREE|U|NORM|1|Burning Vengeance
 NONE|FREE|U|NORM|1|Butcher's Cleaver
+NONE|FREE|R|NORM|1|Cackling Counterpart
+NONE|FREE|R|NORM|1|Caged Sun
 NONE|FREE|U|NORM|4|Callow Jushi
 NONE|FREE|U|NORM|3|Canopy Cover
+NONE|FREE|R|FOIL|2|Captivating Vampire
 NONE|FREE|U|NORM|2|Caress of Phyrexia
 NONE|FREE|U|NORM|3|Carnage Altar
+NONE|FREE|R|NORM|2|Carnifex Demon
 NONE|FREE|U|NORM|1|Carpet of Flowers
 NONE|FREE|U|NORM|5|Carrion Call
+NONE|FREE|M|NORM|1|Cast Through Time
 NONE|FREE|U|NORM|1|Cathedral Membrane
+NONE|FREE|R|NORM|1|Cauldron of Souls
 NONE|FREE|U|NORM|3|Caustic Crawler
+NONE|FREE|R|NORM|1|Celestial Colonnade
 NONE|FREE|U|NORM|2|Celestial Dawn
+NONE|FREE|R|NORM|1|Celestial Mantle
 NONE|FREE|U|NORM|3|Celestial Purge
+NONE|FREE|M|FOIL|2|Cephalid Coliseum
+NONE|FREE|R|NORM|2|Cerebral Eruption
+NONE|FREE|R|NORM|1|Chain Reaction
+NONE|FREE|R|NORM|1|Chain Stasis
+NONE|FREE|R|NORM|1|Chancellor of the Dross
+NONE|FREE|R|NORM|1|Chancellor of the Tangle
+NONE|FREE|M|NORM|1|Chandra Nalaar
 NONE|FREE|U|NORM|4|Charge Across the Araba
 NONE|FREE|U|NORM|1|Charging Troll
+NONE|FREE|M|NORM|1|Child of Alara
 NONE|FREE|U|NORM|1|Chill
+NONE|FREE|R|NORM|1|Choice of Damnations
 NONE|FREE|U|NORM|1|Choking Fumes
 NONE|FREE|U|NORM|1|Chronomaton
 NONE|FREE|U|NORM|1|Cloistered Youth
 NONE|FREE|U|NORM|2|Clone Shell
 NONE|FREE|U|NORM|2|Cobra Trap
 NONE|FREE|U|NORM|2|Codex Shredder
+NONE|FREE|R|NORM|2|Collective Blessing
 NONE|FREE|U|NORM|1|Condemn
+NONE|FREE|R|NORM|1|Conquering Manticore
+NONE|FREE|R|NORM|1|Conqueror's Pledge
 NONE|FREE|U|NORM|4|Consecrate Land
 NONE|FREE|U|NORM|2|Consume Spirit
 NONE|FREE|U|NORM|5|Contagion Clasp
 NONE|FREE|U|FOIL|1|Contagion Clasp
+NONE|FREE|R|NORM|3|Contagion Engine
+NONE|FREE|R|NORM|1|Conundrum Sphinx
 NONE|FREE|U|NORM|2|Conversion Chamber
+NONE|FREE|R|NORM|1|Copperline Gorge
+NONE|FREE|R|NORM|1|Coralhelm Commander
 NONE|FREE|U|NORM|2|Core Prowler
 NONE|FREE|U|NORM|1|Corpsehatch
 NONE|FREE|U|NORM|2|Corrosive Gale
@@ -496,38 +277,53 @@ NONE|FREE|U|NORM|4|Corrupt
 NONE|FREE|U|NORM|4|Corrupted Conscience
 NONE|FREE|U|NORM|2|Corrupted Harvester
 NONE|FREE|U|NORM|2|Corrupted Resolve
+NONE|FREE|R|NORM|1|Cosi's Trickster
 NONE|FREE|U|NORM|4|Countersquall
 NONE|FREE|U|NORM|1|Crab Umbra
+NONE|FREE|R|NORM|1|Creeping Tar Pit
 NONE|FREE|U|NORM|1|Crown of Empires
 NONE|FREE|U|NORM|1|Crumbling Colossus
+NONE|FREE|R|NORM|1|Crypt of Agadeem
+NONE|FREE|R|NORM|2|Cryptoplasm
 NONE|FREE|U|NORM|3|Crystal Ball
 NONE|FREE|U|NORM|2|Cudgel Troll
 NONE|FREE|U|NORM|5|Culling Dais
 NONE|FREE|U|NORM|2|Curiosity
 NONE|FREE|U|NORM|1|Curse of Exhaustion
 NONE|FREE|U|NORM|1|Curse of Thirst
-NONE|FREE|U|NORM|1|Curse of the Nightly Hunt
 NONE|FREE|U|NORM|2|Curse of Wizardry
+NONE|FREE|U|NORM|1|Curse of the Nightly Hunt
 NONE|FREE|U|NORM|1|Cut the Tethers
 NONE|FREE|U|NORM|1|Darigaaz's Charm
 NONE|FREE|U|NORM|2|Darkslick Drake
 NONE|FREE|U|FOIL|1|Darkslick Drake
+NONE|FREE|R|NORM|1|Darkslick Shores
 NONE|FREE|U|NORM|5|Darksteel Axe
 NONE|FREE|U|NORM|5|Darksteel Myr
 NONE|FREE|U|NORM|2|Darksteel Relic
 NONE|FREE|U|NORM|4|Darksteel Sentinel
 NONE|FREE|U|NORM|1|Dauthi Embrace
+NONE|FREE|R|NORM|2|Day of Judgment
+NONE|FREE|R|NORM|1|Death's Presence
 NONE|FREE|U|NORM|4|Deathforge Shaman
 NONE|FREE|U|NORM|1|Deathmark
 NONE|FREE|U|NORM|2|Deceiver Exarch
+NONE|FREE|M|NORM|1|Demon of Death's Gate
 NONE|FREE|U|NORM|2|Demon's Horn
 NONE|FREE|U|NORM|1|Demonmail Hauberk
 NONE|FREE|U|NORM|4|Descendant of Kiyomaro
+NONE|FREE|M|FOIL|2|Desert
 NONE|FREE|U|NORM|2|Despise
 NONE|FREE|U|NORM|7|Diabolic Tutor
+NONE|FREE|R|NORM|1|Dingus Egg
 NONE|FREE|U|NORM|2|Dispatch
 NONE|FREE|U|NORM|6|Dispense Justice
 NONE|FREE|U|NORM|1|Dissipate
+NONE|FREE|R|NORM|2|Dissipation Field
+NONE|FREE|R|NORM|4|Divert
+NONE|FREE|R|NORM|1|Divine Reckoning
+NONE|FREE|R|NORM|2|Djinn of Wishes
+NONE|FREE|R|NORM|1|Dormant Gomazoa
 NONE|FREE|U|NORM|4|Dragon Whelp
 NONE|FREE|U|NORM|1|Drake Umbra
 NONE|FREE|U|NORM|2|Dread Statuary
@@ -535,11 +331,16 @@ NONE|FREE|U|NORM|4|Dreadship Reef
 NONE|FREE|U|NORM|3|Dreamstone Hedron
 NONE|FREE|U|NORM|1|Drogskol Captain
 NONE|FREE|U|NORM|4|Dromar's Cavern
+NONE|FREE|M|FOIL|1|Dryad Arbor
 NONE|FREE|U|NORM|2|Due Respect
+NONE|FREE|R|NORM|1|Duplicant
 NONE|FREE|U|NORM|2|Duskdale Wurm
 NONE|FREE|U|NORM|2|Earth Servant
+NONE|FREE|R|NORM|2|Earthcraft
 NONE|FREE|U|NORM|2|Ebony Owl Netsuke
 NONE|FREE|U|NORM|3|Eiganjo Free-Riders
+NONE|FREE|R|NORM|1|Eldrazi Conscription
+NONE|FREE|R|FOIL|1|Elemental Resonance
 NONE|FREE|U|NORM|1|Elfhame Palace
 NONE|FREE|U|NORM|1|Elite Vanguard
 NONE|FREE|U|NORM|2|Elixir of Immortality
@@ -547,78 +348,114 @@ NONE|FREE|U|NORM|2|Ember Hauler
 NONE|FREE|U|NORM|2|Embersmith
 NONE|FREE|U|NORM|2|Emerge Unscathed
 NONE|FREE|U|NORM|2|Emerge Unscathed
+NONE|FREE|R|NORM|2|Emeria Angel
+NONE|FREE|R|NORM|1|Emeria, the Sky Ruin
 NONE|FREE|U|NORM|2|Empyrial Armor
 NONE|FREE|U|NORM|1|Endure
+NONE|FREE|R|NORM|2|Engulfing Slagwurm
 NONE|FREE|U|NORM|2|Enslave
 NONE|FREE|U|NORM|3|Entomber Exarch
 NONE|FREE|U|NORM|1|Escaped Null
+NONE|FREE|R|NORM|1|Etched Champion
+NONE|FREE|M|NORM|2|Etched Monstrosity
+NONE|FREE|R|NORM|1|Eternal Dominion
 NONE|FREE|U|NORM|1|Evasive Action
 NONE|FREE|U|NORM|2|Evermind
 NONE|FREE|U|NORM|1|Excavation
 NONE|FREE|U|NORM|1|Exclusion Ritual
+NONE|FREE|R|NORM|4|Exotic Orchard
 NONE|FREE|U|NORM|3|Explosive Revelation
 NONE|FREE|U|NORM|1|Exsanguinate
+NONE|FREE|R|NORM|1|Ezuri's Brigade
+NONE|FREE|R|NORM|1|Ezuri, Renegade Leader
 NONE|FREE|U|NORM|1|Fall of the Gavel
 NONE|FREE|U|NORM|1|Fallen Ferromancer
+NONE|FREE|R|NORM|1|Fastbond
 NONE|FREE|U|NORM|1|Favorable Winds
 NONE|FREE|U|NORM|4|Feast of Blood
 NONE|FREE|U|NORM|1|Feldon's Cane
+NONE|FREE|M|NORM|1|Felidar Sovereign
+NONE|FREE|R|NORM|1|Feral Hydra
+NONE|FREE|U|NORM|1|Feral Lightning
 NONE|FREE|U|NORM|1|Fiend Hunter
 NONE|FREE|U|NORM|1|Filigree Fracture
 NONE|FREE|U|NORM|1|Fire Servant
 NONE|FREE|U|NORM|4|Fireball
+NONE|FREE|R|NORM|1|Firewing Phoenix
+NONE|FREE|R|FOIL|1|Flameblast Dragon
 NONE|FREE|U|NORM|1|Flaring Flame-Kin
 NONE|FREE|U|NORM|1|Flash Foliage
 NONE|FREE|U|FOIL|1|Flashfreeze
 NONE|FREE|U|NORM|2|Flesh Allergy
 NONE|FREE|U|NORM|2|Footsteps of the Goryo
+NONE|FREE|M|FOIL|2|Forbidden Orchard
 NONE|FREE|U|NORM|2|Forked Bolt
 NONE|FREE|U|NORM|2|Frontier Guide
 NONE|FREE|U|NORM|2|Full Moon's Rise
+NONE|FREE|R|NORM|1|Fungusaur
 NONE|FREE|U|NORM|3|Furnace Celebration
 NONE|FREE|U|NORM|2|Gaea's Blessing
 NONE|FREE|U|NORM|1|Gallows Warden
+NONE|FREE|R|NORM|1|Galvanoth
 NONE|FREE|U|NORM|1|Gang of Devils
+NONE|FREE|R|NORM|2|Gargoyle Castle
 NONE|FREE|U|NORM|1|Gargoyle Sentinel
+NONE|FREE|M|NORM|1|Garruk Wildspeaker
 NONE|FREE|U|NORM|1|Garruk's Packleader
 NONE|FREE|U|NORM|1|Gatekeeper of Malakir
 NONE|FREE|U|NORM|1|Gatstaf Howler
 NONE|FREE|U|NORM|1|Gavony Ironwright
+NONE|FREE|R|NORM|2|Gavony Township
+NONE|FREE|R|NORM|1|Geist-Honored Monk
+NONE|FREE|R|FOIL|1|Gelatinous Genesis
 NONE|FREE|U|NORM|1|Geosurge
 NONE|FREE|U|NORM|4|Geth's Grimoire
 NONE|FREE|U|NORM|3|Geyser Glider
 NONE|FREE|U|NORM|2|Ghost-Lit Redeemer
 NONE|FREE|U|NORM|2|Ghost-Lit Warder
+NONE|FREE|R|NORM|1|Gigantiform
+NONE|FREE|R|FOIL|1|Gigantomancer
+NONE|FREE|M|FOIL|1|Glacial Chasm
+NONE|FREE|R|NORM|1|Glacial Fortress
 NONE|FREE|U|NORM|1|Glasses of Urza
 NONE|FREE|U|NORM|6|Glimmerpoint Stag
+NONE|FREE|R|NORM|1|Glistening Oil
 NONE|FREE|U|NORM|1|Gnarled Effigy
 NONE|FREE|U|NORM|1|Go for the Throat
 NONE|FREE|U|NORM|1|Gobbling Ooze
 NONE|FREE|U|NORM|3|Goblin Artillery
 NONE|FREE|U|FOIL|1|Goblin Bushwhacker
-NONE|FREE|U|NORM|2|Goblin Ruinblaster
+NONE|FREE|U|NORM|3|Goblin Ruinblaster
 NONE|FREE|U|FOIL|1|Goblin Ruinblaster
 NONE|FREE|U|NORM|2|Golem Artisan
 NONE|FREE|U|NORM|5|Golem's Heart
 NONE|FREE|U|NORM|1|Gomazoa
 NONE|FREE|U|NORM|2|Graceful Adept
 NONE|FREE|U|NORM|5|Grafted Exoskeleton
+NONE|FREE|R|NORM|1|Grand Architect
+NONE|FREE|R|NORM|1|Grappling Hook
 NONE|FREE|U|NORM|1|Grasp of Phantoms
 NONE|FREE|U|NORM|3|Gravity Well
 NONE|FREE|U|FOIL|1|Gravity Well
 NONE|FREE|U|NORM|3|Graypelt Refuge
 NONE|FREE|U|NORM|2|Greenhilt Trainee
 NONE|FREE|U|FOIL|1|Greenhilt Trainee
-NONE|FREE|U|NORM|5|Greenweaver Druid
+NONE|FREE|U|NORM|6|Greenweaver Druid
 NONE|FREE|U|NORM|1|Grim Flowering
+NONE|FREE|R|NORM|1|Grim Poppet
+NONE|FREE|R|NORM|1|Grindclock
+NONE|FREE|R|NORM|1|Grinning Totem
+NONE|FREE|M|FOIL|1|Grove of the Burnwillows
 NONE|FREE|U|NORM|1|Gut Shot
 NONE|FREE|U|NORM|1|Guttersnipe
 NONE|FREE|U|NORM|1|Hada Spy Patrol
 NONE|FREE|U|NORM|2|Hagra Diabolist
 NONE|FREE|U|NORM|3|Hail of Arrows
+NONE|FREE|R|NORM|2|Halo Hunter
 NONE|FREE|U|NORM|2|Halt Order
 NONE|FREE|U|NORM|2|Hammer of Ruin
 NONE|FREE|U|NORM|3|Hand of Cruelty
+NONE|FREE|R|NORM|2|Hand of the Praetors
 NONE|FREE|U|NORM|4|Hankyu
 NONE|FREE|U|NORM|3|Harm's Way
 NONE|FREE|U|NORM|1|Harmonize
@@ -627,12 +464,19 @@ NONE|FREE|U|NORM|2|Havengul Vampire
 NONE|FREE|U|NORM|3|Heavy Arbalest
 NONE|FREE|U|NORM|3|Hedron Crab
 NONE|FREE|U|FOIL|1|Hedron Crab
-NONE|FREE|U|NORM|3|Hellfire Mongrel
+NONE|FREE|U|NORM|4|Hellfire Mongrel
 NONE|FREE|U|NORM|1|Hellhole Flailer
 NONE|FREE|U|NORM|1|Hellhole Rats
+NONE|FREE|R|NORM|2|Heretic's Punishment
 NONE|FREE|U|NORM|1|Heroes' Reunion
+NONE|FREE|R|NORM|2|Hex Parasite
+NONE|FREE|M|FOIL|1|High Market
+NONE|FREE|R|NORM|1|Hoarding Dragon
+NONE|FREE|R|NORM|2|Hokori, Dust Drinker
+NONE|FREE|U|FOIL|1|Hollowhenge Scavenger
 NONE|FREE|U|NORM|1|Hollowhenge Scavenger
 NONE|FREE|U|NORM|1|Homicidal Seclusion
+NONE|FREE|R|NORM|1|Homura, Human Ascendant
 NONE|FREE|U|NORM|1|Honden of Cleansing Fire
 NONE|FREE|U|NORM|1|Honden of Infinite Rage
 NONE|FREE|U|NORM|1|Honden of Life's Web
@@ -643,11 +487,17 @@ NONE|FREE|U|NORM|1|Hornet Cannon
 NONE|FREE|U|NORM|1|Hover Barrier
 NONE|FREE|U|NORM|2|Howl of the Night Pack
 NONE|FREE|U|NORM|4|Howling Banshee
+NONE|FREE|R|NORM|2|Howling Mine
 NONE|FREE|U|NORM|1|Hunting Moa
 NONE|FREE|U|NORM|2|Ichor Explosion
 NONE|FREE|U|NORM|8|Ichor Rats
+NONE|FREE|R|NORM|1|Idyllic Tutor
 NONE|FREE|U|NORM|1|Ignite Disorder
+NONE|FREE|R|NORM|1|Immortal Coil
 NONE|FREE|U|NORM|1|Incremental Blight
+NONE|FREE|M|NORM|1|Indomitable Archangel
+NONE|FREE|R|NORM|2|Inexorable Tide
+NONE|FREE|R|NORM|1|Infernal Kirin
 NONE|FREE|U|NORM|2|Inferno Trap
 NONE|FREE|U|NORM|3|Infiltration Lens
 NONE|FREE|U|NORM|1|Inkfathom Infiltrator
@@ -657,59 +507,102 @@ NONE|FREE|U|NORM|3|Inquisitor Exarch
 NONE|FREE|U|NORM|2|Inquisitor's Flail
 NONE|FREE|U|NORM|1|Intangible Virtue
 NONE|FREE|U|NORM|1|Into the Maw of Hell
+NONE|FREE|R|FOIL|1|Invader Parasite
 NONE|FREE|U|NORM|2|Invisible Stalker
 NONE|FREE|U|NORM|1|Irrestible Prey
+NONE|FREE|R|NORM|1|Isamaru, Hound of Konda
 NONE|FREE|U|NORM|2|Isolation Cell
 NONE|FREE|U|NORM|2|Ivory Crane Netsuke
+NONE|FREE|R|NORM|1|Jinxed Idol
+NONE|FREE|R|NORM|2|Jiwari, the Earth Aflame
+NONE|FREE|R|NORM|1|Jor Kadeen, the Prevailer
 NONE|FREE|U|NORM|2|Juggernaut
 NONE|FREE|U|NORM|3|Jund Battlemage
 NONE|FREE|U|NORM|1|Jund Charm
 NONE|FREE|U|NORM|3|Jwar Isle Refuge
 NONE|FREE|U|NORM|1|Kabira Vindicator
+NONE|FREE|R|NORM|1|Kamahl, Fist of Krosa
 NONE|FREE|U|NORM|2|Kashi-Tribe Elite
+NONE|FREE|R|NORM|1|Kataki, War's Wage
 NONE|FREE|U|NORM|2|Kazandu Blademaster
 NONE|FREE|U|NORM|3|Kazandu Refuge
+NONE|FREE|R|NORM|1|Kazuul Warlord
+NONE|FREE|R|NORM|1|Kazuul, Tyrant of the Cliffs
 NONE|FREE|U|NORM|1|Kemba's Legion
+NONE|FREE|R|NORM|2|Kemba, Kha Regent
+NONE|FREE|R|FOIL|1|Kessig Cagebreakers
+NONE|FREE|R|NORM|1|Kessig Cagebreakers
+NONE|FREE|R|NORM|1|Kessig Wolf Run
 NONE|FREE|U|NORM|5|Khalni Gem
 NONE|FREE|U|FOIL|1|Khalni Heart Expedition
-NONE|FREE|U|NORM|2|Kiln Walker
+NONE|FREE|M|NORM|1|Khalni Hydra
 NONE|FREE|U|NORM|2|Kiku's Shadow
+NONE|FREE|U|NORM|2|Kiln Walker
 NONE|FREE|U|NORM|4|Kiri-Onna
 NONE|FREE|U|NORM|1|Kismet
 NONE|FREE|U|NORM|1|Kite Shield
+NONE|FREE|R|NORM|1|Kiyomaro, First to Stand
 NONE|FREE|U|NORM|1|Knight of Dawn
+NONE|FREE|R|NORM|1|Knowledge Pool
 NONE|FREE|U|NORM|3|Kor Aeronaut
 NONE|FREE|U|NORM|3|Kor Duelist
+NONE|FREE|R|NORM|2|Kor Spiritdancer
 NONE|FREE|U|NORM|1|Krosan Verge
+NONE|FREE|R|NORM|2|Kuldotha Phoenix
+NONE|FREE|U|FOIL|1|Landbind Ritual
 NONE|FREE|U|NORM|3|Landbind Ritual
 NONE|FREE|U|FOIL|1|Landbind Ritual
+NONE|FREE|R|NORM|1|Lashwrithe
+NONE|FREE|R|NORM|3|Lavaball Trap
+NONE|FREE|R|NORM|1|Lavaclaw Reaches
 NONE|FREE|U|NORM|1|Lead the Stampede
 NONE|FREE|U|NORM|3|Leatherback Baloth
 NONE|FREE|U|NORM|2|Leech Bonder
+NONE|FREE|R|NORM|1|Leonin Abunas
 NONE|FREE|U|NORM|2|Levitation
+NONE|FREE|R|NORM|2|Leyline of Anticipation
 NONE|FREE|U|NORM|1|Library of Leng
+NONE|FREE|R|NORM|1|Life's Finale
 NONE|FREE|U|NORM|2|Lifesmith
 NONE|FREE|U|NORM|3|Lightkeeper of Emeria
 NONE|FREE|U|NORM|2|Lightning Greaves
 NONE|FREE|U|NORM|4|Liliana's Caress
 NONE|FREE|U|NORM|4|Liquimetal Coating
+NONE|FREE|R|NORM|1|Livewire Lash
+NONE|FREE|R|NORM|1|Living Death
 NONE|FREE|U|NORM|5|Living Tsunami
 NONE|FREE|U|NORM|1|Llanowar Reborn
+NONE|FREE|R|NORM|2|Lodestone Golem
+NONE|FREE|M|NORM|1|Lorthos, the Tidemaker
+NONE|FREE|R|NORM|1|Loxodon Warhammer
+NONE|FREE|R|NORM|4|Loyal Sentry
 NONE|FREE|U|NORM|1|Lumberknot
+NONE|FREE|U|FOIL|1|Lure
 NONE|FREE|U|NORM|1|Lure
 NONE|FREE|U|NORM|1|Lust for War
 NONE|FREE|U|NORM|1|Lyev Skynight
+NONE|FREE|R|NORM|1|Madrush Cyclops
+NONE|FREE|R|NORM|1|Magma Phoenix
+NONE|FREE|R|NORM|1|Magmaw
 NONE|FREE|U|NORM|2|Make a Wish
+NONE|FREE|R|NORM|2|Malakir Bloodwitch
 NONE|FREE|U|NORM|1|Mammoth Umbra
 NONE|FREE|U|NORM|1|Mark of Mutiny
 NONE|FREE|U|NORM|2|Marrow Shards
 NONE|FREE|U|NORM|3|Marsh Casualities
-NONE|FREE|U|NORM|1|Mass Appeal
+NONE|FREE|R|NORM|2|Marshal's Anthem
+NONE|FREE|R|NORM|1|Martial Law
 NONE|FREE|U|NORM|1|Mask of Avacyn
+NONE|FREE|U|NORM|1|Mass Appeal
 NONE|FREE|U|NORM|2|Master Splicer
+NONE|FREE|R|NORM|1|Master Transmuter
 NONE|FREE|U|NORM|1|Mausoleum Guard
+NONE|FREE|M|FOIL|1|Maze of Ith
 NONE|FREE|U|NORM|4|Megrim
+NONE|FREE|R|NORM|2|Melira, Sylvok Outcast
 NONE|FREE|U|NORM|2|Memnite
+NONE|FREE|R|FOIL|1|Memoricide
+NONE|FREE|R|NORM|1|Memoricide
 NONE|FREE|U|NORM|1|Mental Misstep
 NONE|FREE|U|NORM|2|Merfolk Seastalkers
 NONE|FREE|U|NORM|1|Merfolk Skyscout
@@ -717,43 +610,66 @@ NONE|FREE|U|NORM|3|Merfolk Wayfinder
 NONE|FREE|U|NORM|1|Metallurgeon
 NONE|FREE|U|NORM|2|Midnight Haunting
 NONE|FREE|U|NORM|1|Might of the Nephilim
+NONE|FREE|R|NORM|1|Mimic Vat
 NONE|FREE|U|NORM|7|Mind Control
 NONE|FREE|U|NORM|4|Mind Sludge
 NONE|FREE|U|NORM|1|Mind Stone
 NONE|FREE|U|NORM|2|Mindcrank
 NONE|FREE|U|NORM|1|Mindculling
+NONE|FREE|R|NORM|1|Mirari
 NONE|FREE|U|NORM|4|Mirrodin's Core
+NONE|FREE|R|NORM|2|Mitotic Slime
 NONE|FREE|U|FOIL|1|Mizzium Skin
 NONE|FREE|U|NORM|1|Mnemonic Sliver
 NONE|FREE|U|NORM|1|Moan of the Unhallowed
+NONE|FREE|R|NORM|1|Molimo, Maro-Sorcerer
+NONE|FREE|R|NORM|1|Molten Psyche
+NONE|FREE|R|NORM|1|Mosswort Bridge
 NONE|FREE|U|NORM|1|Mountain Valley
+NONE|FREE|M|NORM|1|Mox Opal
+NONE|FREE|U|FOIL|1|Murasa Pyromancer
 NONE|FREE|U|FOIL|1|Murasa Pyromancer
 NONE|FREE|U|NORM|3|Murder Crows
 NONE|FREE|U|NORM|1|Mwonvuli Beast Tracker
+NONE|FREE|R|NORM|1|Mycoloth
 NONE|FREE|U|NORM|1|Mycosynth Fiend
+NONE|FREE|R|NORM|2|Myr Battlesphere
 NONE|FREE|U|NORM|3|Myr Galvanizer
+NONE|FREE|R|NORM|1|Myr Propagator
+NONE|FREE|R|NORM|2|Myr Superion
 NONE|FREE|U|NORM|4|Myrsmith
 NONE|FREE|U|NORM|1|Nantuko Monastery
-NONE|FREE|U|NORM|2|Nature's Spiral
+NONE|FREE|R|NORM|1|Nature's Revolt
+NONE|FREE|U|NORM|3|Nature's Spiral
+NONE|FREE|R|NORM|1|Near-Death Experience
 NONE|FREE|U|NORM|1|Necrogen Scudder
+NONE|FREE|U|FOIL|1|Necropede
 NONE|FREE|U|NORM|7|Necropede
 NONE|FREE|U|FOIL|1|Necropede
 NONE|FREE|U|NORM|2|Necropouncer
 NONE|FREE|U|NORM|2|Needlebite Trap
 NONE|FREE|U|NORM|2|Nemesis Trap
+NONE|FREE|R|NORM|1|Neverending Torment
 NONE|FREE|U|NORM|2|Nikko-Onna
 NONE|FREE|U|NORM|1|Nirkana Cutthroat
+NONE|FREE|R|NORM|2|Norn's Annex
 NONE|FREE|U|NORM|1|Not of This World
 NONE|FREE|U|NORM|1|Novijen, Heart of Progress
 NONE|FREE|U|NORM|1|Noxious Revival
+NONE|FREE|R|NORM|1|Ob Nixilis, the Fallen
 NONE|FREE|U|NORM|4|Oboro Envoy
-NONE|FREE|U|NORM|1|Ogre's Cleaver
 NONE|FREE|U|NORM|4|Ogre Geargrabber
+NONE|FREE|U|NORM|1|Ogre's Cleaver
 NONE|FREE|U|NORM|1|Onyx Mage
+NONE|FREE|R|NORM|1|Oracle of Mul Daya
+NONE|FREE|R|NORM|2|Oran-Rief, the Vastwood
 NONE|FREE|U|NORM|1|Order of Yawgmoth
 NONE|FREE|U|NORM|6|Ornithopter
+NONE|FREE|R|NORM|2|Overgrown Tomb
 NONE|FREE|U|NORM|10|Overrun
 NONE|FREE|U|NORM|2|Oxidda Scrapmelter
+NONE|FREE|R|NORM|1|Pain's Reward
+NONE|FREE|R|NORM|1|Painful Quandary
 NONE|FREE|U|NORM|1|Painsmith
 NONE|FREE|U|NORM|4|Palladium Myr
 NONE|FREE|U|NORM|2|Path to Exile
@@ -766,27 +682,43 @@ NONE|FREE|U|NORM|1|Permafrost Trap
 NONE|FREE|U|NORM|1|Petals of Insight
 NONE|FREE|U|NORM|1|Phantasmal Abomination
 NONE|FREE|U|NORM|2|Phantom Warrior
+NONE|FREE|R|NORM|1|Phyrexian Arena
+NONE|FREE|R|NORM|1|Phyrexian Colossus
 NONE|FREE|U|NORM|1|Phyrexian Defiler
 NONE|FREE|U|NORM|1|Phyrexian Gargantua
 NONE|FREE|U|NORM|1|Phyrexian Hulk
+NONE|FREE|R|NORM|1|Phyrexian Ingester
+NONE|FREE|R|NORM|1|Phyrexian Metamorph
+NONE|FREE|M|FOIL|1|Phyrexian Negator
+NONE|FREE|R|NORM|1|Phyrexian Plaguelord
+NONE|FREE|R|NORM|1|Phyrexian Swarmlord
 NONE|FREE|U|NORM|1|Phyrexian Totem
+NONE|FREE|R|NORM|1|Phyrexian Unlife
 NONE|FREE|U|NORM|1|Phyrexian Vault
 NONE|FREE|U|NORM|1|Pierce Strider
 NONE|FREE|U|NORM|3|Pitfall Trap
 NONE|FREE|U|NORM|1|Plague Myr
 NONE|FREE|U|NORM|1|Plaguemaw Beast
+NONE|FREE|M|NORM|1|Platinum Emperion
 NONE|FREE|U|NORM|1|Plaxcaster Frogling
 NONE|FREE|U|NORM|2|Postmortem Lunge
 NONE|FREE|U|NORM|1|Power Armor
+NONE|FREE|R|NORM|1|Praetor's Grasp
+NONE|FREE|R|NORM|2|Predatory Urge
 NONE|FREE|U|NORM|4|Presence of the Wise
 NONE|FREE|U|NORM|2|Priest of Gix
 NONE|FREE|U|NORM|2|Priest of Urabrask
 NONE|FREE|U|NORM|3|Primal Bellow
+NONE|FREE|R|NORM|1|Primitive Etchings
 NONE|FREE|U|NORM|1|Prized Unicorn
 NONE|FREE|U|NORM|5|Prodigal Pyromancer
 NONE|FREE|U|NORM|1|Propaganda
-NONE|FREE|U|NORM|3|Punishing Fire
+NONE|FREE|R|NORM|1|Protean Hydra
+NONE|FREE|U|NORM|4|Punishing Fire
 NONE|FREE|U|NORM|2|Puppet Strings
+NONE|FREE|R|FOIL|1|Putrefax
+NONE|FREE|U|NORM|1|Pyroclasm
+NONE|FREE|R|NORM|2|Pyromancer Ascension
 NONE|FREE|U|NORM|3|Quest for Ancient Secrets
 NONE|FREE|U|NORM|3|Quest for Pure Flame
 NONE|FREE|U|NORM|4|Quest for Renewal
@@ -794,14 +726,17 @@ NONE|FREE|U|NORM|3|Quest for the Gemblades
 NONE|FREE|U|NORM|1|Quest for the Goblin Lord
 NONE|FREE|U|NORM|3|Quest for the Gravelord
 NONE|FREE|U|NORM|4|Quest for the Holy Relic
+NONE|FREE|R|NORM|1|Quicksilver Gargantuan
 NONE|FREE|U|NORM|1|Racecource Fury
 NONE|FREE|U|NORM|2|Ragamuffyn
 NONE|FREE|U|NORM|1|Rage Extractor
 NONE|FREE|U|NORM|1|Rage Thrower
 NONE|FREE|U|NORM|1|Rakdos Cackler
 NONE|FREE|U|NORM|2|Rakdos Ragemutt
+NONE|FREE|R|NORM|1|Rally the Horde
 NONE|FREE|U|NORM|3|Rally the Peasants
 NONE|FREE|U|NORM|2|Rapacious One
+NONE|FREE|R|NORM|2|Ratchet Bomb
 NONE|FREE|U|NORM|1|Ravenous Trap
 NONE|FREE|U|NORM|3|Razor Hippogriff
 NONE|FREE|U|NORM|2|Reality Spasm
@@ -809,43 +744,59 @@ NONE|FREE|U|NORM|1|Reaper of Sheoldred
 NONE|FREE|U|NORM|5|Reassembling Skeleton
 NONE|FREE|U|NORM|1|Relentless Rats
 NONE|FREE|U|NORM|4|Reliquary Tower
+NONE|FREE|R|NORM|1|Renegade Doppelganger
 NONE|FREE|U|NORM|1|Renounce
 NONE|FREE|U|NORM|3|Rewind
 NONE|FREE|U|NORM|1|Ricochet Trap
 NONE|FREE|U|NORM|4|Riddlesmith
 NONE|FREE|U|NORM|2|Righteousness
 NONE|FREE|U|NORM|10|Rise from the Grave
+NONE|FREE|R|NORM|1|Rite of Replication
+NONE|FREE|R|NORM|1|Rites of Flourishing
 NONE|FREE|U|NORM|1|Rith's Charm
+NONE|FREE|R|NORM|1|Rith, the Awakener
 NONE|FREE|U|NORM|8|River Boa
 NONE|FREE|U|NORM|2|River's Grasp
 NONE|FREE|U|NORM|1|Roc Egg
 NONE|FREE|U|NORM|1|Rockcaster Platoon
 NONE|FREE|U|NORM|1|Rod of Ruin
 NONE|FREE|U|NORM|1|Roughshod Mentor
+NONE|FREE|R|NORM|1|Rowen
+NONE|FREE|R|NORM|4|Royal Assassin
 NONE|FREE|U|NORM|3|Rumbling Aftershocks
+NONE|FREE|R|NORM|1|Rune-Tail, Kitsune Ascendant
 NONE|FREE|U|NORM|1|Runed Servitor
 NONE|FREE|U|NORM|4|Runeflare Trap
 NONE|FREE|U|NORM|4|Rust Tick
 NONE|FREE|U|NORM|2|Rusted Relic
+NONE|FREE|R|FOIL|1|Sadistic Sacrament
+NONE|FREE|R|NORM|1|Sadistic Sacrament
 NONE|FREE|U|NORM|1|Sanguine Guard
 NONE|FREE|U|NORM|4|Saprazzan Cove
 NONE|FREE|U|NORM|2|Savage Lands
 NONE|FREE|U|NORM|1|Savage Surge
 NONE|FREE|U|NORM|1|Scourge of Geier Reach
 NONE|FREE|U|NORM|3|Scrib Nibblers
+NONE|FREE|R|NORM|1|Sea Gate Loremaster
 NONE|FREE|U|NORM|3|Seascape Aerialist
+NONE|FREE|R|NORM|1|Seer's Sundial
 NONE|FREE|U|NORM|3|Sejiri Merfolk
 NONE|FREE|U|NORM|1|Sejiri Refuge
+NONE|FREE|R|NORM|1|Selective Memory
 NONE|FREE|U|NORM|1|Selesnya Guildmage
+NONE|FREE|R|NORM|1|Semblance Anvil
 NONE|FREE|U|NORM|1|Sengir Vampire
 NONE|FREE|U|NORM|5|Serra Angel
+NONE|FREE|R|NORM|1|Shape Anew
 NONE|FREE|U|NORM|2|Shape Stealer
 NONE|FREE|U|NORM|2|Sharpened Pitchfork
 NONE|FREE|U|NORM|2|Shattered Angel
 NONE|FREE|U|NORM|1|Shattered Perception
+NONE|FREE|M|NORM|1|Sheoldred, Whispering One
 NONE|FREE|U|NORM|3|Shepherd of the Lost
 NONE|FREE|U|NORM|2|Shield Sphere
 NONE|FREE|U|NORM|2|Shifting Borders
+NONE|FREE|M|FOIL|2|Shivan Gorge
 NONE|FREE|U|NORM|1|Shivan Oasis
 NONE|FREE|U|NORM|2|Shrine of Boundless Growth
 NONE|FREE|U|NORM|2|Shrine of Burning Rage
@@ -858,7 +809,10 @@ NONE|FREE|U|NORM|1|Silver-Inlaid Dagger
 NONE|FREE|U|NORM|2|Skeletal Wurm
 NONE|FREE|U|NORM|2|Skinrender
 NONE|FREE|U|NORM|1|Skullcage
+NONE|FREE|R|NORM|1|Skyship Weatherlight
 NONE|FREE|U|NORM|1|Skyward Eye Prophets
+NONE|FREE|R|NORM|2|Slag Fiend
+NONE|FREE|R|NORM|1|Slaughter Games
 NONE|FREE|U|NORM|3|Slavering Nulls
 NONE|FREE|U|NORM|1|Slay
 NONE|FREE|U|NORM|2|Slayer of the Wicked
@@ -872,41 +826,63 @@ NONE|FREE|U|NORM|1|Soratami Mindsweeper
 NONE|FREE|U|NORM|3|Soratami Mirror-Mage
 NONE|FREE|U|NORM|2|Soratami Seer
 NONE|FREE|U|NORM|3|Sorcerer's Strongbox
+NONE|FREE|R|NORM|1|Soul Conduit
+NONE|FREE|R|NORM|1|Soul of the Harvest
 NONE|FREE|U|NORM|2|Soulsurge Elemental
+NONE|FREE|R|FOIL|1|Spawnsire of Ulamog
+NONE|FREE|R|NORM|2|Spawnsire of Ulamog
 NONE|FREE|U|NORM|1|Spectral Rider
 NONE|FREE|U|NORM|2|Spell Contortion
 NONE|FREE|U|NORM|2|Spell Snare
 NONE|FREE|U|NORM|1|Spellbook
+NONE|FREE|U|NORM|1|Sphere of the Suns
+NONE|FREE|R|NORM|1|Sphinx of Jwar Isle
+NONE|FREE|R|NORM|2|Sphinx of Lost Truths
+NONE|FREE|R|NORM|1|Sphinx of Magosi
+NONE|FREE|R|NORM|1|Sphinx-Bone Wand
 NONE|FREE|U|NORM|2|Spider Spawning
+NONE|FREE|R|NORM|1|Spikeshot Elder
 NONE|FREE|U|NORM|1|Spin into Myth
 NONE|FREE|U|NORM|1|Spinebiter
-NONE|FREE|U|NORM|1|Sphere of the Suns
 NONE|FREE|U|NORM|2|Spirit Link
 NONE|FREE|U|NORM|2|Sprouting Thrinax
+NONE|FREE|R|NORM|1|Steam Vents
+NONE|FREE|R|NORM|1|Steel Overseer
 NONE|FREE|U|NORM|1|Stern Mentor
 NONE|FREE|U|NORM|1|Stoic Ephemera
 NONE|FREE|U|NORM|1|Stomp and Howl
 NONE|FREE|U|NORM|1|Stone Golem
 NONE|FREE|U|NORM|1|Stormblood Berserker
+NONE|FREE|R|NORM|2|Strata Scythe
+NONE|FREE|R|NORM|2|Student of Warfare
 NONE|FREE|U|NORM|4|Suffer the Past
 NONE|FREE|U|NORM|2|Summit Apes
 NONE|FREE|U|NORM|3|Summoner's Bane
 NONE|FREE|U|NORM|1|Sun Droplet
+NONE|FREE|R|FOIL|2|Sunblast Angel
+NONE|FREE|R|NORM|1|Sunblast Angel
 NONE|FREE|U|NORM|1|Sunscape Battlemage
 NONE|FREE|U|NORM|2|Surge Node
+NONE|FREE|R|FOIL|1|Surgical Extraction
+NONE|FREE|R|NORM|2|Surgical Extraction
 NONE|FREE|U|NORM|1|Surreal Memoir
 NONE|FREE|U|NORM|2|Survival Cache
 NONE|FREE|U|NORM|1|Synod Centurion
 NONE|FREE|U|NORM|1|Synod Sanctum
 NONE|FREE|U|NORM|1|Tablet of the Guilds
 NONE|FREE|U|NORM|2|Tajuru Archer
+NONE|FREE|R|NORM|1|Talus Paladin
 NONE|FREE|U|NORM|6|Tangle Angler
 NONE|FREE|U|NORM|1|Tavern Swindler
 NONE|FREE|U|NORM|1|Tectonic Edge
+NONE|FREE|R|NORM|1|Teferi's Imp
+NONE|FREE|R|NORM|1|Telemin Performance
 NONE|FREE|U|NORM|2|Telepathy
+NONE|FREE|R|NORM|2|Tempered Steel
+NONE|FREE|R|NORM|2|Terastodon
 NONE|FREE|U|NORM|2|Tezzeret's Gambit
-NONE|FREE|U|NORM|1|Thoughtflare
 NONE|FREE|U|NORM|2|Thornscape Battlemage
+NONE|FREE|U|NORM|1|Thoughtflare
 NONE|FREE|U|NORM|1|Thoughtflare
 NONE|FREE|U|NORM|4|Throne of Geth
 NONE|FREE|U|NORM|5|Thrummingbird
@@ -917,10 +893,13 @@ NONE|FREE|U|NORM|1|Thunderstaff
 NONE|FREE|U|NORM|1|Tideforce Elemental
 NONE|FREE|U|FOIL|1|Tideforce Elemental
 NONE|FREE|U|NORM|1|Tormentor Exarch
+NONE|FREE|R|NORM|1|Torpor Orb
 NONE|FREE|U|NORM|1|Touchstone
 NONE|FREE|U|NORM|1|Tracker's Instincts
 NONE|FREE|U|NORM|3|Trailblazer's Boots
+NONE|FREE|R|NORM|1|Training Grounds
 NONE|FREE|U|NORM|1|Trapmaker's Snare
+NONE|FREE|R|NORM|1|Traumatize
 NONE|FREE|U|NORM|1|Trepanation Blade
 NONE|FREE|U|NORM|1|Treva's Charm
 NONE|FREE|U|NORM|3|Trigon of Corruption
@@ -932,19 +911,31 @@ NONE|FREE|U|NORM|6|Trigon of Thought
 NONE|FREE|U|NORM|3|Trinket Mage
 NONE|FREE|U|NORM|2|Trip Noose
 NONE|FREE|U|NORM|2|Triumph of the Hordes
+NONE|FREE|R|NORM|1|Troll Ascetic
+NONE|FREE|R|NORM|2|True Conviction
 NONE|FREE|U|NORM|4|Trusted Advisor
 NONE|FREE|U|NORM|4|Trusty Machete
 NONE|FREE|U|NORM|1|Trygon Predator
 NONE|FREE|U|NORM|1|Tuktuk Scrapper
+NONE|FREE|R|NORM|1|Tuktuk the Explorer
+NONE|FREE|R|NORM|1|Tunnel Ignus
 NONE|FREE|U|NORM|6|Turntimber Basilisk
+NONE|FREE|R|NORM|1|Turntimber Ranger
+NONE|FREE|R|NORM|4|Twincast
 NONE|FREE|U|NORM|5|Twisted Image
 NONE|FREE|U|NORM|4|Umbral Mantle
 NONE|FREE|U|NORM|1|Unbender Tine
+NONE|FREE|R|NORM|1|Unbreathing Horde
+NONE|FREE|R|NORM|1|Undead Alchemist
+NONE|FREE|R|NORM|4|Underworld Dreams
 NONE|FREE|U|NORM|3|Unstable Footing
 NONE|FREE|U|FOIL|1|Untamed Might
+NONE|FREE|R|NORM|1|Unwinding Clock
+NONE|FREE|M|FOIL|2|Urborg, Tomb of Yawgmoth
 NONE|FREE|U|NORM|1|Urza's Bauble
 NONE|FREE|U|NORM|2|Urza's Mine
 NONE|FREE|U|NORM|1|Urza's Power Plant
+NONE|FREE|M|FOIL|1|Urza's Rage
 NONE|FREE|U|NORM|1|Urza's Tower
 NONE|FREE|U|NORM|3|Valakut Fireboar
 NONE|FREE|U|NORM|4|Vampire Nighthawk
@@ -954,7 +945,11 @@ NONE|FREE|U|NORM|1|Vastwood Animist
 NONE|FREE|U|NORM|6|Vedalken Anatomist
 NONE|FREE|U|NORM|3|Vedalken Infuser
 NONE|FREE|U|NORM|4|Vedalken Mastermind
+NONE|FREE|R|NORM|1|Vengeful Archon
+NONE|FREE|R|NORM|2|Venser's Journal
+NONE|FREE|R|FOIL|1|Verdant Force
 NONE|FREE|U|NORM|1|Verduran Emissary
+NONE|FREE|M|FOIL|1|Vesuva
 NONE|FREE|U|NORM|2|Vigean Intuition
 NONE|FREE|U|NORM|2|Vigil for the Lost
 NONE|FREE|U|NORM|1|Vigilante Justice
@@ -965,15 +960,18 @@ NONE|FREE|U|NORM|2|Vital Splicer
 NONE|FREE|U|NORM|1|Vitu-Ghazi, the City-Tree
 NONE|FREE|U|NORM|1|Vivid Grove
 NONE|FREE|U|NORM|1|Voices from the Void
+NONE|FREE|R|NORM|1|Voidslime
 NONE|FREE|U|NORM|1|Volcanic Geyser
 NONE|FREE|U|NORM|2|Volition Reins
 NONE|FREE|U|NORM|1|Voltaic Key
 NONE|FREE|U|NORM|1|Voyager Drake
 NONE|FREE|U|NORM|1|Vulshok Refugee
+NONE|FREE|R|NORM|4|Walking Archive
 NONE|FREE|U|NORM|3|Wall of Frost
 NONE|FREE|U|NORM|2|Wall of Omens
 NONE|FREE|U|NORM|1|War Priest of Thune
 NONE|FREE|U|NORM|2|Warmonger's Chariot
+NONE|FREE|M|NORM|1|Warren Instigator
 NONE|FREE|U|NORM|2|Wasp Lancer
 NONE|FREE|U|NORM|1|Watchwolf
 NONE|FREE|U|NORM|1|Wax / Wane
@@ -982,13 +980,17 @@ NONE|FREE|U|NORM|2|Whispering Specter
 NONE|FREE|U|NORM|5|Whispersilk Cloak
 NONE|FREE|U|NORM|3|White Knight
 NONE|FREE|U|NORM|4|Windborne Charge
+NONE|FREE|M|FOIL|2|Windbrisk Heights
+NONE|FREE|R|NORM|1|Wine of Blood and Iron
+NONE|FREE|R|NORM|1|Witch-Maw Nephilim
+NONE|FREE|U|NORM|1|Wolf-Skull Shaman
+NONE|FREE|R|FOIL|2|Wolfbriar Elemental
+NONE|FREE|R|NORM|1|Wolfbriar Elemental
+NONE|FREE|R|NORM|1|World Queller
 NONE|FREE|U|NORM|1|Worn Powerstone
 NONE|FREE|U|NORM|2|Wreath of Geists
+NONE|FREE|M|NORM|1|Wrexial, the Risen Deep
 NONE|FREE|U|NORM|1|Wurm's Tooth
+NONE|FREE|R|NORM|1|Xenograft
 NONE|FREE|U|NORM|2|Yavimaya Dryad
 NONE|FREE|U|FOIL|1|Zendikar Farguide
-
-WW|DECK|R|NORM|4|Proclamation of Rebirth
-WW|DECK|R|NORM|4|Serra Ascendant
-WW|DECK|R|NORM|4|Student of Warfare
-WW|DECK|U|NORM|3|Ajani's Pridemate
