@@ -122,10 +122,26 @@ LANDFALL|DECK|U|NORM|4|Glacial Chasm
 LANDFALL|DECK|U|NORM|4|Treva's Ruins
 LANDFALL|SIDE|C|NORM|2|Grazing Gladehart
 
-WW|DECK|R|NORM|4|Proclamation of Rebirth
-WW|DECK|R|NORM|4|Serra Ascendant
-WW|DECK|R|NORM|4|Student of Warfare
 WW|DECK|U|NORM|3|Ajani's Pridemate
+WW|DECK|R|NORM|0|Eiganjo Castle
+WW|DECK|M|NORM|1|Felidar Sovereign
+WW|DECK|R|NORM|0|Honor of the Pure
+WW|DECK|C|NORM|4|Kabira Crossroads
+WW|DECK|C|NORM|0|Martyr of Sands
+WW|DECK|R|NORM|0|Mikaeus, the Lunarch
+WW|DECK|U|NORM|2|Path to Exile
+WW|DECK|C|NORM|14|Plains
+WW|DECK|R|NORM|3|Proclamation of Rebirth
+WW|DECK|R|NORM|0|Ranger of Eos
+WW|DECK|R|NORM|1|Rune-Tail, Kitsune Ascendant
+WW|DECK|R|NORM|4|Serra Ascendant
+WW|DECK|C|NORM|4|Soul Warden
+WW|DECK|C|NORM|4|Soul's Attendant
+WW|DECK|R|NORM|4|Student of Warfare
+WW|DECK|M|NORM|2|Windbrisk Heights
+WW|SIDE|C|NORM|0|Martyr of Sands
+WW|SIDE|C|NORM|13|Plains
+WW|SIDE|R|NORM|1|Proclamation of Rebirth
 
 STEEL|DECK|C|NORM|0|Ancient Den
 STEEL|DECK|R|NORM|0|Argentum Armor
@@ -238,8 +254,8 @@ NONE|FREE|R|NORM|1|Duplicant
 NONE|FREE|R|NORM|2|Earthcraft
 NONE|FREE|R|NORM|1|Eldrazi Conscription
 NONE|FREE|R|FOIL|1|Elemental Resonance
-NONE|FREE|R|NORM|2|Emeria Angel
 NONE|FREE|R|NORM|1|Emeria, the Sky Ruin
+NONE|FREE|R|NORM|2|Emeria Angel
 NONE|FREE|R|NORM|2|Engulfing Slagwurm
 NONE|FREE|R|NORM|1|Etched Champion
 NONE|FREE|M|NORM|2|Etched Monstrosity
@@ -248,7 +264,6 @@ NONE|FREE|R|NORM|4|Exotic Orchard
 NONE|FREE|R|NORM|1|Ezuri's Brigade
 NONE|FREE|R|NORM|1|Ezuri, Renegade Leader
 NONE|FREE|R|NORM|1|Fastbond
-NONE|FREE|M|NORM|1|Felidar Sovereign
 NONE|FREE|R|NORM|1|Feral Hydra
 NONE|FREE|R|NORM|1|Firewing Phoenix
 NONE|FREE|R|FOIL|1|Flameblast Dragon
@@ -371,7 +386,6 @@ NONE|FREE|R|NORM|1|Rites of Flourishing
 NONE|FREE|R|NORM|1|Rith, the Awakener
 NONE|FREE|R|NORM|1|Rowen
 NONE|FREE|R|NORM|4|Royal Assassin
-NONE|FREE|R|NORM|1|Rune-Tail, Kitsune Ascendant
 NONE|FREE|R|FOIL|1|Sadistic Sacrament
 NONE|FREE|R|NORM|1|Sadistic Sacrament
 NONE|FREE|R|NORM|1|Sea Gate Loremaster
@@ -427,7 +441,6 @@ NONE|FREE|M|FOIL|1|Vesuva
 NONE|FREE|R|NORM|1|Voidslime
 NONE|FREE|R|NORM|4|Walking Archive
 NONE|FREE|M|NORM|1|Warren Instigator
-NONE|FREE|M|FOIL|2|Windbrisk Heights
 NONE|FREE|R|NORM|1|Wine of Blood and Iron
 NONE|FREE|R|NORM|1|Witch-Maw Nephilim
 NONE|FREE|R|FOIL|2|Wolfbriar Elemental
@@ -481,6 +494,7 @@ NONE|FREE|U|NORM|1|Battleground Geist
 NONE|FREE|U|NORM|1|Batwing Brume
 NONE|FREE|U|NORM|2|Beast Within
 NONE|FREE|U|NORM|5|Bellowing Tanglewurm
+NONE|FREE|U|NORM|3|Beloved Chaplain
 NONE|FREE|U|NORM|2|Bestial Menace
 NONE|FREE|U|NORM|1|Biting Tether
 NONE|FREE|U|NORM|1|Bitterheart Witch
@@ -631,6 +645,7 @@ NONE|FREE|U|NORM|2|Ghost-Lit Redeemer
 NONE|FREE|U|NORM|2|Ghost-Lit Warder
 NONE|FREE|U|NORM|1|Glasses of Urza
 NONE|FREE|U|NORM|6|Glimmerpoint Stag
+NONE|FREE|C|FOIL|1|Glimmerpost
 NONE|FREE|U|NORM|1|Gnarled Effigy
 NONE|FREE|U|NORM|1|Go for the Throat
 NONE|FREE|U|NORM|1|Gobbling Ooze
@@ -796,7 +811,6 @@ NONE|FREE|U|NORM|2|Oxidda Scrapmelter
 NONE|FREE|U|NORM|1|Painsmith
 NONE|FREE|U|FOIL|1|Palace Guard
 NONE|FREE|U|NORM|4|Palladium Myr
-NONE|FREE|U|NORM|2|Path to Exile
 NONE|FREE|U|NORM|2|Pathrazer of Ulamog
 NONE|FREE|U|NORM|1|Pawn of Ulamog
 NONE|FREE|U|NORM|5|Pelakka Wurm
@@ -920,6 +934,7 @@ NONE|FREE|U|NORM|2|Spider Spawning
 NONE|FREE|U|NORM|1|Spin into Myth
 NONE|FREE|U|NORM|1|Spinebiter
 NONE|FREE|U|NORM|2|Spirit Link
+NONE|FREE|C|FOIL|1|Spiritual Visit
 NONE|FREE|U|NORM|2|Sprouting Thrinax
 NONE|FREE|U|NORM|1|Stern Mentor
 NONE|FREE|U|NORM|1|Stoic Ephemera
@@ -994,6 +1009,7 @@ NONE|FREE|U|NORM|6|Vedalken Anatomist
 NONE|FREE|U|NORM|3|Vedalken Infuser
 NONE|FREE|U|NORM|4|Vedalken Mastermind
 NONE|FREE|U|NORM|1|Verduran Emissary
+NONE|FREE|C|FOIL|1|Vigean Hydropon
 NONE|FREE|U|NORM|2|Vigean Intuition
 NONE|FREE|U|NORM|2|Vigil for the Lost
 NONE|FREE|U|NORM|1|Vigilante Justice
