@@ -128,7 +128,6 @@ WW|DECK|R|NORM|4|Student of Warfare
 WW|DECK|U|NORM|3|Ajani's Pridemate
 
 STEEL|DECK|C|NORM|0|Ancient Den
-STEEL|DECK|C|NORM|3|Ardent Recruit
 STEEL|DECK|R|NORM|0|Argentum Armor
 STEEL|DECK|U|NORM|4|Brave the Elements
 STEEL|DECK|C|NORM|0|Darksteel Citadel
@@ -138,6 +137,7 @@ STEEL|DECK|R|NORM|0|Heartseeker
 STEEL|DECK|I|NORM|1|Infiltration Lens
 STEEL|DECK|U|NORM|3|Kor Duelist
 STEEL|DECK|C|NORM|3|Kor Outfitter
+STEEL|DECK|R|NORM|0|Leonin Shikari
 STEEL|DECK|U|NORM|1|Lightning Greaves
 STEEL|DECK|R|NORM|0|Mentor of the Meek
 STEEL|DECK|M|NORM|1|Mox Opal
@@ -147,6 +147,7 @@ STEEL|DECK|R|NORM|4|Stoneforge Mystic
 STEEL|DECK|M|NORM|1|Sword of Feast and Famine
 STEEL|DECK|M|NORM|1|Sword of Fire and Ice
 STEEL|DECK|M|NORM|1|Sword of War and Peace
+STEEL|SIDE|C|NORM|3|Ardent Recruit
 
 RED|FREE|U|NORM|4|Arc Trail
 RED|FREE|C|NORM|4|Burst Lightning
