@@ -9,7 +9,6 @@ BIGNASTY|DECK|R|NORM|2|Summoning Trap
 BIGNASTY|SIDE|M|NORM|2|Primeval Titan
 BIGNASTY|SIDE|R|NORM|1|Mystifying Maze
 BIGNASTY|SIDE|R|NORM|1|Terra Stomper
-
 FISH|DECK|R|NORM|1|Azami, Lady of Scrolls
 FISH|DECK|R|NORM|1|Glen Elendra Archmage
 FISH|DECK|R|NORM|0|Master of the Pearl Trident
@@ -41,7 +40,6 @@ FISH|SIDE|R|NORM|1|Merfolk Sovereign
 FISH|SIDE|R|NORM|1|Merrow Commerce
 FISH|SIDE|U|NORM|3|Sage of Fables
 FISH|SIDE|R|NORM|1|Surgespanner
-
 GROWTH|DECK|C|NORM|10|Forest
 GROWTH|DECK|C|NORM|1|Llanowar Reborn
 GROWTH|DECK|C|NORM|4|Primal Cocoon
@@ -58,7 +56,6 @@ GROWTH|DECK|R|NORM|4|Scute Mob
 GROWTH|DECK|U|NORM|4|Gilder Bairn
 GROWTH|DECK|U|NORM|4|Plaxcaster Frogling
 GROWTH|SIDE|C|NORM|15|Forest
-
 GWLAND|DECK|C|NORM|1|Sejiri Steppe
 GWLAND|DECK|C|NORM|2|Qasali Pridemage
 GWLAND|DECK|C|NORM|3|Plains
@@ -92,7 +89,6 @@ GWLAND|SIDE|R|NORM|1|Gaddock Teeg
 GWLAND|SIDE|R|NORM|1|Limited Resources
 GWLAND|SIDE|R|NORM|1|Petrified Field
 GWLAND|SIDE|R|NORM|1|Ulvenwald Tracker
-
 LANDFALL|DECK|C|NORM|1|Piranha Marsh
 LANDFALL|DECK|C|NORM|2|Grazing Gladehart
 LANDFALL|DECK|C|NORM|4|Brainstorm
@@ -121,7 +117,6 @@ LANDFALL|DECK|U|NORM|4|Gemstone Mine
 LANDFALL|DECK|U|NORM|4|Glacial Chasm
 LANDFALL|DECK|U|NORM|4|Treva's Ruins
 LANDFALL|SIDE|C|NORM|2|Grazing Gladehart
-
 WW|DECK|U|NORM|3|Ajani's Pridemate
 WW|DECK|R|NORM|0|Eiganjo Castle
 WW|DECK|M|NORM|1|Felidar Sovereign
@@ -142,7 +137,6 @@ WW|DECK|M|NORM|2|Windbrisk Heights
 WW|SIDE|C|NORM|0|Martyr of Sands
 WW|SIDE|C|NORM|13|Plains
 WW|SIDE|R|NORM|1|Proclamation of Rebirth
-
 STEEL|DECK|C|NORM|0|Ancient Den
 STEEL|DECK|R|NORM|0|Argentum Armor
 STEEL|DECK|U|NORM|4|Brave the Elements
@@ -164,7 +158,6 @@ STEEL|DECK|M|NORM|1|Sword of Feast and Famine
 STEEL|DECK|M|NORM|1|Sword of Fire and Ice
 STEEL|DECK|M|NORM|1|Sword of War and Peace
 STEEL|SIDE|C|NORM|3|Ardent Recruit
-
 RED|FREE|U|NORM|4|Arc Trail
 RED|FREE|C|NORM|4|Burst Lightning
 RED|FREE|U|NORM|2|Ember Hauler
@@ -184,7 +177,6 @@ RED|FREE|C|NORM|2|Staggershock
 RED|FREE|U|NORM|1|Stormblood Berserker
 RED|FREE|C|NORM|1|Volt Charge
 RED|FREE|C|NORM|1|Zektar Shrine Expedition
-
 NONE|FREE|R|NORM|1|Aegis of Honor
 NONE|FREE|M|NORM|1|Ajani Goldmane
 NONE|FREE|R|NORM|1|Akron Legionnaire
@@ -448,7 +440,6 @@ NONE|FREE|R|NORM|1|Wolfbriar Elemental
 NONE|FREE|R|NORM|1|World Queller
 NONE|FREE|M|NORM|1|Wrexial, the Risen Deep
 NONE|FREE|R|NORM|1|Xenograft
-
 NONE|FREE|U|NORM|3|Abattoir Ghoul
 NONE|FREE|U|NORM|1|Abuna Acolyte
 NONE|FREE|U|NORM|2|Acid Web Spider
