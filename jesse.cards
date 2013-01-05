@@ -603,7 +603,7 @@ NONE|FREE|U|NORM|1|Gnarled Effigy
 NONE|FREE|U|NORM|1|Go for the Throat
 NONE|FREE|U|NORM|1|Gobbling Ooze
 NONE|FREE|U|NORM|3|Goblin Artillery
-NONE|FREE|U|FOIL|1|Goblin Bushwhacker
+NONE|FREE|C|FOIL|1|Goblin Bushwhacker
 NONE|FREE|U|FOIL|1|Goblin Ruinblaster
 NONE|FREE|U|NORM|3|Goblin Ruinblaster
 NONE|FREE|U|NORM|2|Golem Artisan
@@ -639,7 +639,6 @@ NONE|FREE|U|NORM|4|Hellfire Mongrel
 NONE|FREE|U|NORM|1|Hellhole Flailer
 NONE|FREE|U|NORM|1|Hellhole Rats
 NONE|FREE|U|NORM|1|Heroes' Reunion
-NONE|FREE|U|FOIL|1|Hollowhenge Scavenger
 NONE|FREE|U|NORM|1|Hollowhenge Scavenger
 NONE|FREE|U|NORM|1|Homicidal Seclusion
 NONE|FREE|U|NORM|1|Honden of Cleansing Fire
@@ -680,7 +679,7 @@ NONE|FREE|U|NORM|2|Kazandu Blademaster
 NONE|FREE|U|NORM|3|Kazandu Refuge
 NONE|FREE|U|NORM|1|Kemba's Legion
 NONE|FREE|U|NORM|5|Khalni Gem
-NONE|FREE|U|FOIL|1|Khalni Heart Expedition
+NONE|FREE|C|FOIL|1|Khalni Heart Expedition
 NONE|FREE|U|NORM|2|Kiku's Shadow
 NONE|FREE|U|NORM|2|Kiln Walker
 NONE|FREE|U|NORM|4|Kiri-Onna
@@ -733,11 +732,10 @@ NONE|FREE|U|NORM|1|Mind Stone
 NONE|FREE|U|NORM|2|Mindcrank
 NONE|FREE|U|NORM|1|Mindculling
 NONE|FREE|U|NORM|4|Mirrodin's Core
-NONE|FREE|U|FOIL|1|Mizzium Skin
+NONE|FREE|C|FOIL|1|Mizzium Skin
 NONE|FREE|U|NORM|1|Mnemonic Sliver
 NONE|FREE|U|NORM|1|Moan of the Unhallowed
 NONE|FREE|U|NORM|1|Mountain Valley
-NONE|FREE|U|FOIL|1|Murasa Pyromancer
 NONE|FREE|U|FOIL|1|Murasa Pyromancer
 NONE|FREE|U|NORM|3|Murder Crows
 NONE|FREE|U|NORM|1|Mwonvuli Beast Tracker
@@ -747,7 +745,6 @@ NONE|FREE|U|NORM|4|Myrsmith
 NONE|FREE|U|NORM|1|Nantuko Monastery
 NONE|FREE|U|NORM|3|Nature's Spiral
 NONE|FREE|U|NORM|1|Necrogen Scudder
-NONE|FREE|U|FOIL|1|Necropede
 NONE|FREE|U|FOIL|1|Necropede
 NONE|FREE|U|NORM|7|Necropede
 NONE|FREE|U|NORM|2|Necropouncer
@@ -954,7 +951,7 @@ NONE|FREE|U|NORM|5|Twisted Image
 NONE|FREE|U|NORM|4|Umbral Mantle
 NONE|FREE|U|NORM|1|Unbender Tine
 NONE|FREE|U|NORM|3|Unstable Footing
-NONE|FREE|U|FOIL|1|Untamed Might
+NONE|FREE|C|FOIL|1|Untamed Might
 NONE|FREE|U|NORM|1|Urza's Bauble
 NONE|FREE|U|NORM|2|Urza's Mine
 NONE|FREE|U|NORM|1|Urza's Power Plant
@@ -1000,4 +997,4 @@ NONE|FREE|U|NORM|1|Worn Powerstone
 NONE|FREE|U|NORM|2|Wreath of Geists
 NONE|FREE|U|NORM|1|Wurm's Tooth
 NONE|FREE|U|NORM|2|Yavimaya Dryad
-NONE|FREE|U|FOIL|1|Zendikar Farguide
+NONE|FREE|C|FOIL|1|Zendikar Farguide
