@@ -22,7 +22,7 @@ FISH|DECK|C|NORM|4|Stonybrook Banneret
 FISH|DECK|U|NORM|1|Surgespanner
 FISH|DECK|R|NORM|4|Wake Thrasher
 FISH|DECK|R|NORM|0|Aether Vial
-FISH|DECK|R|NORM|1|Lightning Greaves
+FISH|DECK|U|NORM|1|Lightning Greaves
 FISH|DECK|U|NORM|1|Merrow Commerce
 FISH|DECK|U|NORM|4|Paradise Mantle
 FISH|DECK|U|NORM|4|Sage's Dousing
@@ -33,14 +33,14 @@ FISH|DECK|R|NORM|1|Miren, the Moaning Well
 FISH|DECK|C|NORM|4|Saprazzan Skerry
 FISH|SIDE|R|NORM|0|Arcanis the Omnipotent
 FISH|SIDE|R|NORM|1|Glen Elendra Archmage
-FISH|SIDE|R|NORM|2|Island
+FISH|SIDE|C|NORM|2|Island
 FISH|SIDE|R|NORM|1|Kira, Great Glass-Spinner
 FISH|SIDE|R|NORM|2|Lord of Atlantis
 FISH|SIDE|R|NORM|0|Master of the Pearl Trident
 FISH|SIDE|R|NORM|1|Merfolk Sovereign
 FISH|SIDE|R|NORM|1|Merrow Commerce
 FISH|SIDE|U|NORM|3|Sage of Fables
-FISH|SIDE|U|NORM|1|Surgespanner
+FISH|SIDE|R|NORM|1|Surgespanner
 
 GROWTH|DECK|C|NORM|10|Forest
 GROWTH|DECK|C|NORM|1|Llanowar Reborn
@@ -69,7 +69,6 @@ GWLAND|DECK|M|FOIL|1|Glacial Chasm
 GWLAND|DECK|M|FOIL|1|Maze of Ith
 GWLAND|DECK|M|FOIL|2|Knight of the Reliquary
 GWLAND|DECK|M|NORM|1|Rampaging Baloths
-GWLAND|DECK|M|NORM|1|Sword of War and Peace
 GWLAND|DECK|M|NORM|1|Vesuva
 GWLAND|DECK|R|NORM|1|Cavern of Souls
 GWLAND|DECK|R|NORM|1|Flagstones of Trokair
@@ -84,14 +83,11 @@ GWLAND|DECK|R|NORM|3|Sunpetal Grove
 GWLAND|DECK|R|NORM|4|Birds of Paradise
 GWLAND|DECK|R|NORM|4|Green Sun's Zenith
 GWLAND|DECK|R|NORM|4|Noble Hierarch
-GWLAND|DECK|R|NORM|4|Stoneforge Mystic
 GWLAND|DECK|U|NORM|1|Enlightened Tutor
 GWLAND|DECK|U|NORM|1|Eternal Witness
 GWLAND|DECK|U|NORM|1|Mistveil Plains
 GWLAND|DECK|U|NORM|1|Riftstone Portal
 GWLAND|DECK|U|NORM|4|Swords to Plowshares
-GWLAND|SIDE|M|NORM|1|Sword of Feast and Famine
-GWLAND|SIDE|M|NORM|1|Sword of Fire and Ice
 GWLAND|SIDE|R|NORM|1|Gaddock Teeg
 GWLAND|SIDE|R|NORM|1|Limited Resources
 GWLAND|SIDE|R|NORM|1|Petrified Field
@@ -130,6 +126,47 @@ WW|DECK|R|NORM|4|Proclamation of Rebirth
 WW|DECK|R|NORM|4|Serra Ascendant
 WW|DECK|R|NORM|4|Student of Warfare
 WW|DECK|U|NORM|3|Ajani's Pridemate
+
+STEEL|DECK|C|NORM|0|Ancient Den
+STEEL|DECK|C|NORM|3|Ardent Recruit
+STEEL|DECK|R|NORM|0|Argentum Armor
+STEEL|DECK|U|NORM|4|Brave the Elements
+STEEL|DECK|C|NORM|0|Darksteel Citadel
+STEEL|DECK|M|NORM|0|Elbrus, the Binding Blade
+STEEL|DECK|C|NORM|1|Flayer Husk
+STEEL|DECK|R|NORM|0|Heartseeker
+STEEL|DECK|I|NORM|1|Infiltration Lens
+STEEL|DECK|U|NORM|3|Kor Duelist
+STEEL|DECK|C|NORM|3|Kor Outfitter
+STEEL|DECK|U|NORM|1|Lightning Greaves
+STEEL|DECK|R|NORM|0|Mentor of the Meek
+STEEL|DECK|M|NORM|1|Mox Opal
+STEEL|DECK|C|NORM|14|Plains
+STEEL|DECK|R|NORM|0|Puresteel Paladin
+STEEL|DECK|R|NORM|4|Stoneforge Mystic
+STEEL|DECK|M|NORM|1|Sword of Feast and Famine
+STEEL|DECK|M|NORM|1|Sword of Fire and Ice
+STEEL|DECK|M|NORM|1|Sword of War and Peace
+
+RED|FREE|U|NORM|4|Arc Trail
+RED|FREE|C|NORM|4|Burst Lightning
+RED|FREE|U|NORM|2|Ember Hauler
+RED|FREE|U|NORM|2|Fireball
+RED|FREE|U|NORM|2|Forked Bolt
+RED|FREE|C|NORM|2|Goblin Bushwhacker
+RED|FREE|C|NORM|2|Goblin Shortcutter
+RED|FREE|U|NORM|1|Guttersnipe
+RED|FREE|C|NORM|1|Infernal Plunge
+RED|FREE|C|NORM|4|Lightning Bolt
+RED|FREE|C|NORM|22|Mountain
+RED|FREE|C|NORM|4|Plated Geopede
+RED|FREE|U|NORM|2|Priest of Urabrask
+RED|FREE|U|NORM|1|Rakdos Cackler
+RED|FREE|U|NORM|2|Shrine of Burning Rage
+RED|FREE|C|NORM|2|Staggershock
+RED|FREE|U|NORM|1|Stormblood Berserker
+RED|FREE|C|NORM|1|Volt Charge
+RED|FREE|C|NORM|1|Zektar Shrine Expedition
 
 NONE|FREE|R|NORM|1|Aegis of Honor
 NONE|FREE|M|NORM|1|Ajani Goldmane
@@ -420,7 +457,6 @@ NONE|FREE|U|NORM|2|Alluring Siren
 NONE|FREE|U|NORM|1|Angel's Tomb
 NONE|FREE|U|NORM|1|Angelic Armaments
 NONE|FREE|U|NORM|1|Arbalest Elite
-NONE|FREE|U|NORM|4|Arc Trail
 NONE|FREE|U|NORM|2|Argent Mutation
 NONE|FREE|U|NORM|2|Arm with Aether
 NONE|FREE|U|NORM|2|Armored Ascension
@@ -465,7 +501,6 @@ NONE|FREE|U|NORM|1|Brain Pry
 NONE|FREE|U|NORM|1|Bramblecrush
 NONE|FREE|U|NORM|1|Bramblesnap
 NONE|FREE|U|NORM|1|Brass Squire
-NONE|FREE|U|NORM|4|Brave the Elements
 NONE|FREE|U|NORM|2|Broodwarden
 NONE|FREE|U|NORM|2|Brutalizer Exarch
 NONE|FREE|U|NORM|2|Builder's Blessing
@@ -550,7 +585,6 @@ NONE|FREE|U|NORM|3|Eiganjo Free-Riders
 NONE|FREE|U|NORM|1|Elfhame Palace
 NONE|FREE|U|NORM|1|Elite Vanguard
 NONE|FREE|U|NORM|2|Elixir of Immortality
-NONE|FREE|U|NORM|2|Ember Hauler
 NONE|FREE|U|NORM|2|Embersmith
 NONE|FREE|U|NORM|2|Emerge Unscathed
 NONE|FREE|U|NORM|2|Emerge Unscathed
@@ -574,13 +608,12 @@ NONE|FREE|U|NORM|1|Feral Lightning
 NONE|FREE|U|NORM|1|Fiend Hunter
 NONE|FREE|U|NORM|1|Filigree Fracture
 NONE|FREE|U|NORM|1|Fire Servant
-NONE|FREE|U|NORM|4|Fireball
+NONE|FREE|U|NORM|2|Fireball
 NONE|FREE|U|NORM|1|Flaring Flame-Kin
 NONE|FREE|U|NORM|1|Flash Foliage
 NONE|FREE|U|FOIL|1|Flashfreeze
 NONE|FREE|U|NORM|2|Flesh Allergy
 NONE|FREE|U|NORM|2|Footsteps of the Goryo
-NONE|FREE|U|NORM|2|Forked Bolt
 NONE|FREE|U|NORM|2|Frontier Guide
 NONE|FREE|U|NORM|2|Full Moon's Rise
 NONE|FREE|U|NORM|3|Furnace Celebration
@@ -620,7 +653,6 @@ NONE|FREE|U|NORM|2|Greenhilt Trainee
 NONE|FREE|U|NORM|6|Greenweaver Druid
 NONE|FREE|U|NORM|1|Grim Flowering
 NONE|FREE|U|NORM|1|Gut Shot
-NONE|FREE|U|NORM|1|Guttersnipe
 NONE|FREE|U|NORM|1|Hada Spy Patrol
 NONE|FREE|U|NORM|2|Hagra Diabolist
 NONE|FREE|U|NORM|3|Hail of Arrows
@@ -657,7 +689,7 @@ NONE|FREE|U|NORM|8|Ichor Rats
 NONE|FREE|U|NORM|1|Ignite Disorder
 NONE|FREE|U|NORM|1|Incremental Blight
 NONE|FREE|U|NORM|2|Inferno Trap
-NONE|FREE|U|NORM|3|Infiltration Lens
+NONE|FREE|U|NORM|2|Infiltration Lens
 NONE|FREE|U|NORM|1|Inkfathom Infiltrator
 NONE|FREE|U|NORM|1|Inkfathom Witch
 NONE|FREE|U|NORM|1|Inquisition of Kozilek
@@ -687,7 +719,7 @@ NONE|FREE|U|NORM|1|Kismet
 NONE|FREE|U|NORM|1|Kite Shield
 NONE|FREE|U|NORM|1|Knight of Dawn
 NONE|FREE|U|NORM|3|Kor Aeronaut
-NONE|FREE|U|NORM|3|Kor Duelist
+NONE|FREE|U|FOIL|1|Kor Skyfisher
 NONE|FREE|U|NORM|1|Krosan Verge
 NONE|FREE|U|FOIL|1|Landbind Ritual
 NONE|FREE|U|NORM|3|Landbind Ritual
@@ -764,6 +796,7 @@ NONE|FREE|U|NORM|6|Ornithopter
 NONE|FREE|U|NORM|10|Overrun
 NONE|FREE|U|NORM|2|Oxidda Scrapmelter
 NONE|FREE|U|NORM|1|Painsmith
+NONE|FREE|U|FOIL|1|Palace Guard
 NONE|FREE|U|NORM|4|Palladium Myr
 NONE|FREE|U|NORM|2|Path to Exile
 NONE|FREE|U|NORM|2|Pathrazer of Ulamog
@@ -789,7 +822,6 @@ NONE|FREE|U|NORM|2|Postmortem Lunge
 NONE|FREE|U|NORM|1|Power Armor
 NONE|FREE|U|NORM|4|Presence of the Wise
 NONE|FREE|U|NORM|2|Priest of Gix
-NONE|FREE|U|NORM|2|Priest of Urabrask
 NONE|FREE|U|NORM|3|Primal Bellow
 NONE|FREE|U|NORM|1|Prized Unicorn
 NONE|FREE|U|NORM|5|Prodigal Pyromancer
@@ -808,7 +840,6 @@ NONE|FREE|U|NORM|1|Racecource Fury
 NONE|FREE|U|NORM|2|Ragamuffyn
 NONE|FREE|U|NORM|1|Rage Extractor
 NONE|FREE|U|NORM|1|Rage Thrower
-NONE|FREE|U|NORM|1|Rakdos Cackler
 NONE|FREE|U|NORM|2|Rakdos Ragemutt
 NONE|FREE|U|NORM|3|Rally the Peasants
 NONE|FREE|U|NORM|2|Rapacious One
@@ -858,7 +889,6 @@ NONE|FREE|U|NORM|2|Shield Sphere
 NONE|FREE|U|NORM|2|Shifting Borders
 NONE|FREE|U|NORM|1|Shivan Oasis
 NONE|FREE|U|NORM|2|Shrine of Boundless Growth
-NONE|FREE|U|NORM|2|Shrine of Burning Rage
 NONE|FREE|U|NORM|2|Shrine of Limitless Power
 NONE|FREE|U|NORM|2|Shrine of Loyal Legions
 NONE|FREE|U|NORM|2|Shrine of Piercing Vision
@@ -897,15 +927,16 @@ NONE|FREE|U|NORM|1|Stern Mentor
 NONE|FREE|U|NORM|1|Stoic Ephemera
 NONE|FREE|U|NORM|1|Stomp and Howl
 NONE|FREE|U|NORM|1|Stone Golem
-NONE|FREE|U|NORM|1|Stormblood Berserker
 NONE|FREE|U|NORM|4|Suffer the Past
 NONE|FREE|U|NORM|2|Summit Apes
 NONE|FREE|U|NORM|3|Summoner's Bane
 NONE|FREE|U|NORM|1|Sun Droplet
 NONE|FREE|U|NORM|1|Sunscape Battlemage
+NONE|FREE|U|FOIL|1|Sunspear Shikari
 NONE|FREE|U|NORM|2|Surge Node
 NONE|FREE|U|NORM|1|Surreal Memoir
 NONE|FREE|U|NORM|2|Survival Cache
+NONE|FREE|U|FOIL|1|Suture Priest
 NONE|FREE|U|NORM|1|Synod Centurion
 NONE|FREE|U|NORM|1|Synod Sanctum
 NONE|FREE|U|NORM|1|Tablet of the Guilds
