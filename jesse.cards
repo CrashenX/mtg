@@ -104,7 +104,7 @@ LANDFALL|DECK|R|NORM|1|Oracle of Mul Daya
 LANDFALL|DECK|R|NORM|1|Vampiric Tutor
 LANDFALL|DECK|R|NORM|1|Zur the Enchanter
 LANDFALL|DECK|R|NORM|2|Crucible of Worlds
-LANDFALL|DECK|R|NORM|2|Reflecting Pool
+LANDFALL|DECK|R|NORM|1|Reflecting Pool
 LANDFALL|DECK|R|NORM|2|Trade Routes
 LANDFALL|DECK|R|NORM|2|Undiscovered Paradise
 LANDFALL|DECK|R|NORM|3|Exploration
@@ -227,12 +227,10 @@ NONE|FREE|R|NORM|1|Conquering Manticore
 NONE|FREE|R|NORM|1|Conqueror's Pledge
 NONE|FREE|R|NORM|3|Contagion Engine
 NONE|FREE|R|NORM|1|Conundrum Sphinx
-NONE|FREE|R|NORM|1|Copperline Gorge
 NONE|FREE|R|NORM|1|Cosi's Trickster
 NONE|FREE|R|NORM|1|Creeping Tar Pit
 NONE|FREE|R|NORM|1|Crypt of Agadeem
 NONE|FREE|R|NORM|2|Cryptoplasm
-NONE|FREE|R|NORM|1|Darkslick Shores
 NONE|FREE|R|NORM|2|Day of Judgment
 NONE|FREE|R|NORM|1|Death's Presence
 NONE|FREE|M|NORM|1|Demon of Death's Gate
@@ -249,7 +247,6 @@ NONE|FREE|R|NORM|2|Earthcraft
 NONE|FREE|R|NORM|1|Eldrazi Conscription
 NONE|FREE|R|FOIL|1|Elemental Resonance
 NONE|FREE|R|NORM|1|Emeria, the Sky Ruin
-NONE|FREE|R|NORM|2|Emeria Angel
 NONE|FREE|R|NORM|2|Engulfing Slagwurm
 NONE|FREE|R|NORM|1|Etched Champion
 NONE|FREE|M|NORM|2|Etched Monstrosity
@@ -333,7 +330,6 @@ NONE|FREE|R|NORM|2|Marshal's Anthem
 NONE|FREE|R|NORM|1|Martial Law
 NONE|FREE|R|NORM|1|Master Transmuter
 NONE|FREE|M|FOIL|1|Maze of Ith
-NONE|FREE|R|NORM|2|Melira, Sylvok Outcast
 NONE|FREE|R|FOIL|1|Memoricide
 NONE|FREE|R|NORM|1|Memoricide
 NONE|FREE|R|NORM|1|Mimic Vat
@@ -353,7 +349,6 @@ NONE|FREE|R|NORM|1|Neverending Torment
 NONE|FREE|R|NORM|2|Norn's Annex
 NONE|FREE|R|NORM|1|Ob Nixilis, the Fallen
 NONE|FREE|R|NORM|1|Oracle of Mul Daya
-NONE|FREE|R|NORM|2|Oran-Rief, the Vastwood
 NONE|FREE|R|NORM|2|Overgrown Tomb
 NONE|FREE|R|NORM|1|Pain's Reward
 NONE|FREE|R|NORM|1|Painful Quandary
@@ -408,8 +403,6 @@ NONE|FREE|R|NORM|2|Strata Scythe
 NONE|FREE|R|NORM|2|Student of Warfare
 NONE|FREE|R|FOIL|2|Sunblast Angel
 NONE|FREE|R|NORM|1|Sunblast Angel
-NONE|FREE|R|FOIL|1|Surgical Extraction
-NONE|FREE|R|NORM|2|Surgical Extraction
 NONE|FREE|R|NORM|1|Talus Paladin
 NONE|FREE|R|NORM|1|Teferi's Imp
 NONE|FREE|R|NORM|1|Telemin Performance
@@ -486,7 +479,6 @@ NONE|FREE|U|NORM|1|Barter in Blood
 NONE|FREE|U|NORM|4|Basalt Monolith
 NONE|FREE|U|NORM|1|Battleground Geist
 NONE|FREE|U|NORM|1|Batwing Brume
-NONE|FREE|U|NORM|2|Beast Within
 NONE|FREE|U|NORM|5|Bellowing Tanglewurm
 NONE|FREE|U|NORM|3|Beloved Chaplain
 NONE|FREE|U|NORM|2|Bestial Menace
