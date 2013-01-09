@@ -10,6 +10,8 @@ BIGNASTY|SIDE|M|NORM|2|Primeval Titan
 BIGNASTY|SIDE|R|NORM|1|Mystifying Maze
 BIGNASTY|SIDE|R|NORM|1|Terra Stomper
 FISH|DECK|R|NORM|1|Azami, Lady of Scrolls
+FISH|DECK|R|NORM|1|Cavern of Souls
+FISH,GWLAND|DECK|R|NORM|1|Cavern of Souls
 FISH|DECK|R|NORM|1|Glen Elendra Archmage
 FISH|DECK|R|NORM|0|Master of the Pearl Trident
 FISH|DECK|R|NORM|3|Merfolk Sovereign
@@ -26,7 +28,7 @@ FISH|DECK|U|NORM|1|Merrow Commerce
 FISH|DECK|U|NORM|4|Paradise Mantle
 FISH|DECK|U|NORM|4|Sage's Dousing
 FISH|DECK|R|NORM|2|Sapphire Medallion
-FISH|DECK|C|NORM|14|ISLAND
+FISH|DECK|C|NORM|13|ISLAND
 FISH|DECK|R|NORM|1|Minamo, School at Water's Edge
 FISH|DECK|R|NORM|1|Miren, the Moaning Well
 FISH|DECK|C|NORM|4|Saprazzan Skerry
@@ -67,7 +69,6 @@ GWLAND|DECK|M|FOIL|1|Maze of Ith
 GWLAND|DECK|M|FOIL|2|Knight of the Reliquary
 GWLAND|DECK|M|NORM|1|Rampaging Baloths
 GWLAND|DECK|M|NORM|1|Vesuva
-GWLAND|DECK|R|NORM|1|Cavern of Souls
 GWLAND|DECK|R|NORM|1|Flagstones of Trokair
 GWLAND|DECK|R|NORM|1|Land Tax
 GWLAND|DECK|R|NORM|1|Sylvan Library
@@ -137,6 +138,7 @@ WW|DECK|M|NORM|2|Windbrisk Heights
 WW|SIDE|C|NORM|0|Martyr of Sands
 WW|SIDE|C|NORM|13|Plains
 WW|SIDE|R|NORM|1|Proclamation of Rebirth
+WW|SIDE|R|NORM|1|Thalia, Guardian of Thraben
 STEEL|DECK|C|NORM|0|Ancient Den
 STEEL|DECK|R|NORM|0|Argentum Armor
 STEEL|DECK|U|NORM|4|Brave the Elements
@@ -266,6 +268,7 @@ NONE|FREE|R|NORM|2|Gargoyle Castle
 NONE|FREE|M|NORM|1|Garruk Wildspeaker
 NONE|FREE|R|NORM|1|Gavony Township
 NONE|FREE|R|NORM|1|Geist-Honored Monk
+NONE|FREE|R|FOIL|1|Geist-Honored Monk (miscut)
 NONE|FREE|R|FOIL|1|Gelatinous Genesis
 NONE|FREE|R|NORM|1|Gigantiform
 NONE|FREE|R|FOIL|1|Gigantomancer
