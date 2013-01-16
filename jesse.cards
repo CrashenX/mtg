@@ -1,14 +1,24 @@
-BIGNASTY|DECK|M|NORM|1|Eye of Ugin
-BIGNASTY|DECK|M|NORM|1|Platinum Emperion
-BIGNASTY|DECK|M|NORM|1|Ulamog, the Infinite Gyre
+BIGNASTY|DECK|R|NORM|3|Cultivate
 BIGNASTY|DECK|R|NORM|1|Eldrazi Temple
+BIGNASTY|DECK|R|NORM|0|Emrakul, the Aeons Torn
+BIGNASTY|DECK|R|NORM|2|Everflowing Chalice
+BIGNASTY|DECK|R|NORM|3|Explore
+BIGNASTY|DECK|R|NORM|1|Eye of Ugin
+BIGNASTY|DECK|R|NORM|13|Forest
+BIGNASTY|DECK|R|NORM|2|Growth Spasm
+BIGNASTY|DECK|R|NORM|4|Khalni Garden
+BIGNASTY|DECK|R|NORM|0|Kozilek, Butcher of Truth
+BIGNASTY|DECK|R|NORM|4|Llanowar Elves
+BIGNASTY|DECK|R|NORM|1|Mystifying Maze
+BIGNASTY|DECK|R|NORM|4|Overgrown Battlement
+BIGNASTY|DECK|R|NORM|1|Platinum Emperion
+BIGNASTY|DECK|R|NORM|3|Primeval Titan
+BIGNASTY|DECK|R|NORM|3|Summoning Trap
 BIGNASTY|DECK|R|NORM|1|Sundering Titan
+BIGNASTY|DECK|R|NORM|3|Tectonic Edge
 BIGNASTY|DECK|R|NORM|1|Terastodon
+BIGNASTY|DECK|R|NORM|1|Ulamog, the Infinite Gyre
 BIGNASTY|DECK|R|NORM|1|Vigor
-BIGNASTY|DECK|R|NORM|2|Summoning Trap
-BIGNASTY|SIDE|M|NORM|3|Primeval Titan
-BIGNASTY|SIDE|R|NORM|1|Mystifying Maze
-BIGNASTY|SIDE|R|NORM|1|Terra Stomper
 FISH|DECK|R|NORM|1|Azami, Lady of Scrolls
 FISH|DECK|R|NORM|1|Cavern of Souls
 FISH,GWLAND|DECK|R|NORM|1|Cavern of Souls
@@ -18,7 +28,7 @@ FISH|DECK|R|NORM|3|Merfolk Sovereign
 FISH|DECK|U|NORM|4|Merrow Reejerey
 FISH|DECK|U|NORM|4|Puresight Merrow
 FISH|DECK|U|NORM|1|Sage of Fables
-FISH|DECK|U|NORM|0|Silvergill Adept
+FISH|DECK|U|NORM|3|Silvergill Adept
 FISH|DECK|C|NORM|4|Stonybrook Banneret
 FISH|DECK|U|NORM|1|Surgespanner
 FISH|DECK|R|NORM|4|Wake Thrasher
@@ -119,18 +129,18 @@ LANDFALL|DECK|U|NORM|2|Zuran Orb
 LANDFALL|DECK|U|NORM|4|Gemstone Mine
 LANDFALL|DECK|U|NORM|4|Glacial Chasm
 LANDFALL|DECK|U|NORM|4|Treva's Ruins
-LANDFALL|SIDE|C|NORM|2|Grazing Gladehart
+LANDFALL|SIDE|C|NORM|2|Grazing GladehartNORMNORM
 WW|DECK|U|NORM|3|Ajani's Pridemate
 WW|DECK|R|NORM|0|Eiganjo Castle
 WW|DECK|M|NORM|1|Felidar Sovereign
-WW|DECK|R|NORM|0|Honor of the Pure
+WW|DECK|R|NORM|3|Honor of the Pure
 WW|DECK|C|NORM|4|Kabira Crossroads
 WW|DECK|C|NORM|0|Martyr of Sands
 WW|DECK|R|NORM|0|Mikaeus, the Lunarch
-WW|DECK|U|NORM|2|Path to Exile
+WW|DECK|U|NORM|3|Path to Exile
 WW|DECK|C|NORM|14|Plains
 WW|DECK|R|NORM|3|Proclamation of Rebirth
-WW|DECK|R|NORM|0|Ranger of Eos
+WW|DECK|R|NORM|3|Ranger of Eos
 WW|DECK|R|NORM|1|Rune-Tail, Kitsune Ascendant
 WW|DECK|R|NORM|4|Serra Ascendant
 WW|DECK|C|NORM|4|Soul Warden
@@ -138,18 +148,18 @@ WW|DECK|C|NORM|4|Soul's Attendant
 WW|DECK|R|NORM|4|Student of Warfare
 WW|DECK|M|NORM|2|Windbrisk Heights
 WW|SIDE|C|NORM|0|Martyr of Sands
-WW|SIDE|C|NORM|13|Plains
+WW|SIDE|U|NORM|1|Path to Exile
 WW|SIDE|R|NORM|1|Proclamation of Rebirth
 WW|SIDE|R|NORM|1|Thalia, Guardian of Thraben
 STEEL|DECK|C|NORM|0|Ancient Den
-STEEL|DECK|R|NORM|0|Argentum Armor
+STEEL|DECK|R|NORM|1|Argentum Armor
 STEEL|DECK|U|NORM|4|Brave the Elements
-STEEL|DECK|C|NORM|0|Darksteel Citadel
+STEEL|DECK|C|NORM|1|Darksteel Citadel
 STEEL|DECK|M|NORM|0|Elbrus, the Binding Blade
 STEEL|DECK|C|NORM|1|Flayer Husk
 STEEL|DECK|R|NORM|0|Heartseeker
 STEEL|DECK|I|NORM|1|Infiltration Lens
-STEEL|DECK|U|NORM|3|Kor Duelist
+STEEL|DECK|U|NORM|4|Kor Duelist
 STEEL|DECK|C|NORM|3|Kor Outfitter
 STEEL|DECK|R|NORM|0|Leonin Shikari
 STEEL|DECK|U|NORM|1|Lightning Greaves
@@ -162,6 +172,7 @@ STEEL|DECK|M|NORM|1|Sword of Feast and Famine
 STEEL|DECK|M|NORM|1|Sword of Fire and Ice
 STEEL|DECK|M|NORM|1|Sword of War and Peace
 STEEL|SIDE|C|NORM|3|Ardent Recruit
+STEEL|SIDE|R|NORM|1|Captain of the Watch
 RED|FREE|U|NORM|4|Arc Trail
 RED|FREE|C|NORM|4|Burst Lightning
 RED|FREE|U|NORM|2|Ember Hauler
@@ -247,7 +258,7 @@ NONE|FREE|U|NORM|1|Batwing Brume
 NONE|FREE|R|NORM|1|Bazaar Trader
 NONE|FREE|R|NORM|1|Beastmaster Ascension
 NONE|FREE|U|NORM|5|Bellowing Tanglewurm
-NONE|FREE|U|NORM|3|Beloved Chaplain
+NONE|FREE|U|NORM|4|Beloved Chaplain
 NONE|FREE|U|NORM|2|Bestial Menace
 NONE|FREE|R|NORM|2|Birthing Pod
 NONE|FREE|U|NORM|1|Biting Tether
@@ -357,7 +368,7 @@ NONE|FREE|U|NORM|5|Darksteel Myr
 NONE|FREE|U|NORM|2|Darksteel Relic
 NONE|FREE|U|NORM|4|Darksteel Sentinel
 NONE|FREE|U|NORM|1|Dauthi Embrace
-NONE|FREE|R|NORM|2|Day of Judgment
+NONE|FREE|R|NORM|3|Day of Judgment
 NONE|FREE|R|NORM|1|Death's Presence
 NONE|FREE|U|NORM|4|Deathforge Shaman
 NONE|FREE|U|NORM|1|Deathmark
@@ -920,7 +931,6 @@ NONE|FREE|U|NORM|2|Tajuru Archer
 NONE|FREE|R|NORM|1|Talus Paladin
 NONE|FREE|U|NORM|6|Tangle Angler
 NONE|FREE|U|NORM|1|Tavern Swindler
-NONE|FREE|U|NORM|1|Tectonic Edge
 NONE|FREE|R|NORM|1|Teferi's Imp
 NONE|FREE|R|NORM|1|Telemin Performance
 NONE|FREE|U|NORM|2|Telepathy
