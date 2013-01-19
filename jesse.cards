@@ -250,6 +250,7 @@ NONE|FREE|U|NORM|4|Bad River
 NONE|FREE|U|NORM|3|Baloth Cage Trap
 NONE|FREE|U|NORM|2|Baloth Woodcrasher
 NONE|FREE|R|NORM|1|Baneful Omen
+NONE|FREE|U|NORM|1|Banishing Stroke
 NONE|FREE|U|FOIL|1|Barbed Battlegear
 NONE|FREE|U|NORM|1|Barbed Battlegear
 NONE|FREE|U|NORM|1|Barrage Ogre
@@ -290,6 +291,7 @@ NONE|FREE|R|NORM|1|Brittle Effigy
 NONE|FREE|U|NORM|2|Broodwarden
 NONE|FREE|U|NORM|2|Brutalizer Exarch
 NONE|FREE|U|NORM|2|Builder's Blessing
+NONE|FREE|R|FOIL|1|Burn at the Stake
 NONE|FREE|U|NORM|1|Burning Vengeance
 NONE|FREE|U|NORM|1|Butcher's Cleaver
 NONE|FREE|R|NORM|1|Cackling Counterpart
@@ -330,6 +332,7 @@ NONE|FREE|U|NORM|2|Cobra Trap
 NONE|FREE|U|NORM|2|Codex Shredder
 NONE|FREE|R|NORM|2|Collective Blessing
 NONE|FREE|U|NORM|1|Condemn
+NONE|FREE|R|NORM|1|Conjurer's Closet
 NONE|FREE|R|NORM|1|Conquering Manticore
 NONE|FREE|R|NORM|1|Conqueror's Pledge
 NONE|FREE|U|NORM|4|Consecrate Land
@@ -378,9 +381,11 @@ NONE|FREE|U|NORM|1|Deathmark
 NONE|FREE|U|NORM|2|Deceiver Exarch
 NONE|FREE|M|NORM|1|Demon of Death's Gate
 NONE|FREE|U|NORM|2|Demon's Horn
+NONE|FREE|U|NORM|1|Demonic Taskmaster
 NONE|FREE|U|NORM|1|Demonmail Hauberk
 NONE|FREE|U|NORM|4|Descendant of Kiyomaro
 NONE|FREE|M|FOIL|2|Desert
+NONE|FREE|R|NORM|1|Desolate Lighthouse
 NONE|FREE|U|NORM|2|Despise
 NONE|FREE|U|NORM|7|Diabolic Tutor
 NONE|FREE|R|NORM|1|Dingus Egg
@@ -400,6 +405,7 @@ NONE|FREE|U|NORM|3|Dreamstone Hedron
 NONE|FREE|U|NORM|1|Drogskol Captain
 NONE|FREE|U|NORM|4|Dromar's Cavern
 NONE|FREE|M|FOIL|1|Dryad Arbor
+NONE|FREE|R|NORM|1|Dual Casting
 NONE|FREE|U|NORM|2|Due Respect
 NONE|FREE|R|NORM|1|Duplicant
 NONE|FREE|U|NORM|2|Duskdale Wurm
@@ -478,6 +484,7 @@ NONE|FREE|U|NORM|4|Geth's Grimoire
 NONE|FREE|U|NORM|3|Geyser Glider
 NONE|FREE|U|NORM|2|Ghost-Lit Redeemer
 NONE|FREE|U|NORM|2|Ghost-Lit Warder
+NONE|FREE|U|NORM|2|Ghostly Touch
 NONE|FREE|R|NORM|1|Gigantiform
 NONE|FREE|R|FOIL|1|Gigantomancer
 NONE|FREE|M|FOIL|1|Glacial Chasm
@@ -525,6 +532,7 @@ NONE|FREE|U|NORM|4|Hankyu
 NONE|FREE|U|NORM|3|Harm's Way
 NONE|FREE|U|NORM|1|Harmonize
 NONE|FREE|U|NORM|1|Haunted Guardian
+NONE|FREE|U|NORM|1|Havengul Vampire
 NONE|FREE|U|NORM|2|Havengul Vampire
 NONE|FREE|U|NORM|3|Heavy Arbalest
 NONE|FREE|U|FOIL|1|Hedron Crab
@@ -540,6 +548,7 @@ NONE|FREE|M|FOIL|1|High Market
 NONE|FREE|R|NORM|1|Hoarding Dragon
 NONE|FREE|R|NORM|2|Hokori, Dust Drinker
 NONE|FREE|U|NORM|1|Hollowhenge Scavenger
+NONE|FREE|U|NORM|1|Homicidal Seclusion
 NONE|FREE|U|NORM|1|Homicidal Seclusion
 NONE|FREE|R|NORM|1|Homura, Human Ascendant
 NONE|FREE|U|NORM|1|Honden of Cleansing Fire
@@ -596,6 +605,7 @@ NONE|FREE|U|NORM|1|Kemba's Legion
 NONE|FREE|R|NORM|2|Kemba, Kha Regent
 NONE|FREE|R|FOIL|1|Kessig Cagebreakers
 NONE|FREE|R|NORM|1|Kessig Cagebreakers
+NONE|FREE|U|NORM|1|Kessig Malcontents
 NONE|FREE|R|NORM|1|Kessig Wolf Run
 NONE|FREE|U|NORM|5|Khalni Gem
 NONE|FREE|C|FOIL|1|Khalni Heart Expedition
@@ -615,6 +625,7 @@ NONE|FREE|R|NORM|2|Kuldotha Phoenix
 NONE|FREE|U|FOIL|1|Landbind Ritual
 NONE|FREE|U|NORM|3|Landbind Ritual
 NONE|FREE|R|NORM|1|Lashwrithe
+NONE|FREE|U|NORM|1|Latch Seeker
 NONE|FREE|R|NORM|3|Lavaball Trap
 NONE|FREE|R|NORM|1|Lavaclaw Reaches
 NONE|FREE|U|NORM|1|Lead the Stampede
@@ -684,6 +695,7 @@ NONE|FREE|C|FOIL|1|Mizzium Skin
 NONE|FREE|U|NORM|1|Moan of the Unhallowed
 NONE|FREE|R|NORM|1|Molimo, Maro-Sorcerer
 NONE|FREE|R|NORM|1|Molten Psyche
+NONE|FREE|R|NORM|1|Moonsilver Spear
 NONE|FREE|R|NORM|1|Mosswort Bridge
 NONE|FREE|U|NORM|1|Mountain Valley
 NONE|FREE|M|NORM|1|Mox Opal
@@ -808,6 +820,7 @@ NONE|FREE|U|NORM|3|Rewind
 NONE|FREE|U|NORM|1|Ricochet Trap
 NONE|FREE|U|NORM|2|Riddlesmith
 NONE|FREE|U|NORM|2|Righteousness
+NONE|FREE|C|FOIL|1|Riot Ringleader
 NONE|FREE|U|NORM|10|Rise from the Grave
 NONE|FREE|R|NORM|1|Rite of Replication
 NONE|FREE|R|NORM|1|Rites of Flourishing
@@ -908,9 +921,11 @@ NONE|FREE|U|NORM|2|Sprouting Thrinax
 NONE|FREE|R|NORM|1|Steam Vents
 NONE|FREE|R|NORM|1|Steel Overseer
 NONE|FREE|U|NORM|1|Stern Mentor
+NONE|FREE|U|NORM|1|Stern Mentor
 NONE|FREE|U|NORM|1|Stoic Ephemera
 NONE|FREE|U|NORM|1|Stomp and Howl
 NONE|FREE|U|NORM|1|Stone Golem
+NONE|FREE|U|FOIL|1|Stonewright
 NONE|FREE|R|NORM|2|Strata Scythe
 NONE|FREE|R|NORM|2|Student of Warfare
 NONE|FREE|U|NORM|4|Suffer the Past
@@ -967,6 +982,7 @@ NONE|FREE|U|NORM|3|Trigon of Rage
 NONE|FREE|U|NORM|6|Trigon of Thought
 NONE|FREE|U|NORM|3|Trinket Mage
 NONE|FREE|U|NORM|2|Trip Noose
+NONE|FREE|U|NORM|1|Triumph of Cruelty
 NONE|FREE|U|NORM|2|Triumph of the Hordes
 NONE|FREE|R|NORM|1|Troll Ascetic
 NONE|FREE|R|NORM|2|True Conviction
@@ -1006,6 +1022,7 @@ NONE|FREE|R|NORM|1|Vengeful Archon
 NONE|FREE|R|NORM|2|Venser's Journal
 NONE|FREE|R|FOIL|1|Verdant Force
 NONE|FREE|U|NORM|1|Verduran Emissary
+NONE|FREE|U|NORM|1|Vessel of Endless Rest
 NONE|FREE|M|FOIL|1|Vesuva
 NONE|FREE|C|FOIL|1|Vigean Hydropon
 NONE|FREE|U|NORM|2|Vigean Intuition
@@ -1051,8 +1068,3 @@ NONE|FREE|U|NORM|1|Wurm's Tooth
 NONE|FREE|R|NORM|1|Xenograft
 NONE|FREE|U|NORM|2|Yavimaya Dryad
 NONE|FREE|C|FOIL|1|Zendikar Farguide
-NONE|FREE|R|FOIL|1|Burn at the Stake
-NONE|FREE|R|NORM|1|Conjurer's Closet
-NONE|FREE|R|NORM|1|Desolate Lighthouse
-NONE|FREE|R|NORM|1|Dual Casting
-NONE|FREE|R|NORM|1|Moonsilver Spear
