@@ -148,6 +148,7 @@ WW|DECK|C|NORM|4|Soul's Attendant
 WW|DECK|R|NORM|4|Student of Warfare
 WW|DECK|M|NORM|2|Windbrisk Heights
 WW|SIDE|C|NORM|0|Martyr of Sands
+WW|SIDE|U|NORM|2|Chalice of Life
 WW|SIDE|U|NORM|1|Path to Exile
 WW|SIDE|R|NORM|1|Proclamation of Rebirth
 WW|SIDE|R|NORM|1|Thalia, Guardian of Thraben
@@ -173,6 +174,8 @@ STEEL|DECK|M|NORM|1|Sword of Fire and Ice
 STEEL|DECK|M|NORM|1|Sword of War and Peace
 STEEL|SIDE|C|NORM|3|Ardent Recruit
 STEEL|SIDE|R|NORM|1|Captain of the Watch
+STEEL|SIDE|U|NORM|1|Devout Chaplain
+STEEL|SIDE|U|NORM|3|Faith's Shield
 RED|FREE|U|NORM|4|Arc Trail
 RED|FREE|C|NORM|4|Burst Lightning
 RED|FREE|U|NORM|2|Ember Hauler
@@ -439,7 +442,7 @@ NONE|FREE|U|NORM|4|Feast of Blood
 NONE|FREE|U|NORM|1|Feldon's Cane
 NONE|FREE|R|NORM|1|Feral Hydra
 NONE|FREE|U|NORM|1|Feral Lightning
-NONE|FREE|U|NORM|1|Fiend Hunter
+NONE|FREE|U|NORM|2|Fiend Hunter
 NONE|FREE|U|NORM|1|Filigree Fracture
 NONE|FREE|U|NORM|1|Fire Servant
 NONE|FREE|U|NORM|2|Fireball
@@ -719,6 +722,7 @@ NONE|FREE|U|NORM|1|Onyx Mage
 NONE|FREE|R|NORM|1|Oracle of Mul Daya
 NONE|FREE|U|NORM|1|Order of Yawgmoth
 NONE|FREE|U|NORM|6|Ornithopter
+NONE|FREE|R|NORM|1|Otherworld Atlas
 NONE|FREE|R|NORM|2|Overgrown Tomb
 NONE|FREE|U|NORM|10|Overrun
 NONE|FREE|U|NORM|2|Oxidda Scrapmelter
