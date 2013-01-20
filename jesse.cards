@@ -68,39 +68,40 @@ GROWTH|DECK|R|NORM|4|Scute Mob
 GROWTH|DECK|U|NORM|4|Gilder Bairn
 GROWTH|DECK|U|NORM|4|Plaxcaster Frogling
 GROWTH|SIDE|C|NORM|15|Forest
-GWLAND|DECK|C|NORM|1|Sejiri Steppe
-GWLAND|DECK|C|NORM|2|Qasali Pridemage
-GWLAND|DECK|C|NORM|3|Plains
-GWLAND|DECK|C|NORM|7|Forest
+GWLAND|DECK|R|NORM|3|Armageddon
 GWLAND|DECK|M|NORM|1|Batterskull
+GWLAND|DECK|R|NORM|4|Birds of Paradise
 GWLAND|DECK|M|FOIL|1|Dryad Arbor
-GWLAND|DECK|M|FOIL|1|Glacial Chasm
-GWLAND|DECK|M|FOIL|1|Maze of Ith
-GWLAND|DECK|M|FOIL|2|Knight of the Reliquary
-GWLAND|DECK|M|NORM|1|Rampaging Baloths
-GWLAND|DECK|M|NORM|1|Vesuva
+GWLAND|DECK|U|NORM|1|Enlightened Tutor
+GWLAND|DECK|U|NORM|1|Eternal Witness
 GWLAND|DECK|R|NORM|1|Flagstones of Trokair
+GWLAND|DECK|C|NORM|7|Forest
+GWLAND|DECK|M|FOIL|1|Glacial Chasm
+GWLAND|DECK|R|NORM|4|Green Sun's Zenith
+GWLAND|DECK|M|FOIL|2|Knight of the Reliquary
+GWLAND|DECK|R|NORM|2|Knight of the Reliquary
 GWLAND|DECK|R|NORM|1|Land Tax
+GWLAND|DECK|M|FOIL|1|Maze of Ith
+GWLAND|DECK|U|NORM|1|Mistveil Plains
+GWLAND|DECK|R|NORM|4|Noble Hierarch
+GWLAND|DECK|C|NORM|3|Plains
+GWLAND|DECK|C|NORM|2|Qasali Pridemage
+GWLAND|DECK|M|NORM|1|Rampaging Baloths
+GWLAND|DECK|U|NORM|1|Riftstone Portal
+GWLAND|DECK|C|NORM|1|Sejiri Steppe
+GWLAND|DECK|R|NORM|3|Sunpetal Grove
+GWLAND|DECK|U|NORM|4|Swords to Plowshares
 GWLAND|DECK|R|NORM|1|Sylvan Library
 GWLAND|DECK|R|NORM|1|Sylvan Safekeeper
 GWLAND|DECK|R|NORM|1|Temple Garden
 GWLAND|DECK|R|NORM|1|Terravore
-GWLAND|DECK|R|NORM|2|Knight of the Reliquary
-GWLAND|DECK|R|NORM|3|Armageddon
-GWLAND|DECK|R|NORM|3|Sunpetal Grove
-GWLAND|DECK|R|NORM|4|Birds of Paradise
-GWLAND|DECK|R|NORM|4|Green Sun's Zenith
-GWLAND|DECK|R|NORM|4|Noble Hierarch
-GWLAND|DECK|U|NORM|1|Enlightened Tutor
-GWLAND|DECK|U|NORM|1|Eternal Witness
-GWLAND|DECK|U|NORM|1|Mistveil Plains
-GWLAND|DECK|U|NORM|1|Riftstone Portal
-GWLAND|DECK|U|NORM|4|Swords to Plowshares
+GWLAND|DECK|M|NORM|1|Vesuva
 GWLAND|SIDE|U|NORM|1|Dryad Militant
 GWLAND|SIDE|R|NORM|1|Gaddock Teeg
 GWLAND|SIDE|R|NORM|1|Limited Resources
 GWLAND|SIDE|R|NORM|1|Petrified Field
 GWLAND|SIDE|U|NORM|1|Rogue's Passage
+GWLAND|DECK|R|NORM|1|Sunpetal Grove
 GWLAND|SIDE|R|NORM|1|Ulvenwald Tracker
 LANDFALL|DECK|C|NORM|1|Piranha Marsh
 LANDFALL|DECK|C|NORM|2|Grazing Gladehart
