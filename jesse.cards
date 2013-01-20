@@ -155,8 +155,8 @@ WW|SIDE|R|NORM|1|Proclamation of Rebirth
 WW|SIDE|R|NORM|1|Thalia, Guardian of Thraben
 STEEL|DECK|C|NORM|2|Ancient Den
 STEEL|DECK|R|NORM|1|Argentum Armor
-STEEL|DECK|U|NORM|4|Brave the Elements
 STEEL|DECK|C|NORM|1|Darksteel Citadel
+STEEL|DECK|U|NORM|2|Dispatch
 STEEL|DECK|M|NORM|0|Elbrus, the Binding Blade
 STEEL|DECK|C|NORM|1|Flayer Husk
 STEEL|DECK|R|NORM|0|Heartseeker
@@ -174,6 +174,7 @@ STEEL|DECK|M|NORM|1|Sword of Feast and Famine
 STEEL|DECK|M|NORM|1|Sword of Fire and Ice
 STEEL|DECK|M|NORM|1|Sword of War and Peace
 STEEL|SIDE|C|NORM|3|Ardent Recruit
+STEEL|SIDE|U|NORM|4|Brave the Elements
 STEEL|SIDE|R|NORM|1|Captain of the Watch
 STEEL|SIDE|U|NORM|1|Devout Chaplain
 STEEL|SIDE|U|NORM|3|Faith's Shield
@@ -390,7 +391,6 @@ NONE|FREE|R|NORM|1|Desolate Lighthouse
 NONE|FREE|U|NORM|2|Despise
 NONE|FREE|U|NORM|7|Diabolic Tutor
 NONE|FREE|R|NORM|1|Dingus Egg
-NONE|FREE|U|NORM|2|Dispatch
 NONE|FREE|U|NORM|6|Dispense Justice
 NONE|FREE|U|NORM|1|Dissipate
 NONE|FREE|R|NORM|2|Dissipation Field
