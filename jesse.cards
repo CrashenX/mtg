@@ -156,8 +156,8 @@ WW|SIDE|R|NORM|1|Thalia, Guardian of Thraben
 STEEL|DECK|C|NORM|2|Ancient Den
 STEEL|DECK|R|NORM|1|Argentum Armor
 STEEL|DECK|C|NORM|1|Darksteel Citadel
-STEEL|DECK|U|NORM|2|Dispatch
 STEEL|DECK|M|NORM|0|Elbrus, the Binding Blade
+STEEL|DECK|U|NORM|3|Faith's Shield
 STEEL|DECK|C|NORM|1|Flayer Husk
 STEEL|DECK|R|NORM|0|Heartseeker
 STEEL|DECK|I|NORM|1|Infiltration Lens
@@ -175,9 +175,9 @@ STEEL|DECK|M|NORM|1|Sword of Fire and Ice
 STEEL|DECK|M|NORM|1|Sword of War and Peace
 STEEL|SIDE|C|NORM|3|Ardent Recruit
 STEEL|SIDE|U|NORM|4|Brave the Elements
+STEEL|SIDE|U|NORM|2|Dispatch
 STEEL|SIDE|R|NORM|1|Captain of the Watch
 STEEL|SIDE|U|NORM|1|Devout Chaplain
-STEEL|SIDE|U|NORM|3|Faith's Shield
 RED|FREE|U|NORM|4|Arc Trail
 RED|FREE|C|NORM|4|Burst Lightning
 RED|FREE|U|NORM|2|Ember Hauler
