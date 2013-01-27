@@ -52,22 +52,22 @@ FISH|SIDE|R|NORM|1|Merfolk Sovereign
 FISH|SIDE|R|NORM|1|Merrow Commerce
 FISH|SIDE|U|NORM|3|Sage of Fables
 FISH|SIDE|R|NORM|1|Surgespanner
-GROWTH|DECK|C|NORM|10|Forest
-GROWTH|DECK|C|NORM|1|Llanowar Reborn
-GROWTH|DECK|C|NORM|4|Primal Cocoon
-GROWTH|DECK|U|NORM|2|Rancor
-GROWTH|DECK|C|NORM|4|Slippery Bogle
-GROWTH|DECK|C|NORM|8|Island
-GROWTH|DECK|R|FOIL|1|Training Grounds
-GROWTH|DECK|R|NORM|1|Murkfiend Liege
-GROWTH|DECK|R|NORM|1|Training Grounds
 GROWTH|DECK|R|NORM|2|Asceticism
-GROWTH|DECK|R|NORM|4|Hinterland Harbor
-GROWTH|DECK|R|NORM|4|Leyline of Vitality
-GROWTH|DECK|R|NORM|4|Protean Hydra
-GROWTH|DECK|R|NORM|4|Scute Mob
+GROWTH|DECK|C|NORM|10|Forest
 GROWTH|DECK|U|NORM|4|Gilder Bairn
+GROWTH|DECK|R|NORM|4|Hinterland Harbor
+GROWTH|DECK|C|NORM|8|Island
+GROWTH|DECK|R|NORM|4|Leyline of Vitality
+GROWTH|DECK|C|NORM|1|Llanowar Reborn
+GROWTH|DECK|R|NORM|1|Murkfiend Liege
 GROWTH|DECK|U|NORM|4|Plaxcaster Frogling
+GROWTH|DECK|C|NORM|4|Primal Cocoon
+GROWTH|DECK|R|NORM|4|Protean Hydra
+GROWTH|DECK|U|NORM|2|Rancor
+GROWTH|DECK|R|NORM|4|Scute Mob
+GROWTH|DECK|C|NORM|4|Slippery Bogle
+GROWTH|DECK|R|FOIL|1|Training Grounds
+GROWTH|DECK|R|NORM|1|Training Grounds
 GROWTH|SIDE|C|NORM|15|Forest
 GWLAND|DECK|R|NORM|3|Armageddon
 GWLAND|DECK|M|NORM|1|Batterskull
