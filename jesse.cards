@@ -55,6 +55,7 @@ FISH|SIDE|R|NORM|1|Surgespanner
 GROWTH|DECK|C|NORM|10|Forest
 GROWTH|DECK|C|NORM|1|Llanowar Reborn
 GROWTH|DECK|C|NORM|4|Primal Cocoon
+GROWTH|DECK|U|NORM|2|Rancor
 GROWTH|DECK|C|NORM|4|Slippery Bogle
 GROWTH|DECK|C|NORM|8|Island
 GROWTH|DECK|R|FOIL|1|Training Grounds
@@ -489,6 +490,7 @@ NONE|FREE|U|NORM|2|Ghost-Lit Warder
 NONE|FREE|U|NORM|2|Ghostly Touch
 NONE|FREE|R|NORM|1|Gigantiform
 NONE|FREE|R|FOIL|1|Gigantomancer
+NONE|FREE|R|NORM|1|Gilded Lotus
 NONE|FREE|M|FOIL|1|Glacial Chasm
 NONE|FREE|R|NORM|1|Glacial Fortress
 NONE|FREE|U|NORM|1|Glasses of Urza
@@ -542,6 +544,7 @@ NONE|FREE|U|NORM|3|Hedron Crab
 NONE|FREE|U|NORM|4|Hellfire Mongrel
 NONE|FREE|U|NORM|1|Hellhole Flailer
 NONE|FREE|U|NORM|1|Hellhole Rats
+NONE|FREE|R|NORM|1|Hellion Crucible
 NONE|FREE|R|NORM|2|Heretic's Punishment
 NONE|FREE|U|NORM|1|Heroes' Reunion
 NONE|FREE|U|NORM|1|Heroes' Reunion
@@ -783,6 +786,7 @@ NONE|FREE|U|NORM|4|Presence of the Wise
 NONE|FREE|U|NORM|2|Priest of Gix
 NONE|FREE|U|NORM|3|Primal Bellow
 NONE|FREE|R|NORM|1|Primitive Etchings
+NONE|FREE|M|NORM|1|Primordial Hydra
 NONE|FREE|U|NORM|1|Prized Unicorn
 NONE|FREE|U|NORM|5|Prodigal Pyromancer
 NONE|FREE|U|NORM|1|Propaganda
@@ -861,6 +865,7 @@ NONE|FREE|U|NORM|1|Selesnya Guildmage
 NONE|FREE|R|NORM|1|Semblance Anvil
 NONE|FREE|U|NORM|1|Sengir Vampire
 NONE|FREE|U|NORM|5|Serra Angel
+NONE|FREE|U|NORM|1|Serra Angel
 NONE|FREE|R|NORM|1|Shape Anew
 NONE|FREE|U|NORM|2|Shape Stealer
 NONE|FREE|U|NORM|2|Sharpened Pitchfork
@@ -960,6 +965,7 @@ NONE|FREE|U|NORM|2|Tezzeret's Gambit
 NONE|FREE|U|NORM|2|Thornscape Battlemage
 NONE|FREE|U|NORM|1|Thoughtflare
 NONE|FREE|U|NORM|1|Thoughtflare
+NONE|FREE|R|NORM|1|Thragtusk
 NONE|FREE|U|NORM|4|Throne of Geth
 NONE|FREE|U|NORM|5|Thrummingbird
 NONE|FREE|U|NORM|1|Thunder-Thrash Elder
