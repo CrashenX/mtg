@@ -153,7 +153,7 @@ WW|SIDE|U|NORM|2|Chalice of Life
 WW|SIDE|U|NORM|1|Path to Exile
 WW|SIDE|R|NORM|1|Proclamation of Rebirth
 WW|SIDE|R|NORM|1|Thalia, Guardian of Thraben
-STEEL|DECK|C|NORM|2|Ancient Den
+STEEL|DECK|C|NORM|3|Ancient Den
 STEEL|DECK|R|NORM|1|Argentum Armor
 STEEL|DECK|C|NORM|1|Darksteel Citadel
 STEEL|DECK|M|NORM|0|Elbrus, the Binding Blade
@@ -175,9 +175,10 @@ STEEL|DECK|M|NORM|1|Sword of Fire and Ice
 STEEL|DECK|M|NORM|1|Sword of War and Peace
 STEEL|SIDE|C|NORM|3|Ardent Recruit
 STEEL|SIDE|U|NORM|4|Brave the Elements
-STEEL|SIDE|U|NORM|2|Dispatch
+STEEL|SIDE|U|NORM|3|Dispatch
 STEEL|SIDE|R|NORM|1|Captain of the Watch
 STEEL|SIDE|U|NORM|1|Devout Chaplain
+STEEL|SIDE|U|FOIL|1|Kor Duelist
 RED|FREE|U|NORM|4|Arc Trail
 RED|FREE|C|NORM|4|Burst Lightning
 RED|FREE|U|NORM|2|Ember Hauler
