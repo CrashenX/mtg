@@ -7,7 +7,7 @@ sub sort_func()
 {
     my @fields1 = split(/\|/,$a);
     my @fields2 = split(/\|/,$b);
-    return $fields1[5] cmp $fields2[5];
+    return $fields1[6] cmp $fields2[6];
 }
 
 my @cards = read_file('jesse.cards');
@@ -18,15 +18,15 @@ for my $card (@cards) {
 
     next if(0 == $fields[4] || 'C' eq $fields[2]);
 
-    chomp($fields[5]);
+    chomp($fields[6]);
 
     print "$fields[4]x ";
 
     if($card =~ m/FOIL/) {
-        print '[FOIL]' . $fields[5]. '[/FOIL]';
+        print '[FOIL]' . $fields[6]. '[/FOIL]';
     }
     else {
-        print $fields[5];
+        print $fields[6];
     }
 
     if($card =~ m/DECK/) {
