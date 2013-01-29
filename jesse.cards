@@ -138,7 +138,7 @@ WW|DECK|R|NORM|3|FOO|Honor of the Pure
 WW|DECK|C|NORM|4|FOO|Kabira Crossroads
 WW|DECK|C|NORM|0|FOO|Martyr of Sands
 WW|DECK|R|NORM|0|FOO|Mikaeus, the Lunarch
-WW|DECK|U|NORM|3|FOO|Path to Exile
+WW|DECK|U|NORM|2|FOO|Path to Exile
 WW|DECK|C|NORM|14|FOO|Plains
 WW|DECK|R|NORM|3|FOO|Proclamation of Rebirth
 WW|DECK|R|NORM|3|FOO|Ranger of Eos
@@ -150,7 +150,6 @@ WW|DECK|R|NORM|4|FOO|Student of Warfare
 WW|DECK|M|NORM|2|FOO|Windbrisk Heights
 WW|SIDE|U|NORM|2|FOO|Chalice of Life
 WW|SIDE|C|NORM|0|FOO|Martyr of Sands
-WW|SIDE|U|NORM|1|FOO|Path to Exile
 WW|SIDE|R|NORM|1|FOO|Proclamation of Rebirth
 WW|SIDE|R|NORM|1|FOO|Thalia, Guardian of Thraben
 STEEL|DECK|C|NORM|3|FOO|Ancient Den
@@ -214,7 +213,7 @@ NONE|FREE|R|FOIL|1|FOO|Archon of Redemption
 NONE|FREE|R|NORM|1|FOO|Archon of Redemption
 NONE|FREE|U|NORM|2|FOO|Argent Mutation
 NONE|FREE|U|NORM|2|FOO|Arm with Aether
-NONE|FREE|R|NORM|4|FOO|Armageddon
+NONE|FREE|R|NORM|3|FOO|Armageddon
 NONE|FREE|U|NORM|2|FOO|Armored Ascension
 NONE|FREE|U|NORM|3|FOO|Arrogant Bloodlord
 NONE|FREE|U|NORM|1|FOO|Arrow Volley Trap
@@ -680,7 +679,6 @@ NONE|FREE|U|NORM|1|FOO|Mausoleum Guard
 NONE|FREE|M|FOIL|1|FOO|Maze of Ith
 NONE|FREE|U|NORM|4|FOO|Megrim
 NONE|FREE|U|NORM|2|FOO|Memnite
-NONE|FREE|R|FOIL|1|FOO|Memoricide
 NONE|FREE|R|NORM|1|FOO|Memoricide
 NONE|FREE|U|NORM|1|FOO|Mental Misstep
 NONE|FREE|U|NORM|1|GTC|Mental Vapors
