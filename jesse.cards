@@ -150,6 +150,7 @@ WW|DECK|C|NORM|4|FOO|Soul Warden
 WW|DECK|C|NORM|4|FOO|Soul's Attendant
 WW|DECK|R|NORM|4|FOO|Student of Warfare
 WW|DECK|M|NORM|2|FOO|Windbrisk Heights
+WW|SIDE|U|NORM|4|FOO|Brave the Elements
 WW|SIDE|U|NORM|2|FOO|Chalice of Life
 WW|SIDE|C|NORM|0|FOO|Martyr of Sands
 WW|SIDE|R|NORM|1|FOO|Proclamation of Rebirth
@@ -175,12 +176,12 @@ STEEL|DECK|M|NORM|1|FOO|Sword of Feast and Famine
 STEEL|DECK|M|NORM|1|FOO|Sword of Fire and Ice
 STEEL|DECK|M|NORM|1|FOO|Sword of War and Peace
 STEEL|SIDE|C|NORM|4|FOO|Ardent Recruit
-STEEL|SIDE|U|NORM|4|FOO|Brave the Elements
 STEEL|SIDE|R|NORM|1|FOO|Captain of the Watch
 STEEL|SIDE|U|NORM|1|FOO|Devout Chaplain
 STEEL|SIDE|U|NORM|4|FOO|Dispatch
 STEEL|SIDE|C|NORM|1|FOO|Flayer Husk
 STEEL|SIDE|U|FOIL|1|FOO|Kor Duelist
+STEEL|SIDE|C|NORM|1|FOO|Kor Outfitter
 NONE|FREE|U|NORM|3|FOO|Abattoir Ghoul
 NONE|FREE|U|NORM|1|FOO|Abuna Acolyte
 NONE|FREE|U|NORM|2|FOO|Acid Web Spider
