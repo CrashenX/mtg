@@ -298,7 +298,6 @@ NONE|FREE|U|NORM|1|FOO|Carpet of Flowers
 NONE|FREE|U|NORM|5|FOO|Carrion Call
 NONE|FREE|M|NORM|1|FOO|Cast Through Time
 NONE|FREE|U|NORM|1|FOO|Cathedral Membrane
-NONE|FREE|R|NORM|1|FOO|Cauldron of Souls
 NONE|FREE|U|NORM|3|FOO|Caustic Crawler
 NONE|FREE|R|NORM|1|FOO|Celestial Colonnade
 NONE|FREE|U|NORM|2|FOO|Celestial Dawn
@@ -380,7 +379,7 @@ NONE|FREE|U|NORM|4|FOO|Descendant of Kiyomaro
 NONE|FREE|M|FOIL|2|FOO|Desert
 NONE|FREE|R|NORM|1|FOO|Desolate Lighthouse
 NONE|FREE|U|NORM|2|FOO|Despise
-NONE|FREE|U|NORM|7|FOO|Diabolic Tutor
+NONE|FREE|U|NORM|6|FOO|Diabolic Tutor
 NONE|FREE|U|NORM|1|GTC|Dimir Charm
 NONE|FREE|U|NORM|1|GTC|Dimir Keyrune
 NONE|FREE|R|NORM|1|FOO|Dingus Egg
@@ -488,7 +487,6 @@ NONE|FREE|U|NORM|2|FOO|Ghost-Lit Warder
 NONE|FREE|U|NORM|2|FOO|Ghostly Touch
 NONE|FREE|R|NORM|1|FOO|Gigantiform
 NONE|FREE|R|FOIL|1|FOO|Gigantomancer
-NONE|FREE|R|NORM|1|FOO|Gilded Lotus
 NONE|FREE|M|FOIL|1|FOO|Glacial Chasm
 NONE|FREE|R|NORM|1|FOO|Glacial Fortress
 NONE|FREE|U|NORM|1|FOO|Glasses of Urza
@@ -543,7 +541,6 @@ NONE|FREE|U|FOIL|1|FOO|Hedron Crab
 NONE|FREE|U|NORM|3|FOO|Hedron Crab
 NONE|FREE|U|NORM|4|FOO|Hellfire Mongrel
 NONE|FREE|U|NORM|1|FOO|Hellhole Flailer
-NONE|FREE|U|NORM|1|FOO|Hellhole Rats
 NONE|FREE|R|NORM|1|FOO|Hellion Crucible
 NONE|FREE|R|NORM|2|FOO|Heretic's Punishment
 NONE|FREE|U|NORM|1|FOO|Heroes' Reunion
@@ -613,7 +610,6 @@ NONE|FREE|R|NORM|2|FOO|Kemba, Kha Regent
 NONE|FREE|R|FOIL|1|FOO|Kessig Cagebreakers
 NONE|FREE|R|NORM|1|FOO|Kessig Cagebreakers
 NONE|FREE|U|NORM|1|FOO|Kessig Malcontents
-NONE|FREE|R|NORM|1|FOO|Kessig Wolf Run
 NONE|FREE|U|NORM|5|FOO|Khalni Gem
 NONE|FREE|C|FOIL|1|FOO|Khalni Heart Expedition
 NONE|FREE|M|NORM|1|FOO|Khalni Hydra
@@ -635,7 +631,6 @@ NONE|FREE|U|NORM|3|FOO|Landbind Ritual
 NONE|FREE|R|NORM|1|FOO|Lashwrithe
 NONE|FREE|U|NORM|1|FOO|Latch Seeker
 NONE|FREE|R|NORM|3|FOO|Lavaball Trap
-NONE|FREE|R|NORM|1|FOO|Lavaclaw Reaches
 NONE|FREE|U|NORM|1|FOO|Lead the Stampede
 NONE|FREE|U|NORM|3|FOO|Leatherback Baloth
 NONE|FREE|U|NORM|6|FOO|Leech Bonder
@@ -773,7 +768,6 @@ NONE|FREE|U|NORM|2|FOO|Phantom Warrior
 NONE|FREE|R|NORM|1|FOO|Phyrexian Arena
 NONE|FREE|R|NORM|1|FOO|Phyrexian Colossus
 NONE|FREE|U|NORM|1|FOO|Phyrexian Defiler
-NONE|FREE|U|NORM|1|FOO|Phyrexian Gargantua
 NONE|FREE|U|NORM|1|FOO|Phyrexian Hulk
 NONE|FREE|R|NORM|1|FOO|Phyrexian Ingester
 NONE|FREE|R|NORM|1|FOO|Phyrexian Metamorph
@@ -894,7 +888,6 @@ NONE|FREE|U|NORM|2|FOO|Shrine of Limitless Power
 NONE|FREE|U|NORM|2|FOO|Shrine of Loyal Legions
 NONE|FREE|U|NORM|2|FOO|Shrine of Piercing Vision
 NONE|FREE|U|NORM|2|FOO|Sickleslicer
-NONE|FREE|U|NORM|1|FOO|Signal Pest
 NONE|FREE|U|NORM|1|FOO|Silver-Inlaid Dagger
 NONE|FREE|U|NORM|3|GTC|Simic Fluxmage
 NONE|FREE|U|NORM|2|FOO|Skeletal Wurm
@@ -977,7 +970,6 @@ NONE|FREE|R|NORM|1|FOO|Telemin Performance
 NONE|FREE|U|NORM|2|FOO|Telepathy
 NONE|FREE|R|NORM|2|FOO|Tempered Steel
 NONE|FREE|R|NORM|2|FOO|Terastodon
-NONE|FREE|U|NORM|2|FOO|Tezzeret's Gambit
 NONE|FREE|U|NORM|2|FOO|Thornscape Battlemage
 NONE|FREE|U|NORM|1|FOO|Thoughtflare
 NONE|FREE|U|NORM|1|FOO|Thoughtflare
@@ -1000,7 +992,6 @@ NONE|FREE|U|NORM|3|FOO|Trailblazer's Boots
 NONE|FREE|U|NORM|1|FOO|Trapmaker's Snare
 NONE|FREE|R|NORM|1|FOO|Traumatize
 NONE|FREE|R|NORM|1|GTC|Treasury Thrull
-NONE|FREE|U|NORM|1|FOO|Trepanation Blade
 NONE|FREE|U|NORM|1|FOO|Treva's Charm
 NONE|FREE|U|FOIL|1|FOO|Trigon of Corruption
 NONE|FREE|U|NORM|3|FOO|Trigon of Corruption
@@ -1011,7 +1002,7 @@ NONE|FREE|U|NORM|6|FOO|Trigon of Thought
 NONE|FREE|U|NORM|3|FOO|Trinket Mage
 NONE|FREE|U|NORM|2|FOO|Trip Noose
 NONE|FREE|U|NORM|1|FOO|Triumph of Cruelty
-NONE|FREE|U|NORM|2|FOO|Triumph of the Hordes
+NONE|FREE|U|NORM|1|FOO|Triumph of the Hordes
 NONE|FREE|R|NORM|1|FOO|Troll Ascetic
 NONE|FREE|R|NORM|2|FOO|True Conviction
 NONE|FREE|U|NORM|4|FOO|Trusted Advisor
