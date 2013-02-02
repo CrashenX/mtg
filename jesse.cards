@@ -193,6 +193,7 @@ NONE|FREE|U|NORM|3|FOO|Act of Treason
 NONE|FREE|R|NORM|1|FOO|Aegis of Honor
 NONE|FREE|U|NORM|4|FOO|Aether Figment
 NONE|FREE|U|NORM|1|FOO|Aether Flash
+NONE|FREE|U|NORM|2|GTC|Aetherize
 NONE|FREE|U|NORM|2|FOO|Affa Guard Hound
 NONE|FREE|U|NORM|2|FOO|Air Elemental
 NONE|FREE|U|NORM|1|FOO|Air Servant
@@ -224,6 +225,7 @@ NONE|FREE|U|NORM|3|FOO|Arrogant Bloodlord
 NONE|FREE|U|NORM|1|FOO|Arrow Volley Trap
 NONE|FREE|U|NORM|2|FOO|Artisan of Kozilek
 NONE|FREE|R|NORM|2|FOO|Asceticism
+NONE|FREE|R|NORM|1|GTC|Aurelia, the Warleader
 NONE|FREE|U|NORM|6|FOO|Auriok Edgewright
 NONE|FREE|U|NORM|1|FOO|Auriok Survivors
 NONE|FREE|U|NORM|1|FOO|Autumn's Veil
@@ -253,6 +255,7 @@ NONE|FREE|R|NORM|1|FOO|Beastmaster Ascension
 NONE|FREE|U|NORM|5|FOO|Bellowing Tanglewurm
 NONE|FREE|U|NORM|4|FOO|Beloved Chaplain
 NONE|FREE|U|NORM|2|FOO|Bestial Menace
+NONE|FREE|R|NORM|1|GTC|Biomass Mutation
 NONE|FREE|U|NORM|1|FOO|Biting Tether
 NONE|FREE|U|NORM|1|FOO|Bitterheart Witch
 NONE|FREE|U|NORM|1|FOO|Black Knight
@@ -269,7 +272,8 @@ NONE|FREE|U|NORM|2|FOO|Boar Umbra
 NONE|FREE|U|NORM|1|FOO|Boldwyr Intimidator
 NONE|FREE|U|NORM|1|FOO|Bone Shredder
 NONE|FREE|U|NORM|2|FOO|Boneyard Wurm
-NONE|FREE|U|NORM|1|GTC|Boros Elite
+NONE|FREE|U|NORM|1|GTC|Boros Charm
+NONE|FREE|U|NORM|2|GTC|Boros Elite
 NONE|FREE|U|NORM|1|GTC|Boros Keyrune
 NONE|FREE|M|FOIL|2|FOO|Boseiju, Who Shelters All
 NONE|FREE|U|NORM|1|FOO|Brace for Impact
@@ -284,7 +288,7 @@ NONE|FREE|U|NORM|2|FOO|Brutalizer Exarch
 NONE|FREE|U|NORM|2|FOO|Builder's Blessing
 NONE|FREE|R|FOIL|1|FOO|Burn at the Stake
 NONE|FREE|U|NORM|1|FOO|Burning Vengeance
-NONE|FREE|U|NORM|1|GTC|Burning-Tree Emissary
+NONE|FREE|U|NORM|2|GTC|Burning-Tree Emissary
 NONE|FREE|U|NORM|1|FOO|Butcher's Cleaver
 NONE|FREE|R|NORM|1|FOO|Cackling Counterpart
 NONE|FREE|R|NORM|1|FOO|Caged Sun
@@ -315,7 +319,9 @@ NONE|FREE|M|NORM|1|FOO|Child of Alara
 NONE|FREE|R|NORM|1|FOO|Choice of Damnations
 NONE|FREE|U|NORM|1|FOO|Choking Fumes
 NONE|FREE|U|NORM|1|FOO|Chronomaton
+NONE|FREE|U|NORM|1|GTC|Cinder Elemental
 NONE|FREE|R|NORM|1|GTC|Clan Defiance
+NONE|FREE|C|FOIL|1|GTC|Clinging Anemones
 NONE|FREE|U|NORM|1|FOO|Cloistered Youth
 NONE|FREE|U|NORM|2|FOO|Clone Shell
 NONE|FREE|U|NORM|2|FOO|Cobra Trap
@@ -345,6 +351,7 @@ NONE|FREE|U|NORM|1|FOO|Crab Umbra
 NONE|FREE|U|NORM|1|GTC|Crackling Perimeter
 NONE|FREE|R|NORM|1|FOO|Creeping Tar Pit
 NONE|FREE|U|NORM|1|FOO|Crown of Empires
+NONE|FREE|U|NORM|1|GTC|Crowned Ceratok
 NONE|FREE|U|NORM|1|FOO|Crumbling Colossus
 NONE|FREE|R|NORM|1|FOO|Crypt of Agadeem
 NONE|FREE|R|NORM|2|FOO|Cryptoplasm
@@ -369,6 +376,7 @@ NONE|FREE|R|NORM|3|FOO|Day of Judgment
 NONE|FREE|R|NORM|1|FOO|Death's Presence
 NONE|FREE|U|NORM|4|FOO|Deathforge Shaman
 NONE|FREE|U|NORM|1|FOO|Deathmark
+NONE|FREE|U|NORM|3|GTC|Debtor's Pulpit
 NONE|FREE|U|NORM|2|FOO|Deceiver Exarch
 NONE|FREE|M|NORM|1|FOO|Demon of Death's Gate
 NONE|FREE|U|NORM|2|FOO|Demon's Horn
@@ -411,6 +419,7 @@ NONE|FREE|R|FOIL|1|FOO|Elemental Resonance
 NONE|FREE|U|NORM|1|FOO|Elfhame Palace
 NONE|FREE|U|NORM|1|FOO|Elite Vanguard
 NONE|FREE|U|NORM|2|FOO|Elixir of Immortality
+NONE|FREE|U|NORM|1|GTC|Elusive Krasis
 NONE|FREE|U|NORM|2|FOO|Embersmith
 NONE|FREE|U|NORM|2|FOO|Emerge Unscathed
 NONE|FREE|U|NORM|2|FOO|Emerge Unscathed
@@ -448,6 +457,7 @@ NONE|FREE|U|NORM|1|FOO|Filigree Fracture
 NONE|FREE|U|NORM|1|FOO|Fire Servant
 NONE|FREE|U|NORM|2|FOO|Fireball
 NONE|FREE|U|NORM|1|GTC|Firefist Striker
+NONE|FREE|R|NORM|1|GTC|Firemane Avenger
 NONE|FREE|R|NORM|1|GTC|Firemane Avenger
 NONE|FREE|R|NORM|1|FOO|Firewing Phoenix
 NONE|FREE|R|FOIL|1|FOO|Flameblast Dragon
@@ -519,6 +529,7 @@ NONE|FREE|R|NORM|1|FOO|Grove of the Guardian
 NONE|FREE|R|NORM|1|GTC|Grull Ragebeast
 NONE|FREE|U|NORM|1|GTC|Gruul Charm
 NONE|FREE|U|NORM|2|GTC|Gruul Keyrune
+NONE|FREE|U|NORM|1|GTC|Guardian of the Gateless
 NONE|FREE|U|NORM|1|FOO|Gut Shot
 NONE|FREE|U|NORM|1|FOO|Hada Spy Patrol
 NONE|FREE|U|NORM|2|FOO|Hagra Diabolist
@@ -532,25 +543,25 @@ NONE|FREE|U|NORM|4|FOO|Hankyu
 NONE|FREE|U|NORM|3|FOO|Harm's Way
 NONE|FREE|U|NORM|1|FOO|Harmonize
 NONE|FREE|U|NORM|1|FOO|Haunted Guardian
-NONE|FREE|U|NORM|1|FOO|Havengul Vampire
-NONE|FREE|U|NORM|2|FOO|Havengul Vampire
+NONE|FREE|U|NORM|3|FOO|Havengul Vampire
 NONE|FREE|U|NORM|3|FOO|Heavy Arbalest
 NONE|FREE|U|FOIL|1|FOO|Hedron Crab
 NONE|FREE|U|NORM|3|FOO|Hedron Crab
 NONE|FREE|U|NORM|4|FOO|Hellfire Mongrel
 NONE|FREE|U|NORM|1|FOO|Hellhole Flailer
 NONE|FREE|R|NORM|1|FOO|Hellion Crucible
+NONE|FREE|U|NORM|1|GTC|Hellraiser Goblin
 NONE|FREE|R|NORM|2|FOO|Heretic's Punishment
-NONE|FREE|U|NORM|1|FOO|Heroes' Reunion
-NONE|FREE|U|NORM|1|FOO|Heroes' Reunion
+NONE|FREE|U|NORM|2|FOO|Heroes' Reunion
 NONE|FREE|R|NORM|2|FOO|Hex Parasite
 NONE|FREE|M|FOIL|1|FOO|High Market
 NONE|FREE|U|NORM|1|GTC|Hindervines
+NONE|FREE|U|NORM|1|GTC|Hindervines
 NONE|FREE|R|NORM|1|FOO|Hoarding Dragon
 NONE|FREE|R|NORM|2|FOO|Hokori, Dust Drinker
+NONE|FREE|U|NORM|1|GTC|Hold the Gates
 NONE|FREE|U|NORM|1|FOO|Hollowhenge Scavenger
-NONE|FREE|U|NORM|1|FOO|Homicidal Seclusion
-NONE|FREE|U|NORM|1|FOO|Homicidal Seclusion
+NONE|FREE|U|NORM|2|FOO|Homicidal Seclusion
 NONE|FREE|R|NORM|1|FOO|Homura, Human Ascendant
 NONE|FREE|U|NORM|1|FOO|Honden of Cleansing Fire
 NONE|FREE|U|NORM|1|FOO|Honden of Infinite Rage
@@ -632,6 +643,7 @@ NONE|FREE|R|NORM|3|FOO|Lavaball Trap
 NONE|FREE|U|NORM|1|FOO|Lead the Stampede
 NONE|FREE|U|NORM|3|FOO|Leatherback Baloth
 NONE|FREE|U|NORM|6|FOO|Leech Bonder
+NONE|FREE|R|NORM|1|GTC|Legion Loyalist
 NONE|FREE|R|NORM|1|FOO|Leonin Abunas
 NONE|FREE|U|NORM|2|FOO|Levitation
 NONE|FREE|R|NORM|2|FOO|Leyline of Anticipation
@@ -651,6 +663,7 @@ NONE|FREE|M|NORM|1|FOO|Lorthos, the Tidemaker
 NONE|FREE|R|NORM|1|FOO|Loxodon Warhammer
 NONE|FREE|R|NORM|4|FOO|Loyal Sentry
 NONE|FREE|U|NORM|1|FOO|Lumberknot
+NONE|FREE|R|NORM|1|GTC|Luminate Primordial
 NONE|FREE|R|NORM|1|GTC|Luminate Primordial
 NONE|FREE|U|FOIL|1|FOO|Lure
 NONE|FREE|U|NORM|1|FOO|Lure
@@ -688,6 +701,7 @@ NONE|FREE|U|NORM|2|FOO|Midnight Haunting
 NONE|FREE|U|NORM|1|FOO|Might of the Nephilim
 NONE|FREE|R|NORM|1|FOO|Mimic Vat
 NONE|FREE|U|NORM|1|GTC|Miming Slime
+NONE|FREE|U|NORM|2|GTC|Miming Slime
 NONE|FREE|U|NORM|7|FOO|Mind Control
 NONE|FREE|U|NORM|4|FOO|Mind Sludge
 NONE|FREE|U|NORM|1|FOO|Mind Stone
@@ -728,6 +742,7 @@ NONE|FREE|U|NORM|2|FOO|Needlebite Trap
 NONE|FREE|U|NORM|2|FOO|Nemesis Trap
 NONE|FREE|R|NORM|1|FOO|Neverending Torment
 NONE|FREE|U|NORM|2|FOO|Nikko-Onna
+NONE|FREE|U|NORM|1|GTC|Nimbus Swimmer
 NONE|FREE|U|NORM|1|FOO|Nirkana Cutthroat
 NONE|FREE|R|NORM|2|FOO|Norn's Annex
 NONE|FREE|U|NORM|1|FOO|Not of This World
@@ -739,6 +754,7 @@ NONE|FREE|U|NORM|4|FOO|Ogre Geargrabber
 NONE|FREE|U|NORM|1|FOO|Ogre's Cleaver
 NONE|FREE|U|NORM|1|GTC|One Thousand Lashes
 NONE|FREE|U|NORM|1|FOO|Onyx Mage
+NONE|FREE|R|NORM|1|GTC|Ooze Flux
 NONE|FREE|R|NORM|1|FOO|Oracle of Mul Daya
 NONE|FREE|U|NORM|1|FOO|Order of Yawgmoth
 NONE|FREE|U|NORM|1|GTC|Ordruun Veteran
@@ -853,6 +869,7 @@ NONE|FREE|U|NORM|2|FOO|Rusted Relic
 NONE|FREE|R|FOIL|1|FOO|Sadistic Sacrament
 NONE|FREE|R|NORM|1|FOO|Sadistic Sacrament
 NONE|FREE|U|NORM|1|FOO|Sanguine Guard
+NONE|FREE|U|NORM|1|GTC|Sapphire Drake
 NONE|FREE|U|NORM|4|FOO|Saprazzan Cove
 NONE|FREE|U|NORM|2|FOO|Savage Lands
 NONE|FREE|U|NORM|1|FOO|Savage Surge
@@ -888,6 +905,7 @@ NONE|FREE|U|NORM|2|FOO|Shrine of Piercing Vision
 NONE|FREE|U|NORM|2|FOO|Sickleslicer
 NONE|FREE|U|NORM|1|FOO|Silver-Inlaid Dagger
 NONE|FREE|U|NORM|3|GTC|Simic Fluxmage
+NONE|FREE|U|NORM|1|GTC|Simic Keyrune
 NONE|FREE|U|NORM|2|FOO|Skeletal Wurm
 NONE|FREE|U|NORM|2|FOO|Skinrender
 NONE|FREE|U|NORM|1|FOO|Skullcage
@@ -985,6 +1003,7 @@ NONE|FREE|U|NORM|1|FOO|Tormentor Exarch
 NONE|FREE|R|NORM|1|FOO|Torpor Orb
 NONE|FREE|U|NORM|1|FOO|Touchstone
 NONE|FREE|U|FOIL|1|GTC|Tower Defense
+NONE|FREE|U|NORM|1|GTC|Tower Defense
 NONE|FREE|U|NORM|1|FOO|Tracker's Instincts
 NONE|FREE|U|NORM|3|FOO|Trailblazer's Boots
 NONE|FREE|U|NORM|1|FOO|Trapmaker's Snare
@@ -1022,8 +1041,8 @@ NONE|FREE|R|NORM|2|GTC|Unexpected Results
 NONE|FREE|U|NORM|3|FOO|Unstable Footing
 NONE|FREE|C|FOIL|1|FOO|Untamed Might
 NONE|FREE|R|NORM|1|FOO|Unwinding Clock
-NONE|FREE|U|NORM|1|GTC|Urban Evolution
-NONE|FREE|U|NORM|2|GTC|Urbis Protector
+NONE|FREE|U|NORM|2|GTC|Urban Evolution
+NONE|FREE|U|NORM|3|GTC|Urbis Protector
 NONE|FREE|M|FOIL|2|FOO|Urborg, Tomb of Yawgmoth
 NONE|FREE|U|NORM|1|FOO|Urza's Bauble
 NONE|FREE|U|NORM|2|FOO|Urza's Mine
@@ -1044,6 +1063,7 @@ NONE|FREE|R|FOIL|1|FOO|Verdant Force
 NONE|FREE|U|NORM|1|FOO|Verduran Emissary
 NONE|FREE|U|NORM|1|FOO|Vessel of Endless Rest
 NONE|FREE|M|FOIL|1|FOO|Vesuva
+NONE|FREE|U|NORM|1|GTC|Viashino Shanktail
 NONE|FREE|C|FOIL|1|FOO|Vigean Hydropon
 NONE|FREE|U|NORM|2|FOO|Vigean Intuition
 NONE|FREE|U|NORM|2|FOO|Vigil for the Lost
@@ -1056,6 +1076,7 @@ NONE|FREE|U|NORM|1|FOO|Vitu-Ghazi, the City-Tree
 NONE|FREE|U|NORM|1|FOO|Vivid Grove
 NONE|FREE|U|NORM|1|FOO|Voices from the Void
 NONE|FREE|R|NORM|1|FOO|Voidslime
+NONE|FREE|U|NORM|1|GTC|Voidwalk
 NONE|FREE|U|NORM|1|FOO|Volcanic Geyser
 NONE|FREE|U|NORM|2|FOO|Volition Reins
 NONE|FREE|U|NORM|1|FOO|Voltaic Key
@@ -1069,6 +1090,7 @@ NONE|FREE|U|NORM|2|FOO|Warmonger's Chariot
 NONE|FREE|M|NORM|1|FOO|Warren Instigator
 NONE|FREE|U|NORM|2|FOO|Wasp Lancer
 NONE|FREE|U|NORM|1|FOO|Watchwolf
+NONE|FREE|R|NORM|1|GTC|Watery Grave
 NONE|FREE|U|NORM|1|FOO|Wax / Wane
 NONE|FREE|U|NORM|3|FOO|Whipflare
 NONE|FREE|U|NORM|2|FOO|Whispering Specter
@@ -1089,5 +1111,5 @@ NONE|FREE|M|NORM|1|FOO|Wrexial, the Risen Deep
 NONE|FREE|U|NORM|1|FOO|Wurm's Tooth
 NONE|FREE|R|NORM|1|FOO|Xenograft
 NONE|FREE|U|NORM|2|FOO|Yavimaya Dryad
-NONE|FREE|U|NORM|2|GTC|Zameck Guildmage
+NONE|FREE|U|NORM|3|GTC|Zameck Guildmage
 NONE|FREE|C|FOIL|1|FOO|Zendikar Farguide
