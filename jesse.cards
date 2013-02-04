@@ -89,7 +89,6 @@ GWLAND|DECK|U|NORM|1|FOO|Mother of Runes
 GWLAND|DECK|R|NORM|4|FOO|Noble Hierarch
 GWLAND|DECK|C|NORM|3|FOO|Plains
 GWLAND|DECK|C|NORM|2|FOO|Qasali Pridemage
-GWLAND|DECK|M|NORM|1|FOO|Rampaging Baloths
 GWLAND|DECK|U|NORM|1|FOO|Riftstone Portal
 GWLAND|DECK|C|NORM|1|FOO|Sejiri Steppe
 GWLAND|DECK|R|NORM|3|FOO|Sunpetal Grove
@@ -103,8 +102,9 @@ GWLAND|SIDE|U|NORM|1|FOO|Dryad Militant
 GWLAND|SIDE|R|NORM|1|FOO|Gaddock Teeg
 GWLAND|SIDE|R|NORM|1|FOO|Limited Resources
 GWLAND|SIDE|R|NORM|1|FOO|Petrified Field
+GWLAND|SIDE|M|NORM|1|FOO|Rampaging Baloths
 GWLAND|SIDE|U|NORM|1|FOO|Rogue's Passage
-GWLAND|DECK|R|NORM|1|FOO|Sunpetal Grove
+GWLAND|SIDE|R|NORM|1|FOO|Sunpetal Grove
 GWLAND|SIDE|R|NORM|1|FOO|Ulvenwald Tracker
 LANDFALL|DECK|M|NORM|0|FOO|Admonition Angel
 LANDFALL|DECK|R|NORM|1|FOO|Azusa, Lost but Seeking
