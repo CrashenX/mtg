@@ -456,13 +456,14 @@ NONE|FREE|U|NORM|1|FOO|Feldon's Cane
 NONE|FREE|R|NORM|1|FOO|Feral Hydra
 NONE|FREE|U|NORM|1|FOO|Feral Lightning
 NONE|FREE|U|NORM|2|FOO|Fiend Hunter
+NONE|FREE|R|FOIL|1|FOO|Figure of Destiny
 NONE|FREE|U|NORM|1|FOO|Filigree Fracture
 NONE|FREE|U|NORM|1|FOO|Fire Servant
-NONE|FREE|C|FOIL|1|DKA|Fires of Undeath
 NONE|FREE|U|NORM|2|FOO|Fireball
 NONE|FREE|U|NORM|1|GTC|Firefist Striker
 NONE|FREE|R|NORM|1|GTC|Firemane Avenger
 NONE|FREE|R|NORM|1|GTC|Firemane Avenger
+NONE|FREE|C|FOIL|1|DKA|Fires of Undeath
 NONE|FREE|R|NORM|1|FOO|Firewing Phoenix
 NONE|FREE|R|FOIL|1|FOO|Flameblast Dragon
 NONE|FREE|U|NORM|1|FOO|Flaring Flame-Kin
@@ -517,6 +518,7 @@ NONE|FREE|U|NORM|5|FOO|Grafted Exoskeleton
 NONE|FREE|R|NORM|1|FOO|Grand Architect
 NONE|FREE|R|NORM|1|FOO|Grappling Hook
 NONE|FREE|U|NORM|1|FOO|Grasp of Phantoms
+NONE|FREE|M|NORM|1|FOO|Grave Titan
 NONE|FREE|U|FOIL|1|FOO|Gravity Well
 NONE|FREE|U|NORM|3|FOO|Gravity Well
 NONE|FREE|U|NORM|3|FOO|Graypelt Refuge
@@ -548,6 +550,8 @@ NONE|FREE|U|NORM|3|FOO|Harm's Way
 NONE|FREE|U|NORM|1|FOO|Harmonize
 NONE|FREE|U|NORM|1|FOO|Haunted Guardian
 NONE|FREE|U|NORM|3|FOO|Havengul Vampire
+NONE|FREE|R|NORM|1|FOO|Heartmender
+NONE|FREE|R|NORM|1|FOO|Heartseeker
 NONE|FREE|U|NORM|3|FOO|Heavy Arbalest
 NONE|FREE|U|FOIL|1|FOO|Hedron Crab
 NONE|FREE|U|NORM|3|FOO|Hedron Crab
@@ -720,6 +724,7 @@ NONE|FREE|U|NORM|1|FOO|Moan of the Unhallowed
 NONE|FREE|R|NORM|1|FOO|Molimo, Maro-Sorcerer
 NONE|FREE|R|NORM|1|FOO|Molten Psyche
 NONE|FREE|R|NORM|1|FOO|Moonsilver Spear
+NONE|FREE|U|NORM|1|FOO|Mortarpod
 NONE|FREE|R|NORM|1|FOO|Mosswort Bridge
 NONE|FREE|U|NORM|1|FOO|Mountain Valley
 NONE|FREE|M|NORM|1|FOO|Mox Opal
@@ -842,6 +847,8 @@ NONE|FREE|U|NORM|3|FOO|Razor Hippogriff
 NONE|FREE|U|NORM|2|FOO|Reality Spasm
 NONE|FREE|U|NORM|1|FOO|Reaper of Sheoldred
 NONE|FREE|U|NORM|5|FOO|Reassembling Skeleton
+NONE|FREE|R|NORM|1|FOO|Recurring Insight
+NONE|FREE|R|NORM|1|FOO|Regal Force
 NONE|FREE|U|NORM|1|FOO|Relentless Rats
 NONE|FREE|U|NORM|4|FOO|Reliquary Tower
 NONE|FREE|R|NORM|1|FOO|Renegade Doppelganger
@@ -1015,6 +1022,7 @@ NONE|FREE|U|NORM|3|FOO|Trailblazer's Boots
 NONE|FREE|U|NORM|1|FOO|Trapmaker's Snare
 NONE|FREE|R|NORM|1|FOO|Traumatize
 NONE|FREE|R|NORM|1|GTC|Treasury Thrull
+NONE|FREE|U|NORM|1|FOO|Treetop Village
 NONE|FREE|U|NORM|1|FOO|Treva's Charm
 NONE|FREE|U|FOIL|1|FOO|Trigon of Corruption
 NONE|FREE|U|NORM|3|FOO|Trigon of Corruption
@@ -1118,11 +1126,3 @@ NONE|FREE|R|NORM|1|FOO|Xenograft
 NONE|FREE|U|NORM|2|FOO|Yavimaya Dryad
 NONE|FREE|U|NORM|3|GTC|Zameck Guildmage
 NONE|FREE|C|FOIL|1|FOO|Zendikar Farguide
-NONE|FREE|R|FOIL|1|FOO|Figure of Destiny
-NONE|FREE|M|NORM|1|FOO|Grave Titan
-NONE|FREE|R|NORM|1|FOO|Heartmender
-NONE|FREE|R|NORM|1|FOO|Heartseeker
-NONE|FREE|U|NORM|1|FOO|Mortarpod
-NONE|FREE|R|NORM|1|FOO|Recurring Insight
-NONE|FREE|R|NORM|1|FOO|Regal Force
-NONE|FREE|U|NORM|1|FOO|Treetop Village
