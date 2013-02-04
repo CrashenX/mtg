@@ -90,6 +90,7 @@ GWLAND|DECK|R|NORM|4|FOO|Noble Hierarch
 GWLAND|DECK|C|NORM|3|FOO|Plains
 GWLAND|DECK|C|NORM|2|FOO|Qasali Pridemage
 GWLAND|DECK|U|NORM|1|FOO|Riftstone Portal
+GWLAND|DECK|R|NORM|1|FOO|Scavenging Ooze
 GWLAND|DECK|C|NORM|1|FOO|Sejiri Steppe
 GWLAND|DECK|R|NORM|3|FOO|Sunpetal Grove
 GWLAND|DECK|U|NORM|4|FOO|Swords to Plowshares
@@ -102,6 +103,7 @@ GWLAND|SIDE|U|NORM|1|FOO|Dryad Militant
 GWLAND|SIDE|R|NORM|1|FOO|Gaddock Teeg
 GWLAND|SIDE|R|NORM|1|FOO|Limited Resources
 GWLAND|SIDE|R|NORM|1|FOO|Petrified Field
+GWLAND|SIDE|C|NORM|1|FOO|Qasali Pridemage
 GWLAND|SIDE|M|NORM|1|FOO|Rampaging Baloths
 GWLAND|SIDE|U|NORM|1|FOO|Rogue's Passage
 GWLAND|SIDE|R|NORM|1|FOO|Sunpetal Grove
@@ -1116,3 +1118,11 @@ NONE|FREE|R|NORM|1|FOO|Xenograft
 NONE|FREE|U|NORM|2|FOO|Yavimaya Dryad
 NONE|FREE|U|NORM|3|GTC|Zameck Guildmage
 NONE|FREE|C|FOIL|1|FOO|Zendikar Farguide
+NONE|FREE|R|FOIL|1|FOO|Figure of Destiny
+NONE|FREE|M|NORM|1|FOO|Grave Titan
+NONE|FREE|R|NORM|1|FOO|Heartmender
+NONE|FREE|R|NORM|1|FOO|Heartseeker
+NONE|FREE|U|NORM|1|FOO|Mortarpod
+NONE|FREE|R|NORM|1|FOO|Recurring Insight
+NONE|FREE|R|NORM|1|FOO|Regal Force
+NONE|FREE|U|NORM|1|FOO|Treetop Village
