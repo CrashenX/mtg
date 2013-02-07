@@ -65,7 +65,7 @@ GROWTH|DECK|R|NORM|1|FOO|Murkfiend Liege
 GROWTH|DECK|U|NORM|4|FOO|Plaxcaster Frogling
 GROWTH|DECK|C|NORM|4|FOO|Primal Cocoon
 GROWTH|DECK|R|NORM|4|FOO|Protean Hydra
-GROWTH|DECK|U|NORM|4|FOO|Rancor
+GROWTH|DECK|U|NORM|5|FOO|Rancor
 GROWTH|DECK|R|NORM|4|FOO|Scute Mob
 GROWTH|DECK|C|NORM|4|FOO|Slippery Bogle
 GROWTH|DECK|R|FOIL|1|FOO|Training Grounds
@@ -170,10 +170,10 @@ STEEL|DECK|U|NORM|4|FOO|Kor Duelist
 STEEL|DECK|C|NORM|3|FOO|Kor Outfitter
 STEEL|DECK|R|NORM|2|FOO|Leonin Shikari
 STEEL|DECK|U|NORM|1|FOO|Lightning Greaves
-STEEL|DECK|R|NORM|0|FOO|Mentor of the Meek
+STEEL|DECK|R|NORM|1|FOO|Mentor of the Meek
 STEEL|DECK|M|NORM|1|FOO|Mox Opal
 STEEL|DECK|C|NORM|14|FOO|Plains
-STEEL|DECK|R|NORM|0|FOO|Puresteel Paladin
+STEEL|DECK|R|NORM|1|FOO|Puresteel Paladin
 STEEL|DECK|R|NORM|4|FOO|Stoneforge Mystic
 STEEL|DECK|M|NORM|1|FOO|Sword of Feast and Famine
 STEEL|DECK|M|NORM|1|FOO|Sword of Fire and Ice
