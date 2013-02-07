@@ -296,6 +296,7 @@ NONE|FREE|U|NORM|2|GTC|Burning-Tree Emissary
 NONE|FREE|U|NORM|1|FOO|Butcher's Cleaver
 NONE|FREE|R|NORM|1|FOO|Cackling Counterpart
 NONE|FREE|R|NORM|1|FOO|Caged Sun
+NONE|FREE|U|NORM|1|GTC|Call of the Nightwing
 NONE|FREE|U|NORM|4|FOO|Callow Jushi
 NONE|FREE|U|NORM|3|FOO|Canopy Cover
 NONE|FREE|R|FOIL|2|FOO|Captivating Vampire
@@ -560,7 +561,7 @@ NONE|FREE|U|NORM|1|FOO|Hellhole Flailer
 NONE|FREE|R|NORM|1|FOO|Hellion Crucible
 NONE|FREE|U|NORM|1|GTC|Hellraiser Goblin
 NONE|FREE|R|NORM|2|FOO|Heretic's Punishment
-NONE|FREE|U|NORM|2|FOO|Heroes' Reunion
+NONE|FREE|U|NORM|3|FOO|Heroes' Reunion
 NONE|FREE|R|NORM|2|FOO|Hex Parasite
 NONE|FREE|M|FOIL|1|FOO|High Market
 NONE|FREE|U|NORM|1|GTC|Hindervines
@@ -897,6 +898,7 @@ NONE|FREE|R|NORM|1|FOO|Selective Memory
 NONE|FREE|U|NORM|1|FOO|Selesnya Guildmage
 NONE|FREE|R|NORM|1|FOO|Semblance Anvil
 NONE|FREE|U|NORM|1|FOO|Sengir Vampire
+NONE|FREE|U|NORM|1|GTC|Serene Remembrance
 NONE|FREE|U|NORM|5|FOO|Serra Angel
 NONE|FREE|U|NORM|1|FOO|Serra Angel
 NONE|FREE|R|NORM|1|FOO|Shape Anew
@@ -917,6 +919,7 @@ NONE|FREE|U|NORM|2|FOO|Shrine of Loyal Legions
 NONE|FREE|U|NORM|2|FOO|Shrine of Piercing Vision
 NONE|FREE|U|NORM|2|FOO|Sickleslicer
 NONE|FREE|U|NORM|1|FOO|Silver-Inlaid Dagger
+NONE|FREE|U|NORM|1|GTC|Simic Charm
 NONE|FREE|U|NORM|3|GTC|Simic Fluxmage
 NONE|FREE|U|NORM|1|GTC|Simic Keyrune
 NONE|FREE|U|NORM|2|FOO|Skeletal Wurm
@@ -950,7 +953,7 @@ NONE|FREE|U|NORM|1|FOO|Spectral Rider
 NONE|FREE|U|NORM|2|FOO|Spell Contortion
 NONE|FREE|U|NORM|2|FOO|Spell Snare
 NONE|FREE|U|NORM|1|FOO|Spellbook
-NONE|FREE|U|NORM|1|FOO|Sphere of Safety
+NONE|FREE|U|NORM|2|GTC|Sphere of Safety
 NONE|FREE|U|NORM|1|FOO|Sphere of the Suns
 NONE|FREE|R|NORM|1|FOO|Sphinx of Jwar Isle
 NONE|FREE|R|NORM|2|FOO|Sphinx of Lost Truths
@@ -1086,6 +1089,7 @@ NONE|FREE|U|NORM|2|FOO|Viral Drake
 NONE|FREE|U|NORM|2|FOO|Viridian Claw
 NONE|FREE|U|NORM|2|FOO|Viridian Revel
 NONE|FREE|U|NORM|2|FOO|Vital Splicer
+NONE|FREE|U|NORM|1|GTC|Vitu-Ghazi Guildmage
 NONE|FREE|U|NORM|1|FOO|Vitu-Ghazi, the City-Tree
 NONE|FREE|U|NORM|1|FOO|Vivid Grove
 NONE|FREE|U|NORM|1|FOO|Voices from the Void
@@ -1099,6 +1103,7 @@ NONE|FREE|U|NORM|1|FOO|Vulshok Refugee
 NONE|FREE|R|NORM|4|FOO|Walking Archive
 NONE|FREE|U|NORM|3|FOO|Wall of Frost
 NONE|FREE|U|NORM|2|FOO|Wall of Omens
+NONE|FREE|C|FOIL|1|GTC|Wandering Wolf
 NONE|FREE|U|NORM|1|FOO|War Priest of Thune
 NONE|FREE|U|NORM|2|FOO|Warmonger's Chariot
 NONE|FREE|M|NORM|1|FOO|Warren Instigator
@@ -1106,6 +1111,7 @@ NONE|FREE|U|NORM|2|FOO|Wasp Lancer
 NONE|FREE|U|NORM|1|FOO|Watchwolf
 NONE|FREE|U|NORM|1|FOO|Wax / Wane
 NONE|FREE|U|NORM|3|FOO|Whipflare
+NONE|FREE|R|NORM|1|GTC|Whispering Madness
 NONE|FREE|U|NORM|2|FOO|Whispering Specter
 NONE|FREE|U|NORM|5|FOO|Whispersilk Cloak
 NONE|FREE|U|NORM|3|FOO|White Knight
