@@ -451,7 +451,8 @@ NONE|FREE|R|NORM|1|FOO|Ezuri, Renegade Leader
 NONE|FREE|U|NORM|1|FOO|Fall of the Gavel
 NONE|FREE|U|NORM|1|FOO|Fallen Ferromancer
 NONE|FREE|R|NORM|1|FOO|Fastbond
-NONE|FREE|R|FOIL|2|GTC|Fathom Mage (Promo)
+NONE|FREE|R|NORM|1|GTC|Fathom Mage
+NONE|FREE|R|FOIL|1|GTC|Fathom Mage (Promo)
 NONE|FREE|U|NORM|1|FOO|Favorable Winds
 NONE|FREE|U|NORM|4|FOO|Feast of Blood
 NONE|FREE|U|NORM|1|FOO|Feldon's Cane
@@ -695,6 +696,7 @@ NONE|FREE|R|NORM|1|FOO|Martial Law
 NONE|FREE|U|NORM|1|FOO|Mask of Avacyn
 NONE|FREE|U|NORM|1|FOO|Mass Appeal
 NONE|FREE|U|NORM|1|FOO|Master Splicer
+NONE|FREE|R|NORM|1|GTC|Master Biomancer
 NONE|FREE|R|NORM|1|FOO|Master Transmuter
 NONE|FREE|U|NORM|1|FOO|Mausoleum Guard
 NONE|FREE|M|FOIL|1|FOO|Maze of Ith
@@ -703,6 +705,7 @@ NONE|FREE|U|NORM|2|FOO|Memnite
 NONE|FREE|R|NORM|1|FOO|Memoricide
 NONE|FREE|U|NORM|1|FOO|Mental Misstep
 NONE|FREE|U|NORM|1|GTC|Mental Vapors
+NONE|FREE|U|NORM|1|GTC|Merfolk of the Depths
 NONE|FREE|U|NORM|2|FOO|Merfolk Seastalkers
 NONE|FREE|U|NORM|1|FOO|Merfolk Skyscout
 NONE|FREE|U|NORM|4|FOO|Merfolk Wayfinder
