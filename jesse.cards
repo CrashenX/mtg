@@ -142,7 +142,7 @@ WW|DECK|R|NORM|0|FOO|Eiganjo Castle
 WW|DECK|M|NORM|1|FOO|Felidar Sovereign
 WW|DECK|R|NORM|3|FOO|Honor of the Pure
 WW|DECK|C|NORM|4|FOO|Kabira Crossroads
-WW|DECK|C|NORM|0|FOO|Martyr of Sands
+WW|DECK|C|NORM|4|FOO|Martyr of Sands
 WW|DECK|R|NORM|0|FOO|Mikaeus, the Lunarch
 WW|DECK|U|NORM|2|FOO|Path to Exile
 WW|DECK|C|NORM|14|FOO|Plains
@@ -156,7 +156,6 @@ WW|DECK|R|NORM|4|FOO|Student of Warfare
 WW|DECK|M|NORM|2|FOO|Windbrisk Heights
 WW|SIDE|U|NORM|4|FOO|Brave the Elements
 WW|SIDE|U|NORM|2|FOO|Chalice of Life
-WW|SIDE|C|NORM|0|FOO|Martyr of Sands
 WW|SIDE|R|NORM|1|FOO|Proclamation of Rebirth
 WW|SIDE|R|NORM|1|FOO|Thalia, Guardian of Thraben
 STEEL|DECK|C|NORM|4|FOO|Ancient Den
@@ -169,7 +168,7 @@ STEEL|DECK|R|NORM|0|FOO|Heartseeker
 STEEL|DECK|I|NORM|1|FOO|Infiltration Lens
 STEEL|DECK|U|NORM|4|FOO|Kor Duelist
 STEEL|DECK|C|NORM|3|FOO|Kor Outfitter
-STEEL|DECK|R|NORM|0|FOO|Leonin Shikari
+STEEL|DECK|R|NORM|2|FOO|Leonin Shikari
 STEEL|DECK|U|NORM|1|FOO|Lightning Greaves
 STEEL|DECK|R|NORM|0|FOO|Mentor of the Meek
 STEEL|DECK|M|NORM|1|FOO|Mox Opal
