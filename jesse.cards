@@ -9,7 +9,7 @@ BIGNASTY|DECK|R|NORM|2|FOO|Growth Spasm
 BIGNASTY|DECK|R|NORM|4|FOO|Khalni Garden
 BIGNASTY|DECK|R|NORM|0|FOO|Kozilek, Butcher of Truth
 BIGNASTY|DECK|R|NORM|4|FOO|Llanowar Elves
-BIGNASTY|DECK|R|NORM|1|FOO|Mystifying Maze
+BIGNASTY|DECK|R|NORM|1|M11|Mystifying Maze
 BIGNASTY|DECK|R|NORM|4|FOO|Overgrown Battlement
 BIGNASTY|DECK|R|NORM|1|FOO|Platinum Emperion
 BIGNASTY|DECK|R|NORM|3|FOO|Primeval Titan
@@ -33,7 +33,7 @@ FISH|DECK|U|NORM|1|FOO|Merrow Commerce
 FISH|DECK|U|NORM|4|FOO|Merrow Reejerey
 FISH|DECK|R|NORM|1|FOO|Minamo, School at Water's Edge
 FISH|DECK|R|NORM|1|FOO|Miren, the Moaning Well
-FISH|DECK|U|NORM|4|FOO|Paradise Mantle
+FISH|DECK|U|NORM|3|5DN|Paradise Mantle
 FISH|DECK|U|NORM|4|FOO|Puresight Merrow
 FISH|DECK|U|NORM|1|FOO|Sage of Fables
 FISH|DECK|U|NORM|4|FOO|Sage's Dousing
@@ -43,7 +43,6 @@ FISH|DECK|U|NORM|3|FOO|Silvergill Adept
 FISH|DECK|C|NORM|4|FOO|Stonybrook Banneret
 FISH|DECK|U|NORM|1|FOO|Surgespanner
 FISH|DECK|R|NORM|4|FOO|Wake Thrasher
-FISH|SIDE|R|NORM|1|FOO|Arcanis the Omnipotent
 FISH|SIDE|R|NORM|1|FOO|Glen Elendra Archmage
 FISH|SIDE|C|NORM|2|FOO|Island
 FISH|SIDE|R|NORM|1|FOO|Kira, Great Glass-Spinner
@@ -54,22 +53,101 @@ FISH|SIDE|R|NORM|1|FOO|Merrow Commerce
 FISH|SIDE|U|NORM|3|FOO|Sage of Fables
 FISH|SIDE|U|NORM|1|FOO|Silvergill Adept
 FISH|SIDE|R|NORM|1|FOO|Surgespanner
-GROWTH|DECK|R|NORM|2|FOO|Asceticism
-GROWTH|DECK|C|NORM|10|FOO|Forest
-GROWTH|DECK|U|NORM|4|FOO|Gilder Bairn
-GROWTH|DECK|R|NORM|4|FOO|Hinterland Harbor
-GROWTH|DECK|C|NORM|8|FOO|Island
-GROWTH|DECK|R|NORM|4|FOO|Leyline of Vitality
-GROWTH|DECK|C|NORM|1|FOO|Llanowar Reborn
-GROWTH|DECK|R|NORM|1|FOO|Murkfiend Liege
-GROWTH|DECK|U|NORM|4|FOO|Plaxcaster Frogling
-GROWTH|DECK|C|NORM|4|FOO|Primal Cocoon
-GROWTH|DECK|R|NORM|4|FOO|Protean Hydra
-GROWTH|DECK|U|NORM|6|FOO|Rancor
-GROWTH|DECK|R|NORM|4|FOO|Scute Mob
-GROWTH|DECK|C|NORM|4|FOO|Slippery Bogle
-GROWTH|DECK|R|FOIL|1|FOO|Training Grounds
-GROWTH|DECK|R|NORM|1|FOO|Training Grounds
+GROWTH|MAIN|R|NORM|0|1|AVR|Alchemist's Refuge
+GROWTH|MAIN|U|NORM|0|1|CON/H09|Ancient Ziggurat
+GROWTH|MAIN|R|NORM|1|1|10E|Arcanis the Omnipotent
+GROWTH|MAIN|R|NORM|1|1|SOM|Asceticism
+GROWTH|MAIN|C|NORM|1|1|GTC|Bioshift
+GROWTH|MAIN|R|NORM|0|1|MBS|Blue Sun's Zenith
+GROWTH|MAIN|C|NORM|1|1|FOO|Brainstorm
+GROWTH|MAIN|R|NORM|1|1|GTC|Breeding Pool
+GROWTH|MAIN|R|NORM|0|1|STH|Burgeoning
+GROWTH|MAIN|R|NORM|0|1|SHM|Cauldron of Souls
+GROWTH|MAIN|R|NORM|0|1|RTR|Chromatic Lantern
+GROWTH|MAIN|C|NORM|0|1|TSP|Clockspinning
+GROWTH|MAIN|R|NORM|0|1|EVE|Cold-Eyed Selkie
+GROWTH|MAIN|C|NORM|0|1|CMD/CMA|Command Tower
+GROWTH|MAIN|M|NORM|0|1|MBS|Consecrated Sphinx
+GROWTH|MAIN|R|NORM|0|1|DST|Darksteel Reactor
+GROWTH|MAIN|R|NORM|1|1|RTR|Death's Presence
+GROWTH|MAIN|R|NORM|0|1|ULG|Defense of the Heart
+GROWTH|MAIN|C|NORM|0|1|SHM|Devoted Druid
+GROWTH|MAIN|R|NORM|0|1|RAV|Doubling Season
+GROWTH|MAIN|R|NORM|1|1|TMP|Earthcraft
+GROWTH|MAIN|R|NORM|0|1|DIS|Evolution Vat
+GROWTH|MAIN|R|NORM|0|1|DIS|Experiment Kraj
+GROWTH|MAIN|R|NORM|1|1|USG|Exploration
+GROWTH|MAIN|R|NORM|1|1|GTC|Fathom Mage
+GROWTH|MAIN|C|NORM|1|1|FOO|Fertilid
+GROWTH|MAIN|R|NORM|0|1|EVE|Flooded Grove
+GROWTH|MAIN|U|NORM|0|1|EXO|Forbid
+GROWTH|MAIN|M|FOIL|1|1|V12|Forbidden Orchard
+GROWTH|MAIN|C|NORM|6|6|ZEN|Forest
+GROWTH|MAIN|R|NORM|0|1|SCG/DPA/HOP|Forgotten Ancient
+GROWTH|MAIN|U|NORM|1|1|EVE|Gilder Bairn
+GROWTH|MAIN|R|NORM|0|1|MBS|Green Sun's Zenith
+GROWTH|MAIN|R|NORM|0|1|GTC|Gyre Sage
+GROWTH|MAIN|C|NORM|0|1|WWK|Halimar Depths
+GROWTH|MAIN|M|FOIL|1|1|V12|High Market
+GROWTH|MAIN|R|NORM|1|1|ISD|Hinterland Harbor
+GROWTH|MAIN|R|NORM|1|1|GTC|Illusionist's Bracers
+GROWTH|MAIN|R|NORM|0|1|DKA|Increasing Savagery
+GROWTH|MAIN|R|NORM|1|1|SOM|Inexorable Tide
+GROWTH|MAIN|C|NORM|1|1|ZEN|Island
+GROWTH|MAIN|U|NORM|1|1|SHM|Leech Bonder
+GROWTH|MAIN|U|NORM|1|1|FOO|Lightning Greaves
+GROWTH|MAIN|U|NORM|1|1|ARC|Llanowar Reborn
+GROWTH|MAIN|C|NORM|0|1|FOO|Lonely Sandbar
+GROWTH|MAIN|U|NORM|0|1|ARB|Lorescale Coatl
+GROWTH|MAIN|R|NORM|0|1|MMQ|Magistrate's Scepter
+GROWTH|MAIN|M|NORM|1|1|GTC|Master Biomancer
+GROWTH|MAIN|R|NORM|0|1|SOK|Mikokoro, Center of the Sea
+GROWTH|MAIN|R|NORM|0|1|CHK|Minamo, School at Water's Edge
+GROWTH|MAIN|R|NORM|0|1|MRD/CMA|Mind's Eye
+GROWTH|MAIN|U|NORM|1|1|DST|Mirrodin's Core
+GROWTH|MAIN|R|NORM|0|1|ROE|Momentous Fall
+GROWTH|MAIN|R|NORM|0|1|DIS|Momir Vig, Simic Visionary
+GROWTH|MAIN|R|NORM|0|1|SHM|Mossbridge Troll
+GROWTH|MAIN|R|NORM|1|1|FOO|Mosswort Bridge
+GROWTH|MAIN|U|NORM|0|1|V09/MIR/6ED|Mystical Tutor
+GROWTH|MAIN|R|NORM|0|1|M11|Mystifying Maze
+GROWTH|MAIN|U|NORM|1|1|DIS|Novijen, Heart of Progress
+GROWTH|MAIN|R|NORM|0|1|CHK|Okina, Temple to the Grandfathers
+GROWTH|MAIN|R|NORM|0|1|ZEN|Oran-Rief, the Vastwood
+GROWTH|MAIN|U|NORM|0|1|CHK/DDJ|Overwhelming Intellect
+GROWTH|MAIN|U|NORM|1|1|5DN|Paradise Mantle
+GROWTH|MAIN|U|NORM|1|1|DIS|Plaxcaster Frogling
+GROWTH|MAIN|M|NORM|0|1|MBS|Praetor's Counsel
+GROWTH|MAIN|M|NORM|1|1|M13|Primordial Hydra
+GROWTH|MAIN|U|NORM|1|1|TMP|Propaganda
+GROWTH|MAIN|R|NORM|1|1|M11|Protean Hydra
+GROWTH|MAIN|U|NORM|1|1|M13|Rancor
+GROWTH|MAIN|U|NORM|1|1|CON|Reliquary Tower
+GROWTH|MAIN|C|NORM|0|1|PCY/CMA|Rhystic Study
+GROWTH|MAIN|R|NORM|1|1|ZEN|Scute Mob
+GROWTH|MAIN|U|NORM|0|1|CHK|Sensei's Divining Top
+GROWTH|MAIN|C|NORM|0|1|DIS/CMD|Simic Growth Chamber
+GROWTH|MAIN|U|NORM|0|1|DIS|Simic Guildmage
+GROWTH|MAIN|C|NORM|0|1|DIS/CMD|Simic Signet
+GROWTH|MAIN|U|NORM|0|1|CMD|Sol Ring
+GROWTH|MAIN|R|NORM|0|1|ALA|Spearbreaker Behemoth
+GROWTH|MAIN|R|NORM|0|1|EXO/BRB|Spike Weaver
+GROWTH|MAIN|U|NORM|0|1|CMD|Temple of the False God
+GROWTH|MAIN|M|NORM|0|1|CON|Thornling
+GROWTH|MAIN|R|NORM|0|1|LRW|Thousand-Year Elixir
+GROWTH|MAIN|R|NORM|0|1|USG|Thran Quarry
+GROWTH|MAIN|U|NORM|0|1|FUT|Tolaria West
+GROWTH|MAIN|R|NORM|0|1|CMD/ONS|Trade Secrets
+GROWTH|MAIN|R|NORM|1|1|ROE|Training Grounds
+GROWTH|MAIN|C|NORM|0|1|ONS/ARC/CMD/EVG/DDJ|Tranquil Thicket
+GROWTH|MAIN|R|NORM|0|1|M11|Triskelion
+GROWTH|MAIN|M|FOIL|1|1|V12|Vesuva
+GROWTH|MAIN|U|NORM|0|1|LRW/CMD/HOP/H09|Vivid Creek
+GROWTH|MAIN|U|NORM|1|1|FOO|Vivid Grove
+GROWTH|MAIN|R|NORM|0|1|SHM|Woodfall Primus
+GROWTH|MAIN|U|NORM|0|1|6ED/MIR|Worldly Tutor
+GROWTH|MAIN|R|NORM|0|1|9ED/10E/APC|Yavimaya Coast
+GROWTH|MAIN|R|NORM|0|1|UDS|Yavimaya Hollow
 GWLAND|DECK|R|NORM|3|FOO|Armageddon
 GWLAND|DECK|M|NORM|1|FOO|Batterskull
 GWLAND|DECK|R|NORM|4|FOO|Birds of Paradise
@@ -80,7 +158,7 @@ GWLAND|DECK|U|NORM|1|FOO|Eternal Witness
 GWLAND|DECK|R|NORM|1|FOO|Flagstones of Trokair
 GWLAND|DECK|C|NORM|7|FOO|Forest
 GWLAND|DECK|M|FOIL|1|FOO|Glacial Chasm
-GWLAND|DECK|R|NORM|4|FOO|Green Sun's Zenith
+GWLAND|DECK|R|NORM|4|MBS|Green Sun's Zenith
 GWLAND|DECK|M|FOIL|2|FOO|Knight of the Reliquary
 GWLAND|DECK|R|NORM|2|FOO|Knight of the Reliquary
 GWLAND|DECK|R|NORM|1|FOO|Land Tax
@@ -99,7 +177,7 @@ GWLAND|DECK|R|NORM|1|FOO|Sylvan Library
 GWLAND|DECK|R|NORM|1|FOO|Sylvan Safekeeper
 GWLAND|DECK|R|NORM|0|FOO|Temple Garden
 GWLAND|DECK|R|NORM|1|FOO|Terravore
-GWLAND|DECK|M|NORM|1|FOO|Vesuva
+GWLAND|DECK|M|NORM|1|V12|Vesuva
 GWLAND|SIDE|U|NORM|1|FOO|Dryad Militant
 GWLAND|SIDE|R|NORM|1|FOO|Gaddock Teeg
 GWLAND|SIDE|R|NORM|1|FOO|Limited Resources
@@ -112,11 +190,11 @@ GWLAND|SIDE|R|NORM|1|FOO|Ulvenwald Tracker
 LANDFALL|DECK|M|NORM|0|FOO|Admonition Angel
 LANDFALL|DECK|R|NORM|1|FOO|Azusa, Lost but Seeking
 LANDFALL|DECK|R|NORM|1|FOO|Banefire
-LANDFALL|DECK|C|NORM|4|FOO|Brainstorm
+LANDFALL|DECK|C|NORM|3|FOO|Brainstorm
 LANDFALL|DECK|R|NORM|2|FOO|Crucible of Worlds
 LANDFALL|DECK|U|NORM|1|FOO|Demonic Tutor
 LANDFALL|DECK|U|NORM|2|FOO|Enlightened Tutor
-LANDFALL|DECK|R|NORM|3|FOO|Exploration
+LANDFALL|DECK|R|NORM|2|USG|Exploration
 LANDFALL|DECK|R|NORM|1|FOO|Fastbond
 LANDFALL|DECK|U|NORM|4|FOO|Gemstone Mine
 LANDFALL|DECK|U|NORM|4|FOO|Glacial Chasm
@@ -226,7 +304,7 @@ NONE|FREE|U|NORM|2|FOO|Armored Ascension
 NONE|FREE|U|NORM|3|FOO|Arrogant Bloodlord
 NONE|FREE|U|NORM|1|FOO|Arrow Volley Trap
 NONE|FREE|U|NORM|2|FOO|Artisan of Kozilek
-NONE|FREE|R|NORM|2|FOO|Asceticism
+NONE|FREE|R|NORM|3|SOM|Asceticism
 NONE|FREE|R|NORM|1|GTC|Aurelia, the Warleader
 NONE|FREE|U|NORM|6|FOO|Auriok Edgewright
 NONE|FREE|U|NORM|1|FOO|Auriok Survivors
@@ -284,7 +362,6 @@ NONE|FREE|U|NORM|1|FOO|Brain Pry
 NONE|FREE|U|NORM|1|FOO|Bramblecrush
 NONE|FREE|U|NORM|1|FOO|Bramblesnap
 NONE|FREE|U|NORM|1|FOO|Brass Squire
-NONE|FREE|R|NORM|1|GTC|Breeding Pool
 NONE|FREE|R|NORM|1|FOO|Brittle Effigy
 NONE|FREE|U|NORM|2|FOO|Broodwarden
 NONE|FREE|U|NORM|2|FOO|Brutalizer Exarch
@@ -377,7 +454,6 @@ NONE|FREE|U|NORM|2|FOO|Darksteel Relic
 NONE|FREE|U|NORM|4|FOO|Darksteel Sentinel
 NONE|FREE|U|NORM|1|FOO|Dauthi Embrace
 NONE|FREE|R|NORM|3|FOO|Day of Judgment
-NONE|FREE|R|NORM|1|FOO|Death's Presence
 NONE|FREE|U|NORM|4|FOO|Deathforge Shaman
 NONE|FREE|U|NORM|1|FOO|Deathmark
 NONE|FREE|U|NORM|3|GTC|Debtor's Pulpit
@@ -415,7 +491,7 @@ NONE|FREE|U|NORM|2|FOO|Due Respect
 NONE|FREE|U|NORM|2|FOO|Duskdale Wurm
 NONE|FREE|U|NORM|3|GTC|Dying Wish
 NONE|FREE|U|NORM|2|FOO|Earth Servant
-NONE|FREE|R|NORM|2|FOO|Earthcraft
+NONE|FREE|R|NORM|1|TMP|Earthcraft
 NONE|FREE|U|NORM|2|FOO|Ebony Owl Netsuke
 NONE|FREE|U|NORM|3|FOO|Eiganjo Free-Riders
 NONE|FREE|R|NORM|1|FOO|Eldrazi Conscription
@@ -450,7 +526,6 @@ NONE|FREE|R|NORM|1|FOO|Ezuri, Renegade Leader
 NONE|FREE|U|NORM|1|FOO|Fall of the Gavel
 NONE|FREE|U|NORM|1|FOO|Fallen Ferromancer
 NONE|FREE|R|NORM|1|FOO|Fastbond
-NONE|FREE|R|NORM|1|GTC|Fathom Mage
 NONE|FREE|R|FOIL|1|GTC|Fathom Mage (Promo)
 NONE|FREE|U|NORM|1|FOO|Favorable Winds
 NONE|FREE|U|NORM|4|FOO|Feast of Blood
@@ -473,7 +548,7 @@ NONE|FREE|U|NORM|1|FOO|Flash Foliage
 NONE|FREE|U|FOIL|1|FOO|Flashfreeze
 NONE|FREE|U|NORM|2|FOO|Flesh Allergy
 NONE|FREE|U|NORM|2|FOO|Footsteps of the Goryo
-NONE|FREE|M|FOIL|2|FOO|Forbidden Orchard
+NONE|FREE|M|FOIL|1|V12|Forbidden Orchard
 NONE|FREE|R|FOIL|1|GTC|Foundary Champion (Promo)
 NONE|FREE|C|FOIL|1|FOO|Freed from the Real
 NONE|FREE|U|NORM|4|FOO|Frontier Guide
@@ -502,6 +577,7 @@ NONE|FREE|U|NORM|2|FOO|Ghost-Lit Warder
 NONE|FREE|U|NORM|2|FOO|Ghostly Touch
 NONE|FREE|R|NORM|1|FOO|Gigantiform
 NONE|FREE|R|FOIL|1|FOO|Gigantomancer
+NONE|DECK|U|NORM|3|EVE|Gilder Bairn
 NONE|FREE|M|FOIL|1|FOO|Glacial Chasm
 NONE|FREE|R|NORM|1|FOO|Glacial Fortress
 NONE|FREE|U|NORM|1|FOO|Glasses of Urza
@@ -563,9 +639,9 @@ NONE|FREE|U|NORM|1|GTC|Hellraiser Goblin
 NONE|FREE|R|NORM|2|FOO|Heretic's Punishment
 NONE|FREE|U|NORM|3|FOO|Heroes' Reunion
 NONE|FREE|R|NORM|2|FOO|Hex Parasite
-NONE|FREE|M|FOIL|1|FOO|High Market
 NONE|FREE|U|NORM|1|GTC|Hindervines
 NONE|FREE|U|NORM|1|GTC|Hindervines
+NONE|DECK|R|NORM|3|ISD|Hinterland Harbor
 NONE|FREE|R|NORM|1|FOO|Hoarding Dragon
 NONE|FREE|R|NORM|2|FOO|Hokori, Dust Drinker
 NONE|FREE|U|NORM|1|GTC|Hold the Gates
@@ -589,11 +665,10 @@ NONE|FREE|U|NORM|2|FOO|Ichor Explosion
 NONE|FREE|U|NORM|8|FOO|Ichor Rats
 NONE|FREE|R|NORM|1|FOO|Idyllic Tutor
 NONE|FREE|U|NORM|1|FOO|Ignite Disorder
-NONE|FREE|R|NORM|1|GTC|Illusionist's Bracers
 NONE|FREE|R|NORM|1|FOO|Immortal Coil
 NONE|FREE|U|NORM|1|FOO|Incremental Blight
 NONE|FREE|M|NORM|1|FOO|Indomitable Archangel
-NONE|FREE|R|NORM|2|FOO|Inexorable Tide
+NONE|FREE|R|NORM|1|SOM|Inexorable Tide
 NONE|FREE|R|NORM|1|FOO|Infernal Kirin
 NONE|FREE|U|NORM|2|FOO|Inferno Trap
 NONE|FREE|U|NORM|2|FOO|Infiltration Lens
@@ -652,22 +727,23 @@ NONE|FREE|U|NORM|1|FOO|Latch Seeker
 NONE|FREE|R|NORM|3|FOO|Lavaball Trap
 NONE|FREE|U|NORM|1|FOO|Lead the Stampede
 NONE|FREE|U|NORM|3|FOO|Leatherback Baloth
-NONE|FREE|U|NORM|6|FOO|Leech Bonder
+NONE|FREE|U|NORM|5|SHM|Leech Bonder
 NONE|FREE|R|NORM|1|GTC|Legion Loyalist
 NONE|FREE|R|NORM|1|FOO|Leonin Abunas
 NONE|FREE|U|NORM|2|FOO|Levitation
 NONE|FREE|R|NORM|2|FOO|Leyline of Anticipation
+NONE|DECK|R|NORM|4|FOO|Leyline of Vitality
 NONE|FREE|U|NORM|1|FOO|Library of Leng
 NONE|FREE|R|NORM|1|FOO|Life's Finale
 NONE|FREE|U|NORM|2|FOO|Lifesmith
 NONE|FREE|U|NORM|3|FOO|Lightkeeper of Emeria
-NONE|FREE|U|NORM|2|FOO|Lightning Greaves
+NONE|FREE|U|NORM|1|FOO|Lightning Greaves
 NONE|FREE|U|NORM|4|FOO|Liliana's Caress
 NONE|FREE|U|NORM|4|FOO|Liquimetal Coating
 NONE|FREE|R|NORM|1|FOO|Livewire Lash
 NONE|FREE|R|NORM|1|FOO|Living Death
 NONE|FREE|U|NORM|5|FOO|Living Tsunami
-NONE|FREE|U|NORM|1|FOO|Llanowar Reborn
+NONE|FREE|U|NORM|1|ARC|Llanowar Reborn
 NONE|FREE|R|NORM|2|FOO|Lodestone Golem
 NONE|FREE|M|NORM|1|FOO|Lorthos, the Tidemaker
 NONE|FREE|R|NORM|1|FOO|Loxodon Warhammer
@@ -695,7 +771,6 @@ NONE|FREE|R|NORM|1|FOO|Martial Law
 NONE|FREE|U|NORM|1|FOO|Mask of Avacyn
 NONE|FREE|U|NORM|1|FOO|Mass Appeal
 NONE|FREE|U|NORM|1|FOO|Master Splicer
-NONE|FREE|R|NORM|1|GTC|Master Biomancer
 NONE|FREE|R|NORM|1|FOO|Master Transmuter
 NONE|FREE|U|NORM|1|FOO|Mausoleum Guard
 NONE|FREE|M|FOIL|1|FOO|Maze of Ith
@@ -704,10 +779,10 @@ NONE|FREE|U|NORM|2|FOO|Memnite
 NONE|FREE|R|NORM|1|FOO|Memoricide
 NONE|FREE|U|NORM|1|FOO|Mental Misstep
 NONE|FREE|U|NORM|1|GTC|Mental Vapors
-NONE|FREE|U|NORM|1|GTC|Merfolk of the Depths
 NONE|FREE|U|NORM|2|FOO|Merfolk Seastalkers
 NONE|FREE|U|NORM|1|FOO|Merfolk Skyscout
 NONE|FREE|U|NORM|4|FOO|Merfolk Wayfinder
+NONE|FREE|U|NORM|1|GTC|Merfolk of the Depths
 NONE|FREE|U|NORM|1|FOO|Metallurgeon
 NONE|FREE|U|NORM|2|FOO|Midnight Haunting
 NONE|FREE|U|NORM|1|FOO|Might of the Nephilim
@@ -720,7 +795,7 @@ NONE|FREE|U|NORM|1|FOO|Mind Stone
 NONE|FREE|U|NORM|2|FOO|Mindcrank
 NONE|FREE|U|NORM|1|FOO|Mindculling
 NONE|FREE|R|NORM|1|FOO|Mirari
-NONE|FREE|U|NORM|4|FOO|Mirrodin's Core
+NONE|FREE|U|NORM|3|FOO|Mirrodin's Core
 NONE|FREE|R|NORM|2|FOO|Mitotic Slime
 NONE|FREE|C|FOIL|1|FOO|Mizzium Skin
 NONE|FREE|U|NORM|1|FOO|Moan of the Unhallowed
@@ -728,12 +803,12 @@ NONE|FREE|R|NORM|1|FOO|Molimo, Maro-Sorcerer
 NONE|FREE|R|NORM|1|FOO|Molten Psyche
 NONE|FREE|R|NORM|1|FOO|Moonsilver Spear
 NONE|FREE|U|NORM|1|FOO|Mortarpod
-NONE|FREE|R|NORM|1|FOO|Mosswort Bridge
 NONE|FREE|U|NORM|1|FOO|Mountain Valley
 NONE|FREE|M|NORM|1|FOO|Mox Opal
 NONE|FREE|U|FOIL|1|FOO|Murasa Pyromancer
 NONE|FREE|U|NORM|3|FOO|Murder Crows
 NONE|FREE|U|NORM|1|GTC|Murder Investigation
+NONE|DECK|R|NORM|1|FOO|Murkfiend Liege
 NONE|FREE|U|NORM|1|FOO|Mwonvuli Beast Tracker
 NONE|FREE|R|NORM|1|FOO|Mycoloth
 NONE|FREE|U|NORM|1|FOO|Mycosynth Fiend
@@ -759,7 +834,6 @@ NONE|FREE|U|NORM|1|GTC|Nimbus Swimmer
 NONE|FREE|U|NORM|1|FOO|Nirkana Cutthroat
 NONE|FREE|R|NORM|2|FOO|Norn's Annex
 NONE|FREE|U|NORM|1|FOO|Not of This World
-NONE|FREE|U|NORM|1|FOO|Novijen, Heart of Progress
 NONE|FREE|U|NORM|1|FOO|Noxious Revival
 NONE|FREE|R|NORM|1|FOO|Ob Nixilis, the Fallen
 NONE|FREE|U|NORM|4|FOO|Oboro Envoy
@@ -809,7 +883,7 @@ NONE|FREE|U|NORM|3|FOO|Pitfall Trap
 NONE|FREE|U|NORM|1|FOO|Plague Myr
 NONE|FREE|U|NORM|1|FOO|Plaguemaw Beast
 NONE|FREE|M|NORM|1|FOO|Platinum Emperion
-NONE|FREE|U|NORM|1|FOO|Plaxcaster Frogling
+NONE|FREE|U|NORM|4|DIS|Plaxcaster Frogling
 NONE|FREE|U|NORM|2|FOO|Postmortem Lunge
 NONE|FREE|U|NORM|1|FOO|Power Armor
 NONE|FREE|R|NORM|1|FOO|Praetor's Grasp
@@ -818,11 +892,8 @@ NONE|FREE|U|NORM|4|FOO|Presence of the Wise
 NONE|FREE|U|NORM|2|FOO|Priest of Gix
 NONE|FREE|U|NORM|3|FOO|Primal Bellow
 NONE|FREE|R|NORM|1|FOO|Primitive Etchings
-NONE|FREE|M|NORM|1|FOO|Primordial Hydra
 NONE|FREE|U|NORM|1|FOO|Prized Unicorn
 NONE|FREE|U|NORM|5|FOO|Prodigal Pyromancer
-NONE|FREE|U|NORM|1|FOO|Propaganda
-NONE|FREE|R|NORM|1|FOO|Protean Hydra
 NONE|FREE|U|NORM|4|FOO|Punishing Fire
 NONE|FREE|U|NORM|2|FOO|Puppet Strings
 NONE|FREE|R|FOIL|1|FOO|Putrefax
@@ -843,6 +914,8 @@ NONE|FREE|U|NORM|1|FOO|Rage Thrower
 NONE|FREE|U|NORM|2|FOO|Rakdos Ragemutt
 NONE|FREE|R|NORM|1|FOO|Rally the Horde
 NONE|FREE|U|NORM|3|FOO|Rally the Peasants
+NONE|DECK|U|NORM|4|M13|Rancor
+NONE|DECK|C|NORM|1|ARC|Rancor
 NONE|FREE|U|NORM|2|FOO|Rapacious One
 NONE|FREE|R|NORM|2|FOO|Ratchet Bomb
 NONE|FREE|U|NORM|1|FOO|Ravenous Trap
@@ -853,7 +926,7 @@ NONE|FREE|U|NORM|5|FOO|Reassembling Skeleton
 NONE|FREE|R|NORM|1|FOO|Recurring Insight
 NONE|FREE|R|NORM|1|FOO|Regal Force
 NONE|FREE|U|NORM|1|FOO|Relentless Rats
-NONE|FREE|U|NORM|4|FOO|Reliquary Tower
+NONE|FREE|U|NORM|3|CON|Reliquary Tower
 NONE|FREE|R|NORM|1|FOO|Renegade Doppelganger
 NONE|FREE|U|NORM|1|FOO|Renounce
 NONE|FREE|R|NORM|1|FOO|Rest in Peace
@@ -891,6 +964,7 @@ NONE|FREE|U|NORM|1|FOO|Savage Surge
 NONE|FREE|U|NORM|1|FOO|Savage Surge
 NONE|FREE|U|NORM|1|FOO|Scourge of Geier Reach
 NONE|FREE|U|NORM|3|FOO|Scrib Nibblers
+NONE|DECK|R|NORM|3|ZEN|Scute Mob
 NONE|FREE|R|NORM|1|FOO|Sea Gate Loremaster
 NONE|FREE|U|NORM|3|FOO|Seascape Aerialist
 NONE|FREE|R|NORM|1|FOO|Seer's Sundial
@@ -1024,6 +1098,7 @@ NONE|FREE|U|FOIL|1|GTC|Tower Defense
 NONE|FREE|U|NORM|1|GTC|Tower Defense
 NONE|FREE|U|NORM|1|FOO|Tracker's Instincts
 NONE|FREE|U|NORM|3|FOO|Trailblazer's Boots
+NONE|DECK|R|FOIL|1|ROE|Training Grounds
 NONE|FREE|U|NORM|1|FOO|Trapmaker's Snare
 NONE|FREE|R|NORM|1|FOO|Traumatize
 NONE|FREE|R|NORM|1|GTC|Treasury Thrull
@@ -1081,7 +1156,6 @@ NONE|FREE|R|NORM|2|FOO|Venser's Journal
 NONE|FREE|R|FOIL|1|FOO|Verdant Force
 NONE|FREE|U|NORM|1|FOO|Verduran Emissary
 NONE|FREE|U|NORM|1|FOO|Vessel of Endless Rest
-NONE|FREE|M|FOIL|1|FOO|Vesuva
 NONE|FREE|U|NORM|1|GTC|Viashino Shanktail
 NONE|FREE|C|FOIL|1|FOO|Vigean Hydropon
 NONE|FREE|U|NORM|2|FOO|Vigean Intuition
@@ -1093,7 +1167,6 @@ NONE|FREE|U|NORM|2|FOO|Viridian Revel
 NONE|FREE|U|NORM|2|FOO|Vital Splicer
 NONE|FREE|U|NORM|1|GTC|Vitu-Ghazi Guildmage
 NONE|FREE|U|NORM|1|FOO|Vitu-Ghazi, the City-Tree
-NONE|FREE|U|NORM|1|FOO|Vivid Grove
 NONE|FREE|U|NORM|1|FOO|Voices from the Void
 NONE|FREE|R|NORM|1|FOO|Voidslime
 NONE|FREE|U|NORM|1|GTC|Voidwalk
