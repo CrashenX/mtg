@@ -60,6 +60,7 @@ CC|MAIN|C|NORM|01|01|ICE|Brainstorm
 CC|MAIN|R|NORM|01|01|GTC|Breeding Pool
 CC|MAIN|R|NORM|00|01|STH|Burgeoning
 CC|MAIN|R|NORM|00|01|SHM|Cauldron of Souls
+CC|MAIN|M|FOIL|01|01|V12|Cephalid Coliseum
 CC|MAIN|R|NORM|00|01|RTR|Chromatic Lantern
 CC|MAIN|C|NORM|00|01|TSP|Clockspinning
 CC|MAIN|R|NORM|00|01|EVE|Cold-Eyed Selkie
@@ -80,12 +81,12 @@ CC|MAIN|C|NORM|01|01|FOO|Fertilid
 CC|MAIN|R|NORM|00|01|EVE|Flooded Grove
 CC|MAIN|U|NORM|00|01|EXO|Forbid
 CC|MAIN|M|FOIL|01|01|V12|Forbidden Orchard
-CC|MAIN|C|NORM|05|05|ZEN|Forest
+CC|MAIN|C|NORM|04|04|ZEN|Forest
 CC|MAIN|R|NORM|00|01|SCG/DPA/HOP|Forgotten Ancient
 CC|MAIN|U|NORM|01|01|EVE|Gilder Bairn
 CC|MAIN|R|NORM|00|01|MBS|Green Sun's Zenith
 CC|MAIN|R|NORM|00|01|GTC|Gyre Sage
-CC|MAIN|C|NORM|00|01|WWK|Halimar Depths
+CC|MAIN|C|NORM|01|01|WWK|Halimar Depths
 CC|MAIN|M|FOIL|01|01|V12|High Market
 CC|MAIN|R|NORM|01|01|ISD|Hinterland Harbor
 CC|MAIN|R|NORM|01|01|GTC|Illusionist's Bracers
@@ -124,9 +125,10 @@ CC|MAIN|U|NORM|01|01|CON|Reliquary Tower
 CC|MAIN|C|NORM|00|01|PCY/CMA|Rhystic Study
 CC|MAIN|R|NORM|01|01|ZEN|Scute Mob
 CC|MAIN|U|NORM|00|01|CHK|Sensei's Divining Top
-CC|MAIN|C|NORM|00|01|DIS/CMD|Simic Growth Chamber
+CC|MAIN|C|NORM|01|01|DIS/CMD|Simic Growth Chamber
 CC|MAIN|U|NORM|00|01|DIS|Simic Guildmage
-CC|MAIN|C|NORM|00|01|DIS/CMD|Simic Signet
+CC|MAIN|C|NORM|01|01|GTC|Simic Guildgate
+CC|MAIN|C|NORM|01|01|DIS/CMD|Simic Signet
 CC|MAIN|U|NORM|00|01|CMD|Sol Ring
 CC|MAIN|R|NORM|00|01|ALA|Spearbreaker Behemoth
 CC|MAIN|R|NORM|00|01|EXO/BRB|Spike Weaver
@@ -140,8 +142,6 @@ CC|MAIN|R|NORM|01|01|ROE|Training Grounds
 CC|MAIN|C|NORM|00|01|ONS/ARC/CMD/EVG/DDJ|Tranquil Thicket
 CC|MAIN|R|NORM|00|01|M11|Triskelion
 CC|MAIN|M|FOIL|01|01|V12|Vesuva
-CC|MAIN|U|NORM|00|01|LRW/CMD/HOP/H09|Vivid Creek
-CC|MAIN|U|NORM|01|01|FOO|Vivid Grove
 CC|MAIN|R|NORM|00|01|SHM|Woodfall Primus
 CC|MAIN|U|NORM|00|01|6ED/MIR|Worldly Tutor
 CC|MAIN|R|NORM|00|01|9ED/10E/APC|Yavimaya Coast
@@ -234,33 +234,33 @@ WW|SIDE|U|NORM|04|FOO|Brave the Elements
 WW|SIDE|U|NORM|02|FOO|Chalice of Life
 WW|SIDE|R|NORM|01|FOO|Proclamation of Rebirth
 WW|SIDE|R|NORM|01|FOO|Thalia, Guardian of Thraben
-TS|DECK|C|NORM|04|FOO|Ancient Den
-TS|DECK|R|NORM|01|FOO|Argentum Armor
-TS|DECK|C|NORM|04|FOO|Darksteel Citadel
-TS|DECK|M|NORM|00|FOO|Elbrus, the Binding Blade
-TS|DECK|U|NORM|03|FOO|Faith's Shield
-TS|DECK|C|NORM|03|FOO|Flayer Husk
-TS|DECK|R|NORM|01|FOO|Heartseeker
-TS|DECK|I|NORM|01|FOO|Infiltration Lens
-TS|DECK|U|NORM|04|FOO|Kor Duelist
-TS|DECK|C|NORM|03|FOO|Kor Outfitter
-TS|DECK|R|NORM|04|FOO|Leonin Shikari
-TS|DECK|U|NORM|01|FOO|Lightning Greaves
-TS|DECK|R|NORM|01|FOO|Mentor of the Meek
-TS|DECK|M|NORM|01|FOO|Mox Opal
-TS|DECK|C|NORM|14|FOO|Plains
-TS|DECK|R|NORM|01|FOO|Puresteel Paladin
-TS|DECK|R|NORM|04|FOO|Stoneforge Mystic
-TS|DECK|M|NORM|01|FOO|Sword of Feast and Famine
-TS|DECK|M|NORM|01|FOO|Sword of Fire and Ice
-TS|DECK|M|NORM|01|FOO|Sword of War and Peace
-TS|SIDE|C|NORM|04|FOO|Ardent Recruit
-TS|SIDE|R|NORM|01|FOO|Captain of the Watch
-TS|SIDE|U|NORM|01|FOO|Devout Chaplain
-TS|SIDE|U|NORM|04|FOO|Dispatch
-TS|SIDE|C|NORM|01|FOO|Flayer Husk
-TS|SIDE|U|FOIL|01|FOO|Kor Duelist
-TS|SIDE|C|NORM|01|FOO|Kor Outfitter
+TS|DECK|C|NORM|04|04|MRD|Ancient Den
+TS|DECK|R|NORM|01|01|SOM|Argentum Armor
+TS|DECK|C|NORM|04|04|DST|Darksteel Citadel
+TS|DECK|M|NORM|00|01|DKA|Elbrus, the Binding Blade
+TS|DECK|U|NORM|03|04|DKA|Faith's Shield
+TS|DECK|C|NORM|03|03|MBS|Flayer Husk
+TS|DECK|R|NORM|01|01|DST|Heartseeker
+TS|DECK|I|NORM|01|01|SOM|Infiltration Lens
+TS|DECK|U|NORM|04|04|ZEN|Kor Duelist
+TS|DECK|C|NORM|02|02|ZEN|Kor Outfitter
+TS|DECK|R|NORM|04|04|DST|Leonin Shikari
+TS|DECK|U|NORM|01|01|ARC|Lightning Greaves
+TS|DECK|R|NORM|01|04|ISD|Mentor of the Meek
+TS|DECK|M|NORM|01|01|SOM|Mox Opal
+TS|DECK|C|NORM|14|14|FOO|Plains
+TS|DECK|R|NORM|01|04|NPH|Puresteel Paladin
+TS|DECK|R|NORM|04|04|WWK|Stoneforge Mystic
+TS|DECK|M|NORM|01|01|MBS|Sword of Feast and Famine
+TS|DECK|M|NORM|01|01|DST|Sword of Fire and Ice
+TS|DECK|M|NORM|01|01|NPH|Sword of War and Peace
+TS|SIDE|C|NORM|04|04|FOO|Ardent Recruit
+TS|SIDE|R|NORM|01|01|FOO|Captain of the Watch
+TS|SIDE|U|NORM|01|01|FOO|Devout Chaplain
+TS|SIDE|U|NORM|04|04|FOO|Dispatch
+TS|SIDE|C|NORM|01|01|FOO|Flayer Husk
+TS|SIDE|M|NORM|01|01|FOO|Indomitable Archangel
+TS|SIDE|C|NORM|02|02|FOO|Kor Outfitter
 --|FREE|U|NORM|03|FOO|Abattoir Ghoul
 --|FREE|U|NORM|01|FOO|Abuna Acolyte
 --|FREE|U|NORM|02|FOO|Acid Web Spider
@@ -663,7 +663,6 @@ TS|SIDE|C|NORM|01|FOO|Kor Outfitter
 --|FREE|U|NORM|01|FOO|Ignite Disorder
 --|FREE|R|NORM|01|FOO|Immortal Coil
 --|FREE|U|NORM|01|FOO|Incremental Blight
---|FREE|M|NORM|01|FOO|Indomitable Archangel
 --|FREE|R|NORM|01|SOM|Inexorable Tide
 --|FREE|R|NORM|01|FOO|Infernal Kirin
 --|FREE|U|NORM|02|FOO|Inferno Trap
@@ -713,6 +712,7 @@ TS|SIDE|C|NORM|01|FOO|Kor Outfitter
 --|FREE|U|NORM|01|FOO|Knight of Dawn
 --|FREE|R|NORM|01|FOO|Knowledge Pool
 --|FREE|U|NORM|03|FOO|Kor Aeronaut
+--|FREE|U|FOIL|01|01|ZEN|Kor Duelist
 --|FREE|U|FOIL|01|FOO|Kor Skyfisher
 --|FREE|U|NORM|01|FOO|Krosan Verge
 --|FREE|R|NORM|02|FOO|Kuldotha Phoenix
@@ -790,7 +790,7 @@ TS|SIDE|C|NORM|01|FOO|Kor Outfitter
 --|FREE|U|NORM|02|FOO|Mindcrank
 --|FREE|U|NORM|01|FOO|Mindculling
 --|FREE|R|NORM|01|FOO|Mirari
---|FREE|U|NORM|03|FOO|Mirrodin's Core
+--|FREE|U|NORM|03|DST|Mirrodin's Core
 --|FREE|R|NORM|02|FOO|Mitotic Slime
 --|FREE|C|FOIL|01|FOO|Mizzium Skin
 --|FREE|U|NORM|01|FOO|Moan of the Unhallowed
@@ -1160,6 +1160,7 @@ TS|SIDE|C|NORM|01|FOO|Kor Outfitter
 --|FREE|U|NORM|02|FOO|Viridian Claw
 --|FREE|U|NORM|02|FOO|Viridian Revel
 --|FREE|U|NORM|02|FOO|Vital Splicer
+--|FREE|U|NORM|01|01|LRW|Vivid Grove
 --|FREE|U|NORM|01|GTC|Vitu-Ghazi Guildmage
 --|FREE|U|NORM|01|FOO|Vitu-Ghazi, the City-Tree
 --|FREE|U|NORM|01|FOO|Voices from the Void
