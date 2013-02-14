@@ -213,27 +213,26 @@ LF|DECK|R|NORM|01|FOO|Vampiric Tutor
 LF|DECK|R|NORM|01|FOO|Zur the Enchanter
 LF|DECK|U|NORM|02|FOO|Zuran Orb
 LF|SIDE|C|NORM|02|FOO|Grazing Gladehart
-WW|DECK|U|NORM|03|FOO|Ajani's Pridemate
-WW|DECK|R|NORM|00|FOO|Eiganjo Castle
-WW|DECK|M|NORM|01|FOO|Felidar Sovereign
-WW|DECK|R|NORM|03|FOO|Honor of the Pure
-WW|DECK|C|NORM|04|FOO|Kabira Crossroads
-WW|DECK|C|NORM|04|FOO|Martyr of Sands
-WW|DECK|R|NORM|01|FOO|Mikaeus, the Lunarch
-WW|DECK|U|NORM|02|FOO|Path to Exile
-WW|DECK|C|NORM|14|FOO|Plains
-WW|DECK|R|NORM|03|FOO|Proclamation of Rebirth
-WW|DECK|R|NORM|04|FOO|Ranger of Eos
-WW|DECK|R|NORM|01|FOO|Rune-Tail, Kitsune Ascendant
-WW|DECK|R|NORM|04|FOO|Serra Ascendant
-WW|DECK|C|NORM|04|FOO|Soul Warden
-WW|DECK|C|NORM|04|FOO|Soul's Attendant
-WW|DECK|R|NORM|04|FOO|Student of Warfare
-WW|DECK|M|NORM|02|FOO|Windbrisk Heights
-WW|SIDE|U|NORM|04|FOO|Brave the Elements
-WW|SIDE|U|NORM|02|FOO|Chalice of Life
-WW|SIDE|R|NORM|01|FOO|Proclamation of Rebirth
-WW|SIDE|R|NORM|01|FOO|Thalia, Guardian of Thraben
+WW|DECK|U|NORM|03|04|FOO|Ajani's Pridemate
+WW|DECK|R|NORM|00|01|FOO|Eiganjo Castle
+WW|DECK|M|NORM|01|01|FOO|Felidar Sovereign
+WW|DECK|R|NORM|03|03|FOO|Honor of the Pure
+WW|DECK|C|NORM|04|04|FOO|Kabira Crossroads
+WW|DECK|C|NORM|03|03|FOO|Martyr of Sands
+WW|DECK|R|NORM|01|01|FOO|Mikaeus, the Lunarch
+WW|DECK|U|NORM|02|03|FOO|Path to Exile
+WW|DECK|C|NORM|14|14|FOO|Plains
+WW|DECK|R|NORM|03|03|FOO|Proclamation of Rebirth
+WW|DECK|R|NORM|04|04|FOO|Ranger of Eos
+WW|DECK|R|NORM|01|01|FOO|Rune-Tail, Kitsune Ascendant
+WW|DECK|R|NORM|04|04|FOO|Serra Ascendant
+WW|DECK|C|NORM|04|04|FOO|Soul Warden
+WW|DECK|C|NORM|04|04|FOO|Soul's Attendant
+WW|DECK|R|NORM|04|04|FOO|Student of Warfare
+WW|DECK|M|NORM|02|02|FOO|Windbrisk Heights
+WW|SIDE|U|NORM|02|02|FOO|Chalice of Life
+WW|DECK|C|NORM|01|01|FOO|Martyr of Sands
+WW|SIDE|R|NORM|01|01|FOO|Proclamation of Rebirth
 TS|DECK|C|NORM|04|04|MRD|Ancient Den
 TS|DECK|R|NORM|01|01|SOM|Argentum Armor
 TS|DECK|C|NORM|04|04|DST|Darksteel Citadel
@@ -359,6 +358,7 @@ TS|SIDE|C|NORM|02|02|FOO|Kor Outfitter
 --|FREE|U|NORM|01|FOO|Bramblecrush
 --|FREE|U|NORM|01|FOO|Bramblesnap
 --|FREE|U|NORM|01|FOO|Brass Squire
+--|FREE|U|NORM|04|04|ZEN|Brave the Elements
 --|FREE|R|NORM|01|FOO|Brittle Effigy
 --|FREE|U|NORM|02|FOO|Broodwarden
 --|FREE|U|NORM|02|FOO|Brutalizer Exarch
@@ -1073,6 +1073,7 @@ TS|SIDE|C|NORM|02|02|FOO|Kor Outfitter
 --|FREE|U|NORM|02|FOO|Telepathy
 --|FREE|R|NORM|02|FOO|Tempered Steel
 --|FREE|R|NORM|02|FOO|Terastodon
+--|FREE|R|NORM|01|01|DKA|Thalia, Guardian of Thraben
 --|FREE|U|NORM|02|FOO|Thornscape Battlemage
 --|FREE|U|NORM|01|FOO|Thoughtflare
 --|FREE|U|NORM|01|FOO|Thoughtflare
