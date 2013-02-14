@@ -219,7 +219,7 @@ WW|DECK|M|NORM|01|FOO|Felidar Sovereign
 WW|DECK|R|NORM|03|FOO|Honor of the Pure
 WW|DECK|C|NORM|04|FOO|Kabira Crossroads
 WW|DECK|C|NORM|04|FOO|Martyr of Sands
-WW|DECK|R|NORM|00|FOO|Mikaeus, the Lunarch
+WW|DECK|R|NORM|01|FOO|Mikaeus, the Lunarch
 WW|DECK|U|NORM|02|FOO|Path to Exile
 WW|DECK|C|NORM|14|FOO|Plains
 WW|DECK|R|NORM|03|FOO|Proclamation of Rebirth
@@ -246,10 +246,10 @@ TS|DECK|U|NORM|04|04|ZEN|Kor Duelist
 TS|DECK|C|NORM|02|02|ZEN|Kor Outfitter
 TS|DECK|R|NORM|04|04|DST|Leonin Shikari
 TS|DECK|U|NORM|01|01|ARC|Lightning Greaves
-TS|DECK|R|NORM|01|04|ISD|Mentor of the Meek
+TS|DECK|R|NORM|02|04|ISD|Mentor of the Meek
 TS|DECK|M|NORM|01|01|SOM|Mox Opal
 TS|DECK|C|NORM|14|14|FOO|Plains
-TS|DECK|R|NORM|01|04|NPH|Puresteel Paladin
+TS|DECK|R|NORM|02|04|NPH|Puresteel Paladin
 TS|DECK|R|NORM|04|04|WWK|Stoneforge Mystic
 TS|DECK|M|NORM|01|01|MBS|Sword of Feast and Famine
 TS|DECK|M|NORM|01|01|DST|Sword of Fire and Ice
