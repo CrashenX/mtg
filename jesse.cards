@@ -20,36 +20,32 @@ BN|DECK|R|NORM|01|01|FOO|Terastodon
 BN|DECK|R|NORM|01|01|FOO|Ulamog, the Infinite Gyre
 BN|DECK|R|NORM|01|01|FOO|Vigor
 BN|SIDE|R|NORM|01|01|GTC|Sylvan Primordial
-MF|DECK|R|NORM|00|02|FOO|Aether Vial
-MF|DECK|R|NORM|01|02|FOO|Azami, Lady of Scrolls
-MF|DECK|R|NORM|03|04|FOO|Cavern of Souls
-MF|DECK|R|NORM|01|01|FOO|Glen Elendra Archmage
-MF|DECK|C|NORM|12|12|FOO|ISLAND
-MF|DECK|R|NORM|01|04|FOO|Master of the Pearl Trident
-MF|DECK|R|NORM|04|04|FOO|Merfolk Sovereign
-MF|DECK|U|NORM|01|01|FOO|Merrow Commerce
-MF|DECK|U|NORM|04|04|FOO|Merrow Reejerey
-MF|DECK|R|NORM|01|01|FOO|Minamo, School at Water's Edge
-MF|DECK|R|NORM|01|01|FOO|Miren, the Moaning Well
-MF|DECK|U|NORM|04|04|FOO|Puresight Merrow
-MF|DECK|U|NORM|01|01|FOO|Sage of Fables
-MF|DECK|U|NORM|04|04|FOO|Sage's Dousing
-MF|DECK|R|NORM|02|02|FOO|Sapphire Medallion
-MF|DECK|C|NORM|04|04|FOO|Saprazzan Skerry
-MF|DECK|U|NORM|03|03|FOO|Silvergill Adept
-MF|DECK|C|NORM|04|04|FOO|Stonybrook Banneret
-MF|DECK|U|NORM|01|01|FOO|Surgespanner
-MF|DECK|R|NORM|04|04|FOO|Wake Thrasher
-MF|SIDE|R|NORM|01|01|FOO|Glen Elendra Archmage
-MF|SIDE|C|NORM|02|02|FOO|Island
-MF|SIDE|R|NORM|01|01|FOO|Kira, Great Glass-Spinner
-MF|SIDE|R|NORM|02|02|FOO|Lord of Atlantis
-MF|SIDE|R|NORM|00|00|FOO|Master of the Pearl Trident
-MF|SIDE|R|NORM|01|01|FOO|Merfolk Sovereign
-MF|SIDE|R|NORM|01|01|FOO|Merrow Commerce
-MF|SIDE|U|NORM|03|03|FOO|Sage of Fables
-MF|SIDE|U|NORM|01|01|FOO|Silvergill Adept
-MF|SIDE|R|NORM|01|01|FOO|Surgespanner
+MF|DECK|R|NORM|00|02|DST|Aether Vial
+MF|DECK|R|NORM|01|02|CHK|Azami, Lady of Scrolls
+MF|DECK|R|NORM|03|04|AVR|Cavern of Souls
+MF|DECK|C|NORM|03|03|ISD|Hinterland Harbor
+MF|DECK|C|NORM|12|12|ZEN|ISLAND
+MF|DECK|R|NORM|02|04|TSP|Lord of Atlantis
+MF|DECK|R|NORM|01|04|M13|Master of the Pearl Trident
+MF|DECK|U|NORM|01|01|LRW|Merrow Commerce
+MF|DECK|U|NORM|04|04|LRW|Merrow Reejerey
+MF|DECK|R|NORM|01|01|CHK|Minamo, School at Water's Edge
+MF|DECK|R|NORM|01|01|SOK|Miren, the Moaning Well
+MF|DECK|R|NORM|00|03|M12|Phantasmal Image
+MF|DECK|M|NORM|00|01|GTC|Prime Speaker Zegana
+MF|DECK|U|NORM|04|04|MOR|Sage's Dousing
+MF|DECK|U|NORM|04|04|LOR|Silvergill Adept
+MF|DECK|C|NORM|04|04|MOR|Stonybrook Banneret
+MF|DECK|U|NORM|02|02|LOR|Surgespanner
+MF|DECK|R|NORM|04|04|EVE|Wake Thrasher
+MF|SIDE|R|NORM|02|02|EVE|Glen Elendra Archmage
+MF|SIDE|R|NORM|01|01|BOK|Kira, Great Glass-Spinner
+MF|SIDE|R|NORM|01|01|M10|Merfolk Sovereign
+MF|SIDE|R|NORM|03|03|M11|Merfolk Sovereign
+MF|SIDE|R|NORM|01|01|LRW|Merrow Commerce
+MF|SIDE|R|NORM|00|01|M12|Phantasmal Image
+MF|SIDE|U|NORM|04|04|SHM|Puresight Merrow
+MF|SIDE|U|NORM|04|04|MOR|Sage of Fables
 CC|MAIN|R|NORM|00|01|AVR|Alchemist's Refuge
 CC|MAIN|U|NORM|00|01|CON/H09|Ancient Ziggurat
 CC|MAIN|R|NORM|01|01|10E|Arcanis the Omnipotent
@@ -213,26 +209,27 @@ LF|DECK|R|NORM|01|FOO|Vampiric Tutor
 LF|DECK|R|NORM|01|FOO|Zur the Enchanter
 LF|DECK|U|NORM|02|FOO|Zuran Orb
 LF|SIDE|C|NORM|02|FOO|Grazing Gladehart
-WW|DECK|U|NORM|03|04|FOO|Ajani's Pridemate
-WW|DECK|R|NORM|00|01|FOO|Eiganjo Castle
-WW|DECK|M|NORM|01|01|FOO|Felidar Sovereign
-WW|DECK|R|NORM|03|03|FOO|Honor of the Pure
-WW|DECK|C|NORM|04|04|FOO|Kabira Crossroads
-WW|DECK|C|NORM|03|03|FOO|Martyr of Sands
-WW|DECK|R|NORM|01|01|FOO|Mikaeus, the Lunarch
-WW|DECK|U|NORM|02|03|FOO|Path to Exile
+WW|DECK|U|NORM|03|04|M11|Ajani's Pridemate
+WW|DECK|R|NORM|00|01|CHK|Eiganjo Castle
+WW|DECK|M|NORM|01|01|ZEN|Felidar Sovereign
+WW|DECK|R|NORM|03|03|M10|Honor of the Pure
+WW|DECK|C|NORM|04|04|ZEN|Kabira Crossroads
+WW|DECK|C|NORM|03|03|CSP|Martyr of Sands
+WW|DECK|R|NORM|01|01|ISD|Mikaeus, the Lunarch
+WW|DECK|U|NORM|02|03|CoN|Path to Exile
 WW|DECK|C|NORM|14|14|FOO|Plains
-WW|DECK|R|NORM|03|03|FOO|Proclamation of Rebirth
-WW|DECK|R|NORM|04|04|FOO|Ranger of Eos
-WW|DECK|R|NORM|01|01|FOO|Rune-Tail, Kitsune Ascendant
-WW|DECK|R|NORM|04|04|FOO|Serra Ascendant
-WW|DECK|C|NORM|04|04|FOO|Soul Warden
-WW|DECK|C|NORM|04|04|FOO|Soul's Attendant
-WW|DECK|R|NORM|04|04|FOO|Student of Warfare
-WW|DECK|M|NORM|02|02|FOO|Windbrisk Heights
-WW|SIDE|U|NORM|02|02|FOO|Chalice of Life
-WW|DECK|C|NORM|01|01|FOO|Martyr of Sands
-WW|SIDE|R|NORM|01|01|FOO|Proclamation of Rebirth
+WW|DECK|R|NORM|03|03|DIS|Proclamation of Rebirth
+WW|DECK|R|NORM|04|04|ALA|Ranger of Eos
+WW|DECK|R|NORM|01|01|SOK|Rune-Tail, Kitsune Ascendant
+WW|DECK|R|NORM|04|04|M11|Serra Ascendant
+WW|DECK|C|NORM|02|02|EXO|Soul Warden
+WW|DECK|C|NORM|02|02|M10|Soul Warden
+WW|DECK|C|NORM|04|04|ROE|Soul's Attendant
+WW|DECK|R|NORM|04|04|ROE|Student of Warfare
+WW|DECK|M|NORM|02|02|V12|Windbrisk Heights
+WW|SIDE|U|NORM|02|02|DKA|Chalice of Life
+WW|DECK|C|NORM|01|01|CSP|Martyr of Sands
+WW|SIDE|R|NORM|01|01|DIS|Proclamation of Rebirth
 TS|DECK|C|NORM|04|04|MRD|Ancient Den
 TS|DECK|R|NORM|01|01|SOM|Argentum Armor
 TS|DECK|C|NORM|04|04|DST|Darksteel Citadel
@@ -953,7 +950,9 @@ TS|SIDE|C|NORM|02|02|FOO|Kor Outfitter
 --|FREE|R|NORM|01|FOO|Sadistic Sacrament
 --|FREE|U|NORM|01|FOO|Sanguine Guard
 --|FREE|U|NORM|01|GTC|Sapphire Drake
+--|FREE|R|NORM|02|01|TMP|Sapphire Medallion
 --|FREE|U|NORM|04|FOO|Saprazzan Cove
+--|DECK|C|NORM|04|01|MMQ|Saprazzan Skerry
 --|FREE|U|NORM|02|FOO|Savage Lands
 --|FREE|U|NORM|01|FOO|Savage Surge
 --|FREE|U|NORM|01|FOO|Savage Surge
