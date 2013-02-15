@@ -20,32 +20,34 @@ BN|DECK|R|NORM|01|01|FOO|Terastodon
 BN|DECK|R|NORM|01|01|FOO|Ulamog, the Infinite Gyre
 BN|DECK|R|NORM|01|01|FOO|Vigor
 BN|SIDE|R|NORM|01|01|GTC|Sylvan Primordial
-MF|DECK|R|NORM|00|02|DST|Aether Vial
-MF|DECK|R|NORM|01|02|CHK|Azami, Lady of Scrolls
+MF|DECK|R|NORM|00|03|DST|Aether Vial
+MF|DECK|R|NORM|01|03|CHK|Azami, Lady of Scrolls
 MF|DECK|R|NORM|03|04|AVR|Cavern of Souls
-MF|DECK|C|NORM|03|03|ISD|Hinterland Harbor
-MF|DECK|C|NORM|12|12|ZEN|ISLAND
-MF|DECK|R|NORM|02|04|TSP|Lord of Atlantis
+MF|DECK|U|NORM|00|04|SHM|Cursecatcher
+MF|DECK|C|NORM|10|10|ZEN|ISLAND
 MF|DECK|R|NORM|01|04|M13|Master of the Pearl Trident
+MF|SIDE|R|NORM|02|02|M11|Merfolk Sovereign
 MF|DECK|U|NORM|01|01|LRW|Merrow Commerce
 MF|DECK|U|NORM|04|04|LRW|Merrow Reejerey
 MF|DECK|R|NORM|01|01|CHK|Minamo, School at Water's Edge
 MF|DECK|R|NORM|01|01|SOK|Miren, the Moaning Well
+MF|DECK|R|NORM|00|04|MOR|Mutavault
 MF|DECK|R|NORM|00|03|M12|Phantasmal Image
-MF|DECK|M|NORM|00|01|GTC|Prime Speaker Zegana
-MF|DECK|U|NORM|04|04|MOR|Sage's Dousing
+MF|DECK|U|NORM|02|02|MOR|Sage's Dousing
 MF|DECK|U|NORM|04|04|LOR|Silvergill Adept
+MF|DECK|C|NORM|02|02|ZEN|Spell Pierce
 MF|DECK|C|NORM|04|04|MOR|Stonybrook Banneret
-MF|DECK|U|NORM|02|02|LOR|Surgespanner
-MF|DECK|R|NORM|04|04|EVE|Wake Thrasher
-MF|SIDE|R|NORM|02|02|EVE|Glen Elendra Archmage
+MF|DECK|U|NORM|01|01|LOR|Surgespanner
+MF|DECK|R|NORM|03|03|EVE|Wake Thrasher
 MF|SIDE|R|NORM|01|01|BOK|Kira, Great Glass-Spinner
+MF|SIDE|R|NORM|02|04|TSP|Lord of Atlantis
 MF|SIDE|R|NORM|01|01|M10|Merfolk Sovereign
-MF|SIDE|R|NORM|03|03|M11|Merfolk Sovereign
+MF|SIDE|R|NORM|01|01|M11|Merfolk Sovereign
 MF|SIDE|R|NORM|01|01|LRW|Merrow Commerce
 MF|SIDE|R|NORM|00|01|M12|Phantasmal Image
-MF|SIDE|U|NORM|04|04|SHM|Puresight Merrow
-MF|SIDE|U|NORM|04|04|MOR|Sage of Fables
+MF|SIDE|U|NORM|02|02|MOR|Sage's Dousing
+MF|DECK|U|NORM|01|01|LOR|Surgespanner
+MF|SIDE|R|NORM|01|01|EVE|Wake Thrasher
 CC|MAIN|R|NORM|00|01|AVR|Alchemist's Refuge
 CC|MAIN|U|NORM|00|01|CON/H09|Ancient Ziggurat
 CC|MAIN|R|NORM|01|01|10E|Arcanis the Omnipotent
@@ -142,6 +144,7 @@ CC|MAIN|R|NORM|00|01|SHM|Woodfall Primus
 CC|MAIN|U|NORM|00|01|6ED/MIR|Worldly Tutor
 CC|MAIN|R|NORM|00|01|9ED/10E/APC|Yavimaya Coast
 CC|MAIN|R|NORM|00|01|UDS|Yavimaya Hollow
+CC|SIDE|M|NORM|00|01|GTC|Prime Speaker Zegana
 GW|DECK|R|NORM|03|FOO|Armageddon
 GW|DECK|M|NORM|01|FOO|Batterskull
 GW|DECK|R|NORM|04|FOO|Birds of Paradise
@@ -574,6 +577,7 @@ TS|SIDE|C|NORM|02|02|FOO|Kor Outfitter
 --|FREE|M|FOIL|01|FOO|Glacial Chasm
 --|FREE|R|NORM|01|FOO|Glacial Fortress
 --|FREE|U|NORM|01|FOO|Glasses of Urza
+--|FREE|R|NORM|02|02|EVE|Glen Elendra Archmage
 --|FREE|U|NORM|06|FOO|Glimmerpoint Stag
 --|FREE|C|FOIL|01|FOO|Glimmerpost
 --|FREE|R|NORM|01|FOO|Glistening Oil
@@ -888,6 +892,7 @@ TS|SIDE|C|NORM|02|02|FOO|Kor Outfitter
 --|FREE|U|NORM|05|FOO|Prodigal Pyromancer
 --|FREE|U|NORM|04|FOO|Punishing Fire
 --|FREE|U|NORM|02|FOO|Puppet Strings
+--|FREE|U|NORM|04|04|SHM|Puresight Merrow
 --|FREE|R|FOIL|01|FOO|Putrefax
 --|FREE|U|NORM|01|FOO|Pyroclasm
 --|FREE|R|NORM|02|FOO|Pyromancer Ascension
@@ -948,6 +953,7 @@ TS|SIDE|C|NORM|02|02|FOO|Kor Outfitter
 --|FREE|U|NORM|02|FOO|Rusted Relic
 --|FREE|R|FOIL|01|FOO|Sadistic Sacrament
 --|FREE|R|NORM|01|FOO|Sadistic Sacrament
+--|FREE|U|NORM|04|04|MOR|Sage of Fables
 --|FREE|U|NORM|01|FOO|Sanguine Guard
 --|FREE|U|NORM|01|GTC|Sapphire Drake
 --|FREE|R|NORM|02|01|TMP|Sapphire Medallion
