@@ -15,7 +15,7 @@ BN|MAIN|R|NORM|01|01|FOO|Platinum Emperion
 BN|MAIN|R|NORM|03|04|FOO|Primeval Titan
 BN|MAIN|R|NORM|03|04|FOO|Summoning Trap
 BN|MAIN|R|NORM|01|01|FOO|Sundering Titan
-BN|MAIN|R|NORM|04|04|FOO|Tectonic Edge
+BN|MAIN|R|NORM|04|04|WWK|Tectonic Edge
 BN|MAIN|R|NORM|01|01|FOO|Terastodon
 BN|MAIN|R|NORM|01|01|FOO|Ulamog, the Infinite Gyre
 BN|MAIN|R|NORM|01|01|FOO|Vigor
@@ -48,103 +48,103 @@ MF|SIDE|R|NORM|00|01|M12|Phantasmal Image
 MF|SIDE|U|NORM|02|02|MOR|Sage's Dousing
 MF|SIDE|U|NORM|01|01|LOR|Surgespanner
 MF|SIDE|R|NORM|01|01|EVE|Wake Thrasher
-CC|MAIN|R|NORM|00|01|AVR|Alchemist's Refuge
-CC|MAIN|U|NORM|00|01|CON/H09|Ancient Ziggurat
-CC|MAIN|R|NORM|01|01|10E|Arcanis the Omnipotent
-CC|MAIN|R|NORM|01|01|SOM|Asceticism
-CC|MAIN|C|NORM|01|01|GTC|Bioshift
-CC|MAIN|R|NORM|00|01|MBS|Blue Sun's Zenith
-CC|MAIN|C|NORM|01|01|ICE|Brainstorm
-CC|MAIN|R|NORM|01|01|GTC|Breeding Pool
-CC|MAIN|R|NORM|00|01|STH|Burgeoning
-CC|MAIN|R|NORM|00|01|SHM|Cauldron of Souls
-CC|MAIN|M|FOIL|01|01|V12|Cephalid Coliseum
-CC|MAIN|R|NORM|00|01|RTR|Chromatic Lantern
-CC|MAIN|C|NORM|00|01|TSP|Clockspinning
-CC|MAIN|R|NORM|00|01|EVE|Cold-Eyed Selkie
-CC|MAIN|C|NORM|00|01|CMD/CMA|Command Tower
-CC|MAIN|M|NORM|00|01|MBS|Consecrated Sphinx
-CC|MAIN|R|NORM|00|01|DST|Darksteel Reactor
-CC|MAIN|R|NORM|01|01|RTR|Death's Presence
-CC|MAIN|R|NORM|00|01|ULG|Defense of the Heart
-CC|MAIN|C|NORM|00|01|SHM|Devoted Druid
-CC|MAIN|R|NORM|00|01|RAV|Doubling Season
-CC|MAIN|R|NORM|01|01|TMP|Earthcraft
-CC|MAIN|R|NORM|00|01|DIS|Evolution Vat
-CC|MAIN|R|NORM|00|01|DIS|Experiment Kraj
-CC|MAIN|R|NORM|01|01|CON|Exotic Orchard
-CC|MAIN|R|NORM|01|01|USG|Exploration
-CC|MAIN|R|NORM|01|01|GTC|Fathom Mage
-CC|MAIN|C|NORM|01|01|FOO|Fertilid
-CC|MAIN|R|NORM|00|01|EVE|Flooded Grove
-CC|MAIN|U|NORM|00|01|EXO|Forbid
-CC|MAIN|M|FOIL|01|01|V12|Forbidden Orchard
-CC|MAIN|C|NORM|04|04|ZEN|Forest
-CC|MAIN|R|NORM|00|01|SCG/DPA/HOP|Forgotten Ancient
-CC|MAIN|U|NORM|01|01|EVE|Gilder Bairn
-CC|MAIN|R|NORM|00|01|MBS|Green Sun's Zenith
-CC|MAIN|R|NORM|00|01|GTC|Gyre Sage
-CC|MAIN|C|NORM|01|01|WWK|Halimar Depths
-CC|MAIN|M|FOIL|01|01|V12|High Market
-CC|MAIN|R|NORM|01|01|ISD|Hinterland Harbor
-CC|MAIN|R|NORM|01|01|GTC|Illusionist's Bracers
-CC|MAIN|R|NORM|00|01|DKA|Increasing Savagery
-CC|MAIN|R|NORM|01|01|SOM|Inexorable Tide
-CC|MAIN|C|NORM|01|01|ZEN|Island
-CC|MAIN|U|NORM|01|01|SHM|Leech Bonder
-CC|MAIN|U|NORM|01|01|FOO|Lightning Greaves
-CC|MAIN|U|NORM|01|01|ARC|Llanowar Reborn
-CC|MAIN|C|NORM|00|01|FOO|Lonely Sandbar
-CC|MAIN|U|NORM|00|01|ARB|Lorescale Coatl
-CC|MAIN|R|NORM|00|01|MMQ|Magistrate's Scepter
-CC|MAIN|M|NORM|01|01|GTC|Master Biomancer
-CC|MAIN|R|NORM|00|01|SOK|Mikokoro, Center of the Sea
-CC|MAIN|R|NORM|00|01|CHK|Minamo, School at Water's Edge
-CC|MAIN|R|NORM|00|01|MRD/CMA|Mind's Eye
-CC|MAIN|U|NORM|01|01|DST|Mirrodin's Core
-CC|MAIN|R|NORM|00|01|ROE|Momentous Fall
-CC|MAIN|R|NORM|00|01|DIS|Momir Vig, Simic Visionary
-CC|MAIN|R|NORM|00|01|SHM|Mossbridge Troll
-CC|MAIN|R|NORM|01|01|FOO|Mosswort Bridge
-CC|MAIN|U|NORM|00|01|V09/MIR/6ED|Mystical Tutor
-CC|MAIN|R|NORM|00|01|M11|Mystifying Maze
-CC|MAIN|U|NORM|01|01|DIS|Novijen, Heart of Progress
-CC|MAIN|R|NORM|00|01|CHK|Okina, Temple to the Grandfathers
-CC|MAIN|R|NORM|00|01|ZEN|Oran-Rief, the Vastwood
-CC|MAIN|U|NORM|00|01|CHK/DDJ|Overwhelming Intellect
-CC|MAIN|U|NORM|01|01|5DN|Paradise Mantle
-CC|MAIN|U|NORM|01|01|DIS|Plaxcaster Frogling
-CC|MAIN|M|NORM|00|01|MBS|Praetor's Counsel
-CC|MAIN|M|NORM|01|01|M13|Primordial Hydra
-CC|MAIN|U|NORM|01|01|TMP|Propaganda
-CC|MAIN|R|NORM|01|01|M11|Protean Hydra
-CC|MAIN|U|NORM|01|01|M13|Rancor
-CC|MAIN|U|NORM|01|01|CON|Reliquary Tower
-CC|MAIN|C|NORM|00|01|PCY/CMA|Rhystic Study
-CC|MAIN|R|NORM|01|01|ZEN|Scute Mob
-CC|MAIN|U|NORM|00|01|CHK|Sensei's Divining Top
-CC|MAIN|C|NORM|01|01|DIS/CMD|Simic Growth Chamber
-CC|MAIN|U|NORM|00|01|DIS|Simic Guildmage
-CC|MAIN|C|NORM|01|01|GTC|Simic Guildgate
-CC|MAIN|C|NORM|01|01|DIS/CMD|Simic Signet
-CC|MAIN|U|NORM|00|01|CMD|Sol Ring
-CC|MAIN|R|NORM|00|01|ALA|Spearbreaker Behemoth
-CC|MAIN|R|NORM|00|01|EXO/BRB|Spike Weaver
-CC|MAIN|U|NORM|00|01|CMD|Temple of the False God
-CC|MAIN|M|NORM|00|01|CON|Thornling
-CC|MAIN|R|NORM|00|01|LRW|Thousand-Year Elixir
-CC|MAIN|R|NORM|00|01|USG|Thran Quarry
-CC|MAIN|U|NORM|00|01|FUT|Tolaria West
-CC|MAIN|R|NORM|00|01|CMD/ONS|Trade Secrets
-CC|MAIN|R|NORM|01|01|ROE|Training Grounds
-CC|MAIN|C|NORM|00|01|ONS/ARC/CMD/EVG/DDJ|Tranquil Thicket
-CC|MAIN|R|NORM|00|01|M11|Triskelion
-CC|MAIN|M|FOIL|01|01|V12|Vesuva
-CC|MAIN|R|NORM|00|01|SHM|Woodfall Primus
-CC|MAIN|U|NORM|00|01|6ED/MIR|Worldly Tutor
-CC|MAIN|R|NORM|00|01|9ED/10E/APC|Yavimaya Coast
-CC|MAIN|R|NORM|00|01|UDS|Yavimaya Hollow
-CC|SIDE|M|NORM|00|01|GTC|Prime Speaker Zegana
+CC|DECK|R|NORM|00|01|AVR|Alchemist's Refuge
+CC|DECK|U|NORM|00|01|CON/H09|Ancient Ziggurat
+CC|DECK|R|NORM|01|01|10E|Arcanis the Omnipotent
+CC|DECK|R|NORM|01|01|SOM|Asceticism
+CC|DECK|C|NORM|01|01|GTC|Bioshift
+CC|DECK|R|NORM|00|01|MBS|Blue Sun's Zenith
+CC|DECK|C|NORM|01|01|ICE|Brainstorm
+CC|DECK|R|NORM|01|01|GTC|Breeding Pool
+CC|DECK|R|NORM|00|01|STH|Burgeoning
+CC|DECK|R|NORM|00|01|SHM|Cauldron of Souls
+CC|DECK|M|FOIL|01|01|V12|Cephalid Coliseum
+CC|DECK|R|NORM|00|01|RTR|Chromatic Lantern
+CC|DECK|C|NORM|00|01|TSP|Clockspinning
+CC|DECK|R|NORM|00|01|EVE|Cold-Eyed Selkie
+CC|DECK|C|NORM|00|01|CMD/CMA|Command Tower
+CC|DECK|M|NORM|00|01|MBS|Consecrated Sphinx
+CC|DECK|R|NORM|00|01|DST|Darksteel Reactor
+CC|DECK|R|NORM|01|01|RTR|Death's Presence
+CC|DECK|R|NORM|00|01|ULG|Defense of the Heart
+CC|DECK|C|NORM|00|01|SHM|Devoted Druid
+CC|DECK|R|NORM|00|01|RAV|Doubling Season
+CC|DECK|R|NORM|01|01|TMP|Earthcraft
+CC|DECK|R|NORM|00|01|DIS|Evolution Vat
+CC|DECK|R|NORM|00|01|DIS|Experiment Kraj
+CC|DECK|R|NORM|01|01|CON|Exotic Orchard
+CC|DECK|R|NORM|01|01|USG|Exploration
+CC|DECK|R|NORM|01|01|GTC|Fathom Mage
+CC|DECK|C|NORM|01|01|FOO|Fertilid
+CC|DECK|R|NORM|00|01|EVE|Flooded Grove
+CC|DECK|U|NORM|00|01|EXO|Forbid
+CC|DECK|M|FOIL|01|01|V12|Forbidden Orchard
+CC|DECK|C|NORM|04|04|ZEN|Forest
+CC|DECK|R|NORM|00|01|SCG/DPA/HOP|Forgotten Ancient
+CC|DECK|U|NORM|01|01|EVE|Gilder Bairn
+CC|DECK|R|NORM|00|01|MBS|Green Sun's Zenith
+CC|DECK|R|NORM|00|01|GTC|Gyre Sage
+CC|DECK|C|NORM|01|01|WWK|Halimar Depths
+CC|DECK|M|FOIL|01|01|V12|High Market
+CC|DECK|R|NORM|01|01|ISD|Hinterland Harbor
+CC|DECK|R|NORM|01|01|GTC|Illusionist's Bracers
+CC|DECK|R|NORM|00|01|DKA|Increasing Savagery
+CC|DECK|R|NORM|01|01|SOM|Inexorable Tide
+CC|DECK|C|NORM|01|01|ZEN|Island
+CC|DECK|U|NORM|01|01|SHM|Leech Bonder
+CC|DECK|U|NORM|01|01|FOO|Lightning Greaves
+CC|DECK|U|NORM|01|01|ARC|Llanowar Reborn
+CC|DECK|C|NORM|00|01|FOO|Lonely Sandbar
+CC|DECK|U|NORM|00|01|ARB|Lorescale Coatl
+CC|DECK|R|NORM|00|01|MMQ|Magistrate's Scepter
+CC|DECK|M|NORM|01|01|GTC|Master Biomancer
+CC|DECK|R|NORM|00|01|SOK|Mikokoro, Center of the Sea
+CC|DECK|R|NORM|00|01|CHK|Minamo, School at Water's Edge
+CC|DECK|R|NORM|00|01|MRD/CMA|Mind's Eye
+CC|DECK|U|NORM|01|01|DST|Mirrodin's Core
+CC|DECK|R|NORM|00|01|ROE|Momentous Fall
+CC|DECK|R|NORM|00|01|DIS|Momir Vig, Simic Visionary
+CC|DECK|R|NORM|00|01|SHM|Mossbridge Troll
+CC|DECK|R|NORM|01|01|FOO|Mosswort Bridge
+CC|DECK|U|NORM|00|01|V09/MIR/6ED|Mystical Tutor
+CC|DECK|R|NORM|00|01|M11|Mystifying Maze
+CC|DECK|U|NORM|01|01|DIS|Novijen, Heart of Progress
+CC|DECK|R|NORM|00|01|CHK|Okina, Temple to the Grandfathers
+CC|DECK|R|NORM|00|01|ZEN|Oran-Rief, the Vastwood
+CC|DECK|U|NORM|00|01|CHK/DDJ|Overwhelming Intellect
+CC|DECK|U|NORM|01|01|5DN|Paradise Mantle
+CC|DECK|U|NORM|01|01|DIS|Plaxcaster Frogling
+CC|DECK|M|NORM|00|01|MBS|Praetor's Counsel
+CC|DECK|M|NORM|01|01|M13|Primordial Hydra
+CC|DECK|U|NORM|01|01|TMP|Propaganda
+CC|DECK|R|NORM|01|01|M11|Protean Hydra
+CC|DECK|U|NORM|01|01|M13|Rancor
+CC|DECK|U|NORM|01|01|CON|Reliquary Tower
+CC|DECK|C|NORM|00|01|PCY/CMA|Rhystic Study
+CC|DECK|R|NORM|01|01|ZEN|Scute Mob
+CC|DECK|U|NORM|00|01|CHK|Sensei's Divining Top
+CC|DECK|C|NORM|01|01|DIS/CMD|Simic Growth Chamber
+CC|DECK|U|NORM|00|01|DIS|Simic Guildmage
+CC|DECK|C|NORM|01|01|GTC|Simic Guildgate
+CC|DECK|C|NORM|01|01|DIS/CMD|Simic Signet
+CC|DECK|U|NORM|00|01|CMD|Sol Ring
+CC|DECK|R|NORM|00|01|ALA|Spearbreaker Behemoth
+CC|DECK|R|NORM|00|01|EXO/BRB|Spike Weaver
+CC|DECK|U|NORM|00|01|CMD|Temple of the False God
+CC|DECK|M|NORM|00|01|CON|Thornling
+CC|DECK|R|NORM|00|01|LRW|Thousand-Year Elixir
+CC|DECK|R|NORM|00|01|USG|Thran Quarry
+CC|DECK|U|NORM|00|01|FUT|Tolaria West
+CC|DECK|R|NORM|00|01|CMD/ONS|Trade Secrets
+CC|DECK|R|NORM|01|01|ROE|Training Grounds
+CC|DECK|C|NORM|00|01|ONS/ARC/CMD/EVG/DDJ|Tranquil Thicket
+CC|DECK|R|NORM|00|01|M11|Triskelion
+CC|DECK|M|FOIL|01|01|V12|Vesuva
+CC|DECK|R|NORM|00|01|SHM|Woodfall Primus
+CC|DECK|U|NORM|00|01|6ED/MIR|Worldly Tutor
+CC|DECK|R|NORM|00|01|9ED/10E/APC|Yavimaya Coast
+CC|DECK|R|NORM|00|01|UDS|Yavimaya Hollow
+CC|DECK|M|NORM|00|01|GTC|Prime Speaker Zegana
 GW|MAIN|R|NORM|03|03|FOO|Armageddon
 GW|MAIN|M|NORM|01|01|FOO|Batterskull
 GW|MAIN|R|NORM|04|04|FOO|Birds of Paradise
@@ -152,7 +152,7 @@ GW|MAIN|R|NORM|01|01|FOO|Dauntless Escort
 GW|MAIN|M|FOIL|01|01|FOO|Dryad Arbor
 GW|MAIN|U|NORM|01|01|FOO|Enlightened Tutor
 GW|MAIN|U|NORM|01|01|FOO|Eternal Witness
-GW|MAIN|R|NORM|01|01|FOO|Flagstones of Trokair
+GW|MAIN|R|NORM|01|02|FOO|Flagstones of Trokair
 GW|MAIN|C|NORM|07|07|FOO|Forest
 GW|MAIN|M|FOIL|01|01|FOO|Glacial Chasm
 GW|MAIN|R|NORM|04|04|MBS|Green Sun's Zenith
@@ -167,6 +167,7 @@ GW|MAIN|C|NORM|03|03|FOO|Plains
 GW|MAIN|C|NORM|02|02|FOO|Qasali Pridemage
 GW|MAIN|U|NORM|01|01|FOO|Riftstone Portal
 GW|MAIN|R|NORM|01|01|FOO|Scavenging Ooze
+GW|MAIN|U|NORM|00|01|TSP|Scryb Ranger
 GW|MAIN|C|NORM|01|01|FOO|Sejiri Steppe
 GW|MAIN|R|NORM|03|03|FOO|Sunpetal Grove
 GW|MAIN|U|NORM|04|04|FOO|Swords to Plowshares
@@ -175,6 +176,9 @@ GW|MAIN|R|NORM|01|01|FOO|Sylvan Safekeeper
 GW|MAIN|R|NORM|00|00|FOO|Temple Garden
 GW|MAIN|R|NORM|01|01|FOO|Terravore
 GW|MAIN|M|NORM|01|01|V12|Vesuva
+GW|MAIN|R|NORM|00|04|3ED|Savannah
+GW|MAIN|U|NORM|00|01|LEG|Karakas
+GW|MAIN|U|NORM|00|04|TMP|Wasteland
 GW|SIDE|U|NORM|01|01|FOO|Dryad Militant
 GW|SIDE|R|NORM|01|01|FOO|Gaddock Teeg
 GW|SIDE|R|NORM|01|01|FOO|Limited Resources
@@ -231,6 +235,7 @@ WW|MAIN|C|NORM|04|04|ROE|Soul's Attendant
 WW|MAIN|R|NORM|04|04|ROE|Student of Warfare
 WW|MAIN|M|NORM|02|02|V12|Windbrisk Heights
 WW|SIDE|U|NORM|02|02|DKA|Chalice of Life
+WW|SIDE|R|NORM|00|04|ISD|Champion of the Parish
 WW|SIDE|C|NORM|01|01|CSP|Martyr of Sands
 WW|SIDE|R|NORM|01|01|DIS|Proclamation of Rebirth
 TS|MAIN|C|NORM|04|04|MRD|Ancient Den
@@ -255,6 +260,7 @@ TS|MAIN|M|NORM|01|01|DST|Sword of Fire and Ice
 TS|MAIN|M|NORM|01|01|NPH|Sword of War and Peace
 TS|SIDE|C|NORM|04|04|FOO|Ardent Recruit
 TS|SIDE|R|NORM|01|01|FOO|Captain of the Watch
+TS|SIDE|R|NORM|00|01|MBS|Darksteel Plate
 TS|SIDE|U|NORM|01|01|FOO|Devout Chaplain
 TS|SIDE|U|NORM|04|04|FOO|Dispatch
 TS|SIDE|C|NORM|01|01|FOO|Flayer Husk
@@ -840,6 +846,7 @@ TS|SIDE|C|NORM|02|02|FOO|Kor Outfitter
 --|FREE|R|NORM|01|00|GTC|Ooze Flux
 --|FREE|R|NORM|01|00|FOO|Oracle of Mul Daya
 --|FREE|U|NORM|01|00|FOO|Order of Yawgmoth
+--|FREE|U|NORM|00|04|GPT|Order of the Stars
 --|FREE|U|NORM|01|00|GTC|Ordruun Veteran
 --|FREE|U|NORM|06|00|FOO|Ornithopter
 --|FREE|U|NORM|01|00|GTC|Orzhov Charm
@@ -1073,6 +1080,7 @@ TS|SIDE|C|NORM|02|02|FOO|Kor Outfitter
 --|FREE|R|NORM|01|00|FOO|Talus Paladin
 --|FREE|U|NORM|06|00|FOO|Tangle Angler
 --|FREE|U|NORM|01|00|FOO|Tavern Swindler
+--|FREE|U|NORM|00|04|WWK|Tectonic Edge
 --|FREE|R|NORM|01|00|FOO|Teferi's Imp
 --|FREE|R|NORM|01|00|FOO|Telemin Performance
 --|FREE|U|NORM|02|00|FOO|Telepathy
