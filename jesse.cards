@@ -1,44 +1,44 @@
-BN|DECK|R|NORM|03|03|FOO|Cultivate
-BN|DECK|R|NORM|01|04|FOO|Eldrazi Temple
-BN|DECK|R|NORM|01|01|FOO|Emrakul, the Aeons Torn
-BN|DECK|R|NORM|02|02|FOO|Everflowing Chalice
-BN|DECK|R|NORM|03|03|FOO|Explore
-BN|DECK|R|NORM|01|01|FOO|Eye of Ugin
-BN|DECK|R|NORM|13|13|FOO|Forest
-BN|DECK|R|NORM|02|02|FOO|Growth Spasm
-BN|DECK|R|NORM|04|04|FOO|Khalni Garden
-BN|DECK|R|NORM|00|01|FOO|Kozilek, Butcher of Truth
-BN|DECK|R|NORM|04|04|FOO|Llanowar Elves
-BN|DECK|R|NORM|01|01|M11|Mystifying Maze
-BN|DECK|R|NORM|04|04|FOO|Overgrown Battlement
-BN|DECK|R|NORM|01|01|FOO|Platinum Emperion
-BN|DECK|R|NORM|03|04|FOO|Primeval Titan
-BN|DECK|R|NORM|03|04|FOO|Summoning Trap
-BN|DECK|R|NORM|01|01|FOO|Sundering Titan
-BN|DECK|R|NORM|04|04|FOO|Tectonic Edge
-BN|DECK|R|NORM|01|01|FOO|Terastodon
-BN|DECK|R|NORM|01|01|FOO|Ulamog, the Infinite Gyre
-BN|DECK|R|NORM|01|01|FOO|Vigor
+BN|MAIN|R|NORM|03|03|FOO|Cultivate
+BN|MAIN|R|NORM|01|04|FOO|Eldrazi Temple
+BN|MAIN|R|NORM|01|01|FOO|Emrakul, the Aeons Torn
+BN|MAIN|R|NORM|02|02|FOO|Everflowing Chalice
+BN|MAIN|R|NORM|03|03|FOO|Explore
+BN|MAIN|R|NORM|01|01|FOO|Eye of Ugin
+BN|MAIN|R|NORM|13|13|FOO|Forest
+BN|MAIN|R|NORM|02|02|FOO|Growth Spasm
+BN|MAIN|R|NORM|04|04|FOO|Khalni Garden
+BN|MAIN|R|NORM|00|01|FOO|Kozilek, Butcher of Truth
+BN|MAIN|R|NORM|04|04|FOO|Llanowar Elves
+BN|MAIN|R|NORM|01|01|M11|Mystifying Maze
+BN|MAIN|R|NORM|04|04|FOO|Overgrown Battlement
+BN|MAIN|R|NORM|01|01|FOO|Platinum Emperion
+BN|MAIN|R|NORM|03|04|FOO|Primeval Titan
+BN|MAIN|R|NORM|03|04|FOO|Summoning Trap
+BN|MAIN|R|NORM|01|01|FOO|Sundering Titan
+BN|MAIN|R|NORM|04|04|FOO|Tectonic Edge
+BN|MAIN|R|NORM|01|01|FOO|Terastodon
+BN|MAIN|R|NORM|01|01|FOO|Ulamog, the Infinite Gyre
+BN|MAIN|R|NORM|01|01|FOO|Vigor
 BN|SIDE|R|NORM|01|01|GTC|Sylvan Primordial
-MF|DECK|R|NORM|00|03|DST|Aether Vial
-MF|DECK|R|NORM|01|03|CHK|Azami, Lady of Scrolls
-MF|DECK|R|NORM|03|04|AVR|Cavern of Souls
-MF|DECK|U|NORM|00|04|SHM|Cursecatcher
-MF|DECK|C|NORM|10|10|ZEN|ISLAND
-MF|DECK|R|NORM|01|04|M13|Master of the Pearl Trident
-MF|SIDE|R|NORM|02|02|M11|Merfolk Sovereign
-MF|DECK|U|NORM|01|01|LRW|Merrow Commerce
-MF|DECK|U|NORM|04|04|LRW|Merrow Reejerey
-MF|DECK|R|NORM|01|01|CHK|Minamo, School at Water's Edge
-MF|DECK|R|NORM|01|01|SOK|Miren, the Moaning Well
-MF|DECK|R|NORM|00|04|MOR|Mutavault
-MF|DECK|R|NORM|00|03|M12|Phantasmal Image
-MF|DECK|U|NORM|02|02|MOR|Sage's Dousing
-MF|DECK|U|NORM|04|04|LOR|Silvergill Adept
-MF|DECK|C|NORM|02|02|ZEN|Spell Pierce
-MF|DECK|C|NORM|04|04|MOR|Stonybrook Banneret
-MF|DECK|U|NORM|01|01|LOR|Surgespanner
-MF|DECK|R|NORM|03|03|EVE|Wake Thrasher
+MF|MAIN|R|NORM|00|03|DST|Aether Vial
+MF|MAIN|R|NORM|01|03|CHK|Azami, Lady of Scrolls
+MF|MAIN|R|NORM|03|04|AVR|Cavern of Souls
+MF|MAIN|U|NORM|00|04|SHM|Cursecatcher
+MF|MAIN|C|NORM|10|10|ZEN|ISLAND
+MF|MAIN|R|NORM|01|04|M13|Master of the Pearl Trident
+MF|MAIN|R|NORM|02|02|M11|Merfolk Sovereign
+MF|MAIN|U|NORM|01|01|LRW|Merrow Commerce
+MF|MAIN|U|NORM|04|04|LRW|Merrow Reejerey
+MF|MAIN|R|NORM|01|01|CHK|Minamo, School at Water's Edge
+MF|MAIN|R|NORM|01|01|SOK|Miren, the Moaning Well
+MF|MAIN|R|NORM|00|04|MOR|Mutavault
+MF|MAIN|R|NORM|00|03|M12|Phantasmal Image
+MF|MAIN|U|NORM|02|02|MOR|Sage's Dousing
+MF|MAIN|U|NORM|04|04|LOR|Silvergill Adept
+MF|MAIN|C|NORM|02|02|ZEN|Spell Pierce
+MF|MAIN|C|NORM|04|04|MOR|Stonybrook Banneret
+MF|MAIN|U|NORM|01|01|LOR|Surgespanner
+MF|MAIN|R|NORM|03|03|EVE|Wake Thrasher
 MF|SIDE|R|NORM|01|01|BOK|Kira, Great Glass-Spinner
 MF|SIDE|R|NORM|02|04|TSP|Lord of Atlantis
 MF|SIDE|R|NORM|01|01|M10|Merfolk Sovereign
@@ -46,7 +46,7 @@ MF|SIDE|R|NORM|01|01|M11|Merfolk Sovereign
 MF|SIDE|R|NORM|01|01|LRW|Merrow Commerce
 MF|SIDE|R|NORM|00|01|M12|Phantasmal Image
 MF|SIDE|U|NORM|02|02|MOR|Sage's Dousing
-MF|DECK|U|NORM|01|01|LOR|Surgespanner
+MF|SIDE|U|NORM|01|01|LOR|Surgespanner
 MF|SIDE|R|NORM|01|01|EVE|Wake Thrasher
 CC|MAIN|R|NORM|00|01|AVR|Alchemist's Refuge
 CC|MAIN|U|NORM|00|01|CON/H09|Ancient Ziggurat
@@ -145,36 +145,36 @@ CC|MAIN|U|NORM|00|01|6ED/MIR|Worldly Tutor
 CC|MAIN|R|NORM|00|01|9ED/10E/APC|Yavimaya Coast
 CC|MAIN|R|NORM|00|01|UDS|Yavimaya Hollow
 CC|SIDE|M|NORM|00|01|GTC|Prime Speaker Zegana
-GW|DECK|R|NORM|03|FOO|Armageddon
-GW|DECK|M|NORM|01|FOO|Batterskull
-GW|DECK|R|NORM|04|FOO|Birds of Paradise
-GW|DECK|R|NORM|01|FOO|Dauntless Escort
-GW|DECK|M|FOIL|01|FOO|Dryad Arbor
-GW|DECK|U|NORM|01|FOO|Enlightened Tutor
-GW|DECK|U|NORM|01|FOO|Eternal Witness
-GW|DECK|R|NORM|01|FOO|Flagstones of Trokair
-GW|DECK|C|NORM|07|FOO|Forest
-GW|DECK|M|FOIL|01|FOO|Glacial Chasm
-GW|DECK|R|NORM|04|MBS|Green Sun's Zenith
-GW|DECK|M|FOIL|02|FOO|Knight of the Reliquary
-GW|DECK|R|NORM|02|FOO|Knight of the Reliquary
-GW|DECK|R|NORM|01|FOO|Land Tax
-GW|DECK|M|FOIL|01|FOO|Maze of Ith
-GW|DECK|U|NORM|01|FOO|Mistveil Plains
-GW|DECK|U|NORM|04|FOO|Mother of Runes
-GW|DECK|R|NORM|04|FOO|Noble Hierarch
-GW|DECK|C|NORM|03|FOO|Plains
-GW|DECK|C|NORM|02|FOO|Qasali Pridemage
-GW|DECK|U|NORM|01|FOO|Riftstone Portal
-GW|DECK|R|NORM|01|FOO|Scavenging Ooze
-GW|DECK|C|NORM|01|FOO|Sejiri Steppe
-GW|DECK|R|NORM|03|FOO|Sunpetal Grove
-GW|DECK|U|NORM|04|FOO|Swords to Plowshares
-GW|DECK|R|NORM|01|FOO|Sylvan Library
-GW|DECK|R|NORM|01|FOO|Sylvan Safekeeper
-GW|DECK|R|NORM|00|FOO|Temple Garden
-GW|DECK|R|NORM|01|FOO|Terravore
-GW|DECK|M|NORM|01|V12|Vesuva
+GW|MAIN|R|NORM|03|FOO|Armageddon
+GW|MAIN|M|NORM|01|FOO|Batterskull
+GW|MAIN|R|NORM|04|FOO|Birds of Paradise
+GW|MAIN|R|NORM|01|FOO|Dauntless Escort
+GW|MAIN|M|FOIL|01|FOO|Dryad Arbor
+GW|MAIN|U|NORM|01|FOO|Enlightened Tutor
+GW|MAIN|U|NORM|01|FOO|Eternal Witness
+GW|MAIN|R|NORM|01|FOO|Flagstones of Trokair
+GW|MAIN|C|NORM|07|FOO|Forest
+GW|MAIN|M|FOIL|01|FOO|Glacial Chasm
+GW|MAIN|R|NORM|04|MBS|Green Sun's Zenith
+GW|MAIN|M|FOIL|02|FOO|Knight of the Reliquary
+GW|MAIN|R|NORM|02|FOO|Knight of the Reliquary
+GW|MAIN|R|NORM|01|FOO|Land Tax
+GW|MAIN|M|FOIL|01|FOO|Maze of Ith
+GW|MAIN|U|NORM|01|FOO|Mistveil Plains
+GW|MAIN|U|NORM|04|FOO|Mother of Runes
+GW|MAIN|R|NORM|04|FOO|Noble Hierarch
+GW|MAIN|C|NORM|03|FOO|Plains
+GW|MAIN|C|NORM|02|FOO|Qasali Pridemage
+GW|MAIN|U|NORM|01|FOO|Riftstone Portal
+GW|MAIN|R|NORM|01|FOO|Scavenging Ooze
+GW|MAIN|C|NORM|01|FOO|Sejiri Steppe
+GW|MAIN|R|NORM|03|FOO|Sunpetal Grove
+GW|MAIN|U|NORM|04|FOO|Swords to Plowshares
+GW|MAIN|R|NORM|01|FOO|Sylvan Library
+GW|MAIN|R|NORM|01|FOO|Sylvan Safekeeper
+GW|MAIN|R|NORM|00|FOO|Temple Garden
+GW|MAIN|R|NORM|01|FOO|Terravore
+GW|MAIN|M|NORM|01|V12|Vesuva
 GW|SIDE|U|NORM|01|FOO|Dryad Militant
 GW|SIDE|R|NORM|01|FOO|Gaddock Teeg
 GW|SIDE|R|NORM|01|FOO|Limited Resources
@@ -184,75 +184,75 @@ GW|SIDE|M|NORM|01|FOO|Rampaging Baloths
 GW|SIDE|U|NORM|01|FOO|Rogue's Passage
 GW|SIDE|R|NORM|01|FOO|Sunpetal Grove
 GW|SIDE|R|NORM|01|FOO|Ulvenwald Tracker
-LF|DECK|M|NORM|00|FOO|Admonition Angel
-LF|DECK|R|NORM|01|FOO|Azusa, Lost but Seeking
-LF|DECK|R|NORM|01|FOO|Banefire
-LF|DECK|C|NORM|03|ICE|Brainstorm
-LF|DECK|R|NORM|02|FOO|Crucible of Worlds
-LF|DECK|U|NORM|01|FOO|Demonic Tutor
-LF|DECK|U|NORM|02|FOO|Enlightened Tutor
-LF|DECK|R|NORM|02|USG|Exploration
-LF|DECK|R|NORM|01|FOO|Fastbond
-LF|DECK|U|NORM|04|FOO|Gemstone Mine
-LF|DECK|U|NORM|04|FOO|Glacial Chasm
-LF|DECK|C|NORM|02|FOO|Grazing Gladehart
-LF|DECK|M|NORM|02|FOO|Lotus Cobra
-LF|DECK|R|NORM|01|FOO|Meloku the Clouded Mirror
-LF|DECK|R|NORM|01|FOO|Oboro, Palace in the Clouds
-LF|DECK|R|NORM|01|FOO|Oracle of Mul Daya
-LF|DECK|C|NORM|01|FOO|Piranha Marsh
-LF|DECK|R|NORM|01|FOO|Reflecting Pool
-LF|DECK|U|NORM|02|FOO|Sterling Grove
-LF|DECK|U|NORM|01|FOO|Strip Mine
-LF|DECK|R|NORM|04|FOO|Tendo Ice Bridge
-LF|DECK|R|NORM|02|FOO|Trade Routes
-LF|DECK|U|NORM|04|FOO|Treva's Ruins
-LF|DECK|R|NORM|02|FOO|Undiscovered Paradise
-LF|DECK|R|NORM|01|FOO|Vampiric Tutor
-LF|DECK|R|NORM|01|FOO|Zur the Enchanter
-LF|DECK|U|NORM|02|FOO|Zuran Orb
+LF|MAIN|M|NORM|00|FOO|Admonition Angel
+LF|MAIN|R|NORM|01|FOO|Azusa, Lost but Seeking
+LF|MAIN|R|NORM|01|FOO|Banefire
+LF|MAIN|C|NORM|03|ICE|Brainstorm
+LF|MAIN|R|NORM|02|FOO|Crucible of Worlds
+LF|MAIN|U|NORM|01|FOO|Demonic Tutor
+LF|MAIN|U|NORM|02|FOO|Enlightened Tutor
+LF|MAIN|R|NORM|02|USG|Exploration
+LF|MAIN|R|NORM|01|FOO|Fastbond
+LF|MAIN|U|NORM|04|FOO|Gemstone Mine
+LF|MAIN|U|NORM|04|FOO|Glacial Chasm
+LF|MAIN|C|NORM|02|FOO|Grazing Gladehart
+LF|MAIN|M|NORM|02|FOO|Lotus Cobra
+LF|MAIN|R|NORM|01|FOO|Meloku the Clouded Mirror
+LF|MAIN|R|NORM|01|FOO|Oboro, Palace in the Clouds
+LF|MAIN|R|NORM|01|FOO|Oracle of Mul Daya
+LF|MAIN|C|NORM|01|FOO|Piranha Marsh
+LF|MAIN|R|NORM|01|FOO|Reflecting Pool
+LF|MAIN|U|NORM|02|FOO|Sterling Grove
+LF|MAIN|U|NORM|01|FOO|Strip Mine
+LF|MAIN|R|NORM|04|FOO|Tendo Ice Bridge
+LF|MAIN|R|NORM|02|FOO|Trade Routes
+LF|MAIN|U|NORM|04|FOO|Treva's Ruins
+LF|MAIN|R|NORM|02|FOO|Undiscovered Paradise
+LF|MAIN|R|NORM|01|FOO|Vampiric Tutor
+LF|MAIN|R|NORM|01|FOO|Zur the Enchanter
+LF|MAIN|U|NORM|02|FOO|Zuran Orb
 LF|SIDE|C|NORM|02|FOO|Grazing Gladehart
-WW|DECK|U|NORM|03|04|M11|Ajani's Pridemate
-WW|DECK|R|NORM|00|01|CHK|Eiganjo Castle
-WW|DECK|M|NORM|01|01|ZEN|Felidar Sovereign
-WW|DECK|R|NORM|03|03|M10|Honor of the Pure
-WW|DECK|C|NORM|04|04|ZEN|Kabira Crossroads
-WW|DECK|C|NORM|03|03|CSP|Martyr of Sands
-WW|DECK|R|NORM|01|01|ISD|Mikaeus, the Lunarch
-WW|DECK|U|NORM|02|03|CoN|Path to Exile
-WW|DECK|C|NORM|14|14|FOO|Plains
-WW|DECK|R|NORM|03|03|DIS|Proclamation of Rebirth
-WW|DECK|R|NORM|04|04|ALA|Ranger of Eos
-WW|DECK|R|NORM|01|01|SOK|Rune-Tail, Kitsune Ascendant
-WW|DECK|R|NORM|04|04|M11|Serra Ascendant
-WW|DECK|C|NORM|02|02|EXO|Soul Warden
-WW|DECK|C|NORM|02|02|M10|Soul Warden
-WW|DECK|C|NORM|04|04|ROE|Soul's Attendant
-WW|DECK|R|NORM|04|04|ROE|Student of Warfare
-WW|DECK|M|NORM|02|02|V12|Windbrisk Heights
+WW|MAIN|U|NORM|03|04|M11|Ajani's Pridemate
+WW|MAIN|R|NORM|00|01|CHK|Eiganjo Castle
+WW|MAIN|M|NORM|01|01|ZEN|Felidar Sovereign
+WW|MAIN|R|NORM|03|03|M10|Honor of the Pure
+WW|MAIN|C|NORM|04|04|ZEN|Kabira Crossroads
+WW|MAIN|C|NORM|03|03|CSP|Martyr of Sands
+WW|MAIN|R|NORM|01|01|ISD|Mikaeus, the Lunarch
+WW|MAIN|U|NORM|02|03|CoN|Path to Exile
+WW|MAIN|C|NORM|14|14|FOO|Plains
+WW|MAIN|R|NORM|03|03|DIS|Proclamation of Rebirth
+WW|MAIN|R|NORM|04|04|ALA|Ranger of Eos
+WW|MAIN|R|NORM|01|01|SOK|Rune-Tail, Kitsune Ascendant
+WW|MAIN|R|NORM|04|04|M11|Serra Ascendant
+WW|MAIN|C|NORM|02|02|EXO|Soul Warden
+WW|MAIN|C|NORM|02|02|M10|Soul Warden
+WW|MAIN|C|NORM|04|04|ROE|Soul's Attendant
+WW|MAIN|R|NORM|04|04|ROE|Student of Warfare
+WW|MAIN|M|NORM|02|02|V12|Windbrisk Heights
 WW|SIDE|U|NORM|02|02|DKA|Chalice of Life
-WW|DECK|C|NORM|01|01|CSP|Martyr of Sands
+WW|SIDE|C|NORM|01|01|CSP|Martyr of Sands
 WW|SIDE|R|NORM|01|01|DIS|Proclamation of Rebirth
-TS|DECK|C|NORM|04|04|MRD|Ancient Den
-TS|DECK|R|NORM|01|01|SOM|Argentum Armor
-TS|DECK|C|NORM|04|04|DST|Darksteel Citadel
-TS|DECK|M|NORM|00|01|DKA|Elbrus, the Binding Blade
-TS|DECK|U|NORM|03|04|DKA|Faith's Shield
-TS|DECK|C|NORM|03|03|MBS|Flayer Husk
-TS|DECK|R|NORM|01|01|DST|Heartseeker
-TS|DECK|I|NORM|01|01|SOM|Infiltration Lens
-TS|DECK|U|NORM|04|04|ZEN|Kor Duelist
-TS|DECK|C|NORM|02|02|ZEN|Kor Outfitter
-TS|DECK|R|NORM|04|04|DST|Leonin Shikari
-TS|DECK|U|NORM|01|01|ARC|Lightning Greaves
-TS|DECK|R|NORM|02|04|ISD|Mentor of the Meek
-TS|DECK|M|NORM|01|01|SOM|Mox Opal
-TS|DECK|C|NORM|14|14|FOO|Plains
-TS|DECK|R|NORM|02|04|NPH|Puresteel Paladin
-TS|DECK|R|NORM|04|04|WWK|Stoneforge Mystic
-TS|DECK|M|NORM|01|01|MBS|Sword of Feast and Famine
-TS|DECK|M|NORM|01|01|DST|Sword of Fire and Ice
-TS|DECK|M|NORM|01|01|NPH|Sword of War and Peace
+TS|MAIN|C|NORM|04|04|MRD|Ancient Den
+TS|MAIN|R|NORM|01|01|SOM|Argentum Armor
+TS|MAIN|C|NORM|04|04|DST|Darksteel Citadel
+TS|MAIN|M|NORM|00|01|DKA|Elbrus, the Binding Blade
+TS|MAIN|U|NORM|03|04|DKA|Faith's Shield
+TS|MAIN|C|NORM|03|03|MBS|Flayer Husk
+TS|MAIN|R|NORM|01|01|DST|Heartseeker
+TS|MAIN|I|NORM|01|01|SOM|Infiltration Lens
+TS|MAIN|U|NORM|04|04|ZEN|Kor Duelist
+TS|MAIN|C|NORM|02|02|ZEN|Kor Outfitter
+TS|MAIN|R|NORM|04|04|DST|Leonin Shikari
+TS|MAIN|U|NORM|01|01|ARC|Lightning Greaves
+TS|MAIN|R|NORM|02|04|ISD|Mentor of the Meek
+TS|MAIN|M|NORM|01|01|SOM|Mox Opal
+TS|MAIN|C|NORM|14|14|FOO|Plains
+TS|MAIN|R|NORM|02|04|NPH|Puresteel Paladin
+TS|MAIN|R|NORM|04|04|WWK|Stoneforge Mystic
+TS|MAIN|M|NORM|01|01|MBS|Sword of Feast and Famine
+TS|MAIN|M|NORM|01|01|DST|Sword of Fire and Ice
+TS|MAIN|M|NORM|01|01|NPH|Sword of War and Peace
 TS|SIDE|C|NORM|04|04|FOO|Ardent Recruit
 TS|SIDE|R|NORM|01|01|FOO|Captain of the Watch
 TS|SIDE|U|NORM|01|01|FOO|Devout Chaplain
@@ -573,7 +573,7 @@ TS|SIDE|C|NORM|02|02|FOO|Kor Outfitter
 --|FREE|U|NORM|02|FOO|Ghostly Touch
 --|FREE|R|NORM|01|FOO|Gigantiform
 --|FREE|R|FOIL|01|FOO|Gigantomancer
---|DECK|U|NORM|03|EVE|Gilder Bairn
+--|FREE|U|NORM|03|EVE|Gilder Bairn
 --|FREE|M|FOIL|01|FOO|Glacial Chasm
 --|FREE|R|NORM|01|FOO|Glacial Fortress
 --|FREE|U|NORM|01|FOO|Glasses of Urza
@@ -638,7 +638,7 @@ TS|SIDE|C|NORM|02|02|FOO|Kor Outfitter
 --|FREE|R|NORM|02|FOO|Hex Parasite
 --|FREE|U|NORM|01|GTC|Hindervines
 --|FREE|U|NORM|01|GTC|Hindervines
---|DECK|R|NORM|03|ISD|Hinterland Harbor
+--|FREE|R|NORM|03|ISD|Hinterland Harbor
 --|FREE|R|NORM|01|FOO|Hoarding Dragon
 --|FREE|R|NORM|02|FOO|Hokori, Dust Drinker
 --|FREE|U|NORM|01|GTC|Hold the Gates
@@ -729,7 +729,7 @@ TS|SIDE|C|NORM|02|02|FOO|Kor Outfitter
 --|FREE|R|NORM|01|FOO|Leonin Abunas
 --|FREE|U|NORM|02|FOO|Levitation
 --|FREE|R|NORM|02|FOO|Leyline of Anticipation
---|DECK|R|NORM|04|FOO|Leyline of Vitality
+--|FREE|R|NORM|04|FOO|Leyline of Vitality
 --|FREE|U|NORM|01|FOO|Library of Leng
 --|FREE|R|NORM|01|FOO|Life's Finale
 --|FREE|U|NORM|02|FOO|Lifesmith
@@ -804,7 +804,7 @@ TS|SIDE|C|NORM|02|02|FOO|Kor Outfitter
 --|FREE|U|FOIL|01|FOO|Murasa Pyromancer
 --|FREE|U|NORM|03|FOO|Murder Crows
 --|FREE|U|NORM|01|GTC|Murder Investigation
---|DECK|R|NORM|01|FOO|Murkfiend Liege
+--|FREE|R|NORM|01|FOO|Murkfiend Liege
 --|FREE|U|NORM|01|FOO|Mwonvuli Beast Tracker
 --|FREE|R|NORM|01|FOO|Mycoloth
 --|FREE|U|NORM|01|FOO|Mycosynth Fiend
@@ -911,8 +911,8 @@ TS|SIDE|C|NORM|02|02|FOO|Kor Outfitter
 --|FREE|U|NORM|02|FOO|Rakdos Ragemutt
 --|FREE|R|NORM|01|FOO|Rally the Horde
 --|FREE|U|NORM|03|FOO|Rally the Peasants
---|DECK|U|NORM|04|M13|Rancor
---|DECK|C|NORM|01|ARC|Rancor
+--|FREE|U|NORM|04|M13|Rancor
+--|FREE|C|NORM|01|ARC|Rancor
 --|FREE|U|NORM|02|FOO|Rapacious One
 --|FREE|R|NORM|02|FOO|Ratchet Bomb
 --|FREE|U|NORM|01|FOO|Ravenous Trap
@@ -958,13 +958,13 @@ TS|SIDE|C|NORM|02|02|FOO|Kor Outfitter
 --|FREE|U|NORM|01|GTC|Sapphire Drake
 --|FREE|R|NORM|02|01|TMP|Sapphire Medallion
 --|FREE|U|NORM|04|FOO|Saprazzan Cove
---|DECK|C|NORM|04|01|MMQ|Saprazzan Skerry
+--|FREE|C|NORM|04|01|MMQ|Saprazzan Skerry
 --|FREE|U|NORM|02|FOO|Savage Lands
 --|FREE|U|NORM|01|FOO|Savage Surge
 --|FREE|U|NORM|01|FOO|Savage Surge
 --|FREE|U|NORM|01|FOO|Scourge of Geier Reach
 --|FREE|U|NORM|03|FOO|Scrib Nibblers
---|DECK|R|NORM|03|ZEN|Scute Mob
+--|FREE|R|NORM|03|ZEN|Scute Mob
 --|FREE|R|NORM|01|FOO|Sea Gate Loremaster
 --|FREE|U|NORM|03|FOO|Seascape Aerialist
 --|FREE|R|NORM|01|FOO|Seer's Sundial
@@ -1099,7 +1099,7 @@ TS|SIDE|C|NORM|02|02|FOO|Kor Outfitter
 --|FREE|U|NORM|01|GTC|Tower Defense
 --|FREE|U|NORM|01|FOO|Tracker's Instincts
 --|FREE|U|NORM|03|FOO|Trailblazer's Boots
---|DECK|R|FOIL|01|ROE|Training Grounds
+--|FREE|R|FOIL|01|ROE|Training Grounds
 --|FREE|U|NORM|01|FOO|Trapmaker's Snare
 --|FREE|R|NORM|01|FOO|Traumatize
 --|FREE|R|NORM|01|GTC|Treasury Thrull
