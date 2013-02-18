@@ -145,6 +145,7 @@ CC|DECK|U|NORM|00|01|6ED/MIR|Worldly Tutor
 CC|DECK|R|NORM|00|01|9ED/10E/APC|Yavimaya Coast
 CC|DECK|R|NORM|00|01|UDS|Yavimaya Hollow
 CC|DECK|M|NORM|00|01|GTC|Prime Speaker Zegana
+CC|ALTS|R|NORM|01|01|ARC|Feral Hydra
 GW|MAIN|R|NORM|03|03|FOO|Armageddon
 GW|MAIN|M|NORM|01|01|FOO|Batterskull
 GW|MAIN|R|NORM|04|04|FOO|Birds of Paradise
@@ -530,7 +531,6 @@ TS|SIDE|C|NORM|02|02|FOO|Kor Outfitter
 --|FREE|U|NORM|01|00|FOO|Favorable Winds
 --|FREE|U|NORM|04|00|FOO|Feast of Blood
 --|FREE|U|NORM|01|00|FOO|Feldon's Cane
---|FREE|R|NORM|01|00|FOO|Feral Hydra
 --|FREE|U|NORM|01|00|FOO|Feral Lightning
 --|FREE|U|NORM|02|00|FOO|Fiend Hunter
 --|FREE|R|FOIL|01|00|FOO|Figure of Destiny
