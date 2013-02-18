@@ -263,7 +263,6 @@ TS|SIDE|R|NORM|01|01|FOO|Captain of the Watch
 TS|SIDE|R|NORM|00|01|MBS|Darksteel Plate
 TS|SIDE|U|NORM|01|01|FOO|Devout Chaplain
 TS|SIDE|U|NORM|04|04|FOO|Dispatch
-TS|SIDE|C|NORM|01|01|FOO|Flayer Husk
 TS|SIDE|M|NORM|01|01|FOO|Indomitable Archangel
 TS|SIDE|C|NORM|02|02|FOO|Kor Outfitter
 --|FREE|U|NORM|03|00|ISD|Abattoir Ghoul
@@ -1214,3 +1213,78 @@ TS|SIDE|C|NORM|02|02|FOO|Kor Outfitter
 --|FREE|U|NORM|02|00|FOO|Yavimaya Dryad
 --|FREE|U|NORM|03|00|GTC|Zameck Guildmage
 --|FREE|C|FOIL|01|00|FOO|Zendikar Farguide
+PC|CUBE|C|NORM|01|01|ZEN|Adventuring Gear
+PC|CUBE|C|NORM|01|01|NPH|Apostle's Blessing
+PC|CUBE|C|NORM|00|01|DST|Arcbound Hybrid
+PC|CUBE|C|NORM|00|01|DST|Arcbound Stinger
+PC|CUBE|C|NORM|01|01|AVR|Bladed Bracers
+PC|CUBE|C|NORM|01|01|ISD|Blazing Torch
+PC|CUBE|C|NORM|01|01|NPH|Blinding Souleater
+PC|CUBE|C|NORM|00|01|MRD|Bonesplitter
+PC|CUBE|C|NORM|00|01|MRD/INV|Chromatic Sphere
+PC|CUBE|C|NORM|00|01|10E/TSP|Chromatic Star
+PC|CUBE|C|NORM|01|01|SOM|Chrome Stead
+PC|CUBE|C|NORM|01|01|MBS|Copper Carapace
+PC|CUBE|C|NORM|01|01|SOM|Copper Myr
+PC|CUBE|C|NORM|01|01|SOM|Corpse Cur
+PC|CUBE|C|NORM|00|01|5DN/HOP|Cranial Plating
+PC|CUBE|C|NORM|00|01|DST|Dross Golem
+PC|CUBE|C|NORM|00|01|SHM|Elsewhere Flask
+PC|CUBE|C|NORM|01|01|ZEN|Expedition Map
+PC|CUBE|C|NORM|01|01|MBS|Flayer Husk
+PC|CUBE|C|NORM|01|01|NPH|Gitaxian Probe
+PC|CUBE|C|NORM|01|01|SOM|Gold Myr
+PC|CUBE|C|NORM|01|01|SOM|Horizon Spellbomb
+PC|CUBE|C|NORM|01|01|NPH|Hovermyr
+PC|CUBE|C|NORM|00|01|MBS|Ichor Wellspring
+PC|CUBE|C|NORM|01|01|SOM|Ichorclaw Myr
+PC|CUBE|C|NORM|01|01|SOM|Iron Myr
+PC|CUBE|C|NORM|01|01|WWK|Kitesail
+PC|CUBE|C|NORM|01|01|SOM|Leaden Myr
+PC|CUBE|C|NORM|00|01|10E/MRD|Leonin Scimitar
+PC|CUBE|C|NORM|00|01|LRW/DDF/EVG|Moonglove Extract
+PC|CUBE|C|NORM|01|01|NPH|Mutagenic Growth
+PC|CUBE|C|NORM|01|01|NPH|Mycosynth Wellspring
+PC|CUBE|C|NORM|00|01|MRD/HOP|Myr Enforcer
+PC|CUBE|C|NORM|01|01|MBS|Myr Sire
+PC|CUBE|C|NORM|01|01|SOM|Neurok Replica
+PC|CUBE|C|NORM|01|01|ISD|One Eyed Scarecrow
+PC|CUBE|C|NORM|00|01|5DN|Opaline Bracers
+PC|CUBE|C|NORM|00|01|DST/DD2|Oxidda Golem
+PC|CUBE|C|NORM|00|01|5DN/HOP|Pentad Prism
+PC|CUBE|C|NORM|01|01|SOM|Perilous Myr
+PC|CUBE|C|NORM|00|01|ALL|Phyrexian War Beast
+PC|CUBE|C|NORM|00|01|WWK/DDI|Pilgrim’s Eye
+PC|CUBE|C|NORM|00|01|SHM|Pili-Pala
+PC|CUBE|C|NORM|01|01|NPH|Pith Driller
+PC|CUBE|C|NORM|01|01|NPH|Porcelain Legionnaire
+PC|CUBE|C|NORM|01|01|NPH|Pristine Talisman
+PC|CUBE|C|NORM|01|01|GTC|Prophetic Prism
+PC|CUBE|C|NORM|00|01|DST|Razor Golem
+PC|CUBE|C|NORM|01|01|MBS|Razorfield Rhino
+PC|CUBE|C|NORM|00|01|LRW|Runed Stalactite
+PC|CUBE|C|NORM|00|01|SHM|Scuttlemutt
+PC|CUBE|C|NORM|00|01|HML/TSP/DDD|Serrated Arrows
+PC|CUBE|C|NORM|01|01|SOM|Silver Myr
+PC|CUBE|C|NORM|00|01|5DN|Skyreach Manta
+PC|CUBE|C|NORM|01|01|NPH|Slash Panther
+PC|CUBE|C|NORM|01|01|MBS|Spin Engine
+PC|CUBE|C|NORM|01|01|NPH|Spined Thopter
+PC|CUBE|C|NORM|00|01|DST/DD2|Spire Golem
+PC|CUBE|C|NORM|00|01|MRD/DDF|Steel Wall
+PC|CUBE|C|NORM|01|01|SOM|Strider Harness
+PC|CUBE|C|NORM|01|01|SOM|Sylvok Lifestaff
+PC|CUBE|C|NORM|01|01|SOM|Sylvok Replica
+PC|CUBE|C|NORM|00|01|DST|Tangle Golem
+PC|CUBE|C|NORM|01|01|NPH|Thundering Tanadon
+PC|CUBE|C|NORM|01|01|ISD|Traveler’s Amulet
+PC|CUBE|C|NORM|01|01|NPH|Tresspassing Souleater
+PC|CUBE|C|NORM|01|01|SOM|Tumble Magnet
+PC|CUBE|C|NORM|01|01|ROE|Ulamog's Crusher
+PC|CUBE|C|NORM|00|01|NPH|Vault Skirge
+PC|CUBE|C|NORM|00|01|MRD|Viridian Longbow
+PC|CUBE|C|NORM|00|01|DST|Vulshok Morningstar
+PC|CUBE|C|NORM|01|01|SOM|Vulshok Replica
+PC|CUBE|C|NORM|01|01|SOM|Wall of Tanglechord
+PC|CUBE|C|NORM|00|01|LRW|Wanderer’s Twig
+PC|CUBE|C|NORM|00|01|5DN/DDI|Wayfarer's Bauble
