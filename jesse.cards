@@ -173,7 +173,7 @@ GW|MAIN|R|NORM|03|03|FOO|Sunpetal Grove
 GW|MAIN|U|NORM|04|04|FOO|Swords to Plowshares
 GW|MAIN|R|NORM|01|01|FOO|Sylvan Library
 GW|MAIN|R|NORM|01|01|FOO|Sylvan Safekeeper
-GW|MAIN|R|NORM|00|00|FOO|Temple Garden
+GW|MAIN|R|NORM|00|01|FOO|Temple Garden
 GW|MAIN|R|NORM|01|01|FOO|Terravore
 GW|MAIN|M|NORM|01|01|V12|Vesuva
 GW|MAIN|R|NORM|00|04|3ED|Savannah
@@ -186,7 +186,6 @@ GW|SIDE|R|NORM|01|01|FOO|Petrified Field
 GW|SIDE|C|NORM|01|01|FOO|Qasali Pridemage
 GW|SIDE|M|NORM|01|01|FOO|Rampaging Baloths
 GW|SIDE|U|NORM|01|01|FOO|Rogue's Passage
-GW|SIDE|R|NORM|01|01|FOO|Sunpetal Grove
 GW|SIDE|R|NORM|01|01|FOO|Ulvenwald Tracker
 LF|MAIN|M|NORM|00|00|FOO|Admonition Angel
 LF|MAIN|R|NORM|01|01|FOO|Azusa, Lost but Seeking
@@ -410,7 +409,6 @@ TS|SIDE|C|NORM|02|02|FOO|Kor Outfitter
 --|FREE|U|NORM|02|00|FOO|Clone Shell
 --|FREE|U|NORM|03|00|FOO|Cobra Trap
 --|FREE|U|NORM|02|00|FOO|Codex Shredder
---|FREE|R|NORM|02|00|FOO|Collective Blessing
 --|FREE|U|NORM|01|00|FOO|Condemn
 --|FREE|R|NORM|01|00|FOO|Conjurer's Closet
 --|FREE|R|NORM|01|00|FOO|Conquering Manticore
@@ -509,7 +507,6 @@ TS|SIDE|C|NORM|02|02|FOO|Kor Outfitter
 --|FREE|R|NORM|01|00|FOO|Emeria, the Sky Ruin
 --|FREE|U|NORM|02|00|FOO|Empyrial Armor
 --|FREE|U|NORM|01|00|FOO|Endure
---|FREE|R|NORM|02|00|FOO|Engulfing Slagwurm
 --|FREE|U|NORM|02|00|FOO|Enslave
 --|FREE|M|NORM|01|00|GTC|Enter the Infinite
 --|FREE|U|NORM|03|00|FOO|Entomber Exarch
@@ -918,7 +915,7 @@ TS|SIDE|C|NORM|02|02|FOO|Kor Outfitter
 --|FREE|U|NORM|02|00|FOO|Rakdos Ragemutt
 --|FREE|R|NORM|01|00|FOO|Rally the Horde
 --|FREE|U|NORM|03|00|FOO|Rally the Peasants
---|FREE|U|NORM|04|00|M13|Rancor
+--|FREE|U|NORM|03|00|M13|Rancor
 --|FREE|C|NORM|01|00|ARC|Rancor
 --|FREE|U|NORM|02|00|FOO|Rapacious One
 --|FREE|R|NORM|02|00|FOO|Ratchet Bomb
