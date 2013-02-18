@@ -265,62 +265,62 @@ TS|SIDE|U|NORM|04|04|FOO|Dispatch
 TS|SIDE|C|NORM|01|01|FOO|Flayer Husk
 TS|SIDE|M|NORM|01|01|FOO|Indomitable Archangel
 TS|SIDE|C|NORM|02|02|FOO|Kor Outfitter
---|FREE|U|NORM|03|00|FOO|Abattoir Ghoul
---|FREE|U|NORM|01|00|FOO|Abuna Acolyte
---|FREE|U|NORM|02|00|FOO|Acid Web Spider
---|FREE|U|NORM|01|00|FOO|Acidic Slime
---|FREE|U|FOIL|01|00|FOO|Act of Aggression
---|FREE|U|NORM|02|00|FOO|Act of Aggression
---|FREE|U|NORM|03|00|FOO|Act of Treason
+--|FREE|U|NORM|03|00|ISD|Abattoir Ghoul
+--|FREE|U|NORM|01|00|SOM|Abuna Acolyte
+--|FREE|U|NORM|02|00|SOM|Acid Web Spider
+--|FREE|U|NORM|01|01|M13|Acidic Slime
+--|FREE|U|FOIL|01|00|NPH|Act of Aggression
+--|FREE|U|NORM|02|00|NPH|Act of Aggression
+--|FREE|U|NORM|03|00|M10|Act of Treason
 --|FREE|R|NORM|01|00|FOO|Aegis of Honor
---|FREE|U|NORM|04|00|FOO|Aether Figment
---|FREE|U|NORM|01|00|FOO|Aether Flash
+--|FREE|U|NORM|04|00|ZEN|Aether Figment
+--|FREE|U|NORM|01|00|WTH|Aether Flash
 --|FREE|U|NORM|02|00|GTC|Aetherize
---|FREE|U|NORM|02|00|FOO|Affa Guard Hound
---|FREE|U|NORM|02|00|FOO|Air Elemental
---|FREE|U|NORM|01|00|FOO|Air Servant
+--|FREE|U|NORM|02|00|ROE|Affa Guard Hound
+--|FREE|U|NORM|02|00|M10|Air Elemental
+--|FREE|U|NORM|01|00|M11|Air Servant
 --|FREE|M|NORM|01|00|FOO|Ajani Goldmane
---|FREE|U|NORM|01|00|FOO|Akoum Boulderfoot
---|FREE|U|NORM|04|00|FOO|Akoum Refuge
+--|FREE|U|NORM|01|00|ROE|Akoum Boulderfoot
+--|FREE|U|NORM|04|00|ZEN|Akoum Refuge
 --|FREE|R|NORM|01|00|FOO|Akron Legionnaire
---|FREE|U|NORM|01|00|FOO|Allied Strategies
---|FREE|U|NORM|02|00|FOO|Alloy Myr
---|FREE|U|NORM|02|00|FOO|Alluring Siren
+--|FREE|U|NORM|01|00|DDE|Allied Strategies
+--|FREE|U|NORM|02|02|NPH|Alloy Myr
+--|FREE|U|NORM|02|00|M11|Alluring Siren
 --|FREE|R|NORM|01|00|FOO|Anaba Spirit Crafter
 --|FREE|M|FOIL|02|00|FOO|Ancient Tomb
---|FREE|U|NORM|01|00|FOO|Angel's Tomb
+--|FREE|U|NORM|01|00|AVR|Angel's Tomb
 --|FREE|R|NORM|01|00|FOO|Angelheart Vial
---|FREE|U|NORM|01|00|FOO|Angelic Armaments
+--|FREE|U|NORM|01|00|AVR|Angelic Armaments
 --|FREE|R|NORM|01|00|GTC|Angelic Skirmisher
 --|FREE|R|FOIL|01|00|FOO|Arashi, the Sky Asunder
 --|FREE|R|NORM|01|00|FOO|Arashi, the Sky Asunder
---|FREE|U|NORM|01|00|FOO|Arbalest Elite
+--|FREE|U|NORM|01|00|M12|Arbalest Elite
 --|FREE|R|NORM|01|00|FOO|Archive Trap
 --|FREE|R|NORM|03|00|FOO|Archmage Ascension
 --|FREE|R|FOIL|01|00|FOO|Archon of Redemption
 --|FREE|R|NORM|01|00|FOO|Archon of Redemption
---|FREE|U|NORM|02|00|FOO|Argent Mutation
---|FREE|U|NORM|02|00|FOO|Arm with Aether
+--|FREE|U|NORM|02|00|NPH|Argent Mutation
+--|FREE|U|NORM|02|00|NPH|Arm with Aether
 --|FREE|R|NORM|03|00|FOO|Armageddon
---|FREE|U|NORM|02|00|FOO|Armored Ascension
---|FREE|U|NORM|03|00|FOO|Arrogant Bloodlord
---|FREE|U|NORM|01|00|FOO|Arrow Volley Trap
---|FREE|U|NORM|02|00|FOO|Artisan of Kozilek
+--|FREE|U|NORM|02|00|M11|Armored Ascension
+--|FREE|U|NORM|03|00|ROE|Arrogant Bloodlord
+--|FREE|U|NORM|01|00|ZEN|Arrow Volley Trap
+--|FREE|U|NORM|02|01|ROE|Artisan of Kozilek
 --|FREE|R|NORM|03|00|SOM|Asceticism
 --|FREE|R|NORM|01|00|GTC|Aurelia, the Warleader
---|FREE|U|NORM|06|00|FOO|Auriok Edgewright
---|FREE|U|NORM|01|00|FOO|Auriok Survivors
+--|FREE|U|NORM|06|04|SOM|Auriok Edgewright
+--|FREE|U|NORM|01|01|NPH|Auriok Survivors
 --|FREE|U|NORM|01|00|FOO|Autumn's Veil
---|FREE|U|NORM|01|00|FOO|Avacyn's Collar
+--|FREE|U|NORM|01|00|DKA|Avacyn's Collar
 --|FREE|R|NORM|01|00|FOO|Awakening Zone
---|FREE|U|NORM|01|00|FOO|Azorius Aethermage
---|FREE|U|NORM|01|00|FOO|Azorius Herald
---|FREE|U|NORM|01|00|FOO|Azorius Justiciar
---|FREE|U|NORM|01|00|FOO|Azorius Keyrune
+--|FREE|U|NORM|01|00|DIS|Azorius Aethermage
+--|FREE|U|NORM|01|00|DIS|Azorius Herald
+--|FREE|U|NORM|01|00|RTR|Azorius Justiciar
+--|FREE|U|NORM|01|00|RTR|Azorius Keyrune
 --|FREE|R|NORM|01|00|FOO|Back from the Brink
---|FREE|U|NORM|04|00|FOO|Bad River
---|FREE|U|NORM|03|00|FOO|Baloth Cage Trap
---|FREE|U|NORM|02|00|FOO|Baloth Woodcrasher
+--|FREE|U|NORM|04|01|MIR|Bad River
+--|FREE|U|NORM|03|00|ZEN|Baloth Cage Trap
+--|FREE|U|NORM|02|01|ZEN|Baloth Woodcrasher
 --|FREE|U|NORM|02|00|GTC|Bane Alley Broker
 --|FREE|R|NORM|01|00|FOO|Baneful Omen
 --|FREE|U|NORM|01|00|FOO|Banishing Stroke
