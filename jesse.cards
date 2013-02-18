@@ -535,7 +535,7 @@ TS|SIDE|C|NORM|02|02|FOO|Kor Outfitter
 --|FREE|R|FOIL|01|00|FOO|Figure of Destiny
 --|FREE|U|NORM|01|00|FOO|Filigree Fracture
 --|FREE|U|NORM|01|00|FOO|Fire Servant
---|FREE|U|NORM|02|00|FOO|Fireball
+--|FREE|U|NORM|01|00|FOO|Fireball
 --|FREE|U|NORM|01|00|GTC|Firefist Striker
 --|FREE|R|NORM|01|00|GTC|Firemane Avenger
 --|FREE|R|NORM|01|00|GTC|Firemane Avenger
@@ -892,7 +892,7 @@ TS|SIDE|C|NORM|02|02|FOO|Kor Outfitter
 --|FREE|U|NORM|03|00|FOO|Primal Bellow
 --|FREE|R|NORM|01|00|FOO|Primitive Etchings
 --|FREE|U|NORM|01|00|FOO|Prized Unicorn
---|FREE|U|NORM|05|00|FOO|Prodigal Pyromancer
+--|FREE|U|NORM|04|00|M10|Prodigal Pyromancer
 --|FREE|U|NORM|04|00|FOO|Punishing Fire
 --|FREE|U|NORM|02|00|FOO|Puppet Strings
 --|FREE|U|NORM|04|04|SHM|Puresight Merrow
@@ -1288,3 +1288,78 @@ PC|CUBE|C|NORM|01|01|SOM|Vulshok Replica
 PC|CUBE|C|NORM|01|01|SOM|Wall of Tanglechord
 PC|CUBE|C|NORM|00|01|LRW|Wanderer’s Twig
 PC|CUBE|C|NORM|00|01|5DN/DDI|Wayfarer's Bauble
+PC|CUBE|C|NORM|01|01|ISD|Ancient Grudge
+PC|CUBE|C|NORM|00|01|JUD|Arcane Teachings
+PC|CUBE|C|NORM|01|01|NPH|Artilerize
+PC|CUBE|C|NORM|01|01|ISD|Ashmouth Hound
+PC|CUBE|C|NORM|01|01|ROE|Battle-Rattle Shaman
+PC|CUBE|C|NORM|00|01|MBS|Blisterstick Shaman
+PC|CUBE|C|NORM|00|01|M12|Blood Ogre
+PC|CUBE|C|NORM|01|01|ISD|Brimstone Volley
+PC|CUBE|C|NORM|01|01|ZEN|Burst Lightning
+PC|CUBE|C|NORM|00|01|LEG/PD2|Chain Lightning
+PC|CUBE|C|NORM|01|01|M11|Chandra’s Outrage
+PC|CUBE|C|NORM|00|01|TSP|Coal Stoker
+PC|CUBE|C|NORM|01|01|ISD|Crossway Vampire
+PC|CUBE|C|NORM|01|01|WWK|Crusher Zendikon
+PC|CUBE|C|NORM|01|01|RTR|Electrickery
+PC|CUBE|C|NORM|00|01|TSP|Empty the Warrens
+PC|CUBE|C|NORM|01|01|ROE|Emrakul’s Hatcher
+PC|CUBE|C|NORM|00|01|DKA|Faithless Looting
+PC|CUBE|C|NORM|00|01|TOR/TSP|Fiery Temper
+PC|CUBE|U|NORM|01|01|M11|Fireball
+PC|CUBE|C|NORM|00|01|VIS/DD2/PD2|Fireblast
+PC|CUBE|C|NORM|00|01|ODY/DD2|Firebolt
+PC|CUBE|C|NORM|00|01|EVE|Flame Jab
+PC|CUBE|C|NORM|01|01|ROE|Flame Slash
+PC|CUBE|C|NORM|01|01|ISD|Furor of the Bitten
+PC|CUBE|C|NORM|01|01|SOM|Galvanic Blast
+PC|CUBE|C|NORM|00|01|ULG|Ghitu Slinger
+PC|CUBE|C|NORM|00|01|FUT/DDG|Ghostfire
+PC|CUBE|C|NORM|00|01|ZEN|Goblin Bushwhacker
+PC|CUBE|C|NORM|01|01|ZEN|Goblin Shortcutter
+PC|CUBE|C|NORM|01|01|ZEN|Goblin War Paint
+PC|CUBE|C|NORM|01|01|RTR|Gore-House Chainwalker
+PC|CUBE|C|NORM|00|01|M12|Gorehorn Minotaurs
+PC|CUBE|C|NORM|00|01|TSP|Grapeshot
+PC|CUBE|C|NORM|00|01|CHK|Hearth Kami
+PC|CUBE|C|NORM|01|01|ALA|Hissing Iguanar
+PC|CUBE|C|NORM|00|01|M12|Incinerate
+PC|CUBE|C|NORM|00|01|LRW/DD2|Inner-Flame Acolyte
+PC|CUBE|C|NORM|00|01|SHM|Intimidator Initiate
+PC|CUBE|C|NORM|00|01|PLC/PD2|Keldon Marauders
+PC|CUBE|C|NORM|01|01|ISD|Kessig Wolf
+PC|CUBE|C|NORM|01|01|ROE|Kiln Fiend
+PC|CUBE|C|NORM|00|01|MMQ|Kris Mage
+PC|CUBE|C|NORM|01|01|MBS|Kuldotha Ringleader
+PC|CUBE|C|NORM|00|01|JUD|Lava Dart
+PC|CUBE|C|NORM|00|01|TMP|Lightning Blast
+PC|CUBE|C|NORM|01|01|M10|Lightning Bolt
+PC|CUBE|C|NORM|01|01|M11|Manic Vandal
+PC|CUBE|C|NORM|00|01|CON|Maniacal Rage
+PC|CUBE|C|NORM|00|01|CSP|Martyr of Ashes
+PC|CUBE|C|NORM|00|01|TMP|Mogg Fanatic
+PC|CUBE|C|NORM|00|01|TSP/EVG|Mogg War Marshall
+PC|CUBE|C|NORM|01|01|ZEN|Plated Geopede
+PC|CUBE|C|NORM|00|01|SHM|Power of Fire
+PC|CUBE|U|NORM|01|01|M11|Prodigal Pyromancer
+PC|CUBE|C|NORM|01|01|RTR|Pursuit of Flight
+PC|CUBE|C|NORM|01|01|NPH|Razor Swine
+PC|CUBE|C|NORM|00|01|M13|Reckless Brute
+PC|CUBE|C|NORM|00|01|TSP|Rift Bolt
+PC|CUBE|C|NORM|00|01|TMP/HOP|Rolling Thunder
+PC|CUBE|C|NORM|01|01|WWK|Searing Blaze
+PC|CUBE|C|NORM|00|01|M13|Searing Spear
+PC|CUBE|C|NORM|00|01|ONS|Sparksmith
+PC|CUBE|C|NORM|01|01|RTR|Splatter Thug
+PC|CUBE|C|NORM|00|01|ROE|Staggershock
+PC|CUBE|C|NORM|00|01|PLC|Stingscourger
+PC|CUBE|C|NORM|01|01|ALA|Thorn-Thrash Viashino
+PC|CUBE|C|NORM|00|01|DKA|Torch Fiend
+PC|CUBE|C|NORM|00|01|10E/CHK|Uncontrollable Anger
+PC|CUBE|C|NORM|01|01|ROE|Vent Sentinel
+PC|CUBE|C|NORM|00|01|RTR|Viashino Racketeer
+PC|CUBE|C|NORM|00|01|ALA|Vithian Stinger
+PC|CUBE|C|NORM|01|01|M13|Volcanic Strength
+PC|CUBE|C|NORM|01|01|NPH|Volt Charge
+PC|CUBE|C|NORM|00|01|5DN/DDI/PD2|Vulshok Sorcerer
