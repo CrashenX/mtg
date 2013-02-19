@@ -258,7 +258,7 @@ TS|MAIN|R|NORM|04|04|WWK|Stoneforge Mystic
 TS|MAIN|M|NORM|01|01|MBS|Sword of Feast and Famine
 TS|MAIN|M|NORM|01|01|DST|Sword of Fire and Ice
 TS|MAIN|M|NORM|01|01|NPH|Sword of War and Peace
-TS|SIDE|C|NORM|04|04|FOO|Ardent Recruit
+TS|SIDE|C|NORM|04|04|MBS|Ardent Recruit
 TS|SIDE|R|NORM|01|01|FOO|Captain of the Watch
 TS|SIDE|R|NORM|00|01|MBS|Darksteel Plate
 TS|SIDE|U|NORM|01|01|FOO|Devout Chaplain
@@ -505,7 +505,7 @@ TS|SIDE|C|NORM|02|02|FOO|Kor Outfitter
 --|FREE|U|NORM|02|00|FOO|Emerge Unscathed
 --|FREE|U|NORM|02|00|FOO|Emerge Unscathed
 --|FREE|R|NORM|01|00|FOO|Emeria, the Sky Ruin
---|FREE|U|NORM|02|00|FOO|Empyrial Armor
+--|FREE|U|NORM|01|00|WTH|Empyrial Armor
 --|FREE|U|NORM|01|00|FOO|Endure
 --|FREE|U|NORM|02|00|FOO|Enslave
 --|FREE|M|NORM|01|00|GTC|Enter the Infinite
@@ -1528,3 +1528,78 @@ PC|CUBE|C|NORM|01|01|M10|Terramorphic Expanse
 PC|CUBE|C|NORM|01|01|ARC|Tranquil Thicket
 PC|CUBE|C|NORM|00|01|MRD/PC2|Tree of Tales
 PC|CUBE|C|NORM|00|01|MRD/PC2|Vault of Whispers
+PC|CUBE|C|NORM|00|01|M13|Ajani's Sunstriker
+PC|CUBE|C|NORM|00|01|ALA|Akrasan Squire
+PC|CUBE|C|NORM|00|01|7ED/8ED/USG/DDC|Angelic Page
+PC|CUBE|C|NORM|00|01|MBS|Ardent Recruit
+PC|CUBE|C|NORM|01|01|SOM|Arrest
+PC|CUBE|C|NORM|01|01|SOM|Auriok Sunchaser
+PC|CUBE|C|NORM|01|01|ISD|Avancynian Priest
+PC|CUBE|C|NORM|01|01|M13|Aven Squire
+PC|CUBE|C|NORM|00|01|RTR|Azorius Arrester
+PC|CUBE|C|NORM|00|01|SHM|Ballynock Cohort
+PC|CUBE|C|NORM|00|01|EVE|Ballynock Trapper
+PC|CUBE|C|NORM|00|01|JUD|Benevolent Bodyguard
+PC|CUBE|C|NORM|01|01|ISD|Bonds of Faith
+PC|CUBE|C|NORM|00|01|MOR/DDF|Burrenton Bombardier
+PC|CUBE|C|NORM|00|01|EVE|Cenn's Enlistment
+PC|CUBE|C|NORM|00|01|TSP|Cloudchaser Kestrel
+PC|CUBE|C|NORM|00|01|APC|Coalition Honor Guard
+PC|CUBE|C|NORM|01|01|CON|Court Humonculus
+PC|CUBE|C|NORM|00|01|INV|Crimson Acolyte
+PC|CUBE|C|NORM|01|01|ROE|Dawnglare Invoker
+PC|CUBE|C|NORM|00|01|ICE/MIR/TMP/USG/MMQ|Disenchant
+PC|CUBE|C|NORM|01|01|ALA|Dispeller's Capsule
+PC|CUBE|C|NORM|01|01|ISD|Doomed Traveler
+PC|CUBE|C|NORM|01|01|WTH|Empyrial Armor
+PC|CUBE|C|NORM|01|01|RTR|Ethereal Armor
+PC|CUBE|C|NORM|00|01|RAV/DDC|Faith’s Fetters
+PC|CUBE|C|NORM|01|01|SOM|Ghalma's Warden
+PC|CUBE|C|NORM|00|01|10E/GPC|Ghost Warden
+PC|CUBE|C|NORM|01|01|M12|Gideon's Lawkeeper
+PC|CUBE|C|NORM|01|01|SOM|Glint Hawk Idol
+PC|CUBE|C|NORM|00|01|LRW/DDF|Goldmeadow Harrier
+PC|CUBE|C|NORM|01|01|DIS|Guardian of the Guildpact
+PC|CUBE|C|NORM|00|01|M13|Guardians of Akrasa
+PC|CUBE|C|NORM|00|01|FEM/TSP|Icatian Javelineers
+PC|CUBE|C|NORM|00|01|CHK|Indomitable Will
+PC|CUBE|C|NORM|01|01|WWK|Iona's Judgment
+PC|CUBE|C|NORM|01|01|ZEN|Journey to Nowhere
+PC|CUBE|C|NORM|00|01|CHK|Kabuto Moth
+PC|CUBE|C|NORM|00|01|CHK|Kami of Ancient Law
+PC|CUBE|C|NORM|01|01|SOM|Kemba’s Skyguard
+PC|CUBE|C|NORM|01|01|ROE/DDG|Knight of Cliffhaven
+PC|CUBE|C|NORM|00|01|RTR|Knightly Valor
+PC|CUBE|C|NORM|01|01|ZEN|Kor Hookmaster
+PC|CUBE|C|NORM|01|01|ZEN|Kor Sanctifiers
+PC|CUBE|C|NORM|01|01|ZEN|Kor Skyfisher
+PC|CUBE|C|NORM|00|01|MBS|Leonin Skyhunter
+PC|CUBE|C|NORM|01|01|DKA|Loyal Cathar
+PC|CUBE|C|NORM|01|01|TMP|Master Decoy
+PC|CUBE|C|NORM|01|01|MBS|Master’s Call
+PC|CUBE|C|NORM|00|01|TSP|Momentary Blink
+PC|CUBE|C|NORM|00|01|LRW/ALA/ARC/DDG/CMD/HOP|Oblivion Ring
+PC|CUBE|C|NORM|00|01|INV|Obsidian Acolyte
+PC|CUBE|C|NORM|00|01|FEM|Order of Leitbur
+PC|CUBE|C|NORM|01|01|M10|Pacifism
+PC|CUBE|C|NORM|00|01|LRW/DDG|Plover Knights
+PC|CUBE|C|NORM|00|01|JUD|Prismatic Strands
+PC|CUBE|C|NORM|00|01|MIR/DDF|Raise the Alarm
+PC|CUBE|C|NORM|00|01|EVE/DDH|Recumbent Bliss
+PC|CUBE|C|NORM|00|01|NPH|Remember the Fallen
+PC|CUBE|C|NORM|00|01|CSP|Ronom Unicorn
+PC|CUBE|C|NORM|00|01|ALA/ARC|Sanctum Gargoyle
+PC|CUBE|C|NORM|01|01|AVR|Seraph of Dawn
+PC|CUBE|C|NORM|00|01|ALA|Sighted-Caste Sorcerer
+PC|CUBE|C|NORM|00|01|CSP|Squall Drifter
+PC|CUBE|C|NORM|00|01|APC|Standard Bearer
+PC|CUBE|C|NORM|01|01|ZEN|Steppe Lynx
+PC|CUBE|C|NORM|00|01|PLC/DDF|Sunlance
+PC|CUBE|C|NORM|01|01|SOM|Sunspear Shikari
+PC|CUBE|C|NORM|00|01|TSP|Temporal Isolation
+PC|CUBE|C|NORM|01|01|ISD|Thraben Sentry
+PC|CUBE|C|NORM|01|01|ROE|Totem-Guide Hartebeest
+PC|CUBE|C|NORM|01|01|ISD|Unruly Mob
+PC|CUBE|C|NORM|00|01|M10|Veteran Swordsmith
+PC|CUBE|C|NORM|00|01|PLC/DDI|Whitemane Lion
+PC|CUBE|C|NORM|01|01|10E|Youthful Knight
