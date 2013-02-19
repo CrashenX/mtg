@@ -760,7 +760,7 @@ TS|SIDE|C|NORM|02|02|FOO|Kor Outfitter
 --|FREE|U|NORM|02|00|FOO|Make a Wish
 --|FREE|R|NORM|02|00|FOO|Malakir Bloodwitch
 --|FREE|U|NORM|01|00|FOO|Mammoth Umbra
---|FREE|C|NORM|04|00|FOO|Manamorphose
+--|FREE|C|NORM|03|00|SHM|Manamorphose
 --|FREE|U|NORM|01|00|GTC|Mark for Death
 --|FREE|U|NORM|01|00|FOO|Mark of Mutiny
 --|FREE|U|NORM|02|00|FOO|Marrow Shards
@@ -1339,7 +1339,7 @@ PC|CUBE|C|NORM|01|01|M11|Manic Vandal
 PC|CUBE|C|NORM|00|01|CON|Maniacal Rage
 PC|CUBE|C|NORM|00|01|CSP|Martyr of Ashes
 PC|CUBE|C|NORM|00|01|TMP|Mogg Fanatic
-PC|CUBE|C|NORM|00|01|TSP/EVG|Mogg War Marshall
+PC|CUBE|C|NORM|00|01ALA|TSP/EVG|Mogg War Marshall
 PC|CUBE|C|NORM|01|01|ZEN|Plated Geopede
 PC|CUBE|C|NORM|00|01|SHM|Power of Fire
 PC|CUBE|U|NORM|01|01|M11|Prodigal Pyromancer
@@ -1438,3 +1438,53 @@ PC|CUBE|C|NORM|01|01|ROE|Wildheart Invoker
 PC|CUBE|C|NORM|00|01|MOR|Winnower Patrol
 PC|CUBE|C|NORM|00|01|ONS/EVG|Wirewood Herald
 PC|CUBE|C|NORM|00|01|ULG|Yavimaya Granger
+PC|CUBE|C|NORM|00|01|ALA/ARC|Agony Warp
+PC|CUBE|C|NORM|01|01|ARC|Armadillo Cloak
+PC|CUBE|C|NORM|00|01|GPT|Blind Hunter
+PC|CUBE|C|NORM|00|01|ALA/ARC/HOP|Branching Bolt
+PC|CUBE|C|NORM|01|01|RTR|Centaur Healer
+PC|CUBE|C|NORM|00|01|ARB/PLC|Cerodon Yearling
+PC|CUBE|C|NORM|01|01|DIS|Coiling Oracle
+PC|CUBE|C|NORM|00|01|APC|Consume Strength
+PC|CUBE|C|NORM|00|01|SHM|Curse of Chains
+PC|CUBE|C|NORM|00|01|ARB/HOP|Deny Reality
+PC|CUBE|C|NORM|00|01|ARB|Ethercaste Knight
+PC|CUBE|C|NORM|01|01|ARB|Fieldmist Borderpost
+PC|CUBE|C|NORM|00|01|ARB|Firewild Borderpost
+PC|CUBE|C|NORM|01|01|RTR|Frostburn Weird
+PC|CUBE|C|NORM|00|01|APC|Gaea’s Skyfolk
+PC|CUBE|C|NORM|00|01|SHM|Giantbaiting
+PC|CUBE|C|NORM|00|01|RTR|Goblin Electromancer
+PC|CUBE|C|NORM|00|01|APC|Goblin Legionnaire
+PC|CUBE|C|NORM|00|01|GPT/CMD/DDJ|Izzet Chronarch
+PC|CUBE|C|NORM|00|01|ARB|Kathari Bomber
+PC|CUBE|C|NORM|01|01|SHM|Manamorphose
+PC|CUBE|C|NORM|01|01|ARC|Mistvein Borderpost
+PC|CUBE|C|NORM|00|01|GPC|Mourning Thrull
+PC|CUBE|C|NORM|00|01|GPC|Pillory of the Sleepless
+PC|CUBE|C|NORM|00|01FOO|ARB/DDJ|Putrid Leech
+PC|CUBE|C|NORM|00|01|ARB/DDH|Qasali Pridemage
+PC|CUBE|C|NORM|01|01|RTR|Rakdos Shred-Freak
+PC|CUBE|C|NORM|00|01|RAV|Rally the Righteous
+PC|CUBE|C|NORM|00|01|INV/DDH|Recoil
+PC|CUBE|C|NORM|00|01|EVE|Rendclaw Trow
+PC|CUBE|C|NORM|00|01|RAV/DDJ|Shambling Shell
+PC|CUBE|C|NORM|00|01|GPC|Shrieking Grotesque
+PC|CUBE|C|NORM|00|01|ALA/DDG|Sigil Blessing
+PC|CUBE|C|NORM|00|01|SHM|Silkbind Faerie
+PC|CUBE|C|NORM|01|01|GTC|Skyknight Legionnaire
+PC|CUBE|C|NORM|01|01|EVE|Snakeform
+PC|CUBE|C|NORM|00|01|GPC/DDH/DDJ|Steamcore Weird
+PC|CUBE|C|NORM|00|01|APC|Temporal Spring
+PC|CUBE|C|NORM|00|01|PLS/ARB/ARC/CMD|Terminate
+PC|CUBE|C|NORM|00|01|RAV|Thundersong Trumpeter
+PC|CUBE|C|NORM|00|01|ALA|Tidehollow Strix
+PC|CUBE|C|NORM|00|01|GPC|Tin Street Hooligan
+PC|CUBE|C|NORM|01|01|RTR|Trestle Trow
+PC|CUBE|C|NORM|00|01|SHM|Turn to Mist
+PC|CUBE|C|NORM|01|01|ARC|Unmake
+PC|CUBE|C|NORM|00|01|ARB|Veinfire Borderpost
+PC|CUBE|C|NORM|00|01|GPC/DDJ|Wee Dragonauts
+PC|CUBE|C|NORM|00|01|ARB|Wildfield Borderpost
+PC|CUBE|C|NORM|01|01|ARB|Winged Coatl
+PC|CUBE|C|NORM|00|01|DIS/CMD|Wrecking Ball
