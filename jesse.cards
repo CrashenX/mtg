@@ -1370,7 +1370,7 @@ PC|CUBE|C|NORM|01|01|RTR|Axebane Guardian
 PC|CUBE|C|NORM|01|01|SOM|Blight Mamba
 PC|CUBE|C|NORM|00|01|MBS|Blightwidow
 PC|CUBE|C|NORM|01|01|AVR|Borderland Ranger
-PC|CUBE|C|NORM|00|01|RAV/HOP|Bramble Elemental
+PC|CUBE|C|NORM|00|01|RAV/PC2|Bramble Elemental
 PC|CUBE|C|NORM|01|01|SOM|Carapace Forger
 PC|CUBE|C|NORM|01|01|(M)|Civic Wayfinder
 PC|CUBE|C|NORM|00|01|ALA|Court Archers
@@ -1410,7 +1410,7 @@ PC|CUBE|C|NORM|01|01|GTC|Naturalize
 PC|CUBE|C|NORM|01|01|M10|Oakenform
 PC|CUBE|C|NORM|00|01|ZEN|Oran Rief Recluse
 PC|CUBE|C|NORM|00|01|ROE|Overgrown Battlement
-PC|CUBE|C|NORM|00|01|TSP/CMD/HOP|Penumbra Spider
+PC|CUBE|C|NORM|00|01|TSP/CMD/PC2|Penumbra Spider
 PC|CUBE|C|NORM|00|01|MRD|Predator Strike
 PC|CUBE|C|NORM|00|01|SHM|Presence of Gond
 PC|CUBE|C|NORM|01|01|ISD|Prey Upon
@@ -1447,7 +1447,7 @@ PC|CUBE|C|NORM|00|01|ARB/PLC|Cerodon Yearling
 PC|CUBE|C|NORM|01|01|DIS|Coiling Oracle
 PC|CUBE|C|NORM|00|01|APC|Consume Strength
 PC|CUBE|C|NORM|00|01|SHM|Curse of Chains
-PC|CUBE|C|NORM|00|01|ARB/HOP|Deny Reality
+PC|CUBE|C|NORM|00|01|ARB/PC2|Deny Reality
 PC|CUBE|C|NORM|00|01|ARB|Ethercaste Knight
 PC|CUBE|C|NORM|01|01|ARB|Fieldmist Borderpost
 PC|CUBE|C|NORM|00|01|ARB|Firewild Borderpost
@@ -1495,7 +1495,7 @@ PC|CUBE|C|NORM|00|01|ONS/ARC/CMD/DDI/DDC|Barren Moor
 PC|CUBE|C|NORM|01|01|RAV|Boros Garrison
 PC|CUBE|C|NORM|01|01|GTC|Boros Guildgate
 PC|CUBE|C|NORM|00|01|ARN/TSP|Dessert
-PC|CUBE|C|NORM|00|01|RAV/CMD/HOP|Dimir Aqueduct
+PC|CUBE|C|NORM|00|01|RAV/CMD/PC2|Dimir Aqueduct
 PC|CUBE|C|NORM|00|01|GTC|Dimir Guildgate
 PC|CUBE|C|NORM|01|01|ROE|Evolving Wilds
 PC|CUBE|C|NORM|00|01|ONS/CMD/EVG/DDJ|Forgotten Cave
@@ -1518,7 +1518,7 @@ PC|CUBE|C|NORM|00|01|MRD/DDF/HOP|Seat of the Synod
 PC|CUBE|C|NORM|00|01|ONS/ARC/CMD/DDC|Secluded Steppe
 PC|CUBE|C|NORM|01|01|WWK|Sejiri Steppe
 PC|CUBE|C|NORM|01|01|RTR|Selesnya Guildgate
-PC|CUBE|C|NORM|00|01|RAV/DDG/CMD/PL2|Selesnya Sanctuary
+PC|CUBE|C|NORM|00|01|RAV/DDG/CMD/PC2|Selesnya Sanctuary
 PC|CUBE|C|NORM|01|01|LRW|Shimmering Grotto
 PC|CUBE|C|NORM|00|01|DIS/CMD|Simic Growth Chamber
 PC|CUBE|C|NORM|01|01|GTC|Simic Guildgate
@@ -1526,5 +1526,5 @@ PC|CUBE|C|NORM|01|01|WWK|Smoldering Spires
 PC|CUBE|C|NORM|01|01|ZEN|Teetering Peaks
 PC|CUBE|C|NORM|01|01|M10|Terramorphic Expanse
 PC|CUBE|C|NORM|01|01|ARC|Tranquil Thicket
-PC|CUBE|C|NORM|00|01|MRD/PL2|Tree of Tales
-PC|CUBE|C|NORM|00|01|MRD/PL2|Vault of Whispers
+PC|CUBE|C|NORM|00|01|MRD/PC2|Tree of Tales
+PC|CUBE|C|NORM|00|01|MRD/PC2|Vault of Whispers
