@@ -123,7 +123,7 @@ CC|DECK|U|NORM|01|01|CON|Reliquary Tower
 CC|DECK|C|NORM|00|01|PCY/CMA|Rhystic Study
 CC|DECK|R|NORM|01|01|ZEN|Scute Mob
 CC|DECK|U|NORM|00|01|CHK|Sensei's Divining Top
-CC|DECK|C|NORM|01|01|DIS/CMD|Simic Growth Chamber
+CC|DECK|C|NORM|01|01|DIS|Simic Growth Chamber
 CC|DECK|U|NORM|00|01|DIS|Simic Guildmage
 CC|DECK|C|NORM|01|01|GTC|Simic Guildgate
 CC|DECK|C|NORM|01|01|DIS/CMD|Simic Signet
@@ -464,7 +464,7 @@ TS|SIDE|C|NORM|02|02|FOO|Kor Outfitter
 --|FREE|U|NORM|01|00|FOO|Demonic Taskmaster
 --|FREE|U|NORM|01|00|FOO|Demonmail Hauberk
 --|FREE|U|NORM|04|00|FOO|Descendant of Kiyomaro
---|FREE|M|FOIL|02|00|FOO|Desert
+--|FREE|M|FOIL|02|00|V12|Desert
 --|FREE|R|NORM|01|00|FOO|Desolate Lighthouse
 --|FREE|U|NORM|02|00|FOO|Despise
 --|FREE|U|NORM|06|00|FOO|Diabolic Tutor
@@ -1488,3 +1488,43 @@ PC|CUBE|C|NORM|00|01|GPC/DDJ|Wee Dragonauts
 PC|CUBE|C|NORM|00|01|ARB|Wildfield Borderpost
 PC|CUBE|C|NORM|01|01|ARB|Winged Coatl
 PC|CUBE|C|NORM|00|01|DIS/CMD|Wrecking Ball
+PC|CUBE|C|NORM|00|01|MRD/HOP|Ancient Den
+PC|CUBE|C|NORM|00|01|DIS/CMD/DDI|Azorius Chancery
+PC|CUBE|C|NORM|00|01|RTR|Azorius Guildgate
+PC|CUBE|C|NORM|00|01|ONS/ARC/CMD/DDI/DDC|Barren Moor
+PC|CUBE|C|NORM|01|01|RAV|Boros Garrison
+PC|CUBE|C|NORM|01|01|GTC|Boros Guildgate
+PC|CUBE|C|NORM|00|01|ARN/TSP|Dessert
+PC|CUBE|C|NORM|00|01|RAV/CMD/HOP|Dimir Aqueduct
+PC|CUBE|C|NORM|00|01|GTC|Dimir Guildgate
+PC|CUBE|C|NORM|01|01|ROE|Evolving Wilds
+PC|CUBE|C|NORM|00|01|ONS/CMD/EVG/DDJ|Forgotten Cave
+PC|CUBE|C|NORM|00|01|RTR|Golgari Guildgate
+PC|CUBE|C|NORM|00|01|RAV/CMD/DDJ|Golgari Rot Farm
+PC|CUBE|C|NORM|00|01|MRD/HOP|Great Furnace
+PC|CUBE|C|NORM|00|01|GTC|Gruul Guildgate
+PC|CUBE|C|NORM|00|01|GPC/CMD/HOP/PC2|Gruul Turf
+PC|CUBE|C|NORM|00|01|DKA|Haunted Fengraf
+PC|CUBE|C|NORM|00|01|GPC/CMD/DDJ|Izzet Boilerworks
+PC|CUBE|C|NORM|01|01|RTR|Izzet Guildgate
+PC|CUBE|C|NORM|01|01|WWK|Khalni Garden
+PC|CUBE|C|NORM|00|01|ONS/CMD/DDJ|Lonely Sandbar
+PC|CUBE|C|NORM|00|01|GPC/CMD|Orzhov Basilica
+PC|CUBE|C|NORM|01|01|GTC|Orzhov Guildgate
+PC|CUBE|C|NORM|01|01|WWK|Quicksand
+PC|CUBE|C|NORM|01|01|DIS|Rakdos Carnarium
+PC|CUBE|C|NORM|00|01|GTC|Rakdos Guildgate
+PC|CUBE|C|NORM|00|01|MRD/DDF/HOP|Seat of the Synod
+PC|CUBE|C|NORM|00|01|ONS/ARC/CMD/DDC|Secluded Steppe
+PC|CUBE|C|NORM|01|01|WWK|Sejiri Steppe
+PC|CUBE|C|NORM|01|01|RTR|Selesnya Guildgate
+PC|CUBE|C|NORM|00|01|RAV/DDG/CMD/PL2|Selesnya Sanctuary
+PC|CUBE|C|NORM|01|01|LRW|Shimmering Grotto
+PC|CUBE|C|NORM|00|01|DIS/CMD|Simic Growth Chamber
+PC|CUBE|C|NORM|01|01|GTC|Simic Guildgate
+PC|CUBE|C|NORM|01|01|WWK|Smoldering Spires
+PC|CUBE|C|NORM|01|01|ZEN|Teetering Peaks
+PC|CUBE|C|NORM|01|01|M10|Terramorphic Expanse
+PC|CUBE|C|NORM|01|01|ARC|Tranquil Thicket
+PC|CUBE|C|NORM|00|01|MRD/PL2|Tree of Tales
+PC|CUBE|C|NORM|00|01|MRD/PL2|Vault of Whispers
