@@ -24,13 +24,13 @@ for my $card (@cards) {
     print "$num_wanted"."x ";
 
     if($fields[1] =~ m/MAIN|SIDE/) {
-        print '[b]' . $fields[7] . '[/b]';
+        print '[b]' . $fields[7] . '[/b] ' . $fields[6];
     }
     elsif($card =~ m/FOIL/) {
-        print '[FOIL]' . $fields[7] . '[/FOIL]';
+        print '[FOIL]' . $fields[7] . '[/FOIL] ' . $fields[6];
     }
     else {
-        print $fields[7];
+        print $fields[7] . ' ' . $fields[6];
     }
 
     print "\n";
