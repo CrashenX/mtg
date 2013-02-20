@@ -1,4 +1,4 @@
-#!/user/bin/perl
+#!/user/bin/perl -w
 use strict;
 use warnings FATAL => 'all';
 use File::Slurp;
