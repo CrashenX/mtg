@@ -840,7 +840,7 @@ PC|CUBE|C|NORM|01|01|10E|Youthful Knight
 --|FREE|R|FOIL|01|00|   |Archon of Redemption
 --|FREE|R|NORM|01|00|   |Archon of Redemption
 --|FREE|U|NORM|02|00|NPH|Argent Mutation
---|FREE|U|NORM|02|00|NPH|Arm with Aether
+--|FREE|U|NORM|01|00|NPH|Arm with Aether
 --|FREE|R|NORM|03|00|   |Armageddon
 --|FREE|U|NORM|02|00|M11|Armored Ascension
 --|FREE|U|NORM|03|00|ROE|Arrogant Bloodlord
@@ -851,7 +851,6 @@ PC|CUBE|C|NORM|01|01|10E|Youthful Knight
 --|FREE|U|NORM|06|04|SOM|Auriok Edgewright
 --|FREE|U|NORM|01|01|NPH|Auriok Survivors
 --|FREE|U|NORM|01|00|   |Autumn's Veil
---|FREE|U|NORM|01|00|DKA|Avacyn's Collar
 --|FREE|R|NORM|01|00|   |Awakening Zone
 --|FREE|U|NORM|01|00|DIS|Azorius Aethermage
 --|FREE|U|NORM|01|00|DIS|Azorius Herald
@@ -952,7 +951,6 @@ PC|CUBE|C|NORM|01|01|10E|Youthful Knight
 --|FREE|U|NORM|01|00|   |Condemn
 --|FREE|R|NORM|01|00|   |Conjurer's Closet
 --|FREE|R|NORM|01|00|   |Conquering Manticore
---|FREE|R|NORM|01|00|   |Conqueror's Pledge
 --|FREE|U|NORM|04|00|   |Consecrate Land
 --|FREE|U|NORM|02|00|   |Consume Spirit
 --|FREE|U|FOIL|01|00|   |Contagion Clasp
@@ -968,7 +966,6 @@ PC|CUBE|C|NORM|01|01|10E|Youthful Knight
 --|FREE|U|NORM|02|00|   |Corrupted Harvester
 --|FREE|U|NORM|02|00|   |Corrupted Resolve
 --|FREE|R|NORM|01|00|   |Cosi's Trickster
---|FREE|U|NORM|04|00|   |Countersquall
 --|FREE|U|NORM|01|00|   |Crab Umbra
 --|FREE|U|NORM|01|00|GTC|Crackling Perimeter
 --|FREE|R|NORM|01|00|   |Creeping Tar Pit
@@ -1105,7 +1102,6 @@ PC|CUBE|C|NORM|01|01|10E|Youthful Knight
 --|FREE|U|NORM|01|00|   |Gatstaf Howler
 --|FREE|U|NORM|01|00|   |Gavony Ironwright
 --|FREE|R|NORM|01|00|   |Gavony Township
---|FREE|R|NORM|01|00|   |Geist-Honored Monk
 --|FREE|R|FOIL|01|00|   |Gelatinous Genesis
 --|FREE|U|NORM|01|00|   |Geosurge
 --|FREE|U|NORM|04|00|   |Geth's Grimoire
@@ -1488,14 +1484,12 @@ PC|CUBE|C|NORM|01|01|10E|Youthful Knight
 --|FREE|U|NORM|01|00|   |Rod of Ruin
 --|FREE|U|NORM|01|00|   |Roughshod Mentor
 --|FREE|R|NORM|01|00|   |Rowen
---|FREE|R|NORM|04|00|   |Royal Assassin
+--|FREE|R|NORM|02|00|   |Royal Assassin
 --|FREE|U|NORM|03|00|   |Rumbling Aftershocks
 --|FREE|U|NORM|01|00|   |Runed Servitor
 --|FREE|U|NORM|04|00|   |Runeflare Trap
 --|FREE|U|NORM|04|00|   |Rust Tick
 --|FREE|U|NORM|02|00|   |Rusted Relic
---|FREE|R|FOIL|01|00|   |Sadistic Sacrament
---|FREE|R|NORM|01|00|   |Sadistic Sacrament
 --|FREE|U|NORM|04|04|MOR|Sage of Fables
 --|FREE|U|NORM|01|00|   |Sanguine Guard
 --|FREE|U|NORM|01|00|GTC|Sapphire Drake
@@ -1752,3 +1746,4 @@ PC|CUBE|C|NORM|01|01|10E|Youthful Knight
 --|FREE|U|NORM|02|00|   |Yavimaya Dryad
 --|FREE|U|NORM|03|00|GTC|Zameck Guildmage
 --|FREE|C|FOIL|01|00|   |Zendikar Farguide
+--|FREE|R|NORM|01|00|ISD|Isolated Chapel
