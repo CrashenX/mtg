@@ -553,7 +553,7 @@ PC|CUBE|C|NORM|00|01|AVR|Mist Raven
 PC|CUBE|C|NORM|01|01|ARC|Mistvein Borderpost
 PC|CUBE|C|NORM|01|01|ROE|Mnemonic Wall
 PC|CUBE|C|NORM|00|01|TMP|Mogg Fanatic
-PC|CUBE|C|NORM|00|01ALA|TSP/EVG|Mogg War Marshall
+PC|CUBE|C|NORM|00|01|ALA|TSP/EVG|Mogg War Marshall
 PC|CUBE|C|NORM|00|01|TSP|Momentary Blink
 PC|CUBE|C|NORM|00|01|LRW/DDF/EVG|Moonglove Extract
 PC|CUBE|C|NORM|01|01|NPH|Mortis Dogs
@@ -623,7 +623,7 @@ PC|CUBE|U|NORM|01|01|M11|Prodigal Pyromancer
 PC|CUBE|C|NORM|00|01|INV|Prohibit
 PC|CUBE|C|NORM|01|01|GTC|Prophetic Prism
 PC|CUBE|C|NORM|01|01|RTR|Pursuit of Flight
-PC|CUBE|C|NORM|00|01FOO|ARB/DDJ|Putrid Leech
+PC|CUBE|C|NORM|00|01|ARB/DDJ|Putrid Leech
 PC|CUBE|C|NORM|00|01|ARB/DDH|Qasali Pridemage
 PC|CUBE|C|NORM|01|01|WWK|Quicksand
 PC|CUBE|C|NORM|00|01|MIR/DDF|Raise the Alarm
