@@ -144,18 +144,20 @@ CC|DECK|R|NORM|00|01|SHM|Woodfall Primus
 CC|DECK|U|NORM|00|01|6ED/MIR|Worldly Tutor
 CC|DECK|R|NORM|00|01|9ED/10E/APC|Yavimaya Coast
 CC|DECK|R|NORM|00|01|UDS|Yavimaya Hollow
-CC|DECK|M|NORM|00|01|GTC|Prime Speaker Zegana
+CC|DECK|M|NORM|01|01|GTC|Prime Speaker Zegana
 CC|ALTS|R|NORM|01|01|ARC|Feral Hydra
+CC|ALTS|R|NORM|01|01|ISD|Creeping Renaissance
+CC|ALTS|R|NORM|01|01|ROE|Recurring Insight
 GW|MAIN|R|NORM|03|03|   |Armageddon
 GW|MAIN|M|NORM|01|01|   |Batterskull
 GW|MAIN|R|NORM|04|04|   |Birds of Paradise
 GW|MAIN|R|NORM|01|01|   |Dauntless Escort
 GW|MAIN|M|FOIL|01|01|   |Dryad Arbor
-GW|MAIN|U|NORM|01|01|   |Enlightened Tutor
+GW|MAIN|U|NORM|01|01|MIR|Enlightened Tutor
 GW|MAIN|U|NORM|01|01|   |Eternal Witness
 GW|MAIN|R|NORM|01|02|   |Flagstones of Trokair
 GW|MAIN|C|NORM|07|07|   |Forest
-GW|MAIN|M|FOIL|01|01|   |Glacial Chasm
+GW|MAIN|M|FOIL|01|01|V12|Glacial Chasm
 GW|MAIN|R|NORM|04|04|MBS|Green Sun's Zenith
 GW|MAIN|M|FOIL|02|02|   |Knight of the Reliquary
 GW|MAIN|R|NORM|02|02|   |Knight of the Reliquary
@@ -188,34 +190,36 @@ GW|SIDE|C|NORM|01|01|   |Qasali Pridemage
 GW|SIDE|M|NORM|01|01|   |Rampaging Baloths
 GW|SIDE|U|NORM|01|01|   |Rogue's Passage
 GW|SIDE|R|NORM|01|01|   |Ulvenwald Tracker
-LF|MAIN|M|NORM|00|00|   |Admonition Angel
+LF|MAIN|M|NORM|00|01|   |Admonition Angel
 LF|MAIN|R|NORM|01|01|   |Azusa, Lost but Seeking
 LF|MAIN|R|NORM|01|01|   |Banefire
 LF|MAIN|C|NORM|03|03|ICE|Brainstorm
-LF|MAIN|R|NORM|02|02|   |Crucible of Worlds
+LF|MAIN|R|NORM|02|02|10E|Crucible of Worlds
 LF|MAIN|U|NORM|01|01|   |Demonic Tutor
-LF|MAIN|U|NORM|02|02|   |Enlightened Tutor
+LF|MAIN|U|NORM|02|02|MIR|Enlightened Tutor
 LF|MAIN|R|NORM|02|02|USG|Exploration
 LF|MAIN|R|NORM|01|01|   |Fastbond
-LF|MAIN|U|NORM|04|04|   |Gemstone Mine
-LF|MAIN|U|NORM|04|04|   |Glacial Chasm
+LF|MAIN|U|NORM|04|04|TSP|Gemstone Mine
+LF|MAIN|U|NORM|04|04|ICE|Glacial Chasm
 LF|MAIN|C|NORM|02|02|   |Grazing Gladehart
-LF|MAIN|M|NORM|02|02|   |Lotus Cobra
+LF|MAIN|M|NORM|02|02|ZEN|Lotus Cobra
 LF|MAIN|R|NORM|01|01|   |Meloku the Clouded Mirror
 LF|MAIN|R|NORM|01|01|   |Oboro, Palace in the Clouds
-LF|MAIN|R|NORM|01|01|   |Oracle of Mul Daya
+LF|MAIN|R|NORM|01|01|ZEN|Oracle of Mul Daya
 LF|MAIN|C|NORM|01|01|   |Piranha Marsh
 LF|MAIN|R|NORM|01|01|   |Reflecting Pool
-LF|MAIN|U|NORM|02|02|   |Sterling Grove
+LF|MAIN|U|NORM|02|02|INV|Sterling Grove
 LF|MAIN|U|NORM|01|01|   |Strip Mine
-LF|MAIN|R|NORM|04|04|   |Tendo Ice Bridge
-LF|MAIN|R|NORM|02|02|   |Trade Routes
-LF|MAIN|U|NORM|04|04|   |Treva's Ruins
-LF|MAIN|R|NORM|02|02|   |Undiscovered Paradise
+LF|MAIN|R|NORM|04|04|BOK|Tendo Ice Bridge
+LF|MAIN|R|NORM|01|01|   |Trade Routes
+LF|MAIN|R|NORM|01|01|9ED|Trade Routes
+LF|MAIN|U|NORM|04|04|PLS|Treva's Ruins
+LF|MAIN|R|NORM|02|02|VIS|Undiscovered Paradise
 LF|MAIN|R|NORM|01|01|   |Vampiric Tutor
 LF|MAIN|R|NORM|01|01|   |Zur the Enchanter
-LF|MAIN|U|NORM|02|02|   |Zuran Orb
+LF|MAIN|U|NORM|02|02|ICE|Zuran Orb
 LF|SIDE|C|NORM|02|02|   |Grazing Gladehart
+LF|ALTS|R|NORM|01|01|GTC|Merciless Eviction
 WW|MAIN|U|NORM|03|04|M11|Ajani's Pridemate
 WW|MAIN|R|NORM|00|01|CHK|Eiganjo Castle
 WW|MAIN|M|NORM|01|01|ZEN|Felidar Sovereign
@@ -1062,7 +1066,7 @@ PC|CUBE|C|NORM|01|01|10E|Youthful Knight
 --|FREE|R|NORM|01|00|   |Ezuri, Renegade Leader
 --|FREE|U|NORM|01|00|   |Fall of the Gavel
 --|FREE|U|NORM|01|00|   |Fallen Ferromancer
---|FREE|R|NORM|01|00|   |Fastbond
+--|FREE|R|NORM|01|00|3ED|Fastbond
 --|FREE|R|FOIL|01|00|GTC|Fathom Mage (Promo)
 --|FREE|U|NORM|01|00|   |Favorable Winds
 --|FREE|U|NORM|04|00|   |Feast of Blood
@@ -1112,7 +1116,7 @@ PC|CUBE|C|NORM|01|01|10E|Youthful Knight
 --|FREE|R|NORM|01|00|   |Gigantiform
 --|FREE|R|FOIL|01|00|   |Gigantomancer
 --|FREE|U|NORM|03|00|EVE|Gilder Bairn
---|FREE|M|FOIL|01|00|   |Glacial Chasm
+--|FREE|M|FOIL|01|00|V12|Glacial Chasm
 --|FREE|R|NORM|01|00|   |Glacial Fortress
 --|FREE|U|NORM|01|00|   |Glasses of Urza
 --|FREE|R|NORM|02|02|EVE|Glen Elendra Archmage
@@ -1267,7 +1271,7 @@ PC|CUBE|C|NORM|01|01|10E|Youthful Knight
 --|FREE|R|NORM|01|00|   |Leonin Abunas
 --|FREE|U|NORM|02|00|   |Levitation
 --|FREE|R|NORM|02|00|   |Leyline of Anticipation
---|FREE|R|NORM|04|00|   |Leyline of Vitality
+--|FREE|R|NORM|04|00|M11|Leyline of Vitality
 --|FREE|U|NORM|01|00|   |Library of Leng
 --|FREE|R|NORM|01|00|   |Life's Finale
 --|FREE|U|NORM|02|00|   |Lifesmith
@@ -1341,7 +1345,7 @@ PC|CUBE|C|NORM|01|01|10E|Youthful Knight
 --|FREE|U|FOIL|01|00|   |Murasa Pyromancer
 --|FREE|U|NORM|03|00|   |Murder Crows
 --|FREE|U|NORM|01|00|GTC|Murder Investigation
---|FREE|R|NORM|01|00|   |Murkfiend Liege
+--|FREE|R|NORM|01|00|EVE|Murkfiend Liege
 --|FREE|U|NORM|01|00|   |Mwonvuli Beast Tracker
 --|FREE|R|NORM|01|00|   |Mycoloth
 --|FREE|U|NORM|01|00|   |Mycosynth Fiend
@@ -1375,7 +1379,7 @@ PC|CUBE|C|NORM|01|01|10E|Youthful Knight
 --|FREE|U|NORM|01|00|GTC|One Thousand Lashes
 --|FREE|U|NORM|01|00|   |Onyx Mage
 --|FREE|R|NORM|01|00|GTC|Ooze Flux
---|FREE|R|NORM|01|00|   |Oracle of Mul Daya
+--|FREE|R|NORM|01|00|ZEN|Oracle of Mul Daya
 --|FREE|U|NORM|01|00|   |Order of Yawgmoth
 --|FREE|U|NORM|00|04|GPT|Order of the Stars
 --|FREE|U|NORM|01|00|GTC|Ordruun Veteran
@@ -1458,7 +1462,6 @@ PC|CUBE|C|NORM|01|01|10E|Youthful Knight
 --|FREE|U|NORM|02|00|   |Reality Spasm
 --|FREE|U|NORM|01|00|   |Reaper of Sheoldred
 --|FREE|U|NORM|05|00|   |Reassembling Skeleton
---|FREE|R|NORM|01|00|   |Recurring Insight
 --|FREE|R|NORM|01|00|   |Regal Force
 --|FREE|U|NORM|01|00|   |Relentless Rats
 --|FREE|U|NORM|03|00|CON|Reliquary Tower
@@ -1744,3 +1747,18 @@ PC|CUBE|C|NORM|01|01|10E|Youthful Knight
 --|FREE|U|NORM|02|00|   |Yavimaya Dryad
 --|FREE|U|NORM|03|00|GTC|Zameck Guildmage
 --|FREE|C|FOIL|01|00|   |Zendikar Farguide
+--|FREE|R|NORM|01|00|GTC|Soul Ransom
+--|FREE|R|NORM|01|00|AVR|Stolen Goods
+--|FREE|R|NORM|01|00|GTC|Rubblehulk
+--|FREE|R|NORM|01|00|GTC|Alms Beast
+--|FREE|R|NORM|01|01|RTR|Corpsejack Menance
+--|FREE|R|NORM|01|00|ISD|Devil's Play
+--|FREE|R|NORM|01|01|ISD|Snapcaster Mage
+--|FREE|R|NORM|01|01|ISD|Moldgraf Monstrosity
+--|FREE|R|NORM|01|01|ISD|Clifftop Retreat
+--|FREE|R|NORM|01|01|RTR|Pithing Needle
+--|FREE|R|NORM|01|00|ISD|Sever the Bloodline
+--|FREE|R|NORM|01|01|ISD|Parallel Lives
+--|FREE|R|NORM|01|00|ISD|Elder of Laurels
+--|FREE|R|NORM|01|00|ISD|Creepy Doll
+--|FREE|M|NORM|01|00|ISD|Skaab Ruinator
