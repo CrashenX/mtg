@@ -445,8 +445,8 @@ PC|CUBE|C|NORM|00|01|LRW|Gilt-Leaf Ambush
 PC|CUBE|C|NORM|01|01|NPH|Gitaxian Probe
 PC|CUBE|C|NORM|01|01|SOM|Glint Hawk Idol
 PC|CUBE|C|NORM|01|01|NPH|Glistener Elf
-PC|CUBE|C|NORM|00|01|ZEN|Goblin Bushwhacker
-PC|CUBE|C|NORM|00|01|RTR|Goblin Electromancer
+PC|CUBE|C|NORM|01|01|ZEN|Goblin Bushwhacker
+PC|CUBE|C|NORM|01|01|RTR|Goblin Electromancer
 PC|CUBE|C|NORM|00|01|APC|Goblin Legionnaire
 PC|CUBE|C|NORM|01|01|ZEN|Goblin Shortcutter
 PC|CUBE|C|NORM|01|01|ZEN|Goblin War Paint
@@ -549,7 +549,7 @@ PC|CUBE|C|NORM|01|01|NPH|Maul Splicer
 PC|CUBE|C|NORM|01|01|M10|Merfolk Looter
 PC|CUBE|C|NORM|00|01|TOR|Mesmeric Fiend
 PC|CUBE|C|NORM|00|01|ULG|Miscalculation
-PC|CUBE|C|NORM|00|01|AVR|Mist Raven
+PC|CUBE|C|NORM|01|01|AVR|Mist Raven
 PC|CUBE|C|NORM|01|01|ARC|Mistvein Borderpost
 PC|CUBE|C|NORM|01|01|ROE|Mnemonic Wall
 PC|CUBE|C|NORM|00|01|TMP|Mogg Fanatic
@@ -706,7 +706,7 @@ PC|CUBE|C|NORM|01|01|RTR|Splatter Thug
 PC|CUBE|C|NORM|00|01|FUT|Sprout Swarm
 PC|CUBE|C|NORM|00|01|CSP|Squall Drifter
 PC|CUBE|C|NORM|00|01|RTR|Stab Wound
-PC|CUBE|C|NORM|00|01|ROE|Staggershock
+PC|CUBE|C|NORM|01|01|ROE|Staggershock
 PC|CUBE|C|NORM|00|01|APC|Standard Bearer
 PC|CUBE|C|NORM|01|01|RTR|Stealer of Secrets
 PC|CUBE|C|NORM|00|01|GPC/DDH/DDJ|Steamcore Weird
