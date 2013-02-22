@@ -964,6 +964,7 @@ PC|CUBE|C|NORM|01|01|10E|Youthful Knight
 --|FREE|M|FOIL|01|00|V12|Boseiju, Who Shelters All
 --|FREE|U|NORM|01|00|   |Brace for Impact
 --|FREE|U|NORM|01|00|   |Brain Pry
+--|FREE|C|NORM|02|00|ICE|Brainstorm
 --|FREE|U|NORM|01|00|   |Bramblecrush
 --|FREE|U|NORM|01|00|   |Bramblesnap
 --|FREE|U|NORM|01|00|   |Brass Squire
@@ -1036,6 +1037,7 @@ PC|CUBE|C|NORM|01|01|10E|Youthful Knight
 --|FREE|R|NORM|01|00|ISD|Creepy Doll
 --|FREE|U|NORM|01|00|   |Crown of Empires
 --|FREE|U|NORM|01|00|GTC|Crowned Ceratok
+--|FREE|R|NORM|01|00|10E|Crucible of Worlds
 --|FREE|U|NORM|01|00|   |Crumbling Colossus
 --|FREE|R|NORM|01|00|   |Crypt of Agadeem
 --|FREE|R|NORM|02|00|   |Cryptoplasm
@@ -1119,6 +1121,7 @@ PC|CUBE|C|NORM|01|01|10E|Youthful Knight
 --|FREE|U|NORM|01|00|   |Exclusion Ritual
 --|FREE|R|NORM|03|00|CON|Exotic Orchard
 --|FREE|U|NORM|01|00|GTC|Experiment One
+--|FREE|R|NORM|01|01|USG|Exploration
 --|FREE|U|NORM|03|00|   |Explosive Revelation
 --|FREE|U|NORM|01|00|   |Exsanguinate
 --|FREE|R|NORM|01|00|   |Ezuri's Brigade
@@ -1165,6 +1168,7 @@ PC|CUBE|C|NORM|01|01|10E|Youthful Knight
 --|FREE|U|NORM|01|00|   |Gavony Ironwright
 --|FREE|R|NORM|01|00|   |Gavony Township
 --|FREE|R|FOIL|01|00|   |Gelatinous Genesis
+--|FREE|U|NORM|03|03|   |Gemstone Mine
 --|FREE|U|NORM|01|00|   |Geosurge
 --|FREE|U|NORM|04|00|   |Geth's Grimoire
 --|FREE|U|NORM|03|00|   |Geyser Glider
@@ -1174,6 +1178,7 @@ PC|CUBE|C|NORM|01|01|10E|Youthful Knight
 --|FREE|R|NORM|01|00|   |Gigantiform
 --|FREE|R|FOIL|01|00|   |Gigantomancer
 --|FREE|U|NORM|03|00|EVE|Gilder Bairn
+--|FREE|U|NORM|04|04|ICE|Glacial Chasm
 --|FREE|U|NORM|01|00|   |Glasses of Urza
 --|FREE|R|NORM|02|02|EVE|Glen Elendra Archmage
 --|FREE|U|NORM|06|00|   |Glimmerpoint Stag
@@ -1333,6 +1338,7 @@ PC|CUBE|C|NORM|01|01|10E|Youthful Knight
 --|FREE|U|NORM|05|00|   |Living Tsunami
 --|FREE|U|NORM|01|00|ARC|Llanowar Reborn
 --|FREE|M|NORM|01|00|   |Lorthos, the Tidemaker
+--|FREE|M|NORM|01|01|ZEN|Lotus Cobra
 --|FREE|R|NORM|01|00|   |Loxodon Warhammer
 --|FREE|R|NORM|04|00|   |Loyal Sentry
 --|FREE|U|NORM|01|00|   |Lumberknot
@@ -1621,6 +1627,7 @@ PC|CUBE|C|NORM|01|01|10E|Youthful Knight
 --|FREE|U|NORM|02|00|   |Spirit Link
 --|FREE|C|FOIL|01|00|   |Spiritual Visit
 --|FREE|U|NORM|02|00|   |Sprouting Thrinax
+--|FREE|U|NORM|01|01|INV|Sterling Grove
 --|FREE|U|NORM|01|00|   |Stern Mentor
 --|FREE|U|NORM|01|00|   |Stern Mentor
 --|FREE|U|NORM|01|00|   |Stoic Ephemera
@@ -1655,6 +1662,7 @@ PC|CUBE|C|NORM|01|01|10E|Youthful Knight
 --|FREE|R|NORM|01|00|   |Teferi's Imp
 --|FREE|R|NORM|01|00|   |Telemin Performance
 --|FREE|U|NORM|02|00|   |Telepathy
+--|FREE|R|NORM|03|03|BOK|Tendo Ice Bridge
 --|FREE|R|NORM|02|00|   |Terastodon
 --|FREE|R|NORM|01|01|DKA|Thalia, Guardian of Thraben
 --|FREE|U|NORM|02|00|   |Thornscape Battlemage
@@ -1674,12 +1682,14 @@ PC|CUBE|C|NORM|01|01|10E|Youthful Knight
 --|FREE|U|FOIL|01|00|GTC|Tower Defense
 --|FREE|U|NORM|01|00|GTC|Tower Defense
 --|FREE|U|NORM|01|00|   |Tracker's Instincts
+--|FREE|R|NORM|01|01|9ED|Trade Routes
 --|FREE|U|NORM|03|00|   |Trailblazer's Boots
 --|FREE|R|FOIL|01|00|ROE|Training Grounds
 --|FREE|U|NORM|01|00|   |Trapmaker's Snare
 --|FREE|R|NORM|01|00|   |Traumatize
 --|FREE|R|NORM|01|00|GTC|Treasury Thrull
 --|FREE|U|NORM|01|00|   |Treva's Charm
+--|FREE|U|NORM|03|03|PLS|Treva's Ruins
 --|FREE|U|FOIL|01|00|   |Trigon of Corruption
 --|FREE|U|NORM|03|00|   |Trigon of Corruption
 --|FREE|U|NORM|01|00|   |Trigon of Infestation
@@ -1708,6 +1718,7 @@ PC|CUBE|C|NORM|01|01|10E|Youthful Knight
 --|FREE|R|NORM|01|00|   |Unbreathing Horde
 --|FREE|R|NORM|01|00|   |Undead Alchemist
 --|FREE|R|NORM|04|00|   |Underworld Dreams
+--|FREE|R|NORM|01|01|VIS|Undiscovered Paradise
 --|FREE|R|NORM|02|00|GTC|Unexpected Results
 --|FREE|U|NORM|03|00|   |Unstable Footing
 --|FREE|C|FOIL|01|00|   |Untamed Might
@@ -1784,15 +1795,4 @@ PC|CUBE|C|NORM|01|01|10E|Youthful Knight
 --|FREE|U|NORM|02|00|   |Yavimaya Dryad
 --|FREE|U|NORM|03|00|GTC|Zameck Guildmage
 --|FREE|C|FOIL|01|00|   |Zendikar Farguide
---|FREE|C|NORM|02|00|ICE|Brainstorm
---|FREE|R|NORM|01|00|10E|Crucible of Worlds
---|FREE|R|NORM|01|01|USG|Exploration
---|FREE|U|NORM|03|03|   |Gemstone Mine
---|FREE|U|NORM|04|04|ICE|Glacial Chasm
---|FREE|M|NORM|01|01|ZEN|Lotus Cobra
---|FREE|U|NORM|01|01|INV|Sterling Grove
---|FREE|R|NORM|01|01|9ED|Trade Routes
---|FREE|U|NORM|03|03|PLS|Treva's Ruins
---|FREE|R|NORM|03|03|BOK|Tendo Ice Bridge
---|FREE|R|NORM|01|01|VIS|Undiscovered Paradise
 --|FREE|U|NORM|01|01|ICE|Zuran Orb
