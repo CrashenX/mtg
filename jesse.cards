@@ -72,6 +72,7 @@ MR|MAIN|R|NORM|01|01|M11|Steel Overseer
 MR|MAIN|R|NORM|02|02|SOM|Tempered Steel
 MR|MAIN|R|NORM|01|01|NPH|Unwinding Clock
 MR|ALTS|R|NORM|01|01|SOM|Grand Architect
+MR|ALTS|R|NORM|01|01|SOM|Kuldotha Phoenix
 CC|DECK|R|NORM|00|01|AVR|Alchemist's Refuge
 CC|DECK|U|NORM|00|01|CON/H09|Ancient Ziggurat
 CC|DECK|R|NORM|01|01|10E|Arcanis the Omnipotent
@@ -294,6 +295,7 @@ LF|DECK|R|NORM|01|01|VIS|Undiscovered Paradise
 LF|DECK|R|NORM|01|01|VIS|Vampiric Tutor
 LF|DECK|R|NORM|01|01|CSP|Zur the Enchanter
 LF|DECK|U|NORM|01|01|ICE|Zuran Orb
+LF|ALTS|R|NORM|01|01|SOK|Kataki, War's Wage
 WW|MAIN|U|NORM|03|04|M11|Ajani's Pridemate
 WW|MAIN|R|NORM|00|01|CHK|Eiganjo Castle
 WW|MAIN|M|NORM|01|01|ZEN|Felidar Sovereign
@@ -346,6 +348,8 @@ TS|SIDE|R|NORM|01|01|SOM|Etched Champion
 TS|SIDE|R|NORM|01|01|ZEN|Grappling Hook
 TS|SIDE|M|NORM|01|01|   |Indomitable Archangel
 TS|SIDE|C|NORM|02|02|   |Kor Outfitter
+TS|SIDE|R|NORM|01|01|SOM|Livewire Lash
+TS|SIDE|R|NORM|01|01|DPA|Loxodon Warhammer
 PC|CUBE|C|NORM|01|01|ZEN|Adventuring Gear
 PC|CUBE|C|NORM|00|01|M11/M12|Aether Adept
 PC|CUBE|C|NORM|00|01|ALA/ARC|Agony Warp
@@ -416,7 +420,7 @@ PC|CUBE|C|NORM|00|01|DST|Chittering Rats
 PC|CUBE|C|NORM|00|01|MRD/INV|Chromatic Sphere
 PC|CUBE|C|NORM|00|01|10E/TSP|Chromatic Star
 PC|CUBE|C|NORM|01|01|SOM|Chrome Steed
-PC|CUBE|C|NORM|01|01|(M)|Civic Wayfinder
+PC|CUBE|C|NORM|01|01|DPA|Civic Wayfinder
 PC|CUBE|C|NORM|01|01|ISD|Claustrophobia
 PC|CUBE|C|NORM|00|01|STH/POR|Cloud Spirit
 PC|CUBE|C|NORM|00|01|ULG|Cloud of Faeries
@@ -1252,12 +1256,12 @@ PC|CUBE|C|NORM|01|01|10E|Youthful Knight
 --|FREE|U|NORM|01|00|GTC|Hindervines
 --|FREE|U|NORM|01|00|GTC|Hindervines
 --|FREE|R|NORM|01|00|ISD|Hinterland Harbor
---|FREE|R|NORM|01|00|   |Hoarding Dragon
---|FREE|R|NORM|01|00|BOK|Hokori, Dust Drinker
+--|FREE|R|NORM|01|00|M11|Hoarding Dragon
+--|FREE|R|NORM|01|01|BOK|Hokori, Dust Drinker
 --|FREE|U|NORM|01|00|GTC|Hold the Gates
 --|FREE|U|NORM|01|00|   |Hollowhenge Scavenger
 --|FREE|U|NORM|02|00|   |Homicidal Seclusion
---|FREE|R|NORM|01|00|   |Homura, Human Ascendant
+--|FREE|R|NORM|01|00|SOK|Homura, Human Ascendant
 --|FREE|U|NORM|01|00|   |Honden of Cleansing Fire
 --|FREE|U|NORM|01|00|   |Honden of Infinite Rage
 --|FREE|U|NORM|01|00|   |Honden of Life's Web
@@ -1268,16 +1272,17 @@ PC|CUBE|C|NORM|01|01|10E|Youthful Knight
 --|FREE|U|NORM|01|00|   |Hover Barrier
 --|FREE|U|NORM|02|00|   |Howl of the Night Pack
 --|FREE|U|NORM|04|00|   |Howling Banshee
---|FREE|R|NORM|02|00|   |Howling Mine
+--|FREE|R|NORM|01|01|CMD|Howling Mine
+--|FREE|R|NORM|01|00|4ED|Howling Mine
 --|FREE|U|NORM|01|00|AVR|Human Frality
 --|FREE|U|NORM|01|00|   |Hunting Moa
 --|FREE|U|NORM|02|00|   |Ichor Explosion
 --|FREE|U|NORM|08|00|   |Ichor Rats
 --|FREE|U|NORM|01|00|   |Ignite Disorder
---|FREE|R|NORM|01|00|   |Immortal Coil
+--|FREE|R|NORM|01|00|ALA|Immortal Coil
 --|FREE|U|NORM|01|00|   |Incremental Blight
 --|FREE|R|NORM|01|00|SOM|Inexorable Tide
---|FREE|R|NORM|01|00|   |Infernal Kirin
+--|FREE|R|NORM|01|00|SOK|Infernal Kirin
 --|FREE|U|NORM|02|00|   |Inferno Trap
 --|FREE|U|NORM|02|00|   |Infiltration Lens
 --|FREE|U|NORM|01|00|   |Inkfathom Infiltrator
@@ -1286,77 +1291,73 @@ PC|CUBE|C|NORM|01|01|10E|Youthful Knight
 --|FREE|U|NORM|03|00|   |Inquisitor Exarch
 --|FREE|U|NORM|02|00|   |Inquisitor's Flail
 --|FREE|U|NORM|01|00|   |Into the Maw of Hell
---|FREE|R|FOIL|01|00|   |Invader Parasite
+--|FREE|R|FOIL|01|00|NPH|Invader Parasite
 --|FREE|U|NORM|01|00|   |Irrestible Prey
---|FREE|R|NORM|01|00|   |Isamaru, Hound of Konda
+--|FREE|R|NORM|01|01|CHK|Isamaru, Hound of Konda
 --|FREE|U|NORM|02|00|   |Isolation Cell
 --|FREE|U|NORM|02|00|   |Ivory Crane Netsuke
---|FREE|R|NORM|01|00|   |Jinxed Idol
---|FREE|R|NORM|02|00|   |Jiwari, the Earth Aflame
---|FREE|R|NORM|01|00|   |Jor Kadeen, the Prevailer
+--|FREE|R|NORM|01|00|M11|Jinxed Idol
+--|FREE|R|NORM|02|00|SOK|Jiwari, the Earth Aflame
+--|FREE|R|NORM|01|00|NPH|Jor Kadeen, the Prevailer
 --|FREE|U|NORM|02|00|   |Juggernaut
 --|FREE|U|NORM|03|00|   |Jund Battlemage
 --|FREE|U|NORM|01|00|   |Jund Charm
 --|FREE|U|NORM|03|00|   |Jwar Isle Refuge
 --|FREE|U|NORM|01|00|   |Kabira Vindicator
 --|FREE|U|NORM|02|00|   |Kashi-Tribe Elite
---|FREE|R|NORM|01|00|   |Kataki, War's Wage
 --|FREE|U|NORM|02|00|   |Kazandu Blademaster
 --|FREE|U|NORM|03|00|   |Kazandu Refuge
---|FREE|R|NORM|01|00|   |Kazuul Warlord
---|FREE|R|NORM|01|00|   |Kazuul, Tyrant of the Cliffs
+--|FREE|R|NORM|01|00|ZEN|Kazuul Warlord
+--|FREE|R|NORM|01|00|WWK|Kazuul, Tyrant of the Cliffs
 --|FREE|U|NORM|01|00|   |Kemba's Legion
---|FREE|R|NORM|02|00|   |Kemba, Kha Regent
---|FREE|R|FOIL|01|00|   |Kessig Cagebreakers
---|FREE|R|NORM|01|00|   |Kessig Cagebreakers
+--|FREE|R|NORM|02|00|SOM|Kemba, Kha Regent
+--|FREE|R|FOIL|01|00|ISD|Kessig Cagebreakers
+--|FREE|R|NORM|01|00|ISD|Kessig Cagebreakers
 --|FREE|U|NORM|01|00|   |Kessig Malcontents
 --|FREE|U|NORM|05|00|   |Khalni Gem
 --|FREE|C|FOIL|01|00|   |Khalni Heart Expedition
---|FREE|M|NORM|01|00|   |Khalni Hydra
+--|FREE|M|NORM|01|01|ROE|Khalni Hydra
 --|FREE|U|NORM|02|00|   |Kiku's Shadow
 --|FREE|U|NORM|01|00|GTC|Killing Glare
 --|FREE|U|NORM|02|00|   |Kiln Walker
 --|FREE|U|NORM|04|00|   |Kiri-Onna
 --|FREE|U|NORM|01|00|   |Kismet
 --|FREE|U|NORM|01|00|   |Kite Shield
---|FREE|R|NORM|01|00|   |Kiyomaro, First to Stand
+--|FREE|R|NORM|01|00|SOK|Kiyomaro, First to Stand
 --|FREE|U|NORM|01|00|   |Knight of Dawn
---|FREE|R|NORM|01|00|   |Knowledge Pool
+--|FREE|R|NORM|01|00|MBS|Knowledge Pool
 --|FREE|U|NORM|03|00|   |Kor Aeronaut
 --|FREE|U|FOIL|01|00|ZEN|Kor Duelist
 --|FREE|U|FOIL|01|00|   |Kor Skyfisher
 --|FREE|U|NORM|01|00|   |Krosan Verge
---|FREE|R|NORM|02|00|   |Kuldotha Phoenix
+--|FREE|R|NORM|01|00|SOM|Kuldotha Phoenix
 --|FREE|U|FOIL|01|00|   |Landbind Ritual
 --|FREE|U|NORM|03|00|   |Landbind Ritual
---|FREE|R|NORM|01|00|   |Lashwrithe
+--|FREE|R|NORM|01|00|NPH|Lashwrithe
 --|FREE|U|NORM|01|00|   |Latch Seeker
---|FREE|R|NORM|03|00|   |Lavaball Trap
+--|FREE|R|NORM|03|00|ZEN|Lavaball Trap
 --|FREE|U|NORM|01|00|   |Lead the Stampede
 --|FREE|U|NORM|03|00|   |Leatherback Baloth
 --|FREE|U|NORM|05|00|SHM|Leech Bonder
 --|FREE|R|NORM|01|00|GTC|Legion Loyalist
 --|FREE|U|NORM|02|00|   |Levitation
---|FREE|R|NORM|02|00|   |Leyline of Anticipation
+--|FREE|R|NORM|02|01|M11|Leyline of Anticipation
 --|FREE|R|NORM|04|00|M11|Leyline of Vitality
 --|FREE|U|NORM|01|00|   |Library of Leng
---|FREE|R|NORM|01|00|   |Life's Finale
+--|FREE|R|NORM|01|00|NPH|Life's Finale
 --|FREE|U|NORM|02|00|   |Lifesmith
 --|FREE|U|NORM|03|00|   |Lightkeeper of Emeria
 --|FREE|U|NORM|02|00|   |Lightning Greaves
 --|FREE|U|NORM|04|00|   |Liliana's Caress
 --|FREE|U|NORM|04|00|   |Liquimetal Coating
---|FREE|R|NORM|01|00|   |Livewire Lash
---|FREE|R|NORM|01|00|   |Living Death
+--|FREE|R|NORM|01|00|DDE|Living Death
 --|FREE|U|NORM|05|00|   |Living Tsunami
 --|FREE|U|NORM|01|00|ARC|Llanowar Reborn
---|FREE|M|NORM|01|00|   |Lorthos, the Tidemaker
+--|FREE|M|NORM|01|00|ZEN|Lorthos, the Tidemaker
 --|FREE|M|NORM|01|01|ZEN|Lotus Cobra
---|FREE|R|NORM|01|00|   |Loxodon Warhammer
---|FREE|R|NORM|04|00|   |Loyal Sentry
+--|FREE|R|NORM|04|00|DDF|Loyal Sentry
 --|FREE|U|NORM|01|00|   |Lumberknot
---|FREE|R|NORM|01|00|GTC|Luminate Primordial
---|FREE|R|NORM|01|00|GTC|Luminate Primordial
+--|FREE|R|NORM|02|00|GTC|Luminate Primordial
 --|FREE|U|FOIL|01|00|   |Lure
 --|FREE|U|NORM|01|00|   |Lure
 --|FREE|U|NORM|01|00|   |Lust for War
