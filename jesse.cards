@@ -73,6 +73,7 @@ MR|MAIN|R|NORM|02|02|SOM|Tempered Steel
 MR|MAIN|R|NORM|01|01|NPH|Unwinding Clock
 MR|ALTS|R|NORM|01|01|SOM|Grand Architect
 MR|ALTS|R|NORM|01|01|SOM|Kuldotha Phoenix
+MR|ALTS|R|NORM|01|01|MBS|Myr Welder
 CC|DECK|R|NORM|00|01|AVR|Alchemist's Refuge
 CC|DECK|U|NORM|00|01|CON/H09|Ancient Ziggurat
 CC|DECK|R|NORM|01|01|10E|Arcanis the Omnipotent
@@ -322,7 +323,7 @@ TS|MAIN|C|NORM|04|04|MRD|Ancient Den
 TS|MAIN|R|NORM|01|01|SOM|Argentum Armor
 TS|MAIN|C|NORM|04|04|DST|Darksteel Citadel
 TS|MAIN|M|NORM|00|01|DKA|Elbrus, the Binding Blade
-TS|MAIN|U|NORM|03|04|DKA|Faith's Shield
+TS|MAIN|U|NORM|04|04|DKA|Faith's Shield
 TS|MAIN|C|NORM|03|03|MBS|Flayer Husk
 TS|MAIN|R|NORM|01|01|DST|Heartseeker
 TS|MAIN|I|NORM|01|01|SOM|Infiltration Lens
