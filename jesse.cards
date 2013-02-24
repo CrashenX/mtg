@@ -559,7 +559,7 @@ PC|CUBE|C|NORM|00|01|ROE|Halimar Wavewatch
 PC|CUBE|C|NORM|00|01|DKA|Haunted Fengraf
 PC|CUBE|C|NORM|00|01|CHK|Hearth Kami
 PC|CUBE|C|NORM|01|01|ZEN|Hideous End
-PC|CUBE|C|NORM|00|01|DKA|Highborn Ghoul
+PC|CUBE|C|NORM|01|01|DKA|Highborn Ghoul
 PC|CUBE|C|NORM|01|01|ALA|Hissing Iguanar
 PC|CUBE|C|NORM|01|01|SOM|Horizon Spellbomb
 PC|CUBE|C|NORM|01|01|NPH|Hovermyr
@@ -726,7 +726,7 @@ PC|CUBE|C|NORM|00|01|M13|Reckless Brute
 PC|CUBE|C|NORM|00|01|INV/DDH|Recoil
 PC|CUBE|C|NORM|00|01|10E/INV|Recover
 PC|CUBE|C|NORM|00|01|EVE/DDH|Recumbent Bliss
-PC|CUBE|C|NORM|00|01|NPH|Remember the Fallen
+PC|CUBE|C|NORM|01|01|NPH|Remember the Fallen
 PC|CUBE|C|NORM|00|01|10E/LEG/CHR|Remove Soul
 PC|CUBE|C|NORM|00|01|EVE|Rendclaw Trow
 PC|CUBE|C|NORM|00|01|GPC|Repeal
