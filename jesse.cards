@@ -377,9 +377,9 @@ PC|CUBE|C|NORM|01|01|SOM|Auriok Sunchaser
 PC|CUBE|C|NORM|01|01|ISD|Avancynian Priest
 PC|CUBE|C|NORM|01|01|M13|Aven Squire
 PC|CUBE|C|NORM|01|01|RTR|Axebane Guardian
-PC|CUBE|C|NORM|00|01|RTR|Azorius Arrester
+PC|CUBE|C|NORM|01|01|RTR|Azorius Arrester
 PC|CUBE|C|NORM|00|01|DIS/CMD/DDI|Azorius Chancery
-PC|CUBE|C|NORM|00|01|RTR|Azorius Guildgate
+PC|CUBE|C|NORM|01|01|RTR|Azorius Guildgate
 PC|CUBE|C|NORM|00|01|SHM|Ballynock Cohort
 PC|CUBE|C|NORM|00|01|EVE|Ballynock Trapper
 PC|CUBE|C|NORM|00|01|ONS/ARC/CMD/DDI/DDC|Barren Moor
@@ -471,7 +471,7 @@ PC|CUBE|C|NORM|01|01|ZEN|Disfigure
 PC|CUBE|C|NORM|01|01|ALA|Dispeller's Capsule
 PC|CUBE|C|NORM|01|01|M10|Doom Blade
 PC|CUBE|C|NORM|01|01|ISD|Doomed Traveler
-PC|CUBE|C|NORM|00|01|RTR|Doorkeeper
+PC|CUBE|C|NORM|01|01|RTR|Doorkeeper
 PC|CUBE|C|NORM|00|01|ALA/ARC/HOP|Dregscape Zombie
 PC|CUBE|C|NORM|00|01|DST|Dross Golem
 PC|CUBE|C|NORM|00|01|M13|Duty-Bound Dead
@@ -539,7 +539,7 @@ PC|CUBE|C|NORM|01|01|ZEN|Goblin War Paint
 PC|CUBE|C|NORM|01|01|SOM|Gold Myr
 PC|CUBE|C|NORM|00|01|LRW/DDF|Goldmeadow Harrier
 PC|CUBE|C|NORM|00|01|RAV|Golgari Brownscale
-PC|CUBE|C|NORM|00|01|RTR|Golgari Guildgate
+PC|CUBE|C|NORM|01|01|RTR|Golgari Guildgate
 PC|CUBE|C|NORM|00|01|RAV/CMD/DDJ|Golgari Rot Farm
 PC|CUBE|C|NORM|01|01|RTR|Gore-House Chainwalker
 PC|CUBE|C|NORM|00|01|M12|Gorehorn Minotaurs
@@ -550,7 +550,7 @@ PC|CUBE|C|NORM|01|01|ZEN|Grazing Gladeheart
 PC|CUBE|C|NORM|00|01|MRD/HOP|Great Furnace
 PC|CUBE|C|NORM|01|01|NPH|Grim Affliction
 PC|CUBE|C|NORM|01|01|WWK|Groundswell
-PC|CUBE|C|NORM|00|01|GTC|Gruul Guildgate
+PC|CUBE|C|NORM|01|01|GTC|Gruul Guildgate
 PC|CUBE|C|NORM|00|01|GPC/CMD/HOP/PC2|Gruul Turf
 PC|CUBE|C|NORM|01|01|AVR|Gryff Vanguard
 PC|CUBE|C|NORM|01|01|DIS|Guardian of the Guildpact
@@ -596,7 +596,7 @@ PC|CUBE|C|NORM|01|01|WWK|Khalni Garden
 PC|CUBE|C|NORM|01|01|ROE|Kiln Fiend
 PC|CUBE|C|NORM|01|01|WWK|Kitesail
 PC|CUBE|C|NORM|01|01|ROE|Knight of Cliffhaven
-PC|CUBE|C|NORM|00|01|RTR|Knightly Valor
+PC|CUBE|C|NORM|01|01|RTR|Knightly Valor
 PC|CUBE|C|NORM|01|01|ZEN|Kor Hookmaster
 PC|CUBE|C|NORM|01|01|ZEN|Kor Sanctifiers
 PC|CUBE|C|NORM|01|01|ZEN|Kor Skyfisher
@@ -714,7 +714,7 @@ PC|CUBE|C|NORM|00|01|ARB|Qasali Pridemage
 PC|CUBE|C|NORM|01|01|WWK|Quicksand
 PC|CUBE|C|NORM|00|01|MIR/DDF|Raise the Alarm
 PC|CUBE|C|NORM|01|01|DIS|Rakdos Carnarium
-PC|CUBE|C|NORM|00|01|GTC|Rakdos Guildgate
+PC|CUBE|C|NORM|01|01|RTR|Rakdos Guildgate
 PC|CUBE|C|NORM|01|01|RTR|Rakdos Shred-Freak
 PC|CUBE|C|NORM|00|01|RAV|Rally the Righteous
 PC|CUBE|C|NORM|01|01|ARC|Rancor
@@ -754,7 +754,7 @@ PC|CUBE|C|NORM|00|01|RAV/DDG/CMD/PC2|Selesnya Sanctuary
 PC|CUBE|C|NORM|01|01|AVR|Seraph of Dawn
 PC|CUBE|C|NORM|00|01|HML/TSP/DDD|Serrated Arrows
 PC|CUBE|C|NORM|00|01|M13|Servant of Nefarox
-PC|CUBE|C|NORM|00|01|RTR|Sewer Shambler
+PC|CUBE|C|NORM|01|01|RTR|Sewer Shambler
 PC|CUBE|C|NORM|00|01|RAV/DDJ|Shambling Shell
 PC|CUBE|C|NORM|00|01|PLC|Shaper Parasite
 PC|CUBE|C|NORM|00|01|ONS/PLC|Shepherd of Rot
@@ -791,7 +791,7 @@ PC|CUBE|C|NORM|00|01|DST/DD2|Spire Golem
 PC|CUBE|C|NORM|01|01|RTR|Splatter Thug
 PC|CUBE|C|NORM|00|01|FUT|Sprout Swarm
 PC|CUBE|C|NORM|00|01|CSP|Squall Drifter
-PC|CUBE|C|NORM|00|01|RTR|Stab Wound
+PC|CUBE|C|NORM|01|01|RTR|Stab Wound
 PC|CUBE|C|NORM|01|01|ROE|Staggershock
 PC|CUBE|C|NORM|00|01|APC|Standard Bearer
 PC|CUBE|C|NORM|01|01|RTR|Stealer of Secrets
@@ -858,7 +858,7 @@ PC|CUBE|C|NORM|00|01|ARB|Veinfire Borderpost
 PC|CUBE|C|NORM|01|01|ROE|Vendetta
 PC|CUBE|C|NORM|01|01|ROE|Vent Sentinel
 PC|CUBE|C|NORM|00|01|M10|Veteran Swordsmith
-PC|CUBE|C|NORM|00|01|RTR|Viashino Racketeer
+PC|CUBE|C|NORM|01|01|RTR|Viashino Racketeer
 PC|CUBE|C|NORM|01|01|ISD|Victim of Night
 PC|CUBE|C|NORM|01|01|ZEN|Vines of Vastwood
 PC|CUBE|C|NORM|01|01|MOR|Violet Pall
