@@ -925,6 +925,7 @@ PC|CUBE|C|NORM|01|01|10E|Youthful Knight
 --|FREE|R|NORM|03|01|ZEN|Archmage Ascension
 --|FREE|R|FOIL|01|00|WWK|Archon of Redemption
 --|FREE|R|NORM|01|00|WWK|Archon of Redemption
+--|FREE|R|NORM|01|00|RTR|Archon of the Triumvirate
 --|FREE|U|NORM|02|00|NPH|Argent Mutation
 --|FREE|U|NORM|01|00|NPH|Arm with Aether
 --|FREE|R|NORM|03|00|3ED|Armageddon
@@ -1224,6 +1225,7 @@ PC|CUBE|C|NORM|01|01|10E|Youthful Knight
 --|FREE|R|NORM|01|00|SHM|Grim Poppet
 --|FREE|R|NORM|01|00|SOM|Grindclock
 --|FREE|R|NORM|01|01|MIR|Grinning Totem
+--|FREE|R|NORM|01|01|RTR|Growing Ranks
 --|FREE|R|NORM|01|00|GTC|Grull Ragebeast
 --|FREE|U|NORM|01|00|GTC|Gruul Charm
 --|FREE|U|NORM|02|00|GTC|Gruul Keyrune
@@ -1483,6 +1485,7 @@ PC|CUBE|C|NORM|01|01|10E|Youthful Knight
 --|FREE|U|NORM|02|00|   |Postmortem Lunge
 --|FREE|U|NORM|01|00|   |Power Armor
 --|FREE|R|NORM|01|00|   |Praetor's Grasp
+--|FREE|R|NORM|01|01|RTR|Precinct Captain
 --|FREE|R|NORM|02|00|   |Predatory Urge
 --|FREE|U|NORM|04|00|   |Presence of the Wise
 --|FREE|U|NORM|02|00|   |Priest of Gix
@@ -1533,6 +1536,7 @@ PC|CUBE|C|NORM|01|01|10E|Youthful Knight
 --|FREE|U|NORM|02|00|   |Righteousness
 --|FREE|C|FOIL|01|00|   |Riot Ringleader
 --|FREE|U|NORM|10|00|   |Rise from the Grave
+--|FREE|R|NORM|01|00|RTR|Risen Sanctuary
 --|FREE|U|NORM|01|00|   |Rith's Charm
 --|FREE|R|NORM|01|00|   |Rith, the Awakener
 --|FREE|U|NORM|08|00|   |River Boa
@@ -1789,6 +1793,7 @@ PC|CUBE|C|NORM|01|01|10E|Youthful Knight
 --|FREE|U|NORM|05|00|   |Whispersilk Cloak
 --|FREE|U|NORM|03|00|   |White Knight
 --|FREE|U|NORM|01|00|GTC|Wight of Precint Six
+--|FREE|R|NORM|01|00|RTR|Wild Beastmaster
 --|FREE|U|NORM|04|00|   |Windborne Charge
 --|FREE|R|NORM|01|00|   |Wine of Blood and Iron
 --|FREE|R|NORM|01|00|   |Witch-Maw Nephilim
