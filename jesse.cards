@@ -1147,7 +1147,7 @@ PC|CUBE|C|NORM|01|01|10E|Youthful Knight
 --|FREE|U|NORM|03|00|   |Explosive Revelation
 --|FREE|U|NORM|01|00|   |Exsanguinate
 --|FREE|R|NORM|01|01|SOM|Ezuri's Brigade
---|FREE|R|NORM|01|01|SOM|Ezuri, Renegade Leader
+--|FREE|R|NORM|02|01|SOM|Ezuri, Renegade Leader
 --|FREE|U|NORM|01|00|   |Fall of the Gavel
 --|FREE|U|NORM|01|00|   |Fallen Ferromancer
 --|FREE|R|NORM|02|00|3ED|Fastbond
@@ -1245,6 +1245,7 @@ PC|CUBE|C|NORM|01|01|10E|Youthful Knight
 --|FREE|U|NORM|01|00|   |Harmonize
 --|FREE|U|NORM|01|00|   |Haunted Guardian
 --|FREE|U|NORM|03|00|   |Havengul Vampire
+--|FREE|R|NORM|01|00|RTR|Havoc Festival
 --|FREE|R|NORM|01|01|SHM|Heartmender
 --|FREE|R|NORM|01|01|DST|Heartseeker
 --|FREE|U|NORM|03|00|   |Heavy Arbalest
@@ -1291,6 +1292,7 @@ PC|CUBE|C|NORM|01|01|10E|Youthful Knight
 --|FREE|U|NORM|02|00|   |Infiltration Lens
 --|FREE|U|NORM|01|00|   |Inkfathom Infiltrator
 --|FREE|U|NORM|01|00|   |Inkfathom Witch
+--|FREE|R|NORM|01|01|MBS|Inkmoth Nexus
 --|FREE|U|NORM|03|00|   |Inquisitor Exarch
 --|FREE|U|NORM|02|00|   |Inquisitor's Flail
 --|FREE|U|NORM|01|00|   |Into the Maw of Hell
@@ -1394,6 +1396,7 @@ PC|CUBE|C|NORM|01|01|10E|Youthful Knight
 --|FREE|U|NORM|01|00|   |Metallurgeon
 --|FREE|U|NORM|02|00|   |Midnight Haunting
 --|FREE|U|NORM|01|00|   |Might of the Nephilim
+--|FREE|R|NORM|01|01|SOM|Mimic Vat
 --|FREE|U|NORM|01|00|GTC|Miming Slime
 --|FREE|U|NORM|02|00|GTC|Miming Slime
 --|FREE|U|NORM|07|00|   |Mind Control
@@ -1469,6 +1472,7 @@ PC|CUBE|C|NORM|01|01|10E|Youthful Knight
 --|FREE|R|NORM|01|00|DDE|Phyrexian Colossus
 --|FREE|U|NORM|01|00|   |Phyrexian Defiler
 --|FREE|U|NORM|01|00|   |Phyrexian Hulk
+--|FREE|R|NORM|01|00|MBS|Phyrexian Hydra
 --|FREE|R|NORM|01|00|NPH|Phyrexian Ingester
 --|FREE|R|NORM|01|01|NPH|Phyrexian Metamorph
 --|FREE|M|FOIL|01|00|DDE|Phyrexian Negator
@@ -1495,6 +1499,7 @@ PC|CUBE|C|NORM|01|01|10E|Youthful Knight
 --|FREE|U|NORM|01|00|   |Prized Unicorn
 --|FREE|U|NORM|04|00|M10|Prodigal Pyromancer
 --|FREE|R|NORM|04|00|M11|Protean Hydra
+--|FREE|R|NORM|01|01|MBS|Psychosis Crawler
 --|FREE|U|NORM|04|00|   |Punishing Fire
 --|FREE|U|NORM|02|00|   |Puppet Strings
 --|FREE|U|NORM|04|04|SHM|Puresight Merrow
@@ -1519,7 +1524,7 @@ PC|CUBE|C|NORM|01|01|10E|Youthful Knight
 --|FREE|U|NORM|03|00|M13|Rancor
 --|FREE|C|NORM|01|00|ARC|Rancor
 --|FREE|U|NORM|02|00|   |Rapacious One
---|FREE|R|NORM|02|00|SOM|Ratchet Bomb
+--|FREE|R|NORM|03|03|SOM|Ratchet Bomb
 --|FREE|U|NORM|01|00|   |Ravenous Trap
 --|FREE|U|NORM|03|00|   |Razor Hippogriff
 --|FREE|U|NORM|02|00|   |Reality Spasm
@@ -1640,6 +1645,7 @@ PC|CUBE|C|NORM|01|01|10E|Youthful Knight
 --|FREE|U|NORM|02|00|   |Spider Spawning
 --|FREE|R|NORM|01|00|   |Spikeshot Elder
 --|FREE|U|NORM|01|00|   |Spin into Myth
+--|FREE|R|NORM|01|00|MBS|Spine of Ish Sah
 --|FREE|U|NORM|01|00|   |Spinebiter
 --|FREE|U|NORM|02|00|   |Spirit Link
 --|FREE|C|FOIL|01|00|   |Spiritual Visit
@@ -1681,6 +1687,7 @@ PC|CUBE|C|NORM|01|01|10E|Youthful Knight
 --|FREE|U|NORM|02|00|   |Telepathy
 --|FREE|R|NORM|03|03|BOK|Tendo Ice Bridge
 --|FREE|R|NORM|02|00|   |Terastodon
+--|FREE|R|NORM|01|00|MBS|Thopter Assembly
 --|FREE|U|NORM|02|00|   |Thornscape Battlemage
 --|FREE|U|NORM|01|00|   |Thoughtflare
 --|FREE|U|NORM|01|00|   |Thoughtflare
@@ -1693,6 +1700,7 @@ PC|CUBE|C|NORM|01|01|10E|Youthful Knight
 --|FREE|U|NORM|01|00|   |Thunderstaff
 --|FREE|U|FOIL|01|00|   |Tideforce Elemental
 --|FREE|U|NORM|01|00|   |Tideforce Elemental
+--|FREE|R|NORM|01|00|MBS|Titan Forge
 --|FREE|U|NORM|01|00|   |Tormentor Exarch
 --|FREE|U|NORM|01|00|   |Touchstone
 --|FREE|U|FOIL|01|00|GTC|Tower Defense
