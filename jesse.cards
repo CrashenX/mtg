@@ -366,7 +366,7 @@ PC|CUBE|C|NORM|00|01|JUD|Arcane Teachings
 PC|CUBE|C|NORM|00|01|DST|Arcbound Hybrid
 PC|CUBE|C|NORM|00|01|DST|Arcbound Stinger
 PC|CUBE|C|NORM|00|01|M13|Archaeomancer
-PC|CUBE|C|NORM|00|01|MBS|Ardent Recruit
+PC|CUBE|C|NORM|01|01|MBS|Ardent Recruit
 PC|CUBE|C|NORM|01|01|ARC|Armadillo Cloak
 PC|CUBE|C|NORM|01|01|SOM|Arrest
 PC|CUBE|C|NORM|01|01|NPH|Artilerize
@@ -388,12 +388,12 @@ PC|CUBE|C|NORM|00|01|JUD|Benevolent Bodyguard
 PC|CUBE|C|NORM|01|01|AVR|Bladed Bracers
 PC|CUBE|C|NORM|01|01|ISD|Blazing Torch
 PC|CUBE|C|NORM|01|01|SOM|Blight Mamba
-PC|CUBE|C|NORM|00|01|MBS|Blightwidow
+PC|CUBE|C|NORM|01|01|MBS|Blightwidow
 PC|CUBE|C|NORM|00|01|5DN|Blind Creeper
 PC|CUBE|C|NORM|00|01|GPT|Blind Hunter
 PC|CUBE|C|NORM|01|01|NPH|Blind Zealot
 PC|CUBE|C|NORM|01|01|NPH|Blinding Souleater
-PC|CUBE|C|NORM|00|01|MBS|Blisterstick Shaman
+PC|CUBE|C|NORM|01|01|MBS|Blisterstick Shaman
 PC|CUBE|C|NORM|00|01|M12|Blood Ogre
 PC|CUBE|C|NORM|01|01|ISD|Bonds of Faith
 PC|CUBE|C|NORM|00|01|MRD|Bonesplitter
@@ -524,7 +524,7 @@ PC|CUBE|C|NORM|01|01|RTR|Gatecreeper Vine
 PC|CUBE|C|NORM|01|01|SOM|Ghalma's Warden
 PC|CUBE|C|NORM|00|01|ULG|Ghitu Slinger
 PC|CUBE|C|NORM|00|01|10E/GPC|Ghost Warden
-PC|CUBE|C|NORM|00|01|FUT/DDG|Ghostfire
+PC|CUBE|C|NORM|01|01|DDG|Ghostfire
 PC|CUBE|C|NORM|00|01|SHM|Giantbaiting
 PC|CUBE|C|NORM|01|01|M12|Gideon's Lawkeeper
 PC|CUBE|C|NORM|00|01|LRW|Gilt-Leaf Ambush
@@ -567,7 +567,7 @@ PC|CUBE|C|NORM|01|01|NPH|Hovermyr
 PC|CUBE|C|NORM|01|01|DKA|Hunger of the Howlpack
 PC|CUBE|C|NORM|00|01|FEM/TSP|Icatian Javelineers
 PC|CUBE|C|NORM|00|01|FUT/DDD|Ichor Slick
-PC|CUBE|C|NORM|00|01|MBS|Ichor Wellspring
+PC|CUBE|C|NORM|01|01|MBS|Ichor Wellspring
 PC|CUBE|C|NORM|01|01|SOM|Ichorclaw Myr
 PC|CUBE|C|NORM|01|01|SOK|Ideas Unbound
 PC|CUBE|C|NORM|01|01|NPH|Impaler Shrike
@@ -609,7 +609,7 @@ PC|CUBE|C|NORM|00|01|JUD|Lava Dart
 PC|CUBE|C|NORM|01|01|SOM|Leaden Myr
 PC|CUBE|C|NORM|01|01|NPH|Leeching Bite
 PC|CUBE|C|NORM|00|01|10E/MRD|Leonin Scimitar
-PC|CUBE|C|NORM|00|01|MBS|Leonin Skyhunter
+PC|CUBE|C|NORM|01|01|MBS|Leonin Skyhunter
 PC|CUBE|C|NORM|00|01|TMP|Lightning Blast
 PC|CUBE|C|NORM|01|01|M10|Lightning Bolt
 PC|CUBE|C|NORM|01|01|M11|Liliana’s Specter
@@ -665,7 +665,7 @@ PC|CUBE|C|NORM|00|01|CHK|Nezumi Cutthroat
 PC|CUBE|C|NORM|00|01|BOK/PL2|Ninja of the Deep Hours
 PC|CUBE|C|NORM|01|01|ROE|Null Champion
 PC|CUBE|C|NORM|01|01|M10|Oakenform
-PC|CUBE|C|NORM|00|01|LRW/ALA/ARC/DDG/CMD/HOP|Oblivion Ring
+PC|CUBE|C|NORM|01|01|DDG|Oblivion Ring
 PC|CUBE|C|NORM|00|01|INV|Obsidian Acolyte
 PC|CUBE|C|NORM|00|01|BOK/PL2|Okiba-Gang-Shinobi
 PC|CUBE|C|NORM|01|01|ISD|One Eyed Scarecrow
@@ -693,7 +693,7 @@ PC|CUBE|C|NORM|00|01|GPC|Pillory of the Sleepless
 PC|CUBE|C|NORM|01|01|NPH|Pith Driller
 PC|CUBE|C|NORM|00|01|NMS|Plague Witch
 PC|CUBE|C|NORM|01|01|ZEN|Plated Geopede
-PC|CUBE|C|NORM|00|01|LRW/DDG|Plover Knights
+PC|CUBE|C|NORM|01|01|DDG|Plover Knights
 PC|CUBE|C|NORM|01|01|M10|Ponder
 PC|CUBE|C|NORM|01|01|NPH|Porcelain Legionnaire
 PC|CUBE|C|NORM|00|01|SHM|Power of Fire
@@ -750,7 +750,7 @@ PC|CUBE|C|NORM|00|01|MRD/DDF/HOP|Seat of the Synod
 PC|CUBE|C|NORM|00|01|ONS/ARC/CMD/DDC|Secluded Steppe
 PC|CUBE|C|NORM|01|01|WWK|Sejiri Steppe
 PC|CUBE|C|NORM|01|01|RTR|Selesnya Guildgate
-PC|CUBE|C|NORM|00|01|RAV/DDG/CMD/PC2|Selesnya Sanctuary
+PC|CUBE|C|NORM|01|01|DDG|Selesnya Sanctuary
 PC|CUBE|C|NORM|01|01|AVR|Seraph of Dawn
 PC|CUBE|C|NORM|00|01|HML/TSP/DDD|Serrated Arrows
 PC|CUBE|C|NORM|00|01|M13|Servant of Nefarox
@@ -762,7 +762,7 @@ PC|CUBE|C|NORM|01|01|LRW|Shimmering Grotto
 PC|CUBE|C|NORM|01|01|SOK|Shinen of Life’s Roar
 PC|CUBE|C|NORM|00|01|GPC|Shrieking Grotesque
 PC|CUBE|C|NORM|00|01|ALA|Sighted-Caste Sorcerer
-PC|CUBE|C|NORM|00|01|ALA/DDG|Sigil Blessing
+PC|CUBE|C|NORM|01|01|DDG|Sigil Blessing
 PC|CUBE|C|NORM|01|01|M10|Sign in Blood
 PC|CUBE|C|NORM|01|01|ISD|Silent Departure
 PC|CUBE|C|NORM|00|01|SHM|Silkbind Faerie
