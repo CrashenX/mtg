@@ -12,7 +12,7 @@ BN|MAIN|R|NORM|04|04|   |Llanowar Elves
 BN|MAIN|R|NORM|01|01|M11|Mystifying Maze
 BN|MAIN|R|NORM|04|04|   |Overgrown Battlement
 BN|MAIN|R|NORM|01|01|   |Platinum Emperion
-BN|MAIN|R|NORM|03|04|   |Primeval Titan
+BN|MAIN|R|NORM|04|04|   |Primeval Titan
 BN|MAIN|R|NORM|03|04|   |Summoning Trap
 BN|MAIN|R|NORM|01|01|   |Sundering Titan
 BN|MAIN|R|NORM|04|04|WWK|Tectonic Edge
@@ -331,7 +331,7 @@ TS|MAIN|U|NORM|04|04|ZEN|Kor Duelist
 TS|MAIN|C|NORM|02|02|ZEN|Kor Outfitter
 TS|MAIN|R|NORM|04|04|DST|Leonin Shikari
 TS|MAIN|U|NORM|01|01|ARC|Lightning Greaves
-TS|MAIN|R|NORM|02|04|ISD|Mentor of the Meek
+TS|MAIN|R|NORM|03|04|ISD|Mentor of the Meek
 TS|MAIN|M|NORM|01|01|SOM|Mox Opal
 TS|MAIN|C|NORM|14|14|ZEN|Plains
 TS|MAIN|R|NORM|02|04|NPH|Puresteel Paladin
@@ -573,7 +573,7 @@ PC|CUBE|C|NORM|01|01|SOM|Ichorclaw Myr
 PC|CUBE|C|NORM|01|01|SOK|Ideas Unbound
 PC|CUBE|C|NORM|01|01|NPH|Impaler Shrike
 PC|CUBE|C|NORM|01|01|RTR|Inaction Injunction
-PC|CUBE|C|NORM|00|01|M12|Incinerate
+PC|CUBE|C|NORM|01|01|M12|Incinerate
 PC|CUBE|C|NORM|00|01|CHK|Indomitable Will
 PC|CUBE|C|NORM|00|01|FUT|Infiltrator il-Kor
 PC|CUBE|C|NORM|00|01|LRW/DD2|Inner-Flame Acolyte
@@ -746,7 +746,7 @@ PC|CUBE|C|NORM|01|01|ROE|Sea Gate Oracle
 PC|CUBE|C|NORM|01|01|DIS|Seal of Doom
 PC|CUBE|C|NORM|00|01|PLC|Seal of Primordium
 PC|CUBE|C|NORM|01|01|WWK|Searing Blaze
-PC|CUBE|C|NORM|00|01|M13|Searing Spear
+PC|CUBE|C|NORM|01|01|M13|Searing Spear
 PC|CUBE|C|NORM|00|01|MRD/DDF/HOP|Seat of the Synod
 PC|CUBE|C|NORM|00|01|ONS/ARC/CMD/DDC|Secluded Steppe
 PC|CUBE|C|NORM|01|01|WWK|Sejiri Steppe
