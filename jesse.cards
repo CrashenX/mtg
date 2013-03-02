@@ -60,27 +60,27 @@ MR|MAIN|R|NORM|00|00|SOM|Gold Myr
 MR|MAIN|U|NORM|01|01|ISD|Intangible Virtue
 MR|MAIN|R|NORM|01|01|ARC|Lodestone Golem
 MR|MAIN|R|NORM|01|01|WWK|Lodestone Golem
-MR|MAIN|R|NORM|01|01|MBS|Mirrorworks
 MR|MAIN|R|NORM|02|02|SOM|Myr Battlesphere
 MR|MAIN|U|NORM|03|04|SOM|Myr Galvanizer
 MR|MAIN|R|NORM|01|01|SOM|Myr Propagator
-MR|MAIN|R|NORM|01|01|SOM|Myr Reservoir
 MR|MAIN|R|NORM|02|02|SOM|Myr Superion
-MR|MAIN|R|NORM|01|01|MBS|Myr Turbine
 MR|MAIN|U|NORM|04|04|SOM|Myrsmith
 MR|MAIN|U|NORM|04|04|SOM|Palladium Myr
 MR|MAIN|C|NORM|00|00|SOM|Perilous Myr
 MR|MAIN|C|NORM|22|22|SOM|Plains
 MR|MAIN|M|NORM|01|01|SOM|Platinum Emperion
 MR|MAIN|R|NORM|01|01|SOM|Semblance Anvil
-MR|MAIN|R|NROM|01|01|MBS|Shimmer Myr
 MR|MAIN|U|NORM|02|02|NPH|Shrine of Loyal Legions
 MR|MAIN|R|NORM|01|01|M11|Steel Overseer
 MR|MAIN|R|NORM|02|02|SOM|Tempered Steel
 MR|MAIN|R|NORM|01|01|NPH|Unwinding Clock
 MR|ALTS|R|NORM|01|01|SOM|Grand Architect
 MR|ALTS|R|NORM|01|01|SOM|Kuldotha Phoenix
+MR|ALTS|R|NORM|01|01|MBS|Mirrorworks
+MR|ALTS|R|NORM|01|01|SOM|Myr Reservoir
+MR|ALTS|R|NORM|01|01|MBS|Myr Turbine
 MR|ALTS|R|NORM|01|01|MBS|Myr Welder
+MR|ALTS|R|NROM|01|01|MBS|Shimmer Myr
 CC|DECK|R|NORM|00|01|AVR|Alchemist's Refuge
 CC|DECK|U|NORM|01|01|CON|Ancient Ziggurat
 CC|DECK|R|NORM|01|01|10E|Arcanis the Omnipotent
