@@ -23,8 +23,14 @@ for my $card (@cards) {
 
     print "$num_wanted"."x ";
 
-    if($fields[1] =~ m/MAIN|SIDE/) {
+    if($num_wanted > 0 && $fields[1] =~ m/MAIN/) {
+        print '[big][b]' . $fields[7] . '[/b][/big] ' . $fields[6];
+    }
+    elsif($num_wanted > 0 && $fields[1] =~ m/SIDE/) {
         print '[b]' . $fields[7] . '[/b] ' . $fields[6];
+    }
+    elsif($num_wanted > 0 && $fields[1] =~ m/CUBE/) {
+        print '[small]' . $fields[7] . '[/small] ' . $fields[6];
     }
     elsif($card =~ m/FOIL/) {
         print '[FOIL]' . $fields[7] . '[/FOIL] ' . $fields[6];
