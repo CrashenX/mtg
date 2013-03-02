@@ -243,7 +243,6 @@ LF|DECK|M|FOIL|01|01|V12|Boseiju, Who Shelters All
 LF|DECK|C|NORM|01|01|ICE|Brainstorm
 LF|DECK|M|FOIL|01|01|V12|Cephalid Coliseum
 LF|DECK|M|NORM|01|01|CON|Child of Alara
-LF|DECK|R|NORM|00|01|ISD|Clifftop Retreat
 LF|DECK|M|NORM|01|01|CON|Conflux
 LF|DECK|R|NORM|01|01|WWK|Creeping Tar Pit
 LF|DECK|R|NORM|01|01|10E|Crucible of Worlds
@@ -308,7 +307,6 @@ LF|DECK|R|NORM|01|01|VIS|Undiscovered Paradise
 LF|DECK|R|NORM|01|01|VIS|Vampiric Tutor
 LF|DECK|R|NORM|01|01|CSP|Zur the Enchanter
 LF|DECK|U|NORM|01|01|ICE|Zuran Orb
-LF|ALTS|R|NORM|01|01|SOK|Kataki, War's Wage
 WW|MAIN|U|NORM|03|04|M11|Ajani's Pridemate
 WW|MAIN|R|NORM|04|04|ISD|Champion of the Parish
 WW|MAIN|R|NORM|00|01|CHK|Eiganjo Castle
@@ -1835,3 +1833,4 @@ PC|CUBE|C|NORM|01|01|10E|Youthful Knight
 --|FREE|R|NORM|01|01|M13|Captain of the Watch
 --|FREE|U|NORM|01|01|AVR|Devout Chaplain
 --|FREE|R|NORM|01|01|DPA|Loxodon Warhammer
+--|FREE|R|NORM|01|01|SOK|Kataki, War's Wage
