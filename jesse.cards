@@ -354,18 +354,16 @@ TS|MAIN|R|NORM|04|04|WWK|Stoneforge Mystic
 TS|MAIN|M|NORM|01|01|MBS|Sword of Feast and Famine
 TS|MAIN|M|NORM|01|01|DST|Sword of Fire and Ice
 TS|MAIN|M|NORM|01|01|NPH|Sword of War and Peace
-TS|SIDE|C|NORM|04|04|MBS|Ardent Recruit
 TS|SIDE|M|NORM|01|01|NPH|Batterskull
-TS|SIDE|R|NORM|01|01|   |Captain of the Watch
 TS|SIDE|R|NORM|00|01|MBS|Darksteel Plate
-TS|SIDE|U|NORM|01|01|   |Devout Chaplain
-TS|SIDE|U|NORM|04|04|   |Dispatch
+TS|SIDE|U|NORM|04|04|NPH|Dispatch
 TS|SIDE|R|NORM|01|01|SOM|Etched Champion
+TS|SIDE|C|NORM|01|01|MBS|Flayer Husk
 TS|SIDE|R|NORM|01|01|ZEN|Grappling Hook
-TS|SIDE|M|NORM|01|01|   |Indomitable Archangel
-TS|SIDE|C|NORM|02|02|   |Kor Outfitter
+TS|SIDE|M|NORM|01|01|SOM|Indomitable Archangel
+TS|SIDE|C|NORM|01|01|ZEN|Kor Outfitter
 TS|SIDE|R|NORM|01|01|SOM|Livewire Lash
-TS|SIDE|R|NORM|01|01|DPA|Loxodon Warhammer
+TS|SIDE|R|NORM|01|01|DDG|Loxodon Warhammer
 TS|SIDE|R|NORM|01|01|AVR|Moonsilver Spear
 PC|CUBE|C|NORM|01|01|ZEN|Adventuring Gear
 PC|CUBE|C|NORM|00|01|M11/M12|Aether Adept
@@ -1834,3 +1832,6 @@ PC|CUBE|C|NORM|01|01|10E|Youthful Knight
 --|FREE|U|NORM|03|00|GTC|Zameck Guildmage
 --|FREE|C|FOIL|01|00|   |Zendikar Farguide
 --|FREE|U|NORM|01|01|ICE|Zuran Orb
+--|FREE|R|NORM|01|01|M13|Captain of the Watch
+--|FREE|U|NORM|01|01|AVR|Devout Chaplain
+--|FREE|R|NORM|01|01|DPA|Loxodon Warhammer
