@@ -243,7 +243,7 @@ LF|DECK|M|FOIL|01|01|V12|Boseiju, Who Shelters All
 LF|DECK|C|NORM|01|01|ICE|Brainstorm
 LF|DECK|M|FOIL|01|01|V12|Cephalid Coliseum
 LF|DECK|M|NORM|01|01|CON|Child of Alara
-LF|DECK|R|NORM|01|01|ISD|Clifftop Retreat
+LF|DECK|R|NORM|00|01|ISD|Clifftop Retreat
 LF|DECK|M|NORM|01|01|CON|Conflux
 LF|DECK|R|NORM|01|01|WWK|Creeping Tar Pit
 LF|DECK|R|NORM|01|01|10E|Crucible of Worlds
@@ -326,11 +326,14 @@ WW|MAIN|R|NORM|04|04|M11|Serra Ascendant
 WW|MAIN|C|NORM|02|02|EXO|Soul Warden
 WW|MAIN|C|NORM|02|02|M10|Soul Warden
 WW|MAIN|C|NORM|04|04|ROE|Soul's Attendant
-WW|MAIN|R|NORM|04|04|ROE|Student of Warfare
 WW|MAIN|M|NORM|02|02|V12|Windbrisk Heights
 WW|SIDE|U|NORM|02|02|DKA|Chalice of Life
 WW|SIDE|C|NORM|01|01|CSP|Martyr of Sands
 WW|SIDE|R|NORM|01|01|DIS|Proclamation of Rebirth
+KN|MAIN|U|NORM|01|01|GTC|Boros Charm
+KN|MAIN|U|NORM|04|04|ZEN|Brave the Elements
+KN|MAIN|R|NORM|01|01|ISD|Clifftop Retreat
+KN|MAIN|R|NORM|04|04|ROE|Student of Warfare
 TS|MAIN|C|NORM|04|04|MRD|Ancient Den
 TS|MAIN|R|NORM|01|01|SOM|Argentum Armor
 TS|MAIN|C|NORM|04|04|DST|Darksteel Citadel
@@ -992,7 +995,6 @@ PC|CUBE|C|NORM|01|01|10E|Youthful Knight
 --|FREE|U|NORM|01|00|   |Boldwyr Intimidator
 --|FREE|U|NORM|01|00|   |Bone Shredder
 --|FREE|U|NORM|02|00|   |Boneyard Wurm
---|FREE|U|NORM|01|00|GTC|Boros Charm
 --|FREE|U|NORM|02|00|GTC|Boros Elite
 --|FREE|U|NORM|01|00|GTC|Boros Keyrune
 --|FREE|M|FOIL|01|01|V12|Boseiju, Who Shelters All
@@ -1002,7 +1004,6 @@ PC|CUBE|C|NORM|01|01|10E|Youthful Knight
 --|FREE|U|NORM|01|00|   |Bramblecrush
 --|FREE|U|NORM|01|00|   |Bramblesnap
 --|FREE|U|NORM|01|00|   |Brass Squire
---|FREE|U|NORM|04|04|ZEN|Brave the Elements
 --|FREE|R|NORM|01|00|M11|Brittle Effigy
 --|FREE|U|NORM|02|00|   |Broodwarden
 --|FREE|U|NORM|02|00|   |Brutalizer Exarch
