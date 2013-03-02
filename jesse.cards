@@ -355,14 +355,14 @@ TS|MAIN|M|NORM|01|01|NPH|Sword of War and Peace
 TS|SIDE|M|NORM|01|01|NPH|Batterskull
 TS|SIDE|R|NORM|00|01|MBS|Darksteel Plate
 TS|SIDE|U|NORM|04|04|NPH|Dispatch
-TS|SIDE|R|NORM|01|01|SOM|Etched Champion
-TS|SIDE|C|NORM|01|01|MBS|Flayer Husk
-TS|SIDE|R|NORM|01|01|ZEN|Grappling Hook
-TS|SIDE|M|NORM|01|01|SOM|Indomitable Archangel
-TS|SIDE|C|NORM|01|01|ZEN|Kor Outfitter
-TS|SIDE|R|NORM|01|01|SOM|Livewire Lash
-TS|SIDE|R|NORM|01|01|DDG|Loxodon Warhammer
-TS|SIDE|R|NORM|01|01|AVR|Moonsilver Spear
+TS|ALTS|R|NORM|01|01|SOM|Etched Champion
+TS|ALTS|C|NORM|01|01|MBS|Flayer Husk
+TS|ALTS|R|NORM|01|01|ZEN|Grappling Hook
+TS|ALTS|M|NORM|01|01|SOM|Indomitable Archangel
+TS|ALTS|C|NORM|01|01|ZEN|Kor Outfitter
+TS|ALTS|R|NORM|01|01|SOM|Livewire Lash
+TS|ALTS|R|NORM|01|01|DDG|Loxodon Warhammer
+TS|ALTS|R|NORM|01|01|AVR|Moonsilver Spear
 PC|CUBE|C|NORM|01|01|ZEN|Adventuring Gear
 PC|CUBE|C|NORM|00|01|M11/M12|Aether Adept
 PC|CUBE|C|NORM|00|01|ALA/ARC|Agony Warp
