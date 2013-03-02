@@ -1,25 +1,28 @@
-BN|MAIN|R|NORM|03|03|   |Cultivate
-BN|MAIN|R|NORM|01|04|   |Eldrazi Temple
-BN|MAIN|R|NORM|01|01|   |Emrakul, the Aeons Torn
-BN|MAIN|R|NORM|02|02|   |Everflowing Chalice
-BN|MAIN|R|NORM|03|03|   |Explore
-BN|MAIN|R|NORM|01|01|   |Eye of Ugin
-BN|MAIN|R|NORM|13|13|   |Forest
-BN|MAIN|R|NORM|02|02|   |Growth Spasm
-BN|MAIN|R|NORM|04|04|   |Khalni Garden
-BN|MAIN|R|NORM|00|01|   |Kozilek, Butcher of Truth
-BN|MAIN|R|NORM|04|04|   |Llanowar Elves
+BN|MAIN|C|NORM|03|03|M11|Cultivate
+BN|MAIN|R|NORM|01|04|ROE|Eldrazi Temple
+BN|MAIN|M|FOIL|01|01|ROE|Emrakul, the Aeons Torn (Promo)
+BN|MAIN|U|NORM|01|01|ARC|Everflowing Chalice
+BN|MAIN|U|NORM|01|01|WWK|Everflowing Chalice
+BN|MAIN|C|NORM|03|03|WWK|Explore
+BN|MAIN|M|NORM|01|01|WWK|Eye of Ugin
+BN|MAIN|C|NORM|13|13|ROE|Forest
+BN|MAIN|C|NORM|02|02|ROE|Growth Spasm
+BN|MAIN|C|NORM|01|01|ARC|Khalni Garden
+BN|MAIN|C|NORM|03|03|WWK|Khalni Garden
+BN|MAIN|C|NORM|03|03|M10|Llanowar Elves
+BN|MAIN|C|NORM|01|01|M11|Llanowar Elves
 BN|MAIN|R|NORM|01|01|M11|Mystifying Maze
-BN|MAIN|R|NORM|04|04|   |Overgrown Battlement
-BN|MAIN|R|NORM|01|01|   |Platinum Emperion
-BN|MAIN|R|NORM|04|04|   |Primeval Titan
-BN|MAIN|R|NORM|03|04|   |Summoning Trap
-BN|MAIN|R|NORM|01|01|   |Sundering Titan
-BN|MAIN|R|NORM|04|04|WWK|Tectonic Edge
-BN|MAIN|R|NORM|01|01|   |Terastodon
-BN|MAIN|R|NORM|01|01|   |Ulamog, the Infinite Gyre
-BN|MAIN|R|NORM|01|01|   |Vigor
-BN|SIDE|R|NORM|01|01|GTC|Sylvan Primordial
+BN|MAIN|C|NORM|04|04|ROE|Overgrown Battlement
+BN|MAIN|M|NORM|01|01|SOM|Platinum Emperion
+BN|MAIN|M|NORM|01|01|M11|Primeval Titan
+BN|MAIN|M|NORM|03|03|M12|Primeval Titan
+BN|MAIN|R|NORM|03|04|ZEN|Summoning Trap
+BN|MAIN|R|NORM|01|01|ARC|Sundering Titan
+BN|MAIN|R|NORM|01|01|GTC|Sylvan Primordial
+BN|MAIN|U|NORM|04|04|WWK|Tectonic Edge
+BN|MAIN|R|NORM|01|01|WWK|Terastodon
+BN|MAIN|M|NORM|01|01|ROE|Ulamog, the Infinite Gyre
+BN|MAIN|R|NORM|01|01|DPA|Vigor
 MF|MAIN|R|NORM|00|03|DST|Aether Vial
 MF|MAIN|R|NORM|01|03|CHK|Azami, Lady of Scrolls
 MF|MAIN|R|NORM|02|04|AVR|Cavern of Souls
