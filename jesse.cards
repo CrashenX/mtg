@@ -82,6 +82,7 @@ MR|ALTS|R|NORM|01|01|MBS|Myr Turbine
 MR|ALTS|R|NORM|01|01|MBS|Myr Welder
 MR|ALTS|R|NORM|01|01|MBS|Shimmer Myr
 MR|ALTS|R|NORM|01|01|RTR|Jarad's Orders
+MR|ALTS|R|NORM|01|01|MBS|Thopter Assembly
 CC|DECK|R|NORM|00|01|AVR|Alchemist's Refuge
 CC|DECK|U|NORM|01|01|CON|Ancient Ziggurat
 CC|DECK|R|NORM|01|01|10E|Arcanis the Omnipotent
@@ -1838,3 +1839,6 @@ PC|CUBE|C|NORM|01|01|10E|Youthful Knight
 --|FREE|U|NORM|01|01|AVR|Devout Chaplain
 --|FREE|R|NORM|01|01|DPA|Loxodon Warhammer
 --|FREE|R|NORM|01|01|SOK|Kataki, War's Wage
+--|FREE|R|NORM|01|00|RTR|Deadbridge Goliath
+--|FREE|R|NORM|01|00|RTR|Cryptborn Horror
+--|FREE|R|NORM|01|00|MBS|Mitotic Manipulation
