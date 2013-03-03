@@ -80,7 +80,8 @@ MR|ALTS|R|NORM|01|01|MBS|Mirrorworks
 MR|ALTS|R|NORM|01|01|SOM|Myr Reservoir
 MR|ALTS|R|NORM|01|01|MBS|Myr Turbine
 MR|ALTS|R|NORM|01|01|MBS|Myr Welder
-MR|ALTS|R|NROM|01|01|MBS|Shimmer Myr
+MR|ALTS|R|NORM|01|01|MBS|Shimmer Myr
+MR|ALTS|R|NORM|01|01|RTR|Jarad's Orders
 CC|DECK|R|NORM|00|01|AVR|Alchemist's Refuge
 CC|DECK|U|NORM|01|01|CON|Ancient Ziggurat
 CC|DECK|R|NORM|01|01|10E|Arcanis the Omnipotent
@@ -96,7 +97,7 @@ CC|DECK|R|NORM|00|01|RTR|Chromatic Lantern
 CC|DECK|C|NORM|00|01|TSP|Clockspinning
 CC|DECK|R|NORM|00|01|EVE|Cold-Eyed Selkie
 CC|DECK|C|NORM|00|01|CMD/CMA|Command Tower
-CC|DECK|M|NORM|00|01|MBS|Consecrated Sphinx
+CC|DECK|M|NORM|01|01|MBS|Consecrated Sphinx
 CC|DECK|R|NORM|00|01|DST|Darksteel Reactor
 CC|DECK|R|NORM|01|01|RTR|Death's Presence
 CC|DECK|R|NORM|00|01|ULG|Defense of the Heart
@@ -115,7 +116,7 @@ CC|DECK|M|FOIL|01|01|V12|Forbidden Orchard
 CC|DECK|C|NORM|04|04|ZEN|Forest
 CC|DECK|R|NORM|00|01|SCG/DPA/HOP|Forgotten Ancient
 CC|DECK|U|NORM|01|01|EVE|Gilder Bairn
-CC|DECK|R|NORM|00|01|MBS|Green Sun's Zenith
+CC|DECK|R|NORM|01|01|MBS|Green Sun's Zenith
 CC|DECK|R|NORM|00|01|GTC|Gyre Sage
 CC|DECK|C|NORM|01|01|WWK|Halimar Depths
 CC|DECK|M|FOIL|01|01|V12|High Market
@@ -182,6 +183,7 @@ CC|ALTS|R|NORM|01|01|ARC|Feral Hydra
 CC|ALTS|R|NORM|01|01|ISD|Creeping Renaissance
 CC|ALTS|R|NORM|01|01|ROE|Recurring Insight
 CC|ALTS|U|NORM|01|01|5DN|Eternal Witness
+CC|ALTS|U|NORM|01|01|AVR|Infinite Reflection
 GW|MAIN|R|NORM|03|00|3ED|Armageddon
 GW|MAIN|R|NORM|00|03|P02|Armageddon
 GW|MAIN|R|NORM|04|04|M10|Birds of Paradise
@@ -285,6 +287,7 @@ LF|DECK|R|NORM|01|01|ZEN|Oracle of Mul Daya
 LF|DECK|C|NORM|01|01|GTC|Orzhov Guildgate
 LF|DECK|R|NROM|01|01|RTR|Overgrown Tomb
 LF|DECK|R|NORM|01|01|ODY|Petrified Field
+LF|DECK|U|NORM|01|01|RTR|Rakdos Charm
 LF|DECK|M|NORM|01|01|ZEN|Rampaging Baloths
 LF|DECK|R|NORM|01|01|SHM|Reflecting Pool
 LF|DECK|R|NORM|01|01|ZEN|Rite of Replication
@@ -297,6 +300,7 @@ LF|DECK|C|NORM|01|01|GTC|Selesnya Guildgate
 LF|DECK|U|NORM|01|01|INV|Sterling Grove
 LF|DECK|R|NORM|01|01|WWK|Stirring Wildwood
 LF|DECK|R|NORM|01|01|ATH|Strip Mine
+LF|DECK|R|NORM|01|01|ISD|Sulfur Falls
 LF|DECK|R|NORM|01|01|M12|Sunpetal Grove
 LF|DECK|R|NORM|01|01|BOK|Tendo Ice Bridge
 LF|DECK|R|NORM|01|01|NPH|Torpor Orb
