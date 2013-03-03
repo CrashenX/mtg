@@ -366,7 +366,7 @@ TS|ALTS|R|NORM|01|01|AVR|Moonsilver Spear
 PC|CUBE|C|NORM|01|01|ZEN|Adventuring Gear
 PC|CUBE|C|NORM|00|01|M11/M12|Aether Adept
 PC|CUBE|C|NORM|00|01|ALA/ARC|Agony Warp
-PC|CUBE|C|NORM|00|01|M13|Ajani's Sunstriker
+PC|CUBE|C|NORM|01|01|M13|Ajani's Sunstriker
 PC|CUBE|C|NORM|00|01|ALA|Akrasan Squire
 PC|CUBE|C|NORM|00|01|MOR|Ambassador Oak
 PC|CUBE|C|NORM|01|01|ISD|Ambush Viper
@@ -377,7 +377,7 @@ PC|CUBE|C|NORM|01|01|NPH|Apostle's Blessing
 PC|CUBE|C|NORM|00|01|JUD|Arcane Teachings
 PC|CUBE|C|NORM|00|01|DST|Arcbound Hybrid
 PC|CUBE|C|NORM|00|01|DST|Arcbound Stinger
-PC|CUBE|C|NORM|00|01|M13|Archaeomancer
+PC|CUBE|C|NORM|01|01|M13|Archaeomancer
 PC|CUBE|C|NORM|01|01|MBS|Ardent Recruit
 PC|CUBE|C|NORM|01|01|ARC|Armadillo Cloak
 PC|CUBE|C|NORM|01|01|SOM|Arrest
@@ -486,7 +486,7 @@ PC|CUBE|C|NORM|01|01|ISD|Doomed Traveler
 PC|CUBE|C|NORM|01|01|RTR|Doorkeeper
 PC|CUBE|C|NORM|00|01|ALA/ARC/HOP|Dregscape Zombie
 PC|CUBE|C|NORM|00|01|DST|Dross Golem
-PC|CUBE|C|NORM|00|01|M13|Duty-Bound Dead
+PC|CUBE|C|NORM|01|01|M13|Duty-Bound Dead
 PC|CUBE|C|NORM|00|01|MOR|Earthbrawn
 PC|CUBE|C|NORM|00|01|DST|Echoing Decay
 PC|CUBE|C|NORM|00|01|DST/DDF|Echoing Truth
@@ -509,7 +509,7 @@ PC|CUBE|C|NORM|00|01|INV|Exclude
 PC|CUBE|C|NORM|00|01|ALA|Executioner's Capsule
 PC|CUBE|C|NORM|01|01|ZEN|Expedition Map
 PC|CUBE|C|NORM|00|01|CON/DDF|Faerie Mechanist
-PC|CUBE|C|NORM|00|01|DKA|Faithless Looting
+PC|CUBE|C|NORM|01|01|DKA|Faithless Looting
 PC|CUBE|C|NORM|00|01|RAV/DDC|Faith’s Fetters
 PC|CUBE|C|NORM|00|01|TSP/DD2|Fathom Seer
 PC|CUBE|C|NORM|01|01|ISD|Festerhide Boar
@@ -566,10 +566,10 @@ PC|CUBE|C|NORM|01|01|GTC|Gruul Guildgate
 PC|CUBE|C|NORM|00|01|GPC/CMD/HOP/PC2|Gruul Turf
 PC|CUBE|C|NORM|01|01|AVR|Gryff Vanguard
 PC|CUBE|C|NORM|01|01|DIS|Guardian of the Guildpact
-PC|CUBE|C|NORM|00|01|M13|Guardians of Akrasa
+PC|CUBE|C|NORM|01|01|M13|Guardians of Akrasa
 PC|CUBE|C|NORM|00|01|MMQ/DD2|Gush
 PC|CUBE|C|NORM|00|01|ROE|Halimar Wavewatch
-PC|CUBE|C|NORM|00|01|DKA|Haunted Fengraf
+PC|CUBE|C|NORM|01|01|DKA|Haunted Fengraf
 PC|CUBE|C|NORM|00|01|CHK|Hearth Kami
 PC|CUBE|C|NORM|01|01|ZEN|Hideous End
 PC|CUBE|C|NORM|01|01|DKA|Highborn Ghoul
@@ -638,7 +638,7 @@ PC|CUBE|C|NORM|01|01|M11|Mana Leak
 PC|CUBE|C|NORM|01|01|SHM|Manamorphose
 PC|CUBE|C|NORM|00|01|CON|Maniacal Rage
 PC|CUBE|C|NORM|01|01|M11|Manic Vandal
-PC|CUBE|C|NORM|00|01|M13|Mark of the Vampire
+PC|CUBE|C|NORM|01|01|M13|Mark of the Vampire
 PC|CUBE|C|NORM|01|01|ISD|Markov Patrician
 PC|CUBE|C|NORM|00|01|CSP|Martyr of Ashes
 PC|CUBE|C|NORM|01|01|TMP|Master Decoy
@@ -735,7 +735,7 @@ PC|CUBE|C|NORM|00|01|ICE/MIR/CMD|Ray of Command
 PC|CUBE|C|NORM|00|01|DST|Razor Golem
 PC|CUBE|C|NORM|01|01|NPH|Razor Swine
 PC|CUBE|C|NORM|01|01|MBS|Razorfield Rhino
-PC|CUBE|C|NORM|00|01|M13|Reckless Brute
+PC|CUBE|C|NORM|01|01|M13|Reckless Brute
 PC|CUBE|C|NORM|00|01|INV/DDH|Recoil
 PC|CUBE|C|NORM|00|01|10E/INV|Recover
 PC|CUBE|C|NORM|00|01|EVE/DDH|Recumbent Bliss
@@ -765,7 +765,7 @@ PC|CUBE|C|NORM|01|01|RTR|Selesnya Guildgate
 PC|CUBE|C|NORM|01|01|DDG|Selesnya Sanctuary
 PC|CUBE|C|NORM|01|01|AVR|Seraph of Dawn
 PC|CUBE|C|NORM|00|01|HML/TSP/DDD|Serrated Arrows
-PC|CUBE|C|NORM|00|01|M13|Servant of Nefarox
+PC|CUBE|C|NORM|01|01|M13|Servant of Nefarox
 PC|CUBE|C|NORM|01|01|RTR|Sewer Shambler
 PC|CUBE|C|NORM|00|01|RAV/DDJ|Shambling Shell
 PC|CUBE|C|NORM|00|01|PLC|Shaper Parasite
@@ -795,7 +795,7 @@ PC|CUBE|C|NORM|00|01|ULG|Snap
 PC|CUBE|C|NORM|01|01|CHK|Soratami Cloudskater
 PC|CUBE|C|NORM|00|01|M12|Sorin's Thirst
 PC|CUBE|C|NORM|00|01|EVE|Soul Reap
-PC|CUBE|C|NORM|00|01|AVR|Soulcage Fiend
+PC|CUBE|C|NORM|01|01|AVR|Soulcage Fiend
 PC|CUBE|C|NORM|00|01|ONS|Sparksmith
 PC|CUBE|C|NORM|01|01|MBS|Spin Engine
 PC|CUBE|C|NORM|01|01|NPH|Spined Thopter
@@ -843,9 +843,9 @@ PC|CUBE|C|NORM|00|01|RAV|Thundersong Trumpeter
 PC|CUBE|C|NORM|00|01|ALA|Tidehollow Strix
 PC|CUBE|C|NORM|00|01|LEG/EVG|Timberwatch Elf
 PC|CUBE|C|NORM|00|01|GPC|Tin Street Hooligan
-PC|CUBE|C|NORM|00|01|DKA|Torch Fiend
+PC|CUBE|C|NORM|01|01|DKA|Torch Fiend
 PC|CUBE|C|NORM|01|01|ROE|Totem-Guide Hartebeest
-PC|CUBE|C|NORM|00|01|DKA|Tragic Slip
+PC|CUBE|C|NORM|01|01|DKA|Tragic Slip
 PC|CUBE|C|NORM|01|01|ARC|Tranquil Thicket
 PC|CUBE|C|NORM|01|01|ISD|Travel Preparations
 PC|CUBE|C|NORM|01|01|ISD|Traveler’s Amulet
