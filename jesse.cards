@@ -333,10 +333,30 @@ WW|MAIN|M|NORM|02|02|V12|Windbrisk Heights
 WW|SIDE|U|NORM|02|02|DKA|Chalice of Life
 WW|ALTS|C|NORM|01|01|CSP|Martyr of Sands
 WW|ALTS|R|NORM|01|01|DIS|Proclamation of Rebirth
-KN|MAIN|U|NORM|01|01|GTC|Boros Charm
-KN|MAIN|U|NORM|04|04|ZEN|Brave the Elements
-KN|MAIN|R|NORM|01|01|ISD|Clifftop Retreat
+KN|MAIN|U|NORM|02|04|MBS|Accorder Paladin
+KN|MAIN|C|NORM|02|02|ISD|Bonds of Faith
+KN|MAIN|U|NORM|04|04|GTC|Boros Charm
+KN|MAIN|U|NORM|03|03|ZEN|Brave the Elements
+KN|MAIN|R|NORM|04|04|ISD|Clifftop Retreat
+KN|MAIN|R|NORM|02|02|ZEN|Day of Judgment
+KN|MAIN|R|NORM|01|01|DDG|Knight Exemplar
+KN|MAIN|R|NORM|00|03|M11/DDG|Knight Exemplar
+KN|MAIN|C|NORM|04|04|M10|Lightning Bolt
+KN|MAIN|C|NORM|07|07|ZEN|Mountain
+KN|MAIN|C|NORM|04|04|ZEN|Plains
+KN|MAIN|C|NORM|06|06|RTR|Plains
+KN|MAIN|U|NORM|02|03|MBS|Signal Pest
+KN|MAIN|R|NORM|03|03|AVR|Silverblade Paladin
+KN|MAIN|C|NORM|04|04|GTC|Skyknight Legionnaire
+KN|MAIN|R|NORM|02|02|AVR|Slayers' Stronghold
 KN|MAIN|R|NORM|04|04|ROE|Student of Warfare
+KN|MAIN|U|NORM|00|02|10E|Wrath of God
+KN|SIDE|C|NORM|03|03|RTR|Electrickery
+KN|SIDE|U|NORM|03|03|M13|Oblivion Ring
+KN|SIDE|R|NORM|01|02|RTR|Rest in Peace
+KN|SIDE|U|NORM|04|04|GTC|Skullcrack
+KN|SIDE|U|NORM|00|03|M13|Tormod's Crypt
+KN|ALTS|C|NORM|01|01|ISD|Bonds of Faith
 TS|MAIN|C|NORM|04|04|MRD|Ancient Den
 TS|MAIN|R|NORM|01|01|SOM|Argentum Armor
 TS|MAIN|C|NORM|04|04|DST|Darksteel Citadel
@@ -1095,7 +1115,6 @@ PC|CUBE|C|NORM|01|01|10E|Youthful Knight
 --|FREE|U|NORM|04|00|   |Darksteel Sentinel
 --|FREE|U|NORM|01|00|   |Dauthi Embrace
 --|FREE|R|NORM|01|00|M11|Day of Judgment
---|FREE|R|NORM|02|02|ZEN|Day of Judgment
 --|FREE|U|NORM|04|00|   |Deathforge Shaman
 --|FREE|U|NORM|01|00|   |Deathmark
 --|FREE|U|NORM|03|00|GTC|Debtor's Pulpit
@@ -1549,7 +1568,6 @@ PC|CUBE|C|NORM|01|01|10E|Youthful Knight
 --|FREE|U|NORM|03|00|CON|Reliquary Tower
 --|FREE|R|NORM|01|00|ROE|Renegade Doppelganger
 --|FREE|U|NORM|01|00|   |Renounce
---|FREE|R|NORM|01|01|RTR|Rest in Peace
 --|FREE|U|NORM|03|00|   |Rewind
 --|FREE|U|NORM|01|00|   |Ricochet Trap
 --|FREE|U|NORM|02|00|   |Riddlesmith
@@ -1842,3 +1860,5 @@ PC|CUBE|C|NORM|01|01|10E|Youthful Knight
 --|FREE|R|NORM|01|00|RTR|Deadbridge Goliath
 --|FREE|R|NORM|01|00|RTR|Cryptborn Horror
 --|FREE|R|NORM|01|00|MBS|Mitotic Manipulation
+--|FREE|U|NORM|01|01|ZEN|Brave the Elements
+--|FREE|U|NORM|01|01|GTC|Boros Charm
