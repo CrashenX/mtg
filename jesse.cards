@@ -78,9 +78,9 @@ MR|ALTS|R|NORM|01|01|SOM|Grand Architect
 MR|ALTS|R|NORM|01|01|RTR|Jarad's Orders
 MR|ALTS|R|NORM|01|01|SOM|Kuldotha Phoenix
 MR|ALTS|R|NORM|01|00|ROE|Magmaw
-MR|ALTS|R|NORM|01|01|MBS|Mirrorworks
+MR|ALTS|R|NORM|02|02|MBS|Mirrorworks
 MR|ALTS|R|NORM|01|01|SOM|Myr Reservoir
-MR|ALTS|R|NORM|01|01|MBS|Myr Turbine
+MR|ALTS|R|NORM|02|02|MBS|Myr Turbine
 MR|ALTS|R|NORM|01|01|MBS|Myr Welder
 MR|ALTS|R|NORM|01|01|ISD|Parallel Lives
 MR|ALTS|R|NORM|01|01|SOM|Shape Anew
@@ -93,7 +93,7 @@ CC|DECK|U|NORM|01|01|CON|Ancient Ziggurat
 CC|DECK|R|NORM|01|01|10E|Arcanis the Omnipotent
 CC|DECK|R|NORM|01|01|SOM|Asceticism
 CC|DECK|C|NORM|01|01|GTC|Bioshift
-CC|DECK|R|NORM|00|01|MBS|Blue Sun's Zenith
+CC|DECK|R|NORM|01|01|MBS|Blue Sun's Zenith
 CC|DECK|C|NORM|01|01|ICE|Brainstorm
 CC|DECK|R|NORM|01|01|GTC|Breeding Pool
 CC|DECK|R|NORM|00|01|STH|Burgeoning
@@ -154,7 +154,7 @@ CC|DECK|R|NORM|00|01|ZEN|Oran-Rief, the Vastwood
 CC|DECK|U|NORM|00|01|CHK/DDJ|Overwhelming Intellect
 CC|DECK|U|NORM|01|01|5DN|Paradise Mantle
 CC|DECK|U|NORM|01|01|DIS|Plaxcaster Frogling
-CC|DECK|M|NORM|00|01|MBS|Praetor's Counsel
+CC|DECK|M|NORM|01|01|MBS|Praetor's Counsel
 CC|DECK|M|NORM|01|01|M13|Primordial Hydra
 CC|DECK|U|NORM|01|01|TMP|Propaganda
 CC|DECK|R|NORM|01|01|M11|Protean Hydra
@@ -1341,7 +1341,7 @@ PC|CUBE|C|NORM|01|01|10E|Youthful Knight
 --|FREE|U|NORM|02|00|   |Infiltration Lens
 --|FREE|U|NORM|01|00|   |Inkfathom Infiltrator
 --|FREE|U|NORM|01|00|   |Inkfathom Witch
---|FREE|R|NORM|01|01|MBS|Inkmoth Nexus
+--|FREE|R|NORM|02|01|MBS|Inkmoth Nexus
 --|FREE|U|NORM|03|00|   |Inquisitor Exarch
 --|FREE|U|NORM|02|00|   |Inquisitor's Flail
 --|FREE|U|NORM|01|00|   |Into the Maw of Hell
@@ -1539,6 +1539,7 @@ PC|CUBE|C|NORM|01|01|10E|Youthful Knight
 --|FREE|U|NORM|04|00|DIS|Plaxcaster Frogling
 --|FREE|U|NORM|02|00|   |Postmortem Lunge
 --|FREE|U|NORM|01|00|   |Power Armor
+--|FREE|M|NORM|01|01|MBS|Praetor's Counsel
 --|FREE|R|NORM|01|00|NPH|Praetor's Grasp
 --|FREE|R|NORM|01|01|RTR|Precinct Captain
 --|FREE|R|NORM|02|00|ZEN|Predatory Urge
