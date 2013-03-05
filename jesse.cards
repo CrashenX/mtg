@@ -244,6 +244,7 @@ GW|SIDE|R|NORM|01|01|JUD|Sylvan Safekeeper
 GW|SIDE|M|NORM|00|01|MBS|Thrun, the Last Troll
 GW|SIDE|U|NORM|00|01|M13|Tormod's Crypt
 GW|ALTS|R|NORM|01|01|AVR|Ulvenwald Tracker
+GW|ALTS|R|NORM|01|01|AVR|Slayers' Stronghold
 GW|ALTS|R|NORM|03|03|DKA|Thalia, Guardian of Thraben
 LF|DECK|M|NORM|00|01|WWK|Admonition Angel
 LF|DECK|M|FOIL|01|01|V12|Ancient Tomb
@@ -282,6 +283,7 @@ LF|DECK|R|NORM|01|01|ISD|Hinterland Harbor
 LF|DECK|R|NORM|01|01|BOK|Hokori, Dust Drinker
 LF|DECK|R|NORM|01|01|MOR|Idyllic Tutor
 LF|DECK|R|NORM|01|01|ARC|Kamahl, Fist of Krosa
+LF|DECK|M|FOIL|01|01|DDG|Knight of the Reliquary
 LF|DECK|R|NORM|01|01|ARC|Leonin Abunas
 LF|DECK|M|NORM|01|01|ZEN|Lotus Cobra
 LF|DECK|R|NORM|01|01|CHK|Meloku the Clouded Mirror
@@ -979,6 +981,7 @@ PC|CUBE|C|NORM|01|01|10E|Youthful Knight
 --|FREE|U|NORM|01|00|ZEN|Arrow Volley Trap
 --|FREE|U|NORM|02|01|ROE|Artisan of Kozilek
 --|FREE|R|NORM|03|01|SOM|Asceticism
+--|FREE|R|NORM|01|00|RTR|Ash Zealot
 --|FREE|R|NORM|01|00|GTC|Aurelia, the Warleader
 --|FREE|U|NORM|06|04|SOM|Auriok Edgewright
 --|FREE|U|NORM|01|01|NPH|Auriok Survivors
@@ -1372,6 +1375,7 @@ PC|CUBE|C|NORM|01|01|10E|Youthful Knight
 --|FREE|U|NORM|02|00|   |Kiku's Shadow
 --|FREE|U|NORM|01|00|GTC|Killing Glare
 --|FREE|U|NORM|02|00|   |Kiln Walker
+--|FREE|R|NORM|01|01|DDG|Kinsbaile Cavalier
 --|FREE|U|NORM|04|00|   |Kiri-Onna
 --|FREE|U|NORM|01|00|   |Kismet
 --|FREE|U|NORM|01|00|   |Kite Shield
@@ -1673,6 +1677,7 @@ PC|CUBE|C|NORM|01|01|10E|Youthful Knight
 --|FREE|R|NORM|01|00|GTC|Soul Ransom
 --|FREE|R|NORM|01|00|AVR|Soul of the Harvest
 --|FREE|U|NORM|02|00|   |Soulsurge Elemental
+--|FREE|R|NORM|03|00|GTC|Spark Trooper
 --|FREE|R|FOIL|01|00|ROE|Spawnsire of Ulamog
 --|FREE|R|NORM|02|00|ROE|Spawnsire of Ulamog
 --|FREE|U|NORM|01|00|   |Spectral Rider
