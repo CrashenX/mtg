@@ -88,7 +88,7 @@ MR|ALTS|R|NORM|01|01|MBS|Shimmer Myr
 MR|ALTS|R|NORM|01|01|NPH|Soul Conduit
 MR|ALTS|R|NORM|01|01|MBS|Thopter Assembly
 MR|ALTS|R|NORM|01|01|ZEN|World Queller
-CC|DECK|R|NORM|00|01|AVR|Alchemist's Refuge
+CC|DECK|R|NORM|01|01|AVR|Alchemist's Refuge
 CC|DECK|U|NORM|01|01|CON|Ancient Ziggurat
 CC|DECK|R|NORM|01|01|10E|Arcanis the Omnipotent
 CC|DECK|R|NORM|01|01|SOM|Asceticism
@@ -99,7 +99,7 @@ CC|DECK|R|NORM|01|01|GTC|Breeding Pool
 CC|DECK|R|NORM|00|01|STH|Burgeoning
 CC|DECK|R|NORM|00|01|SHM|Cauldron of Souls
 CC|DECK|M|FOIL|01|01|V12|Cephalid Coliseum
-CC|DECK|R|NORM|00|01|RTR|Chromatic Lantern
+CC|DECK|R|NORM|01|01|RTR|Chromatic Lantern
 CC|DECK|C|NORM|00|01|TSP|Clockspinning
 CC|DECK|R|NORM|00|01|EVE|Cold-Eyed Selkie
 CC|DECK|C|NORM|00|01|CMD/CMA|Command Tower
@@ -128,7 +128,7 @@ CC|DECK|C|NORM|01|01|WWK|Halimar Depths
 CC|DECK|M|FOIL|01|01|V12|High Market
 CC|DECK|R|NORM|01|01|ISD|Hinterland Harbor
 CC|DECK|R|NORM|01|01|GTC|Illusionist's Bracers
-CC|DECK|R|NORM|00|01|DKA|Increasing Savagery
+CC|DECK|R|NORM|01|01|DKA|Increasing Savagery
 CC|DECK|R|NORM|01|01|SOM|Inexorable Tide
 CC|DECK|C|NORM|01|01|ZEN|Island
 CC|DECK|U|NORM|01|01|SHM|Leech Bonder
@@ -363,14 +363,14 @@ KN|MAIN|R|NORM|04|04|ROE|Student of Warfare
 KN|MAIN|U|NORM|00|02|10E|Wrath of God
 KN|SIDE|C|NORM|03|03|RTR|Electrickery
 KN|SIDE|U|NORM|03|03|M13|Oblivion Ring
-KN|SIDE|R|NORM|01|02|RTR|Rest in Peace
+KN|SIDE|R|NORM|02|02|RTR|Rest in Peace
 KN|SIDE|U|NORM|04|04|GTC|Skullcrack
 KN|SIDE|U|NORM|00|03|M13|Tormod's Crypt
 KN|ALTS|C|NORM|01|01|ISD|Bonds of Faith
 TS|MAIN|C|NORM|04|04|MRD|Ancient Den
 TS|MAIN|R|NORM|01|01|SOM|Argentum Armor
 TS|MAIN|C|NORM|04|04|DST|Darksteel Citadel
-TS|MAIN|M|NORM|00|01|DKA|Elbrus, the Binding Blade
+TS|MAIN|M|NORM|01|01|DKA|Elbrus, the Binding Blade
 TS|MAIN|U|NORM|04|04|DKA|Faith's Shield
 TS|MAIN|C|NORM|03|03|MBS|Flayer Husk
 TS|MAIN|R|NORM|01|01|DST|Heartseeker
