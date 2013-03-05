@@ -52,7 +52,6 @@ MF|SIDE|U|NORM|02|02|MOR|Sage's Dousing
 MF|SIDE|U|NORM|01|01|LOR|Surgespanner
 MF|SIDE|R|NORM|01|01|EVE|Wake Thrasher
 MR|MAIN|U|NORM|02|02|NPH|Alloy Myr
-MR|MAIN|R|NORM|01|01|ROE|Awakening Zone
 MR|MAIN|U|NORM|03|03|SOM|Darksteel Myr
 MR|MAIN|R|NORM|01|02|ZEN|Emeria, the Sky Ruin
 MR|MAIN|U|NORM|02|02|MIR|Enlightened Tutor
@@ -74,17 +73,20 @@ MR|MAIN|U|NORM|02|02|NPH|Shrine of Loyal Legions
 MR|MAIN|R|NORM|01|01|M11|Steel Overseer
 MR|MAIN|R|NORM|02|02|SOM|Tempered Steel
 MR|MAIN|R|NORM|01|01|NPH|Unwinding Clock
+MR|ALTS|R|NORM|01|01|ROE|Awakening Zone
 MR|ALTS|R|NORM|01|01|SOM|Grand Architect
+MR|ALTS|R|NORM|01|01|RTR|Jarad's Orders
 MR|ALTS|R|NORM|01|01|SOM|Kuldotha Phoenix
+MR|ALTS|R|NORM|01|00|ROE|Magmaw
 MR|ALTS|R|NORM|01|01|MBS|Mirrorworks
 MR|ALTS|R|NORM|01|01|SOM|Myr Reservoir
 MR|ALTS|R|NORM|01|01|MBS|Myr Turbine
 MR|ALTS|R|NORM|01|01|MBS|Myr Welder
-MR|ALTS|R|NORM|01|01|MBS|Shimmer Myr
-MR|ALTS|R|NORM|01|01|RTR|Jarad's Orders
-MR|ALTS|R|NORM|01|01|MBS|Thopter Assembly
+MR|ALTS|R|NORM|01|01|ISD|Parallel Lives
 MR|ALTS|R|NORM|01|01|SOM|Shape Anew
+MR|ALTS|R|NORM|01|01|MBS|Shimmer Myr
 MR|ALTS|R|NORM|01|01|NPH|Soul Conduit
+MR|ALTS|R|NORM|01|01|MBS|Thopter Assembly
 MR|ALTS|R|NORM|01|01|ZEN|World Queller
 CC|DECK|R|NORM|00|01|AVR|Alchemist's Refuge
 CC|DECK|U|NORM|01|01|CON|Ancient Ziggurat
@@ -113,7 +115,7 @@ CC|DECK|R|NORM|00|01|DIS|Experiment Kraj
 CC|DECK|R|NORM|01|01|CON|Exotic Orchard
 CC|DECK|R|NORM|01|01|USG|Exploration
 CC|DECK|R|NORM|01|01|GTC|Fathom Mage
-CC|DECK|C|NORM|01|01|   |Fertilid
+CC|DECK|C|NORM|01|01|ARC|Fertilid
 CC|DECK|R|NORM|00|01|EVE|Flooded Grove
 CC|DECK|U|NORM|00|01|EXO|Forbid
 CC|DECK|M|FOIL|01|01|V12|Forbidden Orchard
@@ -130,7 +132,7 @@ CC|DECK|R|NORM|00|01|DKA|Increasing Savagery
 CC|DECK|R|NORM|01|01|SOM|Inexorable Tide
 CC|DECK|C|NORM|01|01|ZEN|Island
 CC|DECK|U|NORM|01|01|SHM|Leech Bonder
-CC|DECK|U|NORM|01|01|   |Lightning Greaves
+CC|DECK|U|NORM|01|01|DDE|Lightning Greaves
 CC|DECK|U|NORM|01|01|ARC|Llanowar Reborn
 CC|DECK|C|NORM|00|01|   |Lonely Sandbar
 CC|DECK|U|NORM|00|01|ARB|Lorescale Coatl
@@ -143,7 +145,7 @@ CC|DECK|U|NORM|01|01|DST|Mirrodin's Core
 CC|DECK|R|NORM|00|01|ROE|Momentous Fall
 CC|DECK|R|NORM|00|01|DIS|Momir Vig, Simic Visionary
 CC|DECK|R|NORM|00|01|SHM|Mossbridge Troll
-CC|DECK|R|NORM|01|01|   |Mosswort Bridge
+CC|DECK|R|NORM|01|01|ARC|Mosswort Bridge
 CC|DECK|U|NORM|00|01|V09/MIR/6ED|Mystical Tutor
 CC|DECK|R|NORM|00|01|M11|Mystifying Maze
 CC|DECK|U|NORM|01|01|DIS|Novijen, Heart of Progress
@@ -162,7 +164,6 @@ CC|DECK|C|NORM|00|01|PCY/CMA|Rhystic Study
 CC|DECK|R|NORM|01|01|ZEN|Scute Mob
 CC|DECK|U|NORM|00|01|CHK|Sensei's Divining Top
 CC|DECK|C|NORM|01|01|DIS|Simic Growth Chamber
-CC|DECK|U|NORM|00|01|DIS|Simic Guildmage
 CC|DECK|C|NORM|01|01|GTC|Simic Guildgate
 CC|DECK|C|NORM|01|01|DIS/CMD|Simic Signet
 CC|DECK|U|NORM|00|01|CMD|Sol Ring
@@ -182,12 +183,13 @@ CC|DECK|R|NORM|00|01|SHM|Woodfall Primus
 CC|DECK|U|NORM|00|01|6ED/MIR|Worldly Tutor
 CC|DECK|R|NORM|00|01|9ED/10E/APC|Yavimaya Coast
 CC|DECK|R|NORM|00|01|UDS|Yavimaya Hollow
-CC|DECK|M|NORM|01|01|GTC|Prime Speaker Zegana
-CC|ALTS|R|NORM|01|01|ARC|Feral Hydra
 CC|ALTS|R|NORM|01|01|ISD|Creeping Renaissance
-CC|ALTS|R|NORM|01|01|ROE|Recurring Insight
+CC|ALTS|U|NORM|01|01|M11|Crystal Ball
 CC|ALTS|U|NORM|01|01|5DN|Eternal Witness
+CC|ALTS|R|NORM|01|01|ARC|Feral Hydra
 CC|ALTS|U|NORM|01|01|AVR|Infinite Reflection
+CC|ALTS|M|NORM|01|01|GTC|Prime Speaker Zegana
+CC|ALTS|R|NORM|01|01|ROE|Recurring Insight
 CC|ALTS|R|NORM|01|01|DIS|Voidslime
 GW|MAIN|R|NORM|03|00|3ED|Armageddon
 GW|MAIN|R|NORM|00|03|P02|Armageddon
@@ -242,6 +244,7 @@ GW|SIDE|R|NORM|01|01|JUD|Sylvan Safekeeper
 GW|SIDE|M|NORM|00|01|MBS|Thrun, the Last Troll
 GW|SIDE|U|NORM|00|01|M13|Tormod's Crypt
 GW|ALTS|R|NORM|01|01|AVR|Ulvenwald Tracker
+GW|ALTS|R|NORM|03|03|DKA|Thalia, Guardian of Thraben
 LF|DECK|M|NORM|00|01|WWK|Admonition Angel
 LF|DECK|M|FOIL|01|01|V12|Ancient Tomb
 LF|DECK|R|NORM|01|01|CHK|Azusa, Lost but Seeking
@@ -1304,7 +1307,6 @@ PC|CUBE|C|NORM|01|01|10E|Youthful Knight
 --|FREE|R|NORM|02|00|NPH|Hex Parasite
 --|FREE|U|NORM|01|00|GTC|Hindervines
 --|FREE|U|NORM|01|00|GTC|Hindervines
---|FREE|R|NORM|01|00|ISD|Hinterland Harbor
 --|FREE|R|NORM|01|00|M11|Hoarding Dragon
 --|FREE|R|NORM|01|01|BOK|Hokori, Dust Drinker
 --|FREE|U|NORM|01|00|GTC|Hold the Gates
@@ -1415,7 +1417,6 @@ PC|CUBE|C|NORM|01|01|10E|Youthful Knight
 --|FREE|U|NORM|01|00|   |Lyev Skynight
 --|FREE|R|NORM|01|00|ARB|Madrush Cyclops
 --|FREE|R|NORM|01|00|M11|Magma Phoenix
---|FREE|R|NORM|01|00|ROE|Magmaw
 --|FREE|U|NORM|02|00|   |Make a Wish
 --|FREE|R|NORM|02|00|ZEN|Malakir Bloodwitch
 --|FREE|U|NORM|01|00|   |Mammoth Umbra
@@ -1491,7 +1492,6 @@ PC|CUBE|C|NORM|01|01|10E|Youthful Knight
 --|FREE|U|NORM|01|00|GTC|One Thousand Lashes
 --|FREE|U|NORM|01|00|   |Onyx Mage
 --|FREE|R|NORM|01|00|GTC|Ooze Flux
---|FREE|R|NORM|01|00|ZEN|Oracle of Mul Daya
 --|FREE|U|NORM|01|00|   |Order of Yawgmoth
 --|FREE|U|NORM|00|04|GPT|Order of the Stars
 --|FREE|U|NORM|01|00|GTC|Ordruun Veteran
@@ -1505,7 +1505,6 @@ PC|CUBE|C|NORM|01|01|10E|Youthful Knight
 --|FREE|U|NORM|01|00|   |Painsmith
 --|FREE|U|FOIL|01|00|   |Palace Guard
 --|FREE|U|NORM|03|00|5DN|Paradise Mantle
---|FREE|R|NORM|01|01|ISD|Parallel Lives
 --|FREE|C|FOIL|01|00|   |Paralyzing Grasp
 --|FREE|U|NORM|02|00|   |Pathrazer of Ulamog
 --|FREE|U|NORM|01|00|   |Pawn of Ulamog
@@ -1795,7 +1794,7 @@ PC|CUBE|C|NORM|01|01|10E|Youthful Knight
 --|FREE|U|NORM|01|00|   |Urza's Bauble
 --|FREE|U|NORM|02|00|   |Urza's Mine
 --|FREE|U|NORM|01|00|   |Urza's Power Plant
---|FREE|M|FOIL|01|00|INV|Urza's Rage
+--|FREE|M|FOIL|01|00|DDE|Urza's Rage
 --|FREE|U|NORM|01|00|   |Urza's Tower
 --|FREE|U|NORM|03|00|   |Valakut Fireboar
 --|FREE|U|NORM|02|00|   |Vampire Nighthawk
