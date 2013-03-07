@@ -1,9 +1,11 @@
+1 1.46 Ajani's Pridemate
 1 0.07 AEther Adept
 2 16.21 Aether Vial
 1 0.14 Akrasan Squire
 1 0.09 Arcbound Hybrid
 1 0.12 Arcbound Stinger
 1 0.50 Azorius Chancery
+1 3.09 Banefire
 1 0.07 Ballynock Cohort
 1 0.08 Ballynock Trapper
 1 0.08 Barren Moor
@@ -16,7 +18,8 @@
 1 0.09 Brine Shaman
 1 0.07 Burrenton Bombardier
 1 1.50 Careful Study
-1 2.56 Cauldron of Souls
+2 2.56 Cauldron of Souls
+2 0.48 Crop Rotation
 1 0.08 Cenn's Enlistment
 1 0.09 Cerodon Yearling
 1 0.10 Chittering Rats
@@ -26,6 +29,7 @@
 1 0.12 Clockspinning
 1 0.09 Cloudchaser Kestrel
 1 0.09 Coal Stoker
+2 1.10 Comet Storm
 1 0.15 Compulsive Research
 1 0.07 Corrupted Zendikon
 1 1.12 Counterspell
@@ -35,6 +39,7 @@
 1 0.46 Crypt Rats
 1 0.10 Curse of Chains
 1 3.70 Cursecatcher
+1 5.07 Darksteel Plate
 1 0.09 Deny Reality
 1 0.53 Desert
 1 0.55 Dimir Aqueduct
@@ -65,13 +70,13 @@
 1 0.08 Game-Trail Changeling
 1 0.09 Ghost Warden
 1 0.09 Giantbaiting
+1 9.69 Gideon, Champion of Justice
 1 0.08 Gilt-Leaf Ambush
 1 0.10 Goldmeadow Harrier
 1 0.09 Golgari Brownscale
 1 0.28 Golgari Rot Farm
 1 0.83 Grapeshot
 1 0.18 Gruul Turf
-1 4.36 Gyre Sage
 1 0.09 Hearth Kami
 1 0.13 Icatian Javelineers
 1 0.09 Ichor Slick
@@ -102,8 +107,8 @@
 1 0.49 Mulldrifter
 1 0.45 Myr Enforcer
 1 0.66 Myr Galvanizer
+1 1.16 Myr Retriever
 1 0.18 Mystical Teachings
-1 4.99 Mystical Tutor
 1 0.12 Nameless Inversion
 1 0.07 Narcolepsy
 1 0.09 Nath's Elite
@@ -137,10 +142,11 @@
 1 0.10 Ray of Command
 1 0.10 Razor Golem
 1 0.18 Recoil
+1 0.78 Realmwright
 1 0.12 Remove Soul
 1 0.10 Rendclaw Trow
 1 0.14 Repeal
-1 2.05 Rhystic Study
+3 2.05 Rhystic Study
 1 2.00 Rift Bolt
 1 0.11 Ronom Unicorn
 1 0.07 Runed Stalactite
@@ -175,8 +181,9 @@
 1 0.09 Surveilling Sprite
 1 0.10 Sylvan Ranger
 1 0.09 Tangle Golem
+1 1.04 Tectonic Edge
 1 10.68 Temple Garden
-1 0.56 Temple of the False God
+3 0.56 Temple of the False God
 1 0.07 Temporal Fissure
 1 0.12 Temporal Isolation
 1 0.10 Temporal Spring
@@ -214,3 +221,4 @@
 1 0.10 Wrecking Ball
 1 0.08 Wretched Anurid
 1 0.09 Yavimaya Granger
+21 0.49 Plains
