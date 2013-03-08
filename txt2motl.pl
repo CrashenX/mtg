@@ -16,28 +16,27 @@ my @cards = read_file('jesse.cards');
 for my $card (@cards) {
     my @fields = split(/\|/,$card);
     my $num_wanted = $fields[5] - $fields[4];
+    my $card_name = $fields[7];
+    my $use = $fields[1];
+    my $set = $fields[6];
+    chomp($card_name);
 
     next if(0 == $num_wanted);
 
-    chomp($fields[7]);
-
-    print "$num_wanted"."x ";
-
-    if($num_wanted > 0 && $fields[1] =~ m/MAIN/) {
-        print '[big][b]' . $fields[7] . '[/b][/big] ' . $fields[6];
+    if($num_wanted > 0 && $use =~ m/MAIN/) {
+        $card_name = '[big][b]' . $card_name . '[/b][/big]';
     }
-    elsif($num_wanted > 0 && $fields[1] =~ m/SIDE/) {
-        print '[b]' . $fields[7] . '[/b] ' . $fields[6];
+    elsif($num_wanted > 0 && $use =~ m/SIDE/) {
+        $card_name = '[b]' . $card_name . '[/b]';
     }
-    elsif($num_wanted > 0 && $fields[1] =~ m/CUBE/) {
-        print '[small]' . $fields[7] . '[/small] ' . $fields[6];
+    elsif($num_wanted > 0 && $use =~ m/CUBE/) {
+        $card_name = '[small]' . $card_name . '[/small]';
     }
     elsif($card =~ m/FOIL/) {
-        print '[FOIL]' . $fields[7] . '[/FOIL] ' . $fields[6];
-    }
-    else {
-        print $fields[7] . ' ' . $fields[6];
+        $card_name = '[FOIL]' . $card_name . '[/FOIL]';
     }
 
+    print "$num_wanted"."x $card_name";
+    print " ($set)" unless($set =~ /^\s\s*$/);
     print "\n";
 }
