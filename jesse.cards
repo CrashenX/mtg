@@ -188,6 +188,7 @@ CC|ALTS|U|NORM|01|01|M11|Crystal Ball
 CC|ALTS|U|NORM|01|01|5DN|Eternal Witness
 CC|ALTS|R|NORM|01|01|ARC|Feral Hydra
 CC|ALTS|U|NORM|01|01|AVR|Infinite Reflection
+CC|ALTS|R|NORM|01|01|M12|Jace, Memory Adept
 CC|ALTS|M|NORM|01|01|GTC|Prime Speaker Zegana
 CC|ALTS|R|NORM|01|01|ROE|Recurring Insight
 CC|ALTS|R|NORM|01|01|DIS|Voidslime
@@ -1876,3 +1877,6 @@ PC|CUBE|C|NORM|01|01|10E|Youthful Knight
 --|FREE|R|NORM|01|00|NPH|Chancellor of the Annex
 --|FREE|R|NORM|01|00|NPH|Chancellor of the Tangle
 --|FREE|R|NORM|01|00|NPH|Phyrexian Ingester
+--|FREE|R|FOIL|01|00|M12|Arachnus Spinner
+--|FREE|R|NORM|01|00|M12|Mesa Enchantress
+--|FREE|R|NORM|01|01|M12|Birds of Paradise
