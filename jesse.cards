@@ -381,7 +381,7 @@ TS|MAIN|U|NORM|01|01|ARC|Lightning Greaves
 TS|MAIN|R|NORM|04|04|ISD|Mentor of the Meek
 TS|MAIN|M|NORM|01|01|SOM|Mox Opal
 TS|MAIN|C|NORM|14|14|ZEN|Plains
-TS|MAIN|R|NORM|03|04|NPH|Puresteel Paladin
+TS|MAIN|R|NORM|04|04|NPH|Puresteel Paladin
 TS|MAIN|R|NORM|04|04|WWK|Stoneforge Mystic
 TS|MAIN|M|NORM|01|01|MBS|Sword of Feast and Famine
 TS|MAIN|M|NORM|01|01|DST|Sword of Fire and Ice
@@ -898,7 +898,7 @@ PC|CUBE|C|NORM|01|01|DKA|Undying Evil
 PC|CUBE|C|NORM|01|01|ARC|Unmake
 PC|CUBE|C|NORM|01|01|ISD|Unruly Mob
 PC|CUBE|C|NORM|01|01|ISD|Vampire Interloper
-PC|CUBE|C|NORM|00|01|NPH|Vault Skirge
+PC|CUBE|C|NORM|01|01|NPH|Vault Skirge
 PC|CUBE|C|NORM|00|01|MRD/PC2|Vault of Whispers
 PC|CUBE|C|NORM|00|01|ARB|Veinfire Borderpost
 PC|CUBE|C|NORM|01|01|ROE|Vendetta
@@ -1068,6 +1068,7 @@ PC|CUBE|C|NORM|01|01|10E|Youthful Knight
 --|FREE|R|NORM|01|00|WWK|Chain Reaction
 --|FREE|R|NORM|01|00|HML|Chain Stasis
 --|FREE|R|NORM|01|00|NPH|Chancellor of the Dross
+--|FREE|R|NORM|01|00|NPH|Chancellor of the Spires
 --|FREE|R|NORM|01|00|NPH|Chancellor of the Tangle
 --|FREE|M|NORM|01|00|M11|Chandra Nalaar
 --|FREE|U|NORM|04|00|   |Charge Across the Araba
@@ -1345,6 +1346,7 @@ PC|CUBE|C|NORM|01|01|10E|Youthful Knight
 --|FREE|U|NORM|03|00|   |Inquisitor Exarch
 --|FREE|U|NORM|02|00|   |Inquisitor's Flail
 --|FREE|U|NORM|01|00|   |Into the Maw of Hell
+--|FREE|R|NORM|01|00|NPH|Invader Parasite
 --|FREE|R|FOIL|01|00|NPH|Invader Parasite
 --|FREE|U|NORM|01|00|   |Irrestible Prey
 --|FREE|R|NORM|01|01|CHK|Isamaru, Hound of Konda
@@ -1637,7 +1639,7 @@ PC|CUBE|C|NORM|01|01|10E|Youthful Knight
 --|FREE|U|NORM|02|00|   |Sharpened Pitchfork
 --|FREE|U|NORM|02|00|   |Shattered Angel
 --|FREE|U|NORM|01|00|   |Shattered Perception
---|FREE|M|NORM|01|00|NPH|Sheoldred, Whispering One
+--|FREE|M|NORM|02|00|NPH|Sheoldred, Whispering One
 --|FREE|U|NORM|03|00|   |Shepherd of the Lost
 --|FREE|U|NORM|02|00|   |Shield Sphere
 --|FREE|U|NORM|02|00|   |Shifting Borders
@@ -1862,8 +1864,15 @@ PC|CUBE|C|NORM|01|01|10E|Youthful Knight
 --|FREE|R|NORM|01|00|GTC|Wrecking Ogre
 --|FREE|M|NORM|01|00|WWK|Wrexial, the Risen Deep
 --|FREE|U|NORM|01|00|   |Wurm's Tooth
---|FREE|R|NORM|01|00|NPH|Xenograft
+--|FREE|R|NORM|02|00|NPH|Xenograft
 --|FREE|U|NORM|02|00|   |Yavimaya Dryad
 --|FREE|U|NORM|03|00|GTC|Zameck Guildmage
 --|FREE|C|FOIL|01|00|   |Zendikar Farguide
 --|FREE|U|NORM|01|01|ICE|Zuran Orb
+--|FREE|R|NORM|01|01|NPH|Unwinding Clock
+--|FREE|U|NORM|02|02|NPH|Dispatch
+--|FREE|R|NORM|01|01|NPH|Surgical Extraction
+--|FREE|R|NORM|01|00|NPH|Omen Machine
+--|FREE|R|NORM|01|00|NPH|Chancellor of the Annex
+--|FREE|R|NORM|01|00|NPH|Chancellor of the Tangle
+--|FREE|R|NORM|01|00|NPH|Phyrexian Ingester
