@@ -965,6 +965,7 @@ PC|CUBE|C|NORM|01|01|10E|Youthful Knight
 --|FREE|R|NORM|01|00|ROE|Angelheart Vial
 --|FREE|U|NORM|01|00|AVR|Angelic Armaments
 --|FREE|R|NORM|01|00|GTC|Angelic Skirmisher
+--|FREE|R|FOIL|01|00|M12|Arachnus Spinner
 --|FREE|R|FOIL|01|00|SOK|Arashi, the Sky Asunder
 --|FREE|R|NORM|01|00|SOK|Arashi, the Sky Asunder
 --|FREE|U|NORM|01|00|M12|Arbalest Elite
@@ -1011,6 +1012,7 @@ PC|CUBE|C|NORM|01|01|10E|Youthful Knight
 --|FREE|U|NORM|04|00|   |Beloved Chaplain
 --|FREE|U|NORM|02|00|   |Bestial Menace
 --|FREE|R|NORM|01|00|GTC|Biomass Mutation
+--|FREE|R|NORM|01|01|M12|Birds of Paradise
 --|FREE|U|NORM|01|00|   |Biting Tether
 --|FREE|U|NORM|01|00|   |Bitterheart Witch
 --|FREE|U|NORM|01|00|   |Black Knight
@@ -1068,8 +1070,10 @@ PC|CUBE|C|NORM|01|01|10E|Youthful Knight
 --|FREE|R|NORM|02|00|SOM|Cerebral Eruption
 --|FREE|R|NORM|01|00|WWK|Chain Reaction
 --|FREE|R|NORM|01|00|HML|Chain Stasis
+--|FREE|R|NORM|01|00|NPH|Chancellor of the Annex
 --|FREE|R|NORM|01|00|NPH|Chancellor of the Dross
 --|FREE|R|NORM|01|00|NPH|Chancellor of the Spires
+--|FREE|R|NORM|01|00|NPH|Chancellor of the Tangle
 --|FREE|R|NORM|01|00|NPH|Chancellor of the Tangle
 --|FREE|M|NORM|01|00|M11|Chandra Nalaar
 --|FREE|U|NORM|04|00|   |Charge Across the Araba
@@ -1151,6 +1155,7 @@ PC|CUBE|C|NORM|01|01|10E|Youthful Knight
 --|FREE|U|NORM|01|00|GTC|Dimir Keyrune
 --|FREE|R|NORM|01|00|5ED|Dingus Egg
 --|FREE|U|FOIL|01|00|GTC|Disciple of the Old Ways
+--|FREE|U|NORM|02|02|NPH|Dispatch
 --|FREE|U|NORM|06|00|   |Dispense Justice
 --|FREE|U|NORM|01|00|   |Dissipate
 --|FREE|R|NORM|02|01|SOM|Dissipation Field
@@ -1447,6 +1452,7 @@ PC|CUBE|C|NORM|01|01|10E|Youthful Knight
 --|FREE|U|NORM|02|00|   |Merfolk Seastalkers
 --|FREE|U|NORM|01|00|   |Merfolk Skyscout
 --|FREE|U|NORM|04|00|   |Merfolk Wayfinder
+--|FREE|R|NORM|01|00|M12|Mesa Enchantress
 --|FREE|U|NORM|01|00|   |Metallurgeon
 --|FREE|U|NORM|02|00|   |Midnight Haunting
 --|FREE|U|NORM|01|00|   |Might of the Nephilim
@@ -1496,6 +1502,7 @@ PC|CUBE|C|NORM|01|01|10E|Youthful Knight
 --|FREE|U|NORM|04|00|   |Oboro Envoy
 --|FREE|U|NORM|04|00|   |Ogre Geargrabber
 --|FREE|U|NORM|01|00|   |Ogre's Cleaver
+--|FREE|R|NORM|01|00|NPH|Omen Machine
 --|FREE|U|NORM|01|00|GTC|One Thousand Lashes
 --|FREE|U|NORM|01|00|   |Onyx Mage
 --|FREE|R|NORM|01|00|GTC|Ooze Flux
@@ -1526,6 +1533,7 @@ PC|CUBE|C|NORM|01|01|10E|Youthful Knight
 --|FREE|U|NORM|01|00|   |Phyrexian Defiler
 --|FREE|U|NORM|01|00|   |Phyrexian Hulk
 --|FREE|R|NORM|01|00|MBS|Phyrexian Hydra
+--|FREE|R|NORM|01|00|NPH|Phyrexian Ingester
 --|FREE|R|NORM|01|00|NPH|Phyrexian Ingester
 --|FREE|R|NORM|01|01|NPH|Phyrexian Metamorph
 --|FREE|M|FOIL|01|00|DDE|Phyrexian Negator
@@ -1723,6 +1731,7 @@ PC|CUBE|C|NORM|01|01|10E|Youthful Knight
 --|FREE|U|FOIL|01|00|   |Sunspear Shikari
 --|FREE|C|FOIL|01|00|   |Sunspire Griffin
 --|FREE|U|NORM|02|00|   |Surge Node
+--|FREE|R|NORM|01|01|NPH|Surgical Extraction
 --|FREE|U|NORM|01|00|   |Surreal Memoir
 --|FREE|U|NORM|02|00|   |Survival Cache
 --|FREE|U|FOIL|01|00|   |Suture Priest
@@ -1798,6 +1807,7 @@ PC|CUBE|C|NORM|01|01|10E|Youthful Knight
 --|FREE|R|NORM|02|00|GTC|Unexpected Results
 --|FREE|U|NORM|03|00|   |Unstable Footing
 --|FREE|C|FOIL|01|00|   |Untamed Might
+--|FREE|R|NORM|01|01|NPH|Unwinding Clock
 --|FREE|U|NORM|02|00|GTC|Urban Evolution
 --|FREE|U|NORM|03|00|GTC|Urbis Protector
 --|FREE|U|NORM|01|00|   |Urza's Bauble
@@ -1870,13 +1880,3 @@ PC|CUBE|C|NORM|01|01|10E|Youthful Knight
 --|FREE|U|NORM|03|00|GTC|Zameck Guildmage
 --|FREE|C|FOIL|01|00|   |Zendikar Farguide
 --|FREE|U|NORM|01|01|ICE|Zuran Orb
---|FREE|R|NORM|01|01|NPH|Unwinding Clock
---|FREE|U|NORM|02|02|NPH|Dispatch
---|FREE|R|NORM|01|01|NPH|Surgical Extraction
---|FREE|R|NORM|01|00|NPH|Omen Machine
---|FREE|R|NORM|01|00|NPH|Chancellor of the Annex
---|FREE|R|NORM|01|00|NPH|Chancellor of the Tangle
---|FREE|R|NORM|01|00|NPH|Phyrexian Ingester
---|FREE|R|FOIL|01|00|M12|Arachnus Spinner
---|FREE|R|NORM|01|00|M12|Mesa Enchantress
---|FREE|R|NORM|01|01|M12|Birds of Paradise
