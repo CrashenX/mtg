@@ -196,7 +196,7 @@ CC|ALTS|R|NORM|01|01|00|M12|Jace, Memory Adept
 CC|ALTS|M|NORM|01|01|00|GTC|Prime Speaker Zegana
 CC|ALTS|R|NORM|01|01|00|ROE|Recurring Insight
 CC|ALTS|R|NORM|01|01|00|DIS|Voidslime
-GW|MAIN|R|NORM|03|00|00|3ED|Armageddon
+GW|MAIN|R|NORM|02|00|00|3ED|Armageddon
 GW|MAIN|R|NORM|00|03|00|P02|Armageddon
 GW|MAIN|R|NORM|04|04|00|M10|Birds of Paradise
 GW|MAIN|R|NORM|01|01|00|AVR|Cavern of Souls
@@ -973,7 +973,6 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|U|NORM|02|00|00|M11|Alluring Siren
 --|FREE|R|NORM|01|00|00|GTC|Alms Beast
 --|FREE|R|NORM|01|00|00|HML|Anaba Spirit Crafter
---|FREE|M|FOIL|01|00|00|V12|Ancient Tomb
 --|FREE|U|NORM|01|00|00|AVR|Angel's Tomb
 --|FREE|R|NORM|01|00|00|ROE|Angelheart Vial
 --|FREE|U|NORM|01|00|00|AVR|Angelic Armaments
@@ -993,9 +992,8 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|U|NORM|03|00|00|ROE|Arrogant Bloodlord
 --|FREE|U|NORM|01|00|00|ZEN|Arrow Volley Trap
 --|FREE|U|NORM|02|01|00|ROE|Artisan of Kozilek
---|FREE|R|NORM|03|01|00|SOM|Asceticism
+--|FREE|R|NORM|01|01|00|SOM|Asceticism
 --|FREE|R|NORM|01|00|00|RTR|Ash Zealot
---|FREE|R|NORM|01|00|00|GTC|Aurelia, the Warleader
 --|FREE|U|NORM|06|04|00|SOM|Auriok Edgewright
 --|FREE|U|NORM|01|01|00|NPH|Auriok Survivors
 --|FREE|U|NORM|01|00|00|   |Autumn's Veil
@@ -1004,7 +1002,7 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|U|NORM|01|00|00|RTR|Azorius Justiciar
 --|FREE|U|NORM|01|00|00|RTR|Azorius Keyrune
 --|FREE|R|NORM|01|01|00|ISD|Back from the Brink
---|FREE|U|NORM|04|01|00|MIR|Bad River
+--|FREE|U|NORM|03|01|00|MIR|Bad River
 --|FREE|U|NORM|03|00|00|ZEN|Baloth Cage Trap
 --|FREE|U|NORM|02|01|00|ZEN|Baloth Woodcrasher
 --|FREE|U|NORM|02|00|00|GTC|Bane Alley Broker
@@ -1030,7 +1028,6 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|U|NORM|01|00|00|   |Black Knight
 --|FREE|R|NORM|01|00|00|ZEN|Blade of the Bloodchief
 --|FREE|U|NORM|02|00|00|   |Blanchwood Armor
---|FREE|R|NORM|01|01|00|ISD|Blasphemous Act
 --|FREE|U|NORM|04|00|00|   |Blazing Torch
 --|FREE|U|NORM|01|00|00|   |Blood Feud
 --|FREE|U|NORM|01|00|00|   |Blood Reckoning
@@ -1076,7 +1073,6 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|U|NORM|03|00|00|   |Caustic Crawler
 --|FREE|R|FOIL|01|00|00|AVR|Cavern of Souls
 --|FREE|U|NORM|02|00|00|   |Celestial Dawn
---|FREE|R|NORM|01|00|00|ZEN|Celestial Mantle
 --|FREE|U|NORM|03|00|00|   |Celestial Purge
 --|FREE|R|NORM|02|00|00|SOM|Cerebral Eruption
 --|FREE|R|NORM|01|00|00|WWK|Chain Reaction
@@ -1086,7 +1082,6 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|R|NORM|01|00|00|NPH|Chancellor of the Spires
 --|FREE|R|NORM|01|00|00|NPH|Chancellor of the Tangle
 --|FREE|R|NORM|01|00|00|NPH|Chancellor of the Tangle
---|FREE|M|NORM|01|00|00|M11|Chandra Nalaar
 --|FREE|U|NORM|04|00|00|   |Charge Across the Araba
 --|FREE|U|NORM|01|00|00|   |Charging Troll
 --|FREE|R|NORM|01|01|00|SOK|Choice of Damnations
@@ -1169,7 +1164,6 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|U|NORM|06|00|00|   |Dispense Justice
 --|FREE|U|NORM|01|00|00|   |Dissipate
 --|FREE|R|NORM|02|01|00|SOM|Dissipation Field
---|FREE|R|NORM|04|00|00|ODY|Divert
 --|FREE|R|NORM|01|01|00|ISD|Divine Reckoning
 --|FREE|R|NORM|02|00|00|M10|Djinn of Wishes
 --|FREE|R|NORM|01|00|00|ROE|Dormant Gomazoa
@@ -1209,14 +1203,12 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|U|NORM|01|00|00|   |Excavation
 --|FREE|U|NORM|01|00|00|   |Exclusion Ritual
 --|FREE|R|NORM|02|01|00|CON|Exotic Orchard
---|FREE|R|NORM|01|00|00|USG|Exploration
 --|FREE|U|NORM|03|00|00|   |Explosive Revelation
 --|FREE|U|NORM|01|00|00|   |Exsanguinate
 --|FREE|R|NORM|01|01|00|SOM|Ezuri's Brigade
 --|FREE|R|NORM|02|01|00|SOM|Ezuri, Renegade Leader
 --|FREE|U|NORM|01|00|00|   |Fall of the Gavel
 --|FREE|U|NORM|01|00|00|   |Fallen Ferromancer
---|FREE|R|NORM|02|00|00|3ED|Fastbond
 --|FREE|R|FOIL|01|01|00|GTC|Fathom Mage (Promo)
 --|FREE|U|NORM|01|00|00|   |Favorable Winds
 --|FREE|U|NORM|04|00|00|   |Feast of Blood
@@ -1315,8 +1307,6 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|R|NORM|01|01|00|SHM|Heartmender
 --|FREE|R|NORM|01|01|00|DST|Heartseeker
 --|FREE|U|NORM|03|00|00|   |Heavy Arbalest
---|FREE|U|FOIL|01|00|00|   |Hedron Crab
---|FREE|U|NORM|03|00|00|   |Hedron Crab
 --|FREE|U|NORM|04|00|00|   |Hellfire Mongrel
 --|FREE|U|NORM|01|00|00|   |Hellhole Flailer
 --|FREE|R|FOIL|01|00|00|ZEN|Hellkite Charger
@@ -1412,7 +1402,6 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|U|NORM|01|00|00|   |Lead the Stampede
 --|FREE|U|NORM|03|00|00|   |Leatherback Baloth
 --|FREE|U|NORM|05|00|00|SHM|Leech Bonder
---|FREE|R|NORM|01|00|00|GTC|Legion Loyalist
 --|FREE|U|NORM|02|00|00|   |Levitation
 --|FREE|R|NORM|02|01|00|M11|Leyline of Anticipation
 --|FREE|R|NORM|04|00|00|M11|Leyline of Vitality
@@ -1482,7 +1471,6 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|R|NORM|01|01|00|ISD|Moldgraf Monstrosity
 --|FREE|R|NORM|01|00|00|SOM|Molten Psyche
 --|FREE|U|NORM|01|00|00|   |Mortarpod
---|FREE|U|NORM|01|00|00|   |Mountain Valley
 --|FREE|U|FOIL|01|00|00|   |Murasa Pyromancer
 --|FREE|U|NORM|03|00|00|   |Murder Crows
 --|FREE|U|NORM|01|00|00|GTC|Murder Investigation
@@ -1558,7 +1546,6 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|U|NORM|01|00|00|   |Plague Myr
 --|FREE|U|NORM|01|00|00|   |Plaguemaw Beast
 --|FREE|U|NORM|04|00|00|DIS|Plaxcaster Frogling
---|FREE|U|NORM|02|00|00|   |Postmortem Lunge
 --|FREE|U|NORM|01|00|00|   |Power Armor
 --|FREE|M|NORM|01|01|00|MBS|Praetor's Counsel
 --|FREE|R|NORM|01|00|00|NPH|Praetor's Grasp
@@ -1635,7 +1622,7 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|U|NORM|04|04|00|MOR|Sage of Fables
 --|FREE|U|NORM|01|00|00|   |Sanguine Guard
 --|FREE|U|NORM|01|00|00|GTC|Sapphire Drake
---|FREE|R|NORM|02|01|00|TMP|Sapphire Medallion
+--|FREE|R|NORM|01|01|00|TMP|Sapphire Medallion
 --|FREE|U|NORM|04|00|00|   |Saprazzan Cove
 --|FREE|C|NORM|04|01|00|MMQ|Saprazzan Skerry
 --|FREE|U|NORM|02|00|00|   |Savage Lands
@@ -1808,8 +1795,7 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|R|NORM|01|00|00|SOM|Tunnel Ignus
 --|FREE|U|NORM|06|00|00|   |Turntimber Basilisk
 --|FREE|R|NORM|01|00|00|ZEN|Turntimber Ranger
---|FREE|R|NORM|04|00|00|   |Twincast
---|FREE|U|NORM|05|00|00|   |Twisted Image
+--|FREE|U|NORM|04|00|00|   |Twisted Image
 --|FREE|U|NORM|04|00|00|   |Umbral Mantle
 --|FREE|U|NORM|01|00|00|   |Unbender Tine
 --|FREE|R|NORM|01|00|00|ISD|Unbreathing Horde
@@ -1862,10 +1848,9 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|U|NORM|01|00|00|   |Vulshok Refugee
 --|FREE|R|NORM|04|04|00|DIS|Walking Archive
 --|FREE|U|NORM|03|00|00|   |Wall of Frost
---|FREE|U|NORM|02|00|00|   |Wall of Omens
 --|FREE|C|FOIL|01|00|00|GTC|Wandering Wolf
 --|FREE|U|NORM|01|00|00|   |War Priest of Thune
---|FREE|U|NORM|02|00|00|   |Warmonger's Chariot
+--|FREE|U|NORM|01|00|00|   |Warmonger's Chariot
 --|FREE|M|NORM|01|00|00|ZEN|Warren Instigator
 --|FREE|U|NORM|02|00|00|   |Wasp Lancer
 --|FREE|U|NORM|01|00|00|   |Watchwolf
