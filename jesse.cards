@@ -242,7 +242,7 @@ GW|SIDE|R|NORM|01|01|EXO|Limited Resources
 GW|SIDE|C|NORM|01|01|DDH|Qasali Pridemage
 GW|SIDE|R|NORM|01|01|JUD|Sylvan Safekeeper
 GW|SIDE|M|NORM|00|01|MBS|Thrun, the Last Troll
-GW|SIDE|U|NORM|00|01|M13|Tormod's Crypt
+GW|SIDE|U|NORM|00|03|M13|Tormod's Crypt
 GW|ALTS|R|NORM|01|01|AVR|Ulvenwald Tracker
 GW|ALTS|R|NORM|01|01|AVR|Slayers' Stronghold
 GW|ALTS|R|NORM|03|03|DKA|Thalia, Guardian of Thraben
@@ -326,11 +326,10 @@ WW|MAIN|U|NORM|03|04|M11|Ajani's Pridemate
 WW|MAIN|R|NORM|04|04|ISD|Champion of the Parish
 WW|MAIN|R|NORM|00|01|CHK|Eiganjo Castle
 WW|MAIN|M|NORM|01|01|ZEN|Felidar Sovereign
-WW|MAIN|R|NORM|03|03|M10|Honor of the Pure
+WW|MAIN|R|NORM|00|03|M10|Honor of the Pure
 WW|MAIN|C|NORM|04|04|ZEN|Kabira Crossroads
 WW|MAIN|C|NORM|03|03|CSP|Martyr of Sands
 WW|MAIN|R|NORM|01|01|ISD|Mikaeus, the Lunarch
-WW|MAIN|U|NORM|03|03|CON|Path to Exile
 WW|MAIN|C|NORM|14|14|   |Plains
 WW|MAIN|R|NORM|03|03|DIS|Proclamation of Rebirth
 WW|MAIN|R|NORM|04|04|ALA|Ranger of Eos
@@ -343,30 +342,39 @@ WW|MAIN|M|NORM|02|02|V12|Windbrisk Heights
 WW|SIDE|U|NORM|02|02|DKA|Chalice of Life
 WW|ALTS|C|NORM|01|01|CSP|Martyr of Sands
 WW|ALTS|R|NORM|01|01|DIS|Proclamation of Rebirth
-WW|SIDE|U|NORM|01|01|CON|Path to Exile
 KN|MAIN|U|NORM|03|04|MBS|Accorder Paladin
-KN|MAIN|C|NORM|02|02|ISD|Bonds of Faith
 KN|MAIN|U|NORM|04|04|GTC|Boros Charm
-KN|MAIN|U|NORM|03|03|ZEN|Brave the Elements
 KN|MAIN|R|NORM|04|04|ISD|Clifftop Retreat
+KN|MAIN|M|NORM|00|01|ALA|Elspeth, Knight-Errant
+KN|MAIN|R|NORM|03|03|M10|Honor of the Pure
 KN|MAIN|R|NORM|01|01|DDG|Knight Exemplar
 KN|MAIN|R|NORM|00|03|M11/DDG|Knight Exemplar
-KN|MAIN|C|NORM|04|04|M10|Lightning Bolt
-KN|MAIN|C|NORM|07|07|ZEN|Mountain
+KN|MAIN|C|NORM|02|02|M10|Lightning Bolt
+KN|ALTS|R|NORM|00|04|DDH|Lightning Helix
+KN|MAIN|C|NORM|04|04|ZEN|Mountain
+KN|MAIN|U|NORM|04|04|CON|Path to Exile
 KN|MAIN|C|NORM|04|04|ZEN|Plains
-KN|MAIN|C|NORM|06|06|RTR|Plains
-KN|MAIN|U|NORM|02|03|MBS|Signal Pest
+KN|MAIN|C|NORM|04|04|RTR|Plains
+KN|MAIN|R|NORM|00|04|GTC|Sacred Foundry
 KN|MAIN|R|NORM|03|03|AVR|Silverblade Paladin
-KN|MAIN|C|NORM|04|04|GTC|Skyknight Legionnaire
+KN|MAIN|C|NORM|03|03|GTC|Skyknight Legionnaire
 KN|MAIN|R|NORM|02|02|AVR|Slayers' Stronghold
 KN|MAIN|R|NORM|04|04|ROE|Student of Warfare
 KN|MAIN|U|NORM|02|02|10E|Wrath of God
 KN|SIDE|C|NORM|03|03|RTR|Electrickery
+KN|SIDE|R|NORM|03|03|MBS|Mirran Crusader
 KN|SIDE|U|NORM|03|03|M13|Oblivion Ring
 KN|SIDE|R|NORM|02|02|RTR|Rest in Peace
 KN|SIDE|U|NORM|04|04|GTC|Skullcrack
-KN|SIDE|U|NORM|00|03|M13|Tormod's Crypt
-KN|ALTS|C|NORM|01|01|ISD|Bonds of Faith
+KN|ALTS|M|NORM|01|01|M11|Ajani Goldmane
+KN|ALTS|M|NORM|00|00|ALA/DDH|Ajani Vengeant
+KN|ALTS|C|NORM|03|03|ISD|Bonds of Faith
+KN|ALTS|U|NORM|04|04|ZEN|Brave the Elements
+KN|ALTS|C|NORM|02|02|M10|Lightning Bolt
+KN|ALTS|C|NORM|00|02|AVR|Nearheath Pilgrim
+KN|ALTS|R|NORM|00|02|SHM|Runed Halo
+KN|ALTS|C|NORM|01|01|GTC|Skyknight Legionnaire
+KN|ALTS|R|NORM|00|02|10E/ONS|True Believer
 TS|MAIN|R|NORM|00|02|DST|Aether Vial
 TS|MAIN|C|NORM|04|04|MRD|Ancient Den
 TS|MAIN|R|NORM|01|01|SOM|Argentum Armor
@@ -954,7 +962,6 @@ PC|CUBE|C|NORM|01|01|10E|Youthful Knight
 --|FREE|U|NORM|02|00|ROE|Affa Guard Hound
 --|FREE|U|NORM|02|00|M10|Air Elemental
 --|FREE|U|NORM|01|00|M11|Air Servant
---|FREE|M|NORM|01|01|M11|Ajani Goldmane
 --|FREE|U|NORM|01|00|ROE|Akoum Boulderfoot
 --|FREE|U|NORM|04|00|ZEN|Akoum Refuge
 --|FREE|R|NORM|01|00|5ED|Akron Legionnaire
@@ -1041,7 +1048,6 @@ PC|CUBE|C|NORM|01|01|10E|Youthful Knight
 --|FREE|U|NORM|01|00|   |Bramblecrush
 --|FREE|U|NORM|01|00|   |Bramblesnap
 --|FREE|U|NORM|01|00|   |Brass Squire
---|FREE|U|NORM|01|01|ZEN|Brave the Elements
 --|FREE|R|NORM|01|00|M11|Brittle Effigy
 --|FREE|U|NORM|02|00|   |Broodwarden
 --|FREE|U|NORM|02|00|   |Brutalizer Exarch
@@ -1661,6 +1667,7 @@ PC|CUBE|C|NORM|01|01|10E|Youthful Knight
 --|FREE|U|NORM|02|00|   |Shrine of Limitless Power
 --|FREE|U|NORM|02|00|   |Shrine of Piercing Vision
 --|FREE|U|NORM|02|00|   |Sickleslicer
+--|FREE|U|NORM|03|03|MBS|Signal Pest
 --|FREE|U|NORM|01|00|   |Silver-Inlaid Dagger
 --|FREE|U|NORM|01|00|GTC|Simic Charm
 --|FREE|U|NORM|03|00|GTC|Simic Fluxmage
