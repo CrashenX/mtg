@@ -7,7 +7,7 @@ sub sort_func()
 {
     my @fields1 = split(/\|/,$a);
     my @fields2 = split(/\|/,$b);
-    return $fields1[7] cmp $fields2[7];
+    return $fields1[8] cmp $fields2[8];
 }
 
 my @cards = read_file('jesse.cards');
@@ -15,10 +15,10 @@ my @cards = read_file('jesse.cards');
 
 for my $card (@cards) {
     my @fields = split(/\|/,$card);
-    my $num_wanted = $fields[5] - $fields[4];
-    my $card_name = $fields[7];
+    my $num_wanted = $fields[5] - $fields[4] - $fields[6];
+    my $card_name = $fields[8];
     my $use = $fields[1];
-    my $set = $fields[6];
+    my $set = $fields[7];
     chomp($card_name);
 
     next if(0 == $num_wanted);
