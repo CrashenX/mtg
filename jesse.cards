@@ -51,46 +51,63 @@ MF|SIDE|R|NORM|00|01|00|M12|Phantasmal Image
 MF|SIDE|U|NORM|02|02|00|MOR|Sage's Dousing
 MF|SIDE|U|NORM|01|01|00|LOR|Surgespanner
 MF|SIDE|R|NORM|01|01|00|EVE|Wake Thrasher
-MR|MAIN|U|NORM|02|02|00|NPH|Alloy Myr
-MR|MAIN|U|NORM|03|03|00|SOM|Darksteel Myr
-MR|MAIN|R|NORM|01|02|00|ZEN|Emeria, the Sky Ruin
-MR|MAIN|U|NORM|02|02|00|MIR|Enlightened Tutor
-MR|MAIN|R|NORM|00|00|00|SOM|Gold Myr
-MR|MAIN|U|NORM|01|01|00|ISD|Intangible Virtue
+MR|MAIN|R|NORM|01|03|01|CON|Banefire
+MR|MAIN|R|NORM|00|03|00|PLC|Boom // Bust
+MR|MAIN|U|NORM|00|02|00|M12|Buried Ruin
+MR|MAIN|R|NORM|00|02|00|FUT|Cloud Key
+MR|MAIN|M|FOIL|00|02|02|WWK|Comet Storm (Prerelease)
+MR|MAIN|M|NORM|00|02|00|WWK/CMD|Comet Storm
+MR|MAIN|C|NORM|00|04|00|DST|Darksteel Citadel
+MR|MAIN|R|NORM|00|01|00|DST/HOP|Darksteel Forge
+MR|MAIN|U|NORM|00|02|00|WWK/ARC/DDF|Everflowing Chalice
+MR|MAIN|C|NORM|01|04|03|SOM|Iron Myr
 MR|MAIN|R|NORM|01|01|00|ARC|Lodestone Golem
 MR|MAIN|R|NORM|01|01|00|WWK|Lodestone Golem
-MR|MAIN|R|NORM|02|02|00|SOM|Myr Battlesphere
+MR|MAIN|R|NORM|00|01|00|WWK/ARC|Lodestone Golem
+MR|MAIN|C|NORM|10|10|00|SOM|Mountain
+MR|MAIN|R|NORM|01|01|00|SOM|Myr Battlesphere
 MR|MAIN|U|NORM|03|04|01|SOM|Myr Galvanizer
-MR|MAIN|R|NORM|01|01|00|SOM|Myr Propagator
-MR|MAIN|R|NORM|02|02|00|SOM|Myr Superion
-MR|MAIN|U|NORM|04|04|00|SOM|Myrsmith
+MR|MAIN|R|NORM|02|02|00|MBS|Myr Turbine
 MR|MAIN|U|NORM|04|04|00|SOM|Palladium Myr
-MR|MAIN|C|NORM|00|00|00|SOM|Perilous Myr
-MR|MAIN|C|NORM|22|22|00|SOM|Plains
-MR|MAIN|M|NORM|01|01|00|SOM|Platinum Emperion
-MR|MAIN|R|NORM|01|01|00|SOM|Semblance Anvil
-MR|MAIN|U|NORM|02|02|00|NPH|Shrine of Loyal Legions
-MR|MAIN|R|NORM|01|01|00|M11|Steel Overseer
-MR|MAIN|R|NORM|02|02|00|SOM|Tempered Steel
-MR|MAIN|R|NORM|01|01|00|NPH|Unwinding Clock
+MR|MAIN|R|NORM|01|02|00|NPH|Phyrexian Metamorph
+MR|MAIN|R|NORM|01|03|00|SOM|Semblance Anvil
+MR|MAIN|R|NORM|00|02|00|ROE|Splinter Twin
+MR|MAIN|U|NORM|00|04|00|WWK|Tectonic Edge
+MR|ALTS|U|NORM|01|01|00|NPH|Alloy Myr
 MR|ALTS|R|NORM|01|01|00|ROE|Awakening Zone
-MR|ALTS|R|NORM|00|01|01|CON|Banefire
-MR|ALTS|M|FOIL|00|02|02|WWK|Comet Storm (Prerelease)
-MR|ALTS|M|NORM|00|02|00|WWK/CMD|Comet Storm
+MR|ALTS|C|NORM|01|01|00|SOM|Copper Myr
+MR|ALTS|U|NORM|01|01|00|SOM|Darksteel Myr
+MR|ALTS|U|NORM|01|01|00|MIR|Enlightened Tutor
+MR|ALTS|R|NORM|01|01|00|SOM|Gold Myr
 MR|ALTS|R|NORM|01|01|00|SOM|Grand Architect
+MR|ALTS|C|NORM|01|01|00|NPH|Hovermyr
+MR|ALTS|U|NORM|01|01|00|ISD|Intangible Virtue
 MR|ALTS|R|NORM|01|01|00|RTR|Jarad's Orders
 MR|ALTS|R|NORM|01|01|00|SOM|Kuldotha Phoenix
-MR|ALTS|R|NORM|01|00|00|ROE|Magmaw
-MR|ALTS|R|NORM|02|02|00|MBS|Mirrorworks
+MR|ALTS|C|NORM|01|01|00|SOM|Leaden Myr
+MR|ALTS|R|NORM|01|01|00|ROE|Magmaw
+MR|ALTS|C|NORM|01|01|00|MBS|Master's Call
+MR|ALTS|R|NORM|01|01|00|MBS|Mirrorworks
+MR|ALTS|R|NORM|01|01|00|SOM|Myr Battlesphere
+MR|ALTS|R|NORM|01|01|00|SOM|Myr Propagator
 MR|ALTS|R|NORM|01|01|00|SOM|Myr Reservoir
 MR|ALTS|U|NORM|00|01|01|MRD|Myr Retriever
-MR|ALTS|R|NORM|02|02|00|MBS|Myr Turbine
+MR|ALTS|R|NORM|01|01|00|SOM|Myr Superion
 MR|ALTS|R|NORM|01|01|00|MBS|Myr Welder
+MR|ALTS|U|NORM|01|01|00|SOM|Myrsmith
 MR|ALTS|R|NORM|01|01|00|ISD|Parallel Lives
+MR|ALTS|C|NORM|01|01|00|SOM|Perilous Myr
+MR|ALTS|M|NORM|01|01|00|SOM|Platinum Emperion
 MR|ALTS|R|NORM|01|01|00|SOM|Shape Anew
 MR|ALTS|R|NORM|01|01|00|MBS|Shimmer Myr
+MR|ALTS|U|NORM|01|01|00|NPH|Shrine of Loyal Legions
+MR|ALTS|C|NORM|01|01|00|SOM|Silver Myr
 MR|ALTS|R|NORM|01|01|00|NPH|Soul Conduit
+MR|ALTS|R|NORM|01|01|00|M11|Steel Overseer
+MR|ALTS|C|NORM|01|01|00|SOM|Strider Harness
+MR|ALTS|R|NORM|01|01|00|SOM|Tempered Steel
 MR|ALTS|R|NORM|01|01|00|MBS|Thopter Assembly
+MR|ALTS|R|NORM|01|01|00|NPH|Unwinding Clock
 MR|ALTS|R|NORM|01|01|00|ZEN|World Queller
 CC|DECK|R|NORM|01|01|00|AVR|Alchemist's Refuge
 CC|DECK|U|NORM|01|01|00|CON|Ancient Ziggurat
@@ -253,7 +270,6 @@ GW|ALTS|R|NORM|03|03|00|DKA|Thalia, Guardian of Thraben
 LF|DECK|M|NORM|00|01|00|WWK|Admonition Angel
 LF|DECK|M|FOIL|01|01|00|V12|Ancient Tomb
 LF|DECK|R|NORM|01|01|00|CHK|Azusa, Lost but Seeking
-LF|DECK|R|NORM|01|01|00|CON|Banefire
 LF|DECK|C|NORM|01|01|00|WWK|Bojuka Bog
 LF|DECK|M|FOIL|01|01|00|V12|Boseiju, Who Shelters All
 LF|DECK|C|NORM|01|01|00|ICE|Brainstorm
@@ -970,6 +986,7 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|U|NORM|04|00|00|ZEN|Akoum Refuge
 --|FREE|R|NORM|01|00|00|5ED|Akron Legionnaire
 --|FREE|U|NORM|01|00|00|DDE|Allied Strategies
+--|FREE|U|NORM|01|00|00|NPH|Alloy Myr
 --|FREE|U|NORM|02|00|00|M11|Alluring Siren
 --|FREE|R|NORM|01|00|00|GTC|Alms Beast
 --|FREE|R|NORM|01|00|00|HML|Anaba Spirit Crafter
@@ -1136,6 +1153,7 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|U|NORM|02|00|00|   |Darkslick Drake
 --|FREE|U|NORM|05|00|00|   |Darksteel Axe
 --|FREE|U|NORM|02|00|00|   |Darksteel Myr
+--|FREE|U|NORM|02|00|00|SOM|Darksteel Myr
 --|FREE|U|NORM|02|00|00|   |Darksteel Relic
 --|FREE|U|NORM|04|00|00|   |Darksteel Sentinel
 --|FREE|U|NORM|01|00|00|   |Dauthi Embrace
@@ -1191,8 +1209,10 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|U|NORM|02|00|00|   |Embersmith
 --|FREE|U|NORM|02|00|00|   |Emerge Unscathed
 --|FREE|U|NORM|02|00|00|   |Emerge Unscathed
+--|FREE|R|NORM|01|02|00|ZEN|Emeria, the Sky Ruin
 --|FREE|U|NORM|01|00|00|WTH|Empyrial Armor
 --|FREE|U|NORM|01|00|00|   |Endure
+--|FREE|U|NORM|01|01|00|MIR|Enlightened Tutor
 --|FREE|U|NORM|02|00|00|   |Enslave
 --|FREE|M|NORM|01|00|00|GTC|Enter the Infinite
 --|FREE|U|NORM|03|00|00|   |Entomber Exarch
@@ -1464,6 +1484,7 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|U|NORM|01|00|00|   |Mindculling
 --|FREE|R|NORM|01|01|00|TSP|Mirari
 --|FREE|U|NORM|03|00|00|DST|Mirrodin's Core
+--|FREE|R|NORM|01|00|00|MBS|Mirrorworks
 --|FREE|R|NORM|01|00|00|MBS|Mitotic Manipulation
 --|FREE|R|NORM|02|01|00|M11|Mitotic Slime
 --|FREE|C|FOIL|01|00|00|   |Mizzium Skin
@@ -1479,6 +1500,8 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|U|NORM|01|00|00|   |Mwonvuli Beast Tracker
 --|FREE|R|NORM|01|01|00|ALA|Mycoloth
 --|FREE|U|NORM|01|00|00|   |Mycosynth Fiend
+--|FREE|R|NORM|01|01|00|SOM|Myr Superion
+--|FREE|U|NORM|03|00|00|SOM|Myrsmith
 --|FREE|R|NORM|01|00|00|GTC|Mystic Genesis
 --|FREE|U|NORM|01|00|00|   |Nantuko Monastery
 --|FREE|U|NORM|03|00|00|   |Nature's Spiral
@@ -1533,7 +1556,6 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|R|NORM|01|00|00|MBS|Phyrexian Hydra
 --|FREE|R|NORM|01|00|00|NPH|Phyrexian Ingester
 --|FREE|R|NORM|01|00|00|NPH|Phyrexian Ingester
---|FREE|R|NORM|01|01|00|NPH|Phyrexian Metamorph
 --|FREE|M|FOIL|01|00|00|DDE|Phyrexian Negator
 --|FREE|R|NORM|01|00|00|DDE|Phyrexian Plaguelord
 --|FREE|R|NORM|01|00|00|NPH|Phyrexian Swarmlord
@@ -1655,6 +1677,7 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|C|FOIL|01|00|00|DKA|Shriekgeist
 --|FREE|U|NORM|02|00|00|   |Shrine of Boundless Growth
 --|FREE|U|NORM|02|00|00|   |Shrine of Limitless Power
+--|FREE|U|NORM|01|00|00|NPH|Shrine of Loyal Legions
 --|FREE|U|NORM|02|00|00|   |Shrine of Piercing Vision
 --|FREE|U|NORM|02|00|00|   |Sickleslicer
 --|FREE|U|NORM|03|03|00|MBS|Signal Pest
@@ -1745,6 +1768,7 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|R|NORM|01|00|00|MIR|Teferi's Imp
 --|FREE|R|NORM|01|00|00|CON|Telemin Performance
 --|FREE|U|NORM|02|00|00|   |Telepathy
+--|FREE|R|NORM|01|00|00|SOM|Tempered Steel
 --|FREE|U|NORM|00|01|01|CMD|Temple of the False God
 --|FREE|R|NORM|03|01|00|BOK|Tendo Ice Bridge
 --|FREE|R|NORM|02|00|00|WWK|Terastodon
