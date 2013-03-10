@@ -367,6 +367,7 @@ KN|SIDE|R|NORM|02|02|RTR|Rest in Peace
 KN|SIDE|U|NORM|04|04|GTC|Skullcrack
 KN|SIDE|U|NORM|00|03|M13|Tormod's Crypt
 KN|ALTS|C|NORM|01|01|ISD|Bonds of Faith
+TS|MAIN|R|NORM|00|02|DST|Aether Vial
 TS|MAIN|C|NORM|04|04|MRD|Ancient Den
 TS|MAIN|R|NORM|01|01|SOM|Argentum Armor
 TS|MAIN|C|NORM|04|04|DST|Darksteel Citadel
@@ -376,12 +377,12 @@ TS|MAIN|C|NORM|03|03|MBS|Flayer Husk
 TS|MAIN|R|NORM|01|01|DST|Heartseeker
 TS|MAIN|I|NORM|01|01|SOM|Infiltration Lens
 TS|MAIN|U|NORM|04|04|ZEN|Kor Duelist
-TS|MAIN|C|NORM|02|02|ZEN|Kor Outfitter
-TS|MAIN|R|NORM|04|04|DST|Leonin Shikari
+TS|MAIN|C|NORM|01|01|ZEN|Kor Outfitter
+TS|MAIN|R|NORM|03|03|DST|Leonin Shikari
 TS|MAIN|U|NORM|01|01|ARC|Lightning Greaves
 TS|MAIN|R|NORM|04|04|ISD|Mentor of the Meek
-TS|MAIN|M|NORM|01|01|SOM|Mox Opal
-TS|MAIN|C|NORM|14|14|ZEN|Plains
+TS|MAIN|M|NORM|01|02|SOM|Mox Opal
+TS|MAIN|C|NORM|13|13|ZEN|Plains
 TS|MAIN|R|NORM|04|04|NPH|Puresteel Paladin
 TS|MAIN|R|NORM|04|04|WWK|Stoneforge Mystic
 TS|MAIN|M|NORM|01|01|MBS|Sword of Feast and Famine
@@ -395,6 +396,7 @@ TS|ALTS|C|NORM|01|01|MBS|Flayer Husk
 TS|ALTS|R|NORM|01|01|ZEN|Grappling Hook
 TS|ALTS|M|NORM|01|01|SOM|Indomitable Archangel
 TS|ALTS|C|NORM|01|01|ZEN|Kor Outfitter
+TS|ALTS|R|NORM|01|01|DST|Leonin Shikari
 TS|ALTS|R|NORM|01|01|SOM|Livewire Lash
 TS|ALTS|R|NORM|01|01|DDG|Loxodon Warhammer
 TS|ALTS|R|NORM|01|01|AVR|Moonsilver Spear
