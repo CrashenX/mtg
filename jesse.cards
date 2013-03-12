@@ -383,7 +383,7 @@ KN|MAIN|R|NORM|02|02|00|AVR|Slayers' Stronghold
 KN|MAIN|R|NORM|04|04|00|ROE|Student of Warfare
 KN|MAIN|U|NORM|02|02|00|10E|Wrath of God
 KN|SIDE|C|NORM|03|03|00|RTR|Electrickery
-KN|SIDE|R|NORM|03|03|00|MBS|Mirran Crusader
+KN|SIDE|R|NORM|01|03|00|MBS|Mirran Crusader
 KN|SIDE|U|NORM|03|03|00|M13|Oblivion Ring
 KN|SIDE|R|NORM|02|02|00|RTR|Rest in Peace
 KN|SIDE|U|NORM|04|04|00|GTC|Skullcrack
@@ -429,6 +429,7 @@ TS|ALTS|R|NORM|01|01|00|DST|Leonin Shikari
 TS|ALTS|R|NORM|01|01|00|SOM|Livewire Lash
 TS|ALTS|R|NORM|01|01|00|DDG|Loxodon Warhammer
 TS|ALTS|R|NORM|01|01|00|AVR|Moonsilver Spear
+TS|ALTS|R|NORM|01|01|00|M11|Sword of Vengeance
 PC|CUBE|C|NORM|01|01|00|ZEN|Adventuring Gear
 PC|CUBE|C|NORM|00|01|01|M11/M12|Aether Adept
 PC|CUBE|C|NORM|00|01|00|ALA/ARC|Agony Warp
@@ -1395,7 +1396,7 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|R|NORM|01|00|00|ZEN|Kazuul Warlord
 --|FREE|R|NORM|01|00|00|WWK|Kazuul, Tyrant of the Cliffs
 --|FREE|U|NORM|01|00|00|   |Kemba's Legion
---|FREE|R|NORM|02|00|00|SOM|Kemba, Kha Regent
+--|FREE|R|NORM|03|01|00|SOM|Kemba, Kha Regent
 --|FREE|R|FOIL|01|00|00|ISD|Kessig Cagebreakers
 --|FREE|R|NORM|01|00|00|ISD|Kessig Cagebreakers
 --|FREE|U|NORM|01|00|00|   |Kessig Malcontents
@@ -1905,3 +1906,8 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|U|NORM|03|00|00|GTC|Zameck Guildmage
 --|FREE|C|FOIL|01|00|00|   |Zendikar Farguide
 --|FREE|U|NORM|01|01|00|ICE|Zuran Orb
+--|FREE|R|NORM|01|00|00|NPH|Puresteel Paladin
+--|FREE|R|NORM|02|02|00|WWK|Stoneforge Mystic
+--|FREE|R|NORM|01|00|00|MBS|Bonehoard
+--|FREE|R|NORM|01|01|00|DDG|Knotvine Paladin
+--|FREE|R|NORM|01|01|00|DDG|Knight of the White Orchid
