@@ -1,5 +1,5 @@
 BN|MAIN|C|NORM|03|03|00|M11|Cultivate
-BN|MAIN|R|NORM|01|04|00|ROE|Eldrazi Temple
+BN|MAIN|R|NORM|03|04|00|ROE|Eldrazi Temple
 BN|MAIN|M|FOIL|01|01|00|ROE|Emrakul, the Aeons Torn (Promo)
 BN|MAIN|U|NORM|01|01|00|ARC|Everflowing Chalice
 BN|MAIN|U|NORM|01|01|00|WWK|Everflowing Chalice
@@ -16,7 +16,7 @@ BN|MAIN|C|NORM|04|04|00|ROE|Overgrown Battlement
 BN|MAIN|M|NORM|01|01|00|SOM|Platinum Emperion
 BN|MAIN|M|NORM|01|01|00|M11|Primeval Titan
 BN|MAIN|M|NORM|03|03|00|M12|Primeval Titan
-BN|MAIN|R|NORM|03|04|00|ZEN|Summoning Trap
+BN|MAIN|R|NORM|04|04|00|ZEN|Summoning Trap
 BN|MAIN|R|NORM|01|01|00|ARC|Sundering Titan
 BN|MAIN|R|NORM|01|01|00|GTC|Sylvan Primordial
 BN|MAIN|U|NORM|04|04|00|WWK|Tectonic Edge
@@ -371,7 +371,7 @@ KN|MAIN|R|NORM|03|03|00|M10|Honor of the Pure
 KN|MAIN|R|NORM|01|01|00|DDG|Knight Exemplar
 KN|MAIN|R|NORM|00|03|00|M11/DDG|Knight Exemplar
 KN|MAIN|C|NORM|02|02|00|M10|Lightning Bolt
-KN|ALTS|R|NORM|00|04|00|DDH|Lightning Helix
+KN|ALTS|R|NORM|03|04|00|RAV|Lightning Helix
 KN|MAIN|C|NORM|04|04|00|ZEN|Mountain
 KN|MAIN|U|NORM|04|04|00|CON|Path to Exile
 KN|MAIN|C|NORM|04|04|00|ZEN|Plains
