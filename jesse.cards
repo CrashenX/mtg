@@ -71,7 +71,7 @@ MR|MAIN|R|NORM|02|02|00|MBS|Myr Turbine
 MR|MAIN|U|NORM|04|04|00|SOM|Palladium Myr
 MR|MAIN|R|NORM|01|02|00|NPH|Phyrexian Metamorph
 MR|MAIN|R|NORM|01|03|00|SOM|Semblance Anvil
-MR|MAIN|R|NORM|00|02|00|ROE|Splinter Twin
+MR|MAIN|R|NORM|01|02|00|ROE|Splinter Twin
 MR|MAIN|U|NORM|00|04|00|WWK|Tectonic Edge
 MR|ALTS|U|NORM|01|01|00|NPH|Alloy Myr
 MR|ALTS|R|NORM|01|01|00|ROE|Awakening Zone
@@ -267,7 +267,7 @@ GW|SIDE|U|NORM|00|03|00|M13|Tormod's Crypt
 GW|ALTS|R|NORM|01|01|00|AVR|Ulvenwald Tracker
 GW|ALTS|R|NORM|01|01|00|AVR|Slayers' Stronghold
 GW|ALTS|R|NORM|03|03|00|DKA|Thalia, Guardian of Thraben
-LF|DECK|M|NORM|00|01|00|WWK|Admonition Angel
+LF|DECK|M|NORM|01|01|00|WWK|Admonition Angel
 LF|DECK|M|FOIL|01|01|00|V12|Ancient Tomb
 LF|DECK|R|NORM|01|01|00|CHK|Azusa, Lost but Seeking
 LF|DECK|C|NORM|01|01|00|WWK|Bojuka Bog
@@ -1202,6 +1202,8 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|R|NORM|02|00|00|ROE|Student of Warfare
 --|FREE|R|FOIL|02|00|00|SOM|Sunblast Angel
 --|FREE|R|NORM|01|00|00|SOM|Sunblast Angel
+--|FREE|R|NORM|01|01|00|M11|Sunpetal Grove
+--|FREE|R|NORM|01|01|00|M12|Sunpetal Grove
 --|FREE|R|NORM|01|01|00|NPH|Surgical Extraction
 --|FREE|R|NORM|01|00|00|WWK|Talus Paladin
 --|FREE|R|NORM|01|00|00|MIR|Teferi's Imp
