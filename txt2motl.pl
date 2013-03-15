@@ -1,6 +1,7 @@
 #!/user/bin/perl -w
 use strict;
 use warnings FATAL => 'all';
+use Switch;
 use Getopt::Long;
 use File::Slurp;
 
@@ -36,8 +37,15 @@ sub want_sort()
 sub motl_format_card()
 {
     my $quantity = shift;
-    my $name = shift;
-    my $foil = shift;
+    my $name     = shift;
+    my $rarity   = shift;
+    my $foil     = shift;
+
+    switch($rarity) {
+        case 'C' { $name = '[small]' . "$name" . '[/small]' }
+        case ['M','R'] { $name = '[b]' . "$name" . '[/b]' }
+    }
+
     if(1 == $foil) {
         sprintf("%02d [FOIL]%s[/FOIL]", abs($quantity), $name);
     }
@@ -82,13 +90,14 @@ my @cards = read_file('jesse.cards');
 @cards = sort card_sort @cards;
 
 for my $card (@cards) {
-    my @fields = split(/\|/,$card);
-    my $use = $fields[1];
-    my $have = $fields[4];
-    my $foil = $fields[3] =~ m/FOIL/ ? 1 : 0;
-    my $want = $fields[5];
-    my $incoming = $fields[6];
-    my $set = $fields[7];
+    my @fields    = split(/\|/,$card);
+    my $use       = $fields[1];
+    my $rarity    = $fields[2];
+    my $foil      = $fields[3] =~ m/FOIL/ ? 1 : 0;
+    my $have      = $fields[4];
+    my $want      = $fields[5];
+    my $incoming  = $fields[6];
+    my $set       = $fields[7];
     my $card_name = $fields[8];
     chomp($card_name);
 
@@ -108,34 +117,15 @@ for my $card (@cards) {
             $u = $FOURTH_WANTS;
         }
         push( @{$trade_list{'want'}->{$u}}
-            , &motl_format_card($num_wanted, $card_name, $foil) . " ($set)"
+            , &motl_format_card($num_wanted, $card_name, $rarity, $foil)
+            . " ($set)"
             );
     }
     else {
         push( @{$trade_list{'have'}->{$set}}
-            , &motl_format_card($num_wanted, $card_name, $foil)
+            , &motl_format_card($num_wanted, $card_name, $rarity, $foil)
             );
     }
-
-    #if($num_wanted > 0 && $use =~ m/MAIN/) {
-    #    $card_name = '[big][b]' . $card_name . '[/b][/big]';
-    #}
-    #elsif($num_wanted > 0 && $use =~ m/SIDE/) {
-    #    $card_name = '[b]' . $card_name . '[/b]';
-    #}
-    #elsif($num_wanted > 0 && $use =~ m/CUBE/) {
-    #    $card_name = '[small]' . $card_name . '[/small]';
-    #}
-    #elsif($card =~ m/FOIL/) {
-    #    $card_name = '[FOIL]' . $card_name . '[/FOIL]';
-    #}
-
-    #print "$num_wanted"."x $card_name";
-    #print " ($set)" unless($set =~ /^\s\s*$/);
-    #print "\n";
-    #foreach( @{$trade_list{'want'}} ) {
-    #    print "$_\n";
-    #}
 }
 
 if(!$print_have && !$print_want) {
