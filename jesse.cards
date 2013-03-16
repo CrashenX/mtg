@@ -72,7 +72,7 @@ MR|MAIN|U|NORM|04|04|00|SOM|Palladium Myr
 MR|MAIN|R|NORM|01|02|00|NPH|Phyrexian Metamorph
 MR|MAIN|R|NORM|01|03|00|SOM|Semblance Anvil
 MR|MAIN|R|NORM|01|02|00|ROE|Splinter Twin
-MR|MAIN|U|NORM|00|04|00|WWK|Tectonic Edge
+MR|MAIN|U|NORM|01|04|00|WWK|Tectonic Edge
 MR|ALTS|U|NORM|01|01|00|NPH|Alloy Myr
 MR|ALTS|R|NORM|01|01|00|ROE|Awakening Zone
 MR|ALTS|C|NORM|01|01|00|SOM|Copper Myr
@@ -347,7 +347,7 @@ WW|MAIN|U|NORM|04|04|00|M11|Ajani's Pridemate
 WW|MAIN|R|NORM|04|04|00|ISD|Champion of the Parish
 WW|MAIN|R|NORM|00|01|00|CHK|Eiganjo Castle
 WW|MAIN|M|NORM|01|01|00|ZEN|Felidar Sovereign
-WW|MAIN|R|NORM|00|03|00|M10/M11/M12|Honor of the Pure
+WW|MAIN|R|NORM|03|03|00|M10/M11/M12|Honor of the Pure
 WW|MAIN|C|NORM|04|04|00|ZEN|Kabira Crossroads
 WW|MAIN|C|NORM|03|03|00|CSP|Martyr of Sands
 WW|MAIN|R|NORM|01|01|00|ISD|Mikaeus, the Lunarch
@@ -367,7 +367,7 @@ KN|MAIN|U|NORM|03|04|00|MBS|Accorder Paladin
 KN|MAIN|U|NORM|04|04|00|GTC|Boros Charm
 KN|MAIN|R|NORM|04|04|00|ISD|Clifftop Retreat
 KN|MAIN|M|NORM|00|01|00|ALA|Elspeth, Knight-Errant
-KN|MAIN|R|NORM|03|03|00|M10|Honor of the Pure
+KN|MAIN|R|NORM|00|03|00|M10/M11/M12|Honor of the Pure
 KN|MAIN|R|NORM|01|01|00|DDG|Knight Exemplar
 KN|MAIN|R|NORM|00|03|00|M11/DDG|Knight Exemplar
 KN|MAIN|C|NORM|02|02|00|M10|Lightning Bolt
@@ -1290,7 +1290,7 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|U|NORM|01|00|00|SOM|Barbed Battlegear
 --|FREE|U|NORM|03|00|00|SOM|Barrage Ogre
 --|FREE|U|NORM|01|00|00|AVR|Barter in Blood
---|FREE|U|NORM|04|00|00|3ED|Basalt Monolith
+--|FREE|U|NORM|04|01|00|3ED|Basalt Monolith
 --|FREE|U|NORM|01|00|00|ISD|Battleground Geist
 --|FREE|U|NORM|01|00|00|NPH|Beast Within
 --|FREE|U|NORM|05|00|00|SOM|Bellowing Tanglewurm
@@ -1717,7 +1717,7 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|U|NORM|03|00|00|CON|Reliquary Tower
 --|FREE|U|NORM|01|00|00|   |Renounce
 --|FREE|U|NORM|03|00|00|   |Rewind
---|FREE|C|NORM|02|02|00|PCY/CMA|Rhystic Study
+--|FREE|C|NORM|02|02|00|PCY|Rhystic Study
 --|FREE|U|NORM|01|00|00|   |Ricochet Trap
 --|FREE|U|NORM|02|00|00|   |Riddlesmith
 --|FREE|U|NORM|02|00|00|GTC|Righteous Charge
@@ -1830,7 +1830,7 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|U|NORM|02|00|00|   |Tajuru Archer
 --|FREE|U|NORM|06|00|00|   |Tangle Angler
 --|FREE|U|NORM|01|00|00|   |Tavern Swindler
---|FREE|U|NORM|01|04|00|WWK|Tectonic Edge
+--|FREE|U|NORM|00|04|00|WWK|Tectonic Edge
 --|FREE|U|NORM|02|00|00|   |Telepathy
 --|FREE|U|NORM|01|01|00|CMD|Temple of the False God
 --|FREE|U|NORM|02|00|00|   |Thornscape Battlemage
