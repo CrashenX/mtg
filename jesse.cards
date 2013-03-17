@@ -970,6 +970,7 @@ PC|CUBE|C|NORM|01|01|00|DIS|Wrecking Ball
 PC|CUBE|C|NORM|01|01|00|ONS|Wretched Anurid
 PC|CUBE|C|NORM|01|01|00|ULG|Yavimaya Granger
 PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
+--|FREE|R|NORM|01|01|00|M12|Aegis Angel
 --|FREE|R|NORM|01|01|00|ODY|Aegis of Honor
 --|FREE|R|NORM|01|00|00|5ED|Akron Legionnaire
 --|FREE|R|NORM|01|00|00|GTC|Alms Beast
@@ -1028,6 +1029,7 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|R|NORM|01|00|00|RTR|Cryptborn Horror
 --|FREE|R|NORM|02|01|00|MBS|Cryptoplasm
 --|FREE|R|NORM|01|00|00|M11|Day of Judgment
+--|FREE|R|NORM|01|00|00|M12|Day of Judgment
 --|FREE|R|NORM|02|02|00|ZEN|Day of Judgment
 --|FREE|R|NORM|01|00|00|RTR|Deadbridge Goliath
 --|FREE|M|NORM|01|00|00|M11|Demon of Death's Gate
@@ -1038,7 +1040,8 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|R|NORM|01|01|00|ISD|Divine Reckoning
 --|FREE|R|NORM|02|00|00|M10|Djinn of Wishes
 --|FREE|R|NORM|01|00|00|ROE|Dormant Gomazoa
---|FREE|R|NORM|01|00|00|AVR|Dual Casting
+--|FREE|R|NORM|01|01|00|M12|Drowned Catacomb
+--|FREE|R|NORM|02|00|00|AVR|Dual Casting
 --|FREE|R|NORM|01|00|00|TMP|Earthcraft
 --|FREE|R|NORM|01|00|00|ISD|Elder of Laurels
 --|FREE|R|FOIL|01|00|00|DIS|Elemental Resonance
@@ -1064,6 +1067,7 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|R|FOIL|01|00|00|ROE|Gigantomancer
 --|FREE|R|NORM|02|02|00|EVE|Glen Elendra Archmage
 --|FREE|R|NORM|01|00|00|NPH|Glistening Oil
+--|FREE|R|NORM|01|00|00|M12|Grim Lavamancer
 --|FREE|R|NORM|01|00|00|SHM|Grim Poppet
 --|FREE|R|NORM|01|00|00|SOM|Grindclock
 --|FREE|R|NORM|01|01|00|MIR|Grinning Totem
@@ -1111,6 +1115,7 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|R|NORM|04|00|00|M11|Leyline of Vitality
 --|FREE|R|NORM|01|00|00|NPH|Life's Finale
 --|FREE|R|NORM|01|00|00|DDE|Living Death
+--|FREE|R|NORM|01|00|00|M12|Lord of the Unreal
 --|FREE|M|NORM|01|00|00|ZEN|Lorthos, the Tidemaker
 --|FREE|M|NORM|01|01|00|ZEN|Lotus Cobra
 --|FREE|R|NORM|01|01|00|DPA|Loxodon Warhammer
@@ -1169,9 +1174,11 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|R|NORM|01|01|00|EVE|Regal Force
 --|FREE|R|NORM|01|00|00|ROE|Renegade Doppelganger
 --|FREE|R|NORM|01|00|00|RTR|Risen Sanctuary
+--|FREE|R|NORM|01|01|00|M12|Rites of Flourishing
 --|FREE|R|NORM|01|00|00|DDE|Rith, the Awakener
 --|FREE|R|NORM|01|00|00|VIS|Rowen
 --|FREE|R|NORM|02|00|00|M11|Royal Assassin
+--|FREE|R|NORM|01|00|00|M12|Royal Assassin
 --|FREE|R|NORM|01|00|00|GTC|Rubblehulk
 --|FREE|R|NORM|01|01|00|TMP|Sapphire Medallion
 --|FREE|R|NORM|03|00|00|ZEN|Scute Mob
@@ -1184,6 +1191,7 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|R|NORM|01|00|00|PLS|Skyship Weatherlight
 --|FREE|R|NORM|01|00|00|RTR|Slaughter Games
 --|FREE|R|NORM|01|01|00|ISD|Snapcaster Mage
+--|FREE|R|NORM|01|00|00|M12|Sorin's Vengeance
 --|FREE|R|NORM|01|00|00|GTC|Soul Ransom
 --|FREE|R|NORM|01|00|00|AVR|Soul of the Harvest
 --|FREE|R|NORM|03|00|00|GTC|Spark Trooper
@@ -1192,6 +1200,7 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|R|NORM|01|00|00|ZEN|Sphinx of Jwar Isle
 --|FREE|R|NORM|02|00|00|ZEN|Sphinx of Lost Truths
 --|FREE|R|NORM|01|00|00|ROE|Sphinx of Magosi
+--|FREE|R|NORM|01|01|00|M12|Sphinx of Uthuun
 --|FREE|R|NORM|01|00|00|ROE|Sphinx-Bone Wand
 --|FREE|R|NORM|01|00|00|SOM|Spikeshot Elder
 --|FREE|R|NORM|01|00|00|MBS|Spine of Ish Sah
@@ -1199,10 +1208,12 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|R|NORM|02|02|00|WWK|Stoneforge Mystic
 --|FREE|R|NORM|02|00|00|SOM|Strata Scythe
 --|FREE|R|NORM|02|00|00|ROE|Student of Warfare
+--|FREE|R|NORM|01|01|00|M12|Sun Titan
 --|FREE|R|FOIL|02|00|00|SOM|Sunblast Angel
 --|FREE|R|NORM|01|00|00|SOM|Sunblast Angel
+--|FREE|R|NORM|01|01|00|M12|Sundial of the Infinite
 --|FREE|R|NORM|01|01|00|M11|Sunpetal Grove
---|FREE|R|NORM|01|01|00|M12|Sunpetal Grove
+--|FREE|R|NORM|02|02|00|M12|Sunpetal Grove
 --|FREE|R|NORM|01|01|00|NPH|Surgical Extraction
 --|FREE|R|NORM|01|00|00|WWK|Talus Paladin
 --|FREE|R|NORM|01|00|00|MIR|Teferi's Imp
@@ -1232,6 +1243,8 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|R|NORM|01|00|00|M11|Vengeful Archon
 --|FREE|R|NORM|02|01|00|SOM|Venser's Journal
 --|FREE|R|FOIL|01|00|00|DPA|Verdant Force
+--|FREE|R|NORM|01|00|00|M12|Visions of Beyond
+--|FREE|R|NORM|04|04|00|DIS|Walking Archive
 --|FREE|M|NORM|01|00|00|ZEN|Warren Instigator
 --|FREE|R|NORM|01|00|00|GTC|Whispering Madness
 --|FREE|R|NORM|01|00|00|RTR|Wild Beastmaster
@@ -1242,7 +1255,6 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|R|NORM|01|00|00|GTC|Wrecking Ogre
 --|FREE|M|NORM|01|00|00|WWK|Wrexial, the Risen Deep
 --|FREE|R|NORM|02|00|00|NPH|Xenograft
---|FREE|R|NORM|04|04|00|DIS|Walking Archive
 --|FREE|U|NORM|03|00|00|ISD|Abattoir Ghoul
 --|FREE|U|NORM|02|00|00|SOM|Abuna Acolyte
 --|FREE|U|NORM|03|00|00|SOM|Acid Web Spider
