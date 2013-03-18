@@ -25,7 +25,7 @@ BN|MAIN|M|NORM|01|01|00|ROE|Ulamog, the Infinite Gyre
 BN|MAIN|R|NORM|01|01|00|DPA|Vigor
 MF|MAIN|R|NORM|00|03|00|DST|Aether Vial
 MF|MAIN|R|NORM|01|03|00|CHK|Azami, Lady of Scrolls
-MF|MAIN|R|NORM|02|04|00|AVR|Cavern of Souls
+MF|MAIN|R|NORM|03|04|00|AVR|Cavern of Souls
 MF|MAIN|U|NORM|01|04|00|SHM|Cursecatcher
 MF|MAIN|C|NORM|10|10|00|ZEN|ISLAND
 MF|MAIN|R|NORM|04|04|00|M13|Master of the Pearl Trident
@@ -35,7 +35,7 @@ MF|MAIN|U|NORM|04|04|00|LRW|Merrow Reejerey
 MF|MAIN|R|NORM|01|01|00|CHK|Minamo, School at Water's Edge
 MF|MAIN|R|NORM|01|01|00|SOK|Miren, the Moaning Well
 MF|MAIN|R|NORM|00|04|00|MOR|Mutavault
-MF|MAIN|R|NORM|00|03|00|M12|Phantasmal Image
+MF|MAIN|R|NORM|01|03|00|M12|Phantasmal Image
 MF|MAIN|U|NORM|02|02|00|MOR|Sage's Dousing
 MF|MAIN|U|NORM|04|04|00|LOR|Silvergill Adept
 MF|MAIN|C|NORM|02|02|00|ZEN|Spell Pierce
@@ -53,7 +53,7 @@ MF|SIDE|U|NORM|01|01|00|LOR|Surgespanner
 MF|SIDE|R|NORM|01|01|00|EVE|Wake Thrasher
 MR|MAIN|R|NORM|02|03|00|CON|Banefire
 MR|MAIN|R|NORM|00|03|00|PLC|Boom // Bust
-MR|MAIN|U|NORM|00|02|00|M12|Buried Ruin
+MR|MAIN|U|NORM|01|02|00|M12|Buried Ruin
 MR|MAIN|R|NORM|00|02|00|FUT|Cloud Key
 MR|MAIN|M|FOIL|02|02|00|WWK|Comet Storm (Prerelease)
 MR|MAIN|M|NORM|00|02|00|WWK/CMD|Comet Storm
@@ -988,7 +988,6 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|R|NORM|01|01|00|SOM|Asceticism
 --|FREE|R|NORM|01|00|00|RTR|Ash Zealot
 --|FREE|R|NORM|01|01|00|ISD|Back from the Brink
---|FREE|R|NORM|01|00|00|ROE|Baneful Omen
 --|FREE|R|NORM|01|00|00|FUT|Barren Glory
 --|FREE|R|NORM|01|00|00|WWK|Bazaar Trader
 --|FREE|R|NORM|01|00|00|ZEN|Beastmaster Ascension
@@ -1003,36 +1002,30 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|R|NORM|01|01|00|NPH|Caged Sun
 --|FREE|R|NORM|01|01|00|M13|Captain of the Watch
 --|FREE|R|FOIL|02|00|00|M11|Captivating Vampire
---|FREE|R|NORM|02|00|00|SOM|Carnifex Demon
---|FREE|R|NORM|01|00|00|GTC|Carnival Hellsteed
+--|FREE|R|NORM|01|00|00|SOM|Carnifex Demon
 --|FREE|M|NORM|01|01|00|ROE|Cast Through Time
 --|FREE|R|FOIL|01|00|00|AVR|Cavern of Souls
 --|FREE|R|NORM|02|00|00|SOM|Cerebral Eruption
 --|FREE|R|NORM|01|00|00|WWK|Chain Reaction
 --|FREE|R|NORM|01|00|00|HML|Chain Stasis
 --|FREE|R|NORM|01|00|00|NPH|Chancellor of the Annex
---|FREE|R|NORM|01|00|00|NPH|Chancellor of the Dross
 --|FREE|R|NORM|01|00|00|NPH|Chancellor of the Spires
 --|FREE|R|NORM|01|00|00|NPH|Chancellor of the Tangle
 --|FREE|R|NORM|01|00|00|NPH|Chancellor of the Tangle
---|FREE|R|NORM|01|01|00|SOK|Choice of Damnations
 --|FREE|R|NORM|01|01|00|AVR|Conjurer's Closet
 --|FREE|R|NORM|01|00|00|ROE|Conquering Manticore
 --|FREE|R|NORM|01|00|00|GTC|Consuming Aberration
---|FREE|R|NORM|03|01|00|SOM|Contagion Engine
+--|FREE|R|NORM|02|01|00|SOM|Contagion Engine
 --|FREE|R|NORM|01|00|00|M11|Conundrum Sphinx
 --|FREE|R|NORM|01|01|00|RTR|Corpsejack Menance
 --|FREE|R|NORM|01|01|00|ZEN|Cosi's Trickster
 --|FREE|R|NORM|01|00|00|ISD|Creepy Doll
 --|FREE|R|NORM|01|00|00|10E|Crucible of Worlds
---|FREE|R|NORM|01|00|00|ZEN|Crypt of Agadeem
---|FREE|R|NORM|01|00|00|RTR|Cryptborn Horror
 --|FREE|R|NORM|02|01|00|MBS|Cryptoplasm
 --|FREE|R|NORM|01|00|00|M11|Day of Judgment
 --|FREE|R|NORM|01|00|00|M12|Day of Judgment
 --|FREE|R|NORM|02|02|00|ZEN|Day of Judgment
 --|FREE|R|NORM|01|00|00|RTR|Deadbridge Goliath
---|FREE|M|NORM|01|00|00|M11|Demon of Death's Gate
 --|FREE|M|FOIL|01|00|00|V12|Desert
 --|FREE|R|NORM|01|01|00|ISD|Devil's Play
 --|FREE|R|NORM|01|00|00|5ED|Dingus Egg
@@ -1066,15 +1059,12 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|R|NORM|01|00|00|ZEN|Gigantiform
 --|FREE|R|FOIL|01|00|00|ROE|Gigantomancer
 --|FREE|R|NORM|02|02|00|EVE|Glen Elendra Archmage
---|FREE|R|NORM|01|00|00|NPH|Glistening Oil
 --|FREE|R|NORM|01|00|00|M12|Grim Lavamancer
 --|FREE|R|NORM|01|00|00|SHM|Grim Poppet
 --|FREE|R|NORM|01|00|00|SOM|Grindclock
 --|FREE|R|NORM|01|01|00|MIR|Grinning Totem
 --|FREE|R|NORM|01|01|00|RTR|Growing Ranks
 --|FREE|R|NORM|01|00|00|GTC|Grull Ragebeast
---|FREE|R|NORM|02|00|00|ZEN|Halo Hunter
---|FREE|R|NORM|02|00|00|SOM|Hand of the Praetors
 --|FREE|R|NORM|01|00|00|RTR|Havoc Festival
 --|FREE|R|NORM|01|01|00|SHM|Heartmender
 --|FREE|R|NORM|01|01|00|DST|Heartseeker
@@ -1088,7 +1078,6 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|R|NORM|01|01|00|CMD|Howling Mine
 --|FREE|R|NORM|01|00|00|ALA|Immortal Coil
 --|FREE|R|NORM|01|00|00|SOM|Inexorable Tide
---|FREE|R|NORM|01|00|00|SOK|Infernal Kirin
 --|FREE|R|NORM|02|01|00|MBS|Inkmoth Nexus
 --|FREE|R|FOIL|01|00|00|NPH|Invader Parasite
 --|FREE|R|NORM|01|00|00|NPH|Invader Parasite
@@ -1113,8 +1102,6 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|R|NORM|03|00|00|ZEN|Lavaball Trap
 --|FREE|R|NORM|02|01|00|M11|Leyline of Anticipation
 --|FREE|R|NORM|04|00|00|M11|Leyline of Vitality
---|FREE|R|NORM|01|00|00|NPH|Life's Finale
---|FREE|R|NORM|01|00|00|DDE|Living Death
 --|FREE|R|NORM|01|00|00|M12|Lord of the Unreal
 --|FREE|M|NORM|01|00|00|ZEN|Lorthos, the Tidemaker
 --|FREE|M|NORM|01|01|00|ZEN|Lotus Cobra
@@ -1127,7 +1114,6 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|R|NORM|02|00|00|WWK|Marshal's Anthem
 --|FREE|R|NORM|01|01|00|RTR|Martial Law
 --|FREE|R|NORM|01|01|00|ARC|Master Transmuter
---|FREE|R|NORM|01|00|00|SOM|Memoricide
 --|FREE|R|NORM|01|00|00|M12|Mesa Enchantress
 --|FREE|R|NORM|01|01|00|SOM|Mimic Vat
 --|FREE|R|NORM|01|01|00|TSP|Mirari
@@ -1147,13 +1133,10 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|R|NORM|01|00|00|NPH|Omen Machine
 --|FREE|R|NORM|01|00|00|GTC|Ooze Flux
 --|FREE|R|NORM|02|00|00|AVR|Otherworld Atlas
---|FREE|R|NORM|01|00|00|SOK|Pain's Reward
---|FREE|R|NORM|01|00|00|SOK|Painful Quandary
 --|FREE|R|NORM|01|00|00|DDE|Phyrexian Colossus
 --|FREE|R|NORM|01|00|00|MBS|Phyrexian Hydra
 --|FREE|R|NORM|01|00|00|NPH|Phyrexian Ingester
 --|FREE|R|NORM|01|00|00|NPH|Phyrexian Ingester
---|FREE|M|FOIL|01|00|00|DDE|Phyrexian Negator
 --|FREE|R|NORM|01|00|00|DDE|Phyrexian Plaguelord
 --|FREE|R|NORM|01|00|00|NPH|Phyrexian Swarmlord
 --|FREE|R|NORM|01|00|00|NPH|Phyrexian Unlife
@@ -1177,21 +1160,16 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|R|NORM|01|01|00|M12|Rites of Flourishing
 --|FREE|R|NORM|01|00|00|DDE|Rith, the Awakener
 --|FREE|R|NORM|01|00|00|VIS|Rowen
---|FREE|R|NORM|02|00|00|M11|Royal Assassin
---|FREE|R|NORM|01|00|00|M12|Royal Assassin
 --|FREE|R|NORM|01|00|00|GTC|Rubblehulk
 --|FREE|R|NORM|01|01|00|TMP|Sapphire Medallion
 --|FREE|R|NORM|03|00|00|ZEN|Scute Mob
 --|FREE|R|NORM|01|00|00|ZEN|Sea Gate Loremaster
 --|FREE|R|NORM|01|00|00|WWK|Selective Memory
---|FREE|R|NORM|01|00|00|ISD|Sever the Bloodline
---|FREE|M|NORM|02|00|00|NPH|Sheoldred, Whispering One
 --|FREE|M|FOIL|02|01|00|V12|Shivan Gorge
 --|FREE|M|NORM|01|00|00|ISD|Skaab Ruinator
 --|FREE|R|NORM|01|00|00|PLS|Skyship Weatherlight
 --|FREE|R|NORM|01|00|00|RTR|Slaughter Games
 --|FREE|R|NORM|01|01|00|ISD|Snapcaster Mage
---|FREE|R|NORM|01|00|00|M12|Sorin's Vengeance
 --|FREE|R|NORM|01|00|00|GTC|Soul Ransom
 --|FREE|R|NORM|01|00|00|AVR|Soul of the Harvest
 --|FREE|R|NORM|03|00|00|GTC|Spark Trooper
@@ -1232,10 +1210,7 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|R|NORM|02|00|00|SOM|True Conviction
 --|FREE|R|NORM|01|00|00|SOM|Tunnel Ignus
 --|FREE|R|NORM|01|00|00|ZEN|Turntimber Ranger
---|FREE|R|NORM|01|00|00|ISD|Unbreathing Horde
 --|FREE|R|NORM|01|00|00|ISD|Undead Alchemist
---|FREE|R|NORM|01|00|00|9ED|Underworld Dreams
---|FREE|R|NORM|03|00|00|8ED|Underworld Dreams
 --|FREE|R|NORM|01|00|00|VIS|Undiscovered Paradise
 --|FREE|R|NORM|02|00|00|GTC|Unexpected Results
 --|FREE|R|NORM|01|01|00|NPH|Unwinding Clock
