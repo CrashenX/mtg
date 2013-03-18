@@ -51,10 +51,10 @@ MF|SIDE|R|NORM|00|01|00|M12|Phantasmal Image
 MF|SIDE|U|NORM|02|02|00|MOR|Sage's Dousing
 MF|SIDE|U|NORM|01|01|00|LOR|Surgespanner
 MF|SIDE|R|NORM|01|01|00|EVE|Wake Thrasher
-MR|MAIN|R|NORM|02|03|00|CON|Banefire
-MR|MAIN|R|NORM|00|03|00|PLC|Boom // Bust
+MR|MAIN|R|NORM|02|03|01|CON|Banefire
+MR|MAIN|R|NORM|00|03|01|PLC|Boom // Bust
 MR|MAIN|U|NORM|01|02|00|M12|Buried Ruin
-MR|MAIN|R|NORM|00|02|00|FUT|Cloud Key
+MR|MAIN|R|NORM|00|02|02|FUT|Cloud Key
 MR|MAIN|M|FOIL|02|02|00|WWK|Comet Storm (Prerelease)
 MR|MAIN|M|NORM|00|02|00|WWK/CMD|Comet Storm
 MR|MAIN|C|NORM|00|04|00|DST|Darksteel Citadel
@@ -165,7 +165,7 @@ CC|DECK|R|NORM|00|01|00|MRD/CMA|Mind's Eye
 CC|DECK|U|NORM|01|01|00|DST|Mirrodin's Core
 CC|DECK|R|NORM|00|01|00|ROE|Momentous Fall
 CC|DECK|R|NORM|00|01|00|DIS|Momir Vig, Simic Visionary
-CC|DECK|R|NORM|00|01|00|SHM|Mossbridge Troll
+CC|DECK|R|NORM|00|01|01|SHM|Mossbridge Troll
 CC|DECK|R|NORM|01|01|00|ARC|Mosswort Bridge
 CC|DECK|U|NORM|00|01|00|V09/MIR/6ED|Mystical Tutor
 CC|DECK|R|NORM|00|01|00|M11|Mystifying Maze
@@ -193,7 +193,7 @@ CC|DECK|R|NORM|00|01|00|EXO/BRB|Spike Weaver
 CC|DECK|U|NORM|01|01|00|CMD|Temple of the False God
 CC|DECK|M|NORM|00|01|00|CON|Thornling
 CC|DECK|R|NORM|00|01|00|LRW|Thousand-Year Elixir
-CC|DECK|R|NORM|00|01|00|USG|Thran Quarry
+CC|DECK|R|NORM|00|01|01|USG|Thran Quarry
 CC|DECK|U|NORM|01|01|00|FUT|Tolaria West
 CC|DECK|R|NORM|00|01|00|CMD/ONS|Trade Secrets
 CC|DECK|R|NORM|01|01|00|ROE|Training Grounds
@@ -218,7 +218,7 @@ GW|MAIN|R|NORM|00|03|00|P02|Armageddon
 GW|MAIN|R|NORM|04|04|00|M10|Birds of Paradise
 GW|MAIN|R|NORM|01|01|00|AVR|Cavern of Souls
 GW|MAIN|M|FOIL|01|01|00|V12|Dryad Arbor
-GW|MAIN|R|NORM|00|02|00|M11|Fauna Shaman
+GW|MAIN|R|NORM|00|02|02|M11|Fauna Shaman
 GW|MAIN|R|NORM|01|02|00|TSP|Flagstones of Trokair
 GW|MAIN|C|NORM|07|07|00|ZEN|Forest
 GW|MAIN|M|FOIL|01|01|00|V12|Glacial Chasm
@@ -343,6 +343,7 @@ LF|DECK|R|NORM|01|01|00|VIS|Undiscovered Paradise
 LF|DECK|R|NORM|01|01|00|VIS|Vampiric Tutor
 LF|DECK|R|NORM|01|01|00|CSP|Zur the Enchanter
 LF|DECK|U|NORM|01|01|00|ICE|Zuran Orb
+LF|ALTS|R|NORM|00|01|01|FUT|Darksteel Garrison
 WW|MAIN|U|NORM|04|04|00|M11|Ajani's Pridemate
 WW|MAIN|R|NORM|04|04|00|ISD|Champion of the Parish
 WW|MAIN|R|NORM|00|01|00|CHK|Eiganjo Castle
@@ -367,7 +368,7 @@ KN|MAIN|U|NORM|03|04|00|MBS|Accorder Paladin
 KN|MAIN|U|NORM|04|04|00|GTC|Boros Charm
 KN|MAIN|R|NORM|04|04|00|ISD|Clifftop Retreat
 KN|MAIN|M|NORM|00|01|00|ALA|Elspeth, Knight-Errant
-KN|MAIN|R|NORM|00|03|00|M10/M11/M12|Honor of the Pure
+KN|MAIN|R|NORM|00|03|03|M10/M11/M12|Honor of the Pure
 KN|MAIN|R|NORM|01|01|00|DDG|Knight Exemplar
 KN|MAIN|R|NORM|00|03|00|M11/DDG|Knight Exemplar
 KN|MAIN|C|NORM|02|02|00|M10|Lightning Bolt
@@ -798,7 +799,7 @@ PC|CUBE|C|NORM|01|01|00|RTR|Rakdos Shred-Freak
 PC|CUBE|C|NORM|01|01|00|RAV|Rally the Righteous
 PC|CUBE|C|NORM|01|01|00|ARC|Rancor
 PC|CUBE|C|NORM|01|01|00|ISD|Ranger's Guile
-PC|CUBE|C|NORM|01|02|00|ICE/MIR/BRB/CMD|Ray of Command
+PC|CUBE|C|NORM|01|03|01|ICE/MIR/BRB/CMD|Ray of Command
 PC|CUBE|C|NORM|01|01|00|DST|Razor Golem
 PC|CUBE|C|NORM|01|01|00|NPH|Razor Swine
 PC|CUBE|C|NORM|01|01|00|MBS|Razorfield Rhino
@@ -996,7 +997,7 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|R|NORM|01|00|00|ZEN|Blade of the Bloodchief
 --|FREE|R|NORM|01|00|00|NPH|Bludgeon Brawl
 --|FREE|M|FOIL|01|01|00|V12|Boseiju, Who Shelters All
---|FREE|R|NORM|01|00|00|M11|Brittle Effigy
+--|FREE|R|NORM|01|03|02|M11|Brittle Effigy
 --|FREE|R|FOIL|01|00|00|AVR|Burn at the Stake
 --|FREE|R|NORM|01|01|00|ISD|Cackling Counterpart
 --|FREE|R|NORM|01|01|00|NPH|Caged Sun
@@ -1020,7 +1021,6 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|R|NORM|01|01|00|RTR|Corpsejack Menance
 --|FREE|R|NORM|01|01|00|ZEN|Cosi's Trickster
 --|FREE|R|NORM|01|00|00|ISD|Creepy Doll
---|FREE|R|NORM|01|00|00|10E|Crucible of Worlds
 --|FREE|R|NORM|02|01|00|MBS|Cryptoplasm
 --|FREE|R|NORM|01|00|00|M11|Day of Judgment
 --|FREE|R|NORM|01|00|00|M12|Day of Judgment
@@ -1056,6 +1056,7 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|M|NORM|01|00|00|M11|Garruk Wildspeaker
 --|FREE|R|NORM|01|01|00|ISD|Gavony Township
 --|FREE|R|FOIL|01|00|00|ROE|Gelatinous Genesis
+--|FREE|R|NORM|00|01|01|ROE/M12|Gideon Jura
 --|FREE|R|NORM|01|00|00|ZEN|Gigantiform
 --|FREE|R|FOIL|01|00|00|ROE|Gigantomancer
 --|FREE|R|NORM|02|02|00|EVE|Glen Elendra Archmage
@@ -1142,7 +1143,6 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|R|NORM|01|00|00|NPH|Phyrexian Unlife
 --|FREE|R|NORM|01|01|00|RTR|Pithing Needle
 --|FREE|M|NORM|01|01|00|MBS|Praetor's Counsel
---|FREE|R|NORM|01|00|00|NPH|Praetor's Grasp
 --|FREE|R|NORM|01|01|00|RTR|Precinct Captain
 --|FREE|R|NORM|02|00|00|ZEN|Predatory Urge
 --|FREE|R|NORM|01|01|00|SCG|Primitive Etchings
@@ -1198,7 +1198,7 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|R|NORM|01|00|00|CON|Telemin Performance
 --|FREE|R|NORM|01|00|00|SOM|Tempered Steel
 --|FREE|R|NORM|03|01|00|BOK|Tendo Ice Bridge
---|FREE|R|NORM|02|00|00|WWK|Terastodon
+--|FREE|R|NORM|01|00|00|WWK|Terastodon
 --|FREE|R|NORM|01|00|00|ZEN|Terra Stomper
 --|FREE|R|NORM|01|00|00|MBS|Thopter Assembly
 --|FREE|R|NORM|01|00|00|MBS|Titan Forge
@@ -1260,7 +1260,7 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|U|NORM|01|00|00|M11|Armored Ascension
 --|FREE|U|NORM|03|00|00|ROE|Arrogant Bloodlord
 --|FREE|U|NORM|02|00|00|ZEN|Arrow Volley Trap
---|FREE|U|NORM|02|01|00|ROE|Artisan of Kozilek
+--|FREE|U|NORM|01|01|00|ROE|Artisan of Kozilek
 --|FREE|U|NORM|06|04|00|SOM|Auriok Edgewright
 --|FREE|U|NORM|01|01|00|NPH|Auriok Survivors
 --|FREE|U|NORM|01|00|00|M12|Autumn's Veil
@@ -1277,7 +1277,7 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|U|NORM|01|00|00|SOM|Barbed Battlegear
 --|FREE|U|NORM|03|00|00|SOM|Barrage Ogre
 --|FREE|U|NORM|01|00|00|AVR|Barter in Blood
---|FREE|U|NORM|04|01|00|3ED|Basalt Monolith
+--|FREE|U|NORM|01|01|00|3ED|Basalt Monolith
 --|FREE|U|NORM|01|00|00|ISD|Battleground Geist
 --|FREE|U|NORM|01|00|00|NPH|Beast Within
 --|FREE|U|NORM|05|00|00|SOM|Bellowing Tanglewurm
@@ -1289,7 +1289,6 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|U|NORM|01|00|00|M11|Black Knight
 --|FREE|C|FOIL|01|00|00|ZEN|Bladetusk Boar
 --|FREE|U|NORM|02|00|00|DPA|Blanchwood Armor
---|FREE|C|NORM|01|01|00|WWK|Bojuka Bog
 --|FREE|U|NORM|04|00|00|ZEN|Blazing Torch
 --|FREE|U|NORM|01|00|00|DKA|Blood Feud
 --|FREE|U|NORM|01|00|00|M13|Blood Reckoning
@@ -1430,7 +1429,6 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|U|NORM|01|00|00|   |Excavation
 --|FREE|U|NORM|01|00|00|   |Exclusion Ritual
 --|FREE|U|NORM|03|00|00|   |Explosive Revelation
---|FREE|U|NORM|01|00|00|   |Exsanguinate
 --|FREE|U|NORM|01|00|00|   |Fall of the Gavel
 --|FREE|U|NORM|01|00|00|   |Fallen Ferromancer
 --|FREE|U|NORM|01|00|00|   |Favorable Winds
@@ -1467,7 +1465,7 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|U|NORM|02|00|00|   |Ghost-Lit Warder
 --|FREE|U|NORM|02|00|00|   |Ghostly Touch
 --|FREE|U|NORM|03|00|00|EVE|Gilder Bairn
---|FREE|U|NORM|04|04|00|ICE|Glacial Chasm
+--|FREE|U|NORM|03|00|00|ICE|Glacial Chasm
 --|FREE|U|NORM|01|00|00|   |Glasses of Urza
 --|FREE|U|NORM|06|00|00|   |Glimmerpoint Stag
 --|FREE|C|FOIL|01|00|00|   |Glimmerpost
@@ -1701,7 +1699,7 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|U|NORM|01|00|00|   |Reaper of Sheoldred
 --|FREE|U|NORM|05|00|00|   |Reassembling Skeleton
 --|FREE|U|NORM|01|00|00|   |Relentless Rats
---|FREE|U|NORM|03|00|00|CON|Reliquary Tower
+--|FREE|U|NORM|02|00|00|CON|Reliquary Tower
 --|FREE|U|NORM|01|00|00|   |Renounce
 --|FREE|U|NORM|03|00|00|   |Rewind
 --|FREE|C|NORM|02|02|00|PCY|Rhystic Study
@@ -1850,7 +1848,6 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|U|NORM|03|00|00|   |Trinket Mage
 --|FREE|U|NORM|02|00|00|   |Trip Noose
 --|FREE|U|NORM|01|00|00|   |Triumph of Cruelty
---|FREE|U|NORM|01|00|00|   |Triumph of the Hordes
 --|FREE|U|NORM|04|00|00|   |Trusted Advisor
 --|FREE|U|NORM|04|00|00|   |Trusty Machete
 --|FREE|U|NORM|01|00|00|   |Trygon Predator
@@ -1910,7 +1907,6 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|U|NORM|01|00|00|GTC|Wight of Precint Six
 --|FREE|U|NORM|04|00|00|   |Windborne Charge
 --|FREE|U|NORM|01|00|00|   |Wolf-Skull Shaman
---|FREE|U|NORM|01|00|00|   |Worn Powerstone
 --|FREE|U|NORM|02|00|00|   |Wreath of Geists
 --|FREE|U|NORM|01|00|00|   |Wurm's Tooth
 --|FREE|U|NORM|02|00|00|   |Yavimaya Dryad
