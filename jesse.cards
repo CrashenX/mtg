@@ -35,7 +35,7 @@ MF|MAIN|U|NORM|04|04|00|LRW|Merrow Reejerey
 MF|MAIN|R|NORM|01|01|00|CHK|Minamo, School at Water's Edge
 MF|MAIN|R|NORM|01|01|00|SOK|Miren, the Moaning Well
 MF|MAIN|R|NORM|00|04|00|MOR|Mutavault
-MF|MAIN|R|NORM|01|03|00|M12|Phantasmal Image
+MF|MAIN|R|NORM|01|03|01|M12|Phantasmal Image
 MF|MAIN|U|NORM|02|02|00|MOR|Sage's Dousing
 MF|MAIN|U|NORM|04|04|00|LOR|Silvergill Adept
 MF|MAIN|C|NORM|02|02|00|ZEN|Spell Pierce
@@ -69,7 +69,7 @@ MR|MAIN|R|NORM|01|01|00|SOM|Myr Battlesphere
 MR|MAIN|U|NORM|04|04|00|SOM|Myr Galvanizer
 MR|MAIN|R|NORM|02|02|00|MBS|Myr Turbine
 MR|MAIN|U|NORM|04|04|00|SOM|Palladium Myr
-MR|MAIN|R|NORM|01|02|00|NPH|Phyrexian Metamorph
+MR|MAIN|R|NORM|01|02|01|NPH|Phyrexian Metamorph
 MR|MAIN|R|NORM|01|03|00|SOM|Semblance Anvil
 MR|MAIN|R|NORM|01|02|00|ROE|Splinter Twin
 MR|MAIN|U|NORM|01|04|00|WWK|Tectonic Edge
@@ -163,7 +163,7 @@ CC|DECK|R|NORM|00|01|00|SOK|Mikokoro, Center of the Sea
 CC|DECK|R|NORM|00|01|00|CHK|Minamo, School at Water's Edge
 CC|DECK|R|NORM|00|01|00|MRD/CMA|Mind's Eye
 CC|DECK|U|NORM|01|01|00|DST|Mirrodin's Core
-CC|DECK|R|NORM|00|01|00|ROE|Momentous Fall
+CC|DECK|R|NORM|00|01|01|ROE|Momentous Fall
 CC|DECK|R|NORM|00|01|00|DIS|Momir Vig, Simic Visionary
 CC|DECK|R|NORM|00|01|01|SHM|Mossbridge Troll
 CC|DECK|R|NORM|01|01|00|ARC|Mosswort Bridge
@@ -210,7 +210,7 @@ CC|ALTS|U|NORM|01|01|00|5DN|Eternal Witness
 CC|ALTS|R|NORM|01|01|00|ARC|Feral Hydra
 CC|ALTS|U|NORM|01|01|00|AVR|Infinite Reflection
 CC|ALTS|R|NORM|01|01|00|M12|Jace, Memory Adept
-CC|ALTS|M|NORM|02|01|00|GTC|Prime Speaker Zegana
+CC|ALTS|M|NORM|01|01|00|GTC|Prime Speaker Zegana
 CC|ALTS|R|NORM|01|01|00|ROE|Recurring Insight
 CC|ALTS|R|NORM|01|01|00|DIS|Voidslime
 GW|MAIN|R|NORM|02|00|00|3ED|Armageddon
@@ -1218,7 +1218,6 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|R|NORM|01|00|00|M11|Vengeful Archon
 --|FREE|R|NORM|02|01|00|SOM|Venser's Journal
 --|FREE|R|FOIL|01|00|00|DPA|Verdant Force
---|FREE|R|NORM|01|00|00|M12|Visions of Beyond
 --|FREE|R|NORM|04|04|00|DIS|Walking Archive
 --|FREE|M|NORM|01|00|00|ZEN|Warren Instigator
 --|FREE|R|NORM|01|00|00|GTC|Whispering Madness
