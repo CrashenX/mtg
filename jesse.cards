@@ -51,10 +51,10 @@ MF|SIDE|R|NORM|00|01|00|M12|Phantasmal Image
 MF|SIDE|U|NORM|02|02|00|MOR|Sage's Dousing
 MF|SIDE|U|NORM|01|01|00|LOR|Surgespanner
 MF|SIDE|R|NORM|01|01|00|EVE|Wake Thrasher
-MR|MAIN|R|NORM|02|03|01|CON|Banefire
-MR|MAIN|R|NORM|00|03|01|PLC|Boom // Bust
+MR|MAIN|R|NORM|03|03|00|CON|Banefire
+MR|MAIN|R|NORM|01|03|00|PLC|Boom // Bust
 MR|MAIN|U|NORM|01|02|00|M12|Buried Ruin
-MR|MAIN|R|NORM|00|02|02|FUT|Cloud Key
+MR|MAIN|R|NORM|02|02|00|FUT|Cloud Key
 MR|MAIN|M|FOIL|02|02|00|WWK|Comet Storm (Prerelease)
 MR|MAIN|M|NORM|00|02|00|WWK/CMD|Comet Storm
 MR|MAIN|C|NORM|00|04|00|DST|Darksteel Citadel
@@ -165,7 +165,7 @@ CC|DECK|R|NORM|00|01|00|MRD/CMA|Mind's Eye
 CC|DECK|U|NORM|01|01|00|DST|Mirrodin's Core
 CC|DECK|R|NORM|00|01|01|ROE|Momentous Fall
 CC|DECK|R|NORM|00|01|00|DIS|Momir Vig, Simic Visionary
-CC|DECK|R|NORM|00|01|01|SHM|Mossbridge Troll
+CC|DECK|R|NORM|01|01|00|SHM|Mossbridge Troll
 CC|DECK|R|NORM|01|01|00|ARC|Mosswort Bridge
 CC|DECK|U|NORM|00|01|00|V09/MIR/6ED|Mystical Tutor
 CC|DECK|R|NORM|00|01|00|M11|Mystifying Maze
@@ -193,7 +193,7 @@ CC|DECK|R|NORM|00|01|00|EXO/BRB|Spike Weaver
 CC|DECK|U|NORM|01|01|00|CMD|Temple of the False God
 CC|DECK|M|NORM|00|01|00|CON|Thornling
 CC|DECK|R|NORM|00|01|00|LRW|Thousand-Year Elixir
-CC|DECK|R|NORM|00|01|01|USG|Thran Quarry
+CC|DECK|R|NORM|01|01|00|USG|Thran Quarry
 CC|DECK|U|NORM|01|01|00|FUT|Tolaria West
 CC|DECK|R|NORM|00|01|00|CMD/ONS|Trade Secrets
 CC|DECK|R|NORM|01|01|00|ROE|Training Grounds
@@ -218,7 +218,7 @@ GW|MAIN|R|NORM|00|03|00|P02|Armageddon
 GW|MAIN|R|NORM|04|04|00|M10|Birds of Paradise
 GW|MAIN|R|NORM|01|01|00|AVR|Cavern of Souls
 GW|MAIN|M|FOIL|01|01|00|V12|Dryad Arbor
-GW|MAIN|R|NORM|00|02|02|M11|Fauna Shaman
+GW|MAIN|R|NORM|02|02|00|M11|Fauna Shaman
 GW|MAIN|R|NORM|01|02|00|TSP|Flagstones of Trokair
 GW|MAIN|C|NORM|07|07|00|ZEN|Forest
 GW|MAIN|M|FOIL|01|01|00|V12|Glacial Chasm
@@ -343,7 +343,7 @@ LF|DECK|R|NORM|01|01|00|VIS|Undiscovered Paradise
 LF|DECK|R|NORM|01|01|00|VIS|Vampiric Tutor
 LF|DECK|R|NORM|01|01|00|CSP|Zur the Enchanter
 LF|DECK|U|NORM|01|01|00|ICE|Zuran Orb
-LF|ALTS|R|NORM|00|01|01|FUT|Darksteel Garrison
+LF|ALTS|R|NORM|01|01|00|FUT|Darksteel Garrison
 WW|MAIN|U|NORM|04|04|00|M11|Ajani's Pridemate
 WW|MAIN|R|NORM|04|04|00|ISD|Champion of the Parish
 WW|MAIN|R|NORM|00|01|00|CHK|Eiganjo Castle
@@ -368,7 +368,7 @@ KN|MAIN|U|NORM|03|04|00|MBS|Accorder Paladin
 KN|MAIN|U|NORM|04|04|00|GTC|Boros Charm
 KN|MAIN|R|NORM|04|04|00|ISD|Clifftop Retreat
 KN|MAIN|M|NORM|00|01|00|ALA|Elspeth, Knight-Errant
-KN|MAIN|R|NORM|00|03|03|M10/M11/M12|Honor of the Pure
+KN|MAIN|R|NORM|03|03|00|M10|Honor of the Pure
 KN|MAIN|R|NORM|01|01|00|DDG|Knight Exemplar
 KN|MAIN|R|NORM|00|03|00|M11/DDG|Knight Exemplar
 KN|MAIN|C|NORM|02|02|00|M10|Lightning Bolt
@@ -799,7 +799,7 @@ PC|CUBE|C|NORM|01|01|00|RTR|Rakdos Shred-Freak
 PC|CUBE|C|NORM|01|01|00|RAV|Rally the Righteous
 PC|CUBE|C|NORM|01|01|00|ARC|Rancor
 PC|CUBE|C|NORM|01|01|00|ISD|Ranger's Guile
-PC|CUBE|C|NORM|01|03|01|ICE/MIR/BRB/CMD|Ray of Command
+PC|CUBE|C|NORM|02|03|00|ICE/MIR/BRB/CMD|Ray of Command
 PC|CUBE|C|NORM|01|01|00|DST|Razor Golem
 PC|CUBE|C|NORM|01|01|00|NPH|Razor Swine
 PC|CUBE|C|NORM|01|01|00|MBS|Razorfield Rhino
@@ -997,7 +997,7 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|R|NORM|01|00|00|ZEN|Blade of the Bloodchief
 --|FREE|R|NORM|01|00|00|NPH|Bludgeon Brawl
 --|FREE|M|FOIL|01|01|00|V12|Boseiju, Who Shelters All
---|FREE|R|NORM|01|03|02|M11|Brittle Effigy
+--|FREE|R|NORM|02|03|00|M11|Brittle Effigy
 --|FREE|R|FOIL|01|00|00|AVR|Burn at the Stake
 --|FREE|R|NORM|01|01|00|ISD|Cackling Counterpart
 --|FREE|R|NORM|01|01|00|NPH|Caged Sun
@@ -1056,7 +1056,7 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|M|NORM|01|00|00|M11|Garruk Wildspeaker
 --|FREE|R|NORM|01|01|00|ISD|Gavony Township
 --|FREE|R|FOIL|01|00|00|ROE|Gelatinous Genesis
---|FREE|R|NORM|00|01|01|ROE/M12|Gideon Jura
+--|FREE|R|NORM|01|01|00|M12|Gideon Jura
 --|FREE|R|NORM|01|00|00|ZEN|Gigantiform
 --|FREE|R|FOIL|01|00|00|ROE|Gigantomancer
 --|FREE|R|NORM|02|02|00|EVE|Glen Elendra Archmage
