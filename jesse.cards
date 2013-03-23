@@ -988,6 +988,7 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|R|NORM|01|00|00|RTR|Archon of the Triumvirate
 --|FREE|R|NORM|01|01|00|SOM|Asceticism
 --|FREE|R|NORM|01|00|00|RTR|Ash Zealot
+--|FREE|M|NORM|01|00|00|GTC|Aurelia, the Warleader
 --|FREE|R|NORM|01|01|00|ISD|Back from the Brink
 --|FREE|R|NORM|01|00|00|FUT|Barren Glory
 --|FREE|R|NORM|01|00|00|WWK|Bazaar Trader
@@ -1049,6 +1050,7 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|R|NORM|01|00|00|M13|Firewing Phoenix
 --|FREE|R|FOIL|01|00|00|ALA|Flameblast Dragon
 --|FREE|R|FOIL|01|00|00|GTC|Foundary Champion (Promo)
+--|FREE|R|NORM|01|01|00|GTC|Frontline Medic
 --|FREE|R|NORM|01|00|00|4ED|Fungusaur
 --|FREE|R|NORM|01|00|00|MBS|Galvanoth
 --|FREE|R|NORM|01|00|00|M10|Gargoyle Castle
@@ -1107,7 +1109,7 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|M|NORM|01|01|00|ZEN|Lotus Cobra
 --|FREE|R|NORM|01|01|00|DPA|Loxodon Warhammer
 --|FREE|R|NORM|04|00|00|DDF|Loyal Sentry
---|FREE|R|NORM|02|00|00|GTC|Luminate Primordial
+--|FREE|R|NORM|03|00|00|GTC|Luminate Primordial
 --|FREE|R|NORM|01|00|00|ARB|Madrush Cyclops
 --|FREE|R|NORM|01|00|00|M11|Magma Phoenix
 --|FREE|R|NORM|02|00|00|ZEN|Malakir Bloodwitch
@@ -1172,7 +1174,7 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|R|NORM|01|01|00|ISD|Snapcaster Mage
 --|FREE|R|NORM|01|00|00|GTC|Soul Ransom
 --|FREE|R|NORM|01|00|00|AVR|Soul of the Harvest
---|FREE|R|NORM|03|00|00|GTC|Spark Trooper
+--|FREE|R|NORM|04|00|00|GTC|Spark Trooper
 --|FREE|R|FOIL|01|00|00|ROE|Spawnsire of Ulamog
 --|FREE|R|NORM|02|00|00|ROE|Spawnsire of Ulamog
 --|FREE|R|NORM|01|00|00|ZEN|Sphinx of Jwar Isle
@@ -1182,6 +1184,7 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|R|NORM|01|00|00|ROE|Sphinx-Bone Wand
 --|FREE|R|NORM|01|00|00|SOM|Spikeshot Elder
 --|FREE|R|NORM|01|00|00|AVR|Stolen Goods
+--|FREE|R|FOIL|01|00|00|GTC|Stomping Ground
 --|FREE|R|NORM|02|02|00|WWK|Stoneforge Mystic
 --|FREE|R|NORM|02|00|00|SOM|Strata Scythe
 --|FREE|R|NORM|02|00|00|ROE|Student of Warfare
@@ -1248,7 +1251,7 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|U|NORM|01|00|00|DDE|Allied Strategies
 --|FREE|U|NORM|02|00|00|M11|Alluring Siren
 --|FREE|U|NORM|01|00|00|M12|Alluring Siren
---|FREE|U|NORM|01|00|00|GTC|Alpha Authority
+--|FREE|U|NORM|02|00|00|GTC|Alpha Authority
 --|FREE|U|NORM|01|00|00|10E|Angel of Mercy
 --|FREE|U|NORM|01|00|00|M12|Angel's Feather
 --|FREE|U|NORM|01|00|00|AVR|Angel's Tomb
@@ -1260,6 +1263,7 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|U|NORM|01|00|00|M11|Armored Ascension
 --|FREE|U|NORM|03|00|00|ROE|Arrogant Bloodlord
 --|FREE|U|NORM|02|00|00|ZEN|Arrow Volley Trap
+--|FREE|U|NORM|01|00|00|GTC|Arrows of Justice
 --|FREE|U|NORM|01|01|00|ROE|Artisan of Kozilek
 --|FREE|U|NORM|06|04|00|SOM|Auriok Edgewright
 --|FREE|U|NORM|01|01|00|NPH|Auriok Survivors
@@ -1316,10 +1320,11 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|U|NORM|01|00|00|AVR|Builder's Blessing
 --|FREE|U|NORM|01|00|00|ISD|Burning Vengeance
 --|FREE|U|NORM|02|00|00|SOK|Burning-Eye Zubera
---|FREE|U|NORM|02|02|00|GTC|Burning-Tree Emissary
+--|FREE|U|NORM|03|03|00|GTC|Burning-Tree Emissary
 --|FREE|U|NORM|01|00|00|ZEN|Burst Lightning
 --|FREE|U|NORM|01|00|00|ISD|Butcher's Cleaver
 --|FREE|U|NORM|01|00|00|RTR|Call of the Conclave
+--|FREE|U|NORM|02|00|00|GTC|Call of the Nightwing
 --|FREE|U|NORM|04|00|00|BOK|Callow Jushi
 --|FREE|U|NORM|03|00|00|WWK|Canopy Cover
 --|FREE|U|NORM|03|00|00|NPH|Caress of Phyrexia
@@ -1415,7 +1420,7 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|U|NORM|02|00|00|NPH|Due Respect
 --|FREE|U|NORM|01|00|00|DPA|Duskdale Wurm
 --|FREE|U|NORM|01|00|00|M11|Duskdale Wurm
---|FREE|U|NORM|03|00|00|GTC|Dying Wish
+--|FREE|U|NORM|04|00|00|GTC|Dying Wish
 --|FREE|U|NORM|02|00|00|M11|Earth Servant
 --|FREE|U|NORM|02|00|00|SOK|Ebony Owl Netsuke
 --|FREE|U|NORM|03|00|00|SOK|Eiganjo Free-Riders
@@ -1482,6 +1487,7 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|U|NORM|02|00|00|SOK|Ghost-Lit Redeemer
 --|FREE|U|NORM|02|00|00|SOK|Ghost-Lit Warder
 --|FREE|U|NORM|02|00|00|AVR|Ghostly Touch
+--|FREE|U|NORM|01|00|00|GTC|Gift of Orzhova
 --|FREE|U|NORM|03|00|00|ICE|Glacial Chasm
 --|FREE|U|NORM|01|00|00|4ED|Glasses of Urza
 --|FREE|U|NORM|06|00|00|SOM|Glimmerpoint Stag
@@ -1666,7 +1672,7 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|U|NORM|01|00|00|   |Onyx Mage
 --|FREE|U|NORM|01|00|00|   |Order of Yawgmoth
 --|FREE|U|NORM|01|04|00|GPT|Order of the Stars
---|FREE|U|NORM|01|00|00|GTC|Ordruun Veteran
+--|FREE|U|NORM|02|00|00|GTC|Ordruun Veteran
 --|FREE|U|NORM|06|00|00|   |Ornithopter
 --|FREE|U|NORM|01|00|00|GTC|Orzhov Charm
 --|FREE|U|NORM|10|00|00|   |Overrun
@@ -1720,6 +1726,7 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|C|NORM|01|00|00|ARC|Rancor
 --|FREE|U|NORM|03|00|00|M13|Rancor
 --|FREE|U|NORM|02|00|00|   |Rapacious One
+--|FREE|U|NORM|01|01|00|GTC|Rapid Hybridization
 --|FREE|U|NORM|01|00|00|   |Ravenous Trap
 --|FREE|U|NORM|03|00|00|   |Razor Hippogriff
 --|FREE|U|NORM|02|00|00|   |Reality Spasm
@@ -1756,6 +1763,7 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|U|NORM|02|00|00|   |Savage Lands
 --|FREE|U|NORM|01|00|00|   |Savage Surge
 --|FREE|U|NORM|01|00|00|   |Savage Surge
+--|FREE|U|NORM|01|00|00|GTC|Skarrg Guildmage
 --|FREE|U|NORM|01|00|00|   |Scourge of Geier Reach
 --|FREE|U|NORM|03|00|00|   |Scrib Nibblers
 --|FREE|U|NORM|03|00|00|   |Seascape Aerialist
@@ -1829,6 +1837,7 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|U|NORM|03|00|00|   |Summoner's Bane
 --|FREE|U|NORM|01|00|00|   |Sun Droplet
 --|FREE|U|NORM|02|00|00|GTC|Sunhome Guildmage
+--|FREE|U|FOIL|01|00|00|GTC|Sunhome Guildmage
 --|FREE|U|NORM|01|00|00|   |Sunscape Battlemage
 --|FREE|U|FOIL|01|00|00|   |Sunspear Shikari
 --|FREE|C|FOIL|01|00|00|   |Sunspire Griffin
