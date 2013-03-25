@@ -1,27 +1,32 @@
-01 00.29 R|NORM|01|ROE|Baneful Omen
-01 00.29 R|NORM|01|SOM|Carnifex Demon
-01 00.25 R|NORM|01|GTC|Carnival Hellsteed
-01 00.35 R|NORM|01|NPH|Chancellor of the Dross
-01 02.29 R|NORM|01|SOK|Choice of Damnations
-01 01.19 R|NORM|01|SOM|Contagion Engine
-01 00.49 R|NORM|01|ZEN|Crypt of Agadeem
-01 00.27 R|NORM|01|RTR|Cryptborn Horror
-01 02.00 M|NORM|01|M11|Demon of Death's Gate
-01 00.29 R|NORM|01|NPH|Glistening Oil
-02 00.29 R|NORM|02|ZEN|Halo Hunter
-02 00.93 R|NORM|02|SOM|Hand of the Praetors
-01 00.47 R|NORM|01|SOK|Infernal Kirin
-01 00.48 R|NORM|01|NPH|Life's Finale
-01 03.38 R|NORM|01|DDE|Living Death
-01 00.46 R|NORM|01|SOM|Memoricide
-01 00.44 R|NORM|01|SOK|Pain's Reward
-01 00.53 R|NORM|01|SOK|Painful Quandary
-01 01.47 M|FOIL|01|DDE|Phyrexian Negator
-02 00.47 R|NORM|02|M11|Royal Assassin
-01 00.47 R|NORM|01|M12|Royal Assassin
-01 01.30 R|NORM|01|ISD|Sever the Bloodline
-02 04.11 M|NORM|02|NPH|Sheoldred, Whispering One
-01 00.84 R|NORM|01|M12|Sorin's Vengeance
-01 00.49 R|NORM|01|ISD|Unbreathing Horde
-01 01.48 R|NORM|01|9ED|Underworld Dreams
-03 01.91 R|NORM|03|8ED|Underworld Dreams
+01 00.29 Baneful Omen
+01 00.29 Carnifex Demon
+01 00.25 Carnival Hellsteed
+01 00.35 Chancellor of the Dross
+01 02.29 Choice of Damnations
+01 01.19 Contagion Engine
+01 00.49 Crypt of Agadeem
+01 00.27 Cryptborn Horror
+01 02.00 Demon of Death's Gate
+01 00.29 Glistening Oil
+02 00.29 Halo Hunter
+02 00.93 Hand of the Praetors
+01 00.47 Infernal Kirin
+01 00.48 Life's Finale
+01 03.38 Living Death
+01 00.46 Memoricide
+02 00.16 Moan of the Unhallowed
+02 00.15 Nested Ghoul
+01 00.44 Pain's Reward
+01 00.53 Painful Quandary
+01 01.47 Phyrexian Negator
+03 00.19 Quest for the Gravelord
+02 00.47 Royal Assassin
+01 00.47 Royal Assassin
+01 01.30 Sever the Bloodline
+02 04.11 Sheoldred, Whispering One
+01 00.84 Sorin's Vengeance
+01 00.49 Unbreathing Horde
+01 01.48 Underworld Dreams
+03 01.91 Underworld Dreams
+01 00.30 Wight of Precinct Six
+01 00.24 Zombie Infestation
