@@ -37,10 +37,10 @@ MF|MAIN|R|NORM|01|01|00|SOK|Miren, the Moaning Well
 MF|MAIN|R|NORM|00|04|00|MOR|Mutavault
 MF|MAIN|R|NORM|01|03|01|M12|Phantasmal Image
 MF|MAIN|U|NORM|02|02|00|MOR|Sage's Dousing
-MF|MAIN|U|NORM|04|04|00|LOR|Silvergill Adept
+MF|MAIN|U|NORM|04|04|00|LRW|Silvergill Adept
 MF|MAIN|C|NORM|02|02|00|ZEN|Spell Pierce
 MF|MAIN|C|NORM|04|04|00|MOR|Stonybrook Banneret
-MF|MAIN|U|NORM|01|01|00|LOR|Surgespanner
+MF|MAIN|U|NORM|01|01|00|LRW|Surgespanner
 MF|MAIN|R|NORM|03|03|00|EVE|Wake Thrasher
 MF|SIDE|R|NORM|01|01|00|BOK|Kira, Great Glass-Spinner
 MF|SIDE|R|NORM|02|04|00|TSP|Lord of Atlantis
@@ -49,7 +49,7 @@ MF|SIDE|R|NORM|01|01|00|M11|Merfolk Sovereign
 MF|SIDE|R|NORM|01|01|00|LRW|Merrow Commerce
 MF|SIDE|R|NORM|00|01|00|M12|Phantasmal Image
 MF|SIDE|U|NORM|02|02|00|MOR|Sage's Dousing
-MF|SIDE|U|NORM|01|01|00|LOR|Surgespanner
+MF|SIDE|U|NORM|01|01|00|LRW|Surgespanner
 MF|SIDE|R|NORM|01|01|00|EVE|Wake Thrasher
 MR|MAIN|R|NORM|03|03|00|CON|Banefire
 MR|MAIN|R|NORM|01|03|00|PLC|Boom // Bust
@@ -354,7 +354,7 @@ WW|MAIN|R|NORM|03|03|00|M10|Honor of the Pure
 WW|MAIN|C|NORM|04|04|00|ZEN|Kabira Crossroads
 WW|MAIN|C|NORM|03|03|00|CSP|Martyr of Sands
 WW|MAIN|R|NORM|01|01|00|ISD|Mikaeus, the Lunarch
-WW|MAIN|C|NORM|14|14|00|   |Plains
+WW|MAIN|C|NORM|14|14|00|ZEN|Plains
 WW|MAIN|R|NORM|03|03|00|DIS|Proclamation of Rebirth
 WW|MAIN|R|NORM|04|04|00|ALA|Ranger of Eos
 WW|MAIN|R|NORM|01|01|00|SOK|Rune-Tail, Kitsune Ascendant
@@ -605,7 +605,7 @@ PC|CUBE|C|NORM|01|01|00|MOR|Game-Trail Changeling
 PC|CUBE|C|NORM|01|01|00|RTR|Gatecreeper Vine
 PC|CUBE|C|NORM|01|01|00|SOM|Ghalma's Warden
 PC|CUBE|C|NORM|00|01|00|ULG|Ghitu Slinger
-PC|CUBE|C|NORM|01|01|00|GPC|Ghost Warden
+PC|CUBE|C|NORM|01|01|00|GPT|Ghost Warden
 PC|CUBE|C|NORM|01|01|00|DDG|Ghostfire
 PC|CUBE|C|NORM|01|01|00|SHM|Giantbaiting
 PC|CUBE|C|NORM|01|01|00|M12|Gideon's Lawkeeper
@@ -633,7 +633,7 @@ PC|CUBE|C|NORM|00|01|00|MRD/HOP|Great Furnace
 PC|CUBE|C|NORM|01|01|00|NPH|Grim Affliction
 PC|CUBE|C|NORM|01|01|00|WWK|Groundswell
 PC|CUBE|C|NORM|01|01|00|GTC|Gruul Guildgate
-PC|CUBE|C|NORM|01|01|00|GPC|Gruul Turf
+PC|CUBE|C|NORM|01|01|00|GPT|Gruul Turf
 PC|CUBE|C|NORM|01|01|00|AVR|Gryff Vanguard
 PC|CUBE|C|NORM|01|01|00|DIS|Guardian of the Guildpact
 PC|CUBE|C|NORM|01|01|00|M13|Guardians of Akrasa
@@ -725,7 +725,7 @@ PC|CUBE|C|NORM|00|01|00|TSP/EVG|Mogg War Marshal
 PC|CUBE|C|NORM|01|01|00|TSP|Momentary Blink
 PC|CUBE|C|NORM|01|01|00|LRW|Moonglove Extract
 PC|CUBE|C|NORM|01|01|00|NPH|Mortis Dogs
-PC|CUBE|C|NORM|01|01|00|GPC|Mourning Thrull
+PC|CUBE|C|NORM|01|01|00|GPT|Mourning Thrull
 PC|CUBE|C|NORM|01|01|00|LRW|Mulldrifter
 PC|CUBE|C|NORM|00|01|00|ULG|Multani's Acolyte
 PC|CUBE|C|NORM|01|01|00|M13|Murder
@@ -756,7 +756,7 @@ PC|CUBE|C|NORM|01|01|00|5DN|Opaline Bracers
 PC|CUBE|C|NORM|01|01|00|ZEN|Oran Rief Recluse
 PC|CUBE|C|NORM|01|02|00|FEM|Order of Leitbur
 PC|CUBE|C|NORM|01|01|00|FEM|Order of the Ebon Hand
-PC|CUBE|C|NORM|01|01|00|GPC|Orzhov Basilica
+PC|CUBE|C|NORM|01|01|00|GPT|Orzhov Basilica
 PC|CUBE|C|NORM|01|01|00|GTC|Orzhov Guildgate
 PC|CUBE|C|NORM|01|01|00|ROE|Overgrown Battlement
 PC|CUBE|C|NORM|01|01|00|DST|Oxidda Golem
@@ -771,7 +771,7 @@ PC|CUBE|C|NORM|01|01|00|MBS|Phyrexian Rager
 PC|CUBE|C|NORM|01|01|00|ALL|Phyrexian War Beast
 PC|CUBE|C|NORM|01|01|00|WWK|Pilgrim's Eye
 PC|CUBE|C|NORM|01|01|00|SHM|Pili-Pala
-PC|CUBE|C|NORM|01|01|00|GPC|Pillory of the Sleepless
+PC|CUBE|C|NORM|01|01|00|GPT|Pillory of the Sleepless
 PC|CUBE|C|NORM|01|01|00|NPH|Pith Driller
 PC|CUBE|C|NORM|00|01|00|NMS|Plague Witch
 PC|CUBE|C|NORM|01|01|00|ZEN|Plated Geopede
@@ -812,12 +812,12 @@ PC|CUBE|C|NORM|00|01|00|EVE/DDH|Recumbent Bliss
 PC|CUBE|C|NORM|01|01|00|NPH|Remember the Fallen
 PC|CUBE|C|NORM|00|01|00|10E/LEG/CHR|Remove Soul
 PC|CUBE|C|NORM|01|01|00|EVE|Rendclaw Trow
-PC|CUBE|C|NORM|01|01|00|GPC|Repeal
+PC|CUBE|C|NORM|01|01|00|GPT|Repeal
 PC|CUBE|C|NORM|00|01|00|INV/CMD/DD2|Repulse
 PC|CUBE|C|NORM|01|01|00|TSP|Rift Bolt
 PC|CUBE|C|NORM|00|01|00|TMP/HOP|Rolling Thunder
 PC|CUBE|C|NORM|01|01|00|CSP|Ronom Unicorn
-PC|CUBE|C|NORM|01|01|00|MSB|Rot Wolf
+PC|CUBE|C|NORM|01|01|00|MBS|Rot Wolf
 PC|CUBE|C|NORM|01|01|00|LRW|Runed Stalactite
 PC|CUBE|C|NORM|00|01|00|ALA/ARC|Sanctum Gargoyle
 PC|CUBE|C|NORM|01|01|00|ZEN|Savage Silhouette
@@ -842,7 +842,7 @@ PC|CUBE|C|NORM|01|01|00|PLC|Shaper Parasite
 PC|CUBE|C|NORM|01|01|00|ONS|Shepherd of Rot
 PC|CUBE|C|NORM|01|01|00|LRW|Shimmering Grotto
 PC|CUBE|C|NORM|01|01|00|SOK|Shinen of Life's Roar
-PC|CUBE|C|NORM|01|01|00|GPC|Shrieking Grotesque
+PC|CUBE|C|NORM|01|01|00|GPT|Shrieking Grotesque
 PC|CUBE|C|NORM|01|01|00|ALA|Sighted-Caste Sorcerer
 PC|CUBE|C|NORM|01|01|00|DDG|Sigil Blessing
 PC|CUBE|C|NORM|01|01|00|M10|Sign in Blood
@@ -877,7 +877,7 @@ PC|CUBE|C|NORM|01|01|00|RTR|Stab Wound
 PC|CUBE|C|NORM|01|01|00|ROE|Staggershock
 PC|CUBE|C|NORM|00|01|00|APC|Standard Bearer
 PC|CUBE|C|NORM|01|01|00|RTR|Stealer of Secrets
-PC|CUBE|C|NORM|01|01|00|GPC|Steamcore Weird
+PC|CUBE|C|NORM|01|01|00|GPT|Steamcore Weird
 PC|CUBE|C|NORM|01|01|00|MRD|Steel Wall
 PC|CUBE|C|NORM|01|01|00|ZEN|Steppe Lynx
 PC|CUBE|C|NORM|01|01|00|PLC|Stingscourger
@@ -912,7 +912,7 @@ PC|CUBE|C|NORM|01|01|00|NPH|Thundering Tanadon
 PC|CUBE|C|NORM|01|01|00|RAV|Thundersong Trumpeter
 PC|CUBE|C|NORM|01|01|00|ALA|Tidehollow Strix
 PC|CUBE|C|NORM|01|01|00|LEG|Timberwatch Elf
-PC|CUBE|C|NORM|01|01|00|GPC|Tin Street Hooligan
+PC|CUBE|C|NORM|01|01|00|GPT|Tin Street Hooligan
 PC|CUBE|C|NORM|01|01|00|DKA|Torch Fiend
 PC|CUBE|C|NORM|01|01|00|ROE|Totem-Guide Hartebeest
 PC|CUBE|C|NORM|01|01|00|DKA|Tragic Slip
@@ -958,7 +958,7 @@ PC|CUBE|C|NORM|01|01|00|LRW|Wanderer's Twig
 PC|CUBE|C|NORM|01|01|00|LRW|Warren Pilferers
 PC|CUBE|C|NORM|01|01|00|MMQ|Waterfront Bouncer
 PC|CUBE|C|NORM|01|01|00|5DN|Wayfarer's Bauble
-PC|CUBE|C|NORM|01|01|00|GPC|Wee Dragonauts
+PC|CUBE|C|NORM|01|01|00|GPT|Wee Dragonauts
 PC|CUBE|C|NORM|01|01|00|MOR|Weed-Pruner Poplar
 PC|CUBE|C|NORM|01|01|00|ZEN|Welkin Turn
 PC|CUBE|C|NORM|00|01|00|ONS/EVG|Wellwisher
@@ -1727,7 +1727,7 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|U|NORM|01|00|00|GTC|Orzhov Charm
 --|FREE|U|NORM|03|00|00|M10|Overrun
 --|FREE|U|NORM|02|02|00|M12|Overrun
---|FREE|U|NORM|02|02|00|DDA|Overrun
+--|FREE|U|NORM|02|02|00|DPA|Overrun
 --|FREE|U|NORM|03|00|00|SOM|Oxidda Scrapmelter
 --|FREE|U|NORM|01|00|00|SOM|Painsmith
 --|FREE|C|FOIL|01|00|00|M11|Palace Guard
