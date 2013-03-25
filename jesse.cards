@@ -1,6 +1,6 @@
 BN|MAIN|C|NORM|03|03|00|M11|Cultivate
 BN|MAIN|R|NORM|03|04|00|ROE|Eldrazi Temple
-BN|MAIN|M|FOIL|01|01|00|ROE|Emrakul, the Aeons Torn (Promo)
+BN|MAIN|M|PROM|01|01|00|ROE|Emrakul, the Aeons Torn
 BN|MAIN|U|NORM|01|01|00|ARC|Everflowing Chalice
 BN|MAIN|U|NORM|01|01|00|WWK|Everflowing Chalice
 BN|MAIN|C|NORM|03|03|00|WWK|Explore
@@ -1046,12 +1046,12 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|R|NORM|02|01|00|CON|Exotic Orchard
 --|FREE|R|NORM|01|01|00|SOM|Ezuri's Brigade
 --|FREE|R|NORM|02|01|00|SOM|Ezuri, Renegade Leader
---|FREE|R|FOIL|01|01|00|GTC|Fathom Mage (Promo)
+--|FREE|R|PROM|01|01|00|GTC|Fathom Mage
 --|FREE|R|FOIL|01|00|00|PD2|Figure of Destiny
 --|FREE|R|NORM|01|00|00|GTC|Firemane Avenger
 --|FREE|R|NORM|01|00|00|M13|Firewing Phoenix
 --|FREE|R|FOIL|01|00|00|ALA|Flameblast Dragon
---|FREE|R|FOIL|01|00|00|GTC|Foundary Champion (Promo)
+--|FREE|R|PROM|01|00|00|GTC|Foundary Champion
 --|FREE|R|NORM|01|01|00|GTC|Frontline Medic
 --|FREE|R|NORM|01|00|00|4ED|Fungusaur
 --|FREE|R|NORM|01|00|00|MBS|Galvanoth
