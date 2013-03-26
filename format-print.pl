@@ -33,10 +33,10 @@ my %sets = ( "LEA" => 'Limited Edition Alpha'
            , "8ED" => 'Eighth Edition'
            , "9ED" => 'Ninth Edition'
            , "10E" => 'Tenth Edition'
-           , "M10" => 'Magic 2010  "M10"'
-           , "M11" => 'Magic 2011  "M11"'
-           , "M12" => 'Magic 2012  "M12"'
-           , "M13" => 'Magic 2013  "M13"'
+           , "M10" => 'Magic 2010'
+           , "M11" => 'Magic 2011'
+           , "M12" => 'Magic 2012'
+           , "M13" => 'Magic 2013'
            , "ARN" => 'Arabian Nights'
            , "ATQ" => 'Antiquities'
            , "LEG" => 'Legends'
@@ -100,7 +100,7 @@ my %sets = ( "LEA" => 'Limited Edition Alpha'
            , "DGM" => 'Dragon\'s Maze'
            , "CHR" => 'Chronicles'
            , "ATH" => 'Anthologies'
-           , "BRB" => 'Battle Royale'
+           , "BRB" => 'Battle Royale Box Set'
            , "BTD" => 'Beatdown'
            , "DKM" => 'Deckmasters: Garfield vs. Finkel'
            , "DPA" => 'Duels of the Planeswalkers'
@@ -150,6 +150,18 @@ sub want_sort()
     return $x cmp $y;
 }
 
+sub get_set_name()
+{
+    my $set_code = shift;
+    if(exists $sets{$set_code}) {
+        return $sets{$set_code};
+    }
+    else {
+        printf STDERR "Warning: Set code ($set_code) not found.\n";
+        return "";
+    }
+}
+
 sub motl_format_card()
 {
     my $quantity = shift;
@@ -180,7 +192,7 @@ sub motl_format_card()
         $output = sprintf("%s (%s)", $output, $set);
     }
 
-    $output;
+    return $output;
 }
 
 sub dbox_format_card()
@@ -192,23 +204,25 @@ sub dbox_format_card()
     my $promo    = shift;
     my $set      = shift;
     my $output   = sprintf("%d", abs($quantity)); #count
+    my $set_name = &get_set_name($set);
+    $set_name = "\"$set_name\"" unless("" eq $set_name);
 
     if(0 > $quantity) {
         $output = sprintf("%s,%d", $output, abs($quantity)); # ,trading
     }
 
     # ,name,foil,textless,promo,signed,edition,condition,language
-    sprintf( "%s,\"%s\",%s,%s,%s,%s,%s,%s,%s"
-           , $output
-           , $name
-           , $foil ? "foil" : ""
-           , ""
-           , $promo ? "promo" : ""
-           , ""
-           , ""
-           , ""
-           , "English"
-           );
+    return sprintf( "%s,\"%s\",%s,%s,%s,%s,%s,%s,%s"
+                  , $output
+                  , $name
+                  , $foil ? "foil" : ""
+                  , ""
+                  , $promo ? "promo" : ""
+                  , ""
+                  , $set_name
+                  , ""
+                  , "English"
+                  );
 }
 
 sub print_have()
@@ -219,7 +233,7 @@ sub print_have()
     }
     my $list = shift;
     foreach(sort(keys $list->{'have'})) {
-        print '[u]' . $sets{$_} . '[/u]' . "\n" if($format_motl);
+        print '[u]' . &get_set_name($_) . '[/u]' . "\n" if($format_motl);
         foreach(@{$list->{'have'}->{$_}}) {
             print "$_\n";
         }
@@ -271,9 +285,6 @@ for my $card (@cards) {
     my $set       = $fields[7];
     my $card_name = $fields[8];
     chomp($card_name);
-
-    (my $top_code = $set) =~ s/\/.*//;
-    $sets{$top_code} or die "Invalid set code $set ($top_code)\n";
 
     my $num_wanted = $want - $have - $incoming;
 
