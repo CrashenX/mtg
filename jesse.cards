@@ -801,7 +801,7 @@ PC|CUBE|C|NORM|01|01|00|RTR|Rakdos Shred-Freak
 PC|CUBE|C|NORM|01|01|00|RAV|Rally the Righteous
 PC|CUBE|C|NORM|01|01|00|ULG|Rancor
 PC|CUBE|C|NORM|01|01|00|ISD|Ranger's Guile
-PC|CUBE|C|NORM|02|03|01|ICE/MIR/BRB/CMD|Ray of Command
+PC|CUBE|C|NORM|01|02|01|ICE/MIR/BRB/CMD|Ray of Command
 PC|CUBE|C|NORM|01|01|00|DST|Razor Golem
 PC|CUBE|C|NORM|01|01|00|NPH|Razor Swine
 PC|CUBE|C|NORM|01|01|00|MBS|Razorfield Rhino
@@ -1662,7 +1662,6 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|U|NORM|01|00|00|AVR|Mass Appeal
 --|FREE|U|NORM|03|00|00|NPH|Master Splicer
 --|FREE|U|NORM|01|00|00|M12|Master Thief
---|FREE|U|NORM|01|00|00|ISD|Mausoleum Guard
 --|FREE|U|NORM|01|00|00|SOK|Measure of Wickedness
 --|FREE|U|NORM|04|00|00|M10|Megrim
 --|FREE|U|NORM|02|02|00|SOM|Memnite
@@ -1673,7 +1672,6 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|U|NORM|01|00|00|ROE|Merfolk Skyscout
 --|FREE|U|NORM|04|00|00|ZEN|Merfolk Wayfinder
 --|FREE|U|NORM|01|01|00|ARC|Metallurgeon
---|FREE|U|NORM|02|00|00|ISD|Midnight Haunting
 --|FREE|U|NORM|01|00|00|DIS|Might of the Nephilim
 --|FREE|U|NORM|03|01|00|GTC|Miming Slime
 --|FREE|U|NORM|05|00|00|M10|Mind Control
@@ -1807,7 +1805,6 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|U|NORM|01|00|00|DDE|Rith's Charm
 --|FREE|U|NORM|07|00|00|ZEN|River Boa
 --|FREE|U|NORM|01|00|00|DPA|River Boa
---|FREE|U|NORM|02|00|00|SHM|River's Grasp
 --|FREE|U|NORM|01|00|00|RTR|Rix Maadi Guildmage
 --|FREE|U|NORM|01|00|00|M11|Roc Egg
 --|FREE|U|NORM|02|00|00|M12|Roc Egg
