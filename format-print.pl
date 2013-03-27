@@ -14,6 +14,7 @@ GetOptions("h|have" => \(my $print_have)
           ,"w|want" => \(my $print_want)
           ,"m|motl" => \(my $format_motl)
           ,"d|dbox" => \(my $format_dbox)
+          ,"p|puca" => \(my $format_puca)
           );
 
 my %wants_sort_order = ( $FIRST_WANTS   => 0
@@ -195,6 +196,22 @@ sub motl_format_card()
     return $output;
 }
 
+sub puca_format_card()
+{
+    my $quantity = shift;
+    my $name     = shift;
+    my $rarity   = shift;
+    my $foil     = shift;
+    my $promo    = shift;
+    my $output   = "";
+
+    unless($foil || $promo) {
+        $output = sprintf("%02d %s", abs($quantity), $name);
+    }
+
+    return $output;
+}
+
 sub dbox_format_card()
 {
     my $quantity = shift;
@@ -257,8 +274,8 @@ sub print_want()
     }
 }
 
-unless($format_motl xor $format_dbox) {
-    print "Specify EITHER '-m|--motl OR '-d|--dbox'\n";
+unless($format_motl xor ($format_dbox xor $format_puca)) {
+    print "Specify EITHER '-m|--motl', '-d|--dbox', OR '-p|--puca'\n";
     exit 1;
 }
 
@@ -309,6 +326,16 @@ for my $card (@cards) {
                               , $set
                               );
     }
+    elsif($format_puca) {
+        $c = &puca_format_card( $num_wanted
+                              , $card_name
+                              , $rarity
+                              , $foil
+                              , $promo
+                              );
+    }
+
+    next if("" eq $c);
 
     if(0 < $num_wanted) {
         my $u = $THIRD_WANTS;
