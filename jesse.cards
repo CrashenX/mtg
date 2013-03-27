@@ -57,9 +57,9 @@ MR|MAIN|U|NORM|01|02|00|M12|Buried Ruin
 MR|MAIN|R|NORM|02|02|00|FUT|Cloud Key
 MR|MAIN|M|FOIL|02|02|00|WWK|Comet Storm (Prerelease)
 MR|MAIN|M|NORM|00|02|00|WWK/CMD|Comet Storm
-MR|MAIN|C|NORM|00|04|00|DST|Darksteel Citadel
+MR|MAIN|C|NORM|00|04|01|DST/DDF|Darksteel Citadel
 MR|MAIN|R|NORM|00|01|01|DST/HOP|Darksteel Forge
-MR|MAIN|U|NORM|00|02|00|WWK/ARC/DDF|Everflowing Chalice
+MR|MAIN|U|NORM|00|02|01|WWK/ARC/DDF|Everflowing Chalice
 MR|MAIN|C|NORM|01|04|03|SOM|Iron Myr
 MR|MAIN|R|NORM|01|01|00|ARC|Lodestone Golem
 MR|MAIN|R|NORM|01|01|00|WWK|Lodestone Golem
@@ -232,7 +232,7 @@ GW|MAIN|R|NORM|01|00|00|4ED|Land Tax
 GW|MAIN|R|NORM|00|01|00|BRB|Land Tax
 GW|MAIN|M|FOIL|01|01|00|V12|Maze of Ith
 GW|MAIN|U|NORM|01|01|00|SHM|Mistveil Plains
-GW|MAIN|U|NORM|03|04|00|CMD|Mother of Runes
+GW|MAIN|U|NORM|03|04|01|CMD|Mother of Runes
 GW|MAIN|U|NORM|01|00|00|ULG|Mother of Runes
 GW|MAIN|R|NORM|04|04|00|CON|Noble Hierarch
 GW|MAIN|C|NORM|03|03|00|ZEN|Plains
@@ -440,7 +440,7 @@ PC|CUBE|C|NORM|01|01|00|M13|Ajani's Sunstriker
 PC|CUBE|C|NORM|01|01|00|ALA|Akrasan Squire
 PC|CUBE|C|NORM|00|01|00|MOR|Ambassador Oak
 PC|CUBE|C|NORM|01|01|00|ISD|Ambush Viper
-PC|CUBE|C|NORM|00|01|00|MRD/HOP|Ancient Den
+PC|CUBE|C|NORM|00|01|01|MRD/HOP|Ancient Den
 PC|CUBE|C|NORM|01|01|00|ISD|Ancient Grudge
 PC|CUBE|C|NORM|00|01|00|USG/DDC|Angelic Page
 PC|CUBE|C|NORM|01|01|00|NPH|Apostle's Blessing
@@ -828,7 +828,7 @@ PC|CUBE|C|NORM|01|01|00|DIS|Seal of Doom
 PC|CUBE|C|NORM|01|01|00|PLC|Seal of Primordium
 PC|CUBE|C|NORM|01|01|00|WWK|Searing Blaze
 PC|CUBE|C|NORM|01|01|00|M13|Searing Spear
-PC|CUBE|C|NORM|00|01|00|MRD/DDF/HOP|Seat of the Synod
+PC|CUBE|C|NORM|00|01|01|MRD/DDF/HOP|Seat of the Synod
 PC|CUBE|C|NORM|01|01|00|ONS|Secluded Steppe
 PC|CUBE|C|NORM|01|01|00|WWK|Sejiri Steppe
 PC|CUBE|C|NORM|01|01|00|RTR|Selesnya Guildgate
@@ -1302,7 +1302,7 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|U|NORM|01|00|00|M13|Blood Reckoning
 --|FREE|U|NORM|04|00|00|SOM|Bloodshot Trainee
 --|FREE|U|NORM|02|00|00|ROE|Boar Umbra
---|FREE|C|NORM|02|00|02|WWK|Bojuka Bog
+--|FREE|C|NORM|00|02|02|WWK|Bojuka Bog
 --|FREE|U|NORM|01|00|00|MOR|Boldwyr Intimidator
 --|FREE|U|NORM|01|00|00|DDE|Bone Shredder
 --|FREE|U|NORM|04|00|00|ISD|Boneyard Wurm
@@ -1587,7 +1587,7 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|U|NORM|01|00|00|ROE|Irresistible Prey
 --|FREE|U|NORM|02|01|00|NPH|Isolation Cell
 --|FREE|U|NORM|02|00|00|SOK|Ivory Crane Netsuke
---|FREE|U|NORM|01|00|00|ARC|Izzet Keyrune
+--|FREE|U|NORM|01|00|00|RTR|Izzet Keyrune
 --|FREE|U|NORM|01|00|00|ARC|Juggernaut
 --|FREE|U|NORM|01|00|00|M11|Juggernaut
 --|FREE|U|NORM|03|00|00|ALA|Jund Battlemage
@@ -1858,7 +1858,7 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|U|NORM|02|01|00|NPH|Shrine of Piercing Vision
 --|FREE|U|NORM|03|00|00|NPH|Sickleslicer
 --|FREE|U|NORM|03|03|00|MBS|Signal Pest
---|FREE|U|NORM|01|00|00|DDG|Silver Knight
+--|FREE|U|NORM|01|01|00|DDG|Silver Knight
 --|FREE|U|NORM|02|00|00|ISD|Silver-Inlaid Dagger
 --|FREE|U|NORM|01|00|00|GTC|Simic Charm
 --|FREE|U|NORM|03|01|00|GTC|Simic Fluxmage
@@ -2023,7 +2023,7 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|U|NORM|01|00|00|MBS|Viridian Corrupter
 --|FREE|U|NORM|05|00|00|SOM|Viridian Revel
 --|FREE|U|NORM|04|00|00|NPH|Vital Splicer
---|FREE|U|NORM|01|00|00|GTC|Vitu-Ghazi Guildmage
+--|FREE|U|NORM|01|00|00|RTR|Vitu-Ghazi Guildmage
 --|FREE|U|NORM|01|01|00|ARC|Vitu-Ghazi, the City-Tree
 --|FREE|U|NORM|01|01|00|LRW|Vivid Grove
 --|FREE|U|NORM|01|00|00|GTC|Vizkopa Confessor
