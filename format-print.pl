@@ -251,10 +251,11 @@ sub print_have()
     my $list = shift;
     foreach(sort(keys $list->{'have'})) {
         print '[u]' . &get_set_name($_) . '[/u]' . "\n" if($format_motl);
+        print &get_set_name($_) . "\n" if($format_puca);
         foreach(@{$list->{'have'}->{$_}}) {
             print "$_\n";
         }
-        print "\n" if($format_motl);
+        print "\n" if($format_motl || $format_puca);
     }
 }
 
