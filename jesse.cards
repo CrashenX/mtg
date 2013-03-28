@@ -124,7 +124,7 @@ CC|DECK|M|FOIL|01|01|00|V12|Cephalid Coliseum
 CC|DECK|R|NORM|01|01|00|RTR|Chromatic Lantern
 CC|DECK|C|NORM|01|01|00|TSP|Clockspinning
 CC|DECK|R|NORM|00|01|00|EVE|Cold-Eyed Selkie
-CC|DECK|C|NORM|00|01|00|CMD/CMA|Command Tower
+CC|DECK|C|NORM|00|01|00|CMD|Command Tower
 CC|DECK|M|NORM|01|01|00|MBS|Consecrated Sphinx
 CC|DECK|R|NORM|00|01|00|DST|Darksteel Reactor
 CC|DECK|R|NORM|01|01|00|RTR|Death's Presence
@@ -162,13 +162,13 @@ CC|DECK|R|NORM|00|01|00|MMQ|Magistrate's Scepter
 CC|DECK|M|NORM|01|01|00|GTC|Master Biomancer
 CC|DECK|R|NORM|00|01|00|SOK|Mikokoro, Center of the Sea
 CC|DECK|R|NORM|00|01|00|CHK|Minamo, School at Water's Edge
-CC|DECK|R|NORM|00|01|00|MRD/CMA|Mind's Eye
+CC|DECK|R|NORM|00|01|00|MRD|Mind's Eye
 CC|DECK|U|NORM|01|01|00|DST|Mirrodin's Core
 CC|DECK|R|NORM|00|01|01|ROE|Momentous Fall
 CC|DECK|R|NORM|00|01|00|DIS|Momir Vig, Simic Visionary
 CC|DECK|R|NORM|01|01|00|SHM|Mossbridge Troll
 CC|DECK|R|NORM|01|01|00|ARC|Mosswort Bridge
-CC|DECK|U|NORM|00|01|00|V09/MIR/6ED|Mystical Tutor
+CC|DECK|U|NORM|00|01|00|MIR|Mystical Tutor
 CC|DECK|R|NORM|00|01|00|M11|Mystifying Maze
 CC|DECK|U|NORM|01|01|00|DIS|Novijen, Heart of Progress
 CC|DECK|R|NORM|00|01|00|CHK|Okina, Temple to the Grandfathers
@@ -202,7 +202,7 @@ CC|DECK|C|NORM|01|01|00|ONS|Tranquil Thicket
 CC|DECK|R|NORM|00|01|00|M11|Triskelion
 CC|DECK|M|FOIL|01|01|00|V12|Vesuva
 CC|DECK|R|NORM|00|01|00|SHM|Woodfall Primus
-CC|DECK|U|NORM|00|01|00|6ED/MIR|Worldly Tutor
+CC|DECK|U|NORM|00|01|00|MIR|Worldly Tutor
 CC|DECK|R|NORM|00|01|00|10E/APC|Yavimaya Coast
 CC|DECK|R|NORM|00|01|00|UDS|Yavimaya Hollow
 CC|ALTS|R|NORM|01|01|00|ISD|Creeping Renaissance
@@ -259,7 +259,7 @@ GW|SIDE|R|NORM|02|02|00|ARB|Dauntless Escort
 GW|SIDE|U|NORM|01|01|00|RTR|Dryad Militant
 GW|SIDE|C|NORM|00|01|00|SHM|Faerie Macabre
 GW|SIDE|R|NORM|01|01|00|LRW|Gaddock Teeg
-GW|SIDE|R|NORM|00|01|00|RAV/DDJ|Life from the Loam
+GW|SIDE|R|NORM|00|01|00|DDJ|Life from the Loam
 GW|SIDE|R|NORM|01|01|00|EXO|Limited Resources
 GW|SIDE|C|NORM|01|01|00|DDH|Qasali Pridemage
 GW|SIDE|R|NORM|01|01|00|JUD|Sylvan Safekeeper
@@ -496,7 +496,7 @@ PC|CUBE|C|NORM|01|01|00|ODY|Careful Study
 PC|CUBE|C|NORM|01|01|00|EVE|Cenn's Enlistment
 PC|CUBE|C|NORM|01|01|00|RTR|Centaur Healer
 PC|CUBE|C|NORM|01|01|00|ARB|Cerodon Yearling
-PC|CUBE|C|NORM|00|01|00|LEG/PD2|Chain Lightning
+PC|CUBE|C|NORM|00|01|00|PD2|Chain Lightning
 PC|CUBE|C|NORM|01|01|00|M11|Chandra's Outrage
 PC|CUBE|C|NORM|01|01|00|M11|Child of Night
 PC|CUBE|C|NORM|01|01|00|DST|Chittering Rats
