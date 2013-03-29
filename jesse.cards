@@ -35,7 +35,7 @@ MF|MAIN|U|NORM|04|04|00|LRW|Merrow Reejerey
 MF|MAIN|R|NORM|01|01|00|CHK|Minamo, School at Water's Edge
 MF|MAIN|R|NORM|01|01|00|SOK|Miren, the Moaning Well
 MF|MAIN|R|NORM|00|04|00|MOR|Mutavault
-MF|MAIN|R|NORM|01|03|01|M12|Phantasmal Image
+MF|MAIN|R|NORM|02|03|00|M12|Phantasmal Image
 MF|MAIN|U|NORM|02|02|00|MOR|Sage's Dousing
 MF|MAIN|U|NORM|04|04|00|LRW|Silvergill Adept
 MF|MAIN|C|NORM|02|02|00|ZEN|Spell Pierce
@@ -69,7 +69,7 @@ MR|MAIN|R|NORM|01|01|00|SOM|Myr Battlesphere
 MR|MAIN|U|NORM|04|04|00|SOM|Myr Galvanizer
 MR|MAIN|R|NORM|02|02|00|MBS|Myr Turbine
 MR|MAIN|U|NORM|04|04|00|SOM|Palladium Myr
-MR|MAIN|R|NORM|01|02|01|NPH|Phyrexian Metamorph
+MR|MAIN|R|NORM|02|02|00|NPH|Phyrexian Metamorph
 MR|MAIN|R|NORM|01|03|00|SOM|Semblance Anvil
 MR|MAIN|R|NORM|01|02|00|ROE|Splinter Twin
 MR|MAIN|U|NORM|01|04|00|WWK|Tectonic Edge
@@ -164,7 +164,7 @@ CC|DECK|R|NORM|00|01|00|SOK|Mikokoro, Center of the Sea
 CC|DECK|R|NORM|00|01|00|CHK|Minamo, School at Water's Edge
 CC|DECK|R|NORM|00|01|00|MRD|Mind's Eye
 CC|DECK|U|NORM|01|01|00|DST|Mirrodin's Core
-CC|DECK|R|NORM|00|01|01|ROE|Momentous Fall
+CC|DECK|R|NORM|01|01|00|ROE|Momentous Fall
 CC|DECK|R|NORM|00|01|00|DIS|Momir Vig, Simic Visionary
 CC|DECK|R|NORM|01|01|00|SHM|Mossbridge Troll
 CC|DECK|R|NORM|01|01|00|ARC|Mosswort Bridge
@@ -1836,6 +1836,7 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|U|NORM|01|00|00|SOK|Seek the Horizon
 --|FREE|U|NORM|03|00|00|WWK|Sejiri Merfolk
 --|FREE|U|NORM|01|00|00|ZEN|Sejiri Refuge
+--|FREE|U|NORM|01|01|00|RTR|Selesnya Charm
 --|FREE|U|NORM|01|00|00|ARC|Selesnya Guildmage
 --|FREE|U|NORM|02|00|00|M12|Sengir Vampire
 --|FREE|U|NORM|01|00|00|MBS|Septic Rats
