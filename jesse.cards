@@ -23,7 +23,7 @@ BN|MAIN|U|NORM|04|04|00|WWK|Tectonic Edge
 BN|MAIN|R|NORM|01|01|00|WWK|Terastodon
 BN|MAIN|M|NORM|01|01|00|ROE|Ulamog, the Infinite Gyre
 BN|MAIN|R|NORM|01|01|00|DPA|Vigor
-MF|MAIN|R|NORM|00|03|00|DST|Aether Vial
+MF|MAIN|R|NORM|00|00|00|DST|Aether Vial
 MF|MAIN|R|NORM|01|03|00|CHK|Azami, Lady of Scrolls
 MF|MAIN|R|NORM|03|04|00|AVR|Cavern of Souls
 MF|MAIN|U|NORM|01|04|00|SHM|Cursecatcher
@@ -401,38 +401,40 @@ KN|ALTS|C|NORM|02|02|00|AVR|Nearheath Pilgrim
 KN|ALTS|R|NORM|00|02|00|SHM|Runed Halo
 KN|ALTS|C|NORM|01|01|00|GTC|Skyknight Legionnaire
 KN|ALTS|R|NORM|00|02|00|10E/ONS|True Believer
-TS|MAIN|R|NORM|02|02|00|DST|Aether Vial
+TS|MAIN|R|NORM|02|03|00|DST|Aether Vial
 TS|MAIN|C|NORM|04|04|00|MRD|Ancient Den
 TS|MAIN|R|NORM|01|01|00|SOM|Argentum Armor
 TS|MAIN|C|NORM|04|04|00|DST|Darksteel Citadel
-TS|MAIN|M|NORM|01|01|00|DKA|Elbrus, the Binding Blade
-TS|MAIN|U|NORM|04|04|00|DKA|Faith's Shield
-TS|MAIN|C|NORM|03|03|00|MBS|Flayer Husk
+TS|MAIN|U|NORM|04|04|00|NPH|Dispatch
+TS|MAIN|C|NORM|02|02|00|MBS|Flayer Husk
 TS|MAIN|R|NORM|01|01|00|DST|Heartseeker
-TS|MAIN|I|NORM|01|01|00|SOM|Infiltration Lens
 TS|MAIN|U|NORM|04|04|00|ZEN|Kor Duelist
 TS|MAIN|C|NORM|01|01|00|ZEN|Kor Outfitter
 TS|MAIN|R|NORM|03|03|00|DST|Leonin Shikari
 TS|MAIN|U|NORM|01|01|00|ARC|Lightning Greaves
-TS|MAIN|R|NORM|04|04|00|ISD|Mentor of the Meek
+TS|MAIN|R|NORM|03|03|00|ISD|Mentor of the Meek
 TS|MAIN|M|NORM|01|02|00|SOM|Mox Opal
-TS|MAIN|C|NORM|13|13|00|ZEN|Plains
+TS|MAIN|C|NORM|08|08|00|ZEN|Plains
 TS|MAIN|R|NORM|04|04|00|NPH|Puresteel Paladin
 TS|MAIN|R|NORM|04|04|00|WWK|Stoneforge Mystic
+TS|MAIN|U|NORM|00|04|00|NPH|Spellskite
 TS|MAIN|M|NORM|01|01|00|MBS|Sword of Feast and Famine
 TS|MAIN|M|NORM|01|01|00|DST|Sword of Fire and Ice
 TS|MAIN|M|NORM|01|01|00|NPH|Sword of War and Peace
 TS|SIDE|M|NORM|01|01|00|NPH|Batterskull
 TS|SIDE|R|NORM|00|01|00|MBS|Darksteel Plate
-TS|SIDE|U|NORM|04|04|00|NPH|Dispatch
+TS|SIDE|U|NORM|04|04|00|DKA|Faith's Shield
+TS|ALTS|M|NORM|01|01|00|DKA|Elbrus, the Binding Blade
 TS|ALTS|R|NORM|01|01|00|SOM|Etched Champion
-TS|ALTS|C|NORM|01|01|00|MBS|Flayer Husk
+TS|ALTS|C|NORM|02|02|00|MBS|Flayer Husk
 TS|ALTS|R|NORM|01|01|00|ZEN|Grappling Hook
 TS|ALTS|M|NORM|01|01|00|SOM|Indomitable Archangel
+TS|ALTS|U|NORM|01|01|00|SOM|Infiltration Lens
 TS|ALTS|C|NORM|01|01|00|ZEN|Kor Outfitter
 TS|ALTS|R|NORM|01|01|00|DST|Leonin Shikari
 TS|ALTS|R|NORM|01|01|00|SOM|Livewire Lash
 TS|ALTS|R|NORM|01|01|00|DDG|Loxodon Warhammer
+TS|ALTS|R|NORM|01|01|00|ISD|Mentor of the Meek
 TS|ALTS|R|NORM|01|01|00|AVR|Moonsilver Spear
 TS|ALTS|R|NORM|01|01|00|M11|Sword of Vengeance
 PC|CUBE|C|NORM|01|01|00|ZEN|Adventuring Gear
@@ -1196,7 +1198,7 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|R|NORM|01|01|00|M12|Sundial of the Infinite
 --|FREE|R|NORM|01|01|00|M11|Sunpetal Grove
 --|FREE|R|NORM|02|02|00|M12|Sunpetal Grove
---|FREE|R|NORM|01|01|00|NPH|Surgical Extraction
+--|FREE|R|NORM|01|04|00|NPH|Surgical Extraction
 --|FREE|R|NORM|01|00|00|WWK|Talus Paladin
 --|FREE|R|NORM|01|00|00|MIR|Teferi's Imp
 --|FREE|R|NORM|01|00|00|CON|Telemin Performance
