@@ -1056,7 +1056,8 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|R|NORM|01|00|00|M13|Firewing Phoenix
 --|FREE|R|FOIL|01|00|00|ALA|Flameblast Dragon
 --|FREE|R|PROM|01|00|00|GTC|Foundry Champion
---|FREE|R|NORM|01|01|00|GTC|Frontline Medic
+--|FREE|R|NORM|01|00|00|GTC|Foundry Champion
+--|FREE|R|NORM|02|02|00|GTC|Frontline Medic
 --|FREE|R|NORM|01|00|00|4ED|Fungusaur
 --|FREE|R|NORM|01|00|00|MBS|Galvanoth
 --|FREE|R|NORM|01|00|00|M10|Gargoyle Castle
@@ -1108,6 +1109,7 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|R|NORM|01|00|00|SOM|Kuldotha Phoenix
 --|FREE|R|NORM|01|00|00|NPH|Lashwrithe
 --|FREE|R|NORM|03|00|00|ZEN|Lavaball Trap
+--|FREE|R|NORM|01|00|00|GTC|Legion Loyalist
 --|FREE|R|NORM|02|01|00|M11|Leyline of Anticipation
 --|FREE|R|NORM|04|00|00|M11|Leyline of Vitality
 --|FREE|R|NORM|01|00|00|M12|Lord of the Unreal
@@ -1225,7 +1227,7 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|R|FOIL|01|00|00|DPA|Verdant Force
 --|FREE|R|NORM|04|04|00|DIS|Walking Archive
 --|FREE|M|NORM|01|00|00|ZEN|Warren Instigator
---|FREE|R|NORM|01|00|00|GTC|Whispering Madness
+--|FREE|R|NORM|02|00|00|GTC|Whispering Madness
 --|FREE|R|NORM|01|00|00|RTR|Wild Beastmaster
 --|FREE|R|NORM|01|00|00|SOK|Wine of Blood and Iron
 --|FREE|R|NORM|01|00|00|GPT|Witch-Maw Nephilim
@@ -1246,6 +1248,7 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|U|NORM|01|00|00|SOK|Aether Shockwave
 --|FREE|U|NORM|02|00|00|GTC|Aetherize
 --|FREE|U|NORM|02|00|00|ROE|Affa Guard Hound
+--|FREE|U|NORM|01|00|00|GTC|Agoraphobia
 --|FREE|U|NORM|02|00|00|M10|Air Elemental
 --|FREE|U|NORM|01|00|00|M11|Air Servant
 --|FREE|U|NORM|01|00|00|ROE|Akoum Boulderfoot
@@ -1411,6 +1414,8 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|U|NORM|01|01|00|AVR|Devout Chaplain
 --|FREE|U|NORM|05|00|00|M11|Diabolic Tutor
 --|FREE|U|NORM|02|00|00|M12|Diabolic Tutor
+--|FREE|U|NORM|01|00|00|GTC|Dimir Charm
+--|FREE|U|NORM|01|00|00|GTC|Dimir Keyrune
 --|FREE|U|FOIL|01|00|00|GTC|Disciple of the Old Ways
 --|FREE|U|NORM|01|01|00|NPH|Dismember
 --|FREE|U|NORM|02|02|00|NPH|Dispatch
@@ -1460,7 +1465,7 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|U|NORM|01|00|00|CON|Filigree Fracture
 --|FREE|U|NORM|01|00|00|M11|Fire Servant
 --|FREE|U|NORM|01|01|00|M10|Fireball
---|FREE|U|NORM|08|00|00|GTC|Firefist Striker
+--|FREE|U|NORM|09|00|00|GTC|Firefist Striker
 --|FREE|C|FOIL|01|00|00|DKA|Fires of Undeath
 --|FREE|U|NORM|01|00|00|DIS|Flaring Flame-Kin
 --|FREE|U|NORM|01|00|00|DIS|Flash Foliage
@@ -1526,7 +1531,7 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|U|NORM|01|00|00|MBS|Gruesome Encore
 --|FREE|U|NORM|01|00|00|GTC|Gruul Charm
 --|FREE|U|NORM|02|01|00|GTC|Gruul Keyrune
---|FREE|U|NORM|01|00|00|GTC|Guardian of the Gateless
+--|FREE|U|NORM|02|00|00|GTC|Guardian of the Gateless
 --|FREE|C|FOIL|01|00|00|M12|Guardians' Pledge
 --|FREE|U|NORM|03|03|00|NPH|Gut Shot
 --|FREE|U|NORM|01|00|00|RTR|Guttersnipe
@@ -1657,6 +1662,7 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|U|NORM|01|00|00|ROE|Mammoth Umbra
 --|FREE|C|NORM|03|00|00|SHM|Manamorphose
 --|FREE|U|NORM|01|00|00|GTC|Mark for Death
+--|FREE|U|FOIL|01|00|00|GTC|Mark for Death
 --|FREE|U|NORM|02|00|00|ZEN|Mark of Mutiny
 --|FREE|U|NORM|03|00|00|NPH|Marrow Shards
 --|FREE|U|NORM|04|00|00|ZEN|Marsh Casualties
@@ -1669,7 +1675,7 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|U|NORM|02|02|00|SOM|Memnite
 --|FREE|U|NORM|01|01|00|ISD|Memory's Journey
 --|FREE|U|NORM|02|01|00|NPH|Mental Misstep
---|FREE|U|NORM|01|00|00|GTC|Mental Vapors
+--|FREE|U|NORM|02|00|00|GTC|Mental Vapors
 --|FREE|U|NORM|02|00|00|ZEN|Merfolk Seastalkers
 --|FREE|U|NORM|01|00|00|ROE|Merfolk Skyscout
 --|FREE|U|NORM|04|00|00|ZEN|Merfolk Wayfinder
@@ -1722,7 +1728,7 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|U|NORM|04|00|00|9ED|Ornithopter
 --|FREE|U|NORM|01|01|00|M10|Ornithopter
 --|FREE|U|NORM|01|01|00|M11|Ornithopter
---|FREE|U|NORM|01|00|00|GTC|Orzhov Charm
+--|FREE|U|NORM|02|00|00|GTC|Orzhov Charm
 --|FREE|U|NORM|03|00|00|M10|Overrun
 --|FREE|U|NORM|02|02|00|M12|Overrun
 --|FREE|U|NORM|02|02|00|DPA|Overrun
@@ -1782,7 +1788,7 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|U|NORM|03|00|00|ISD|Rally the Peasants
 --|FREE|U|NORM|04|04|00|M13|Rancor
 --|FREE|U|NORM|02|01|00|ROE|Rapacious One
---|FREE|U|NORM|01|01|00|GTC|Rapid Hybridization
+--|FREE|U|NORM|02|01|00|GTC|Rapid Hybridization
 --|FREE|U|NORM|03|03|00|ZEN|Ravenous Trap
 --|FREE|U|NORM|03|01|00|SOM|Razor Hippogriff
 --|FREE|U|NORM|02|00|00|SOK|Razorjaw Oni
@@ -1927,7 +1933,7 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|U|NORM|03|00|00|ZEN|Summoner's Bane
 --|FREE|U|NORM|01|00|00|ARC|Sun Droplet
 --|FREE|U|NORM|02|00|00|SOK|Sunder from Within
---|FREE|U|NORM|09|00|00|GTC|Sunhome Guildmage
+--|FREE|U|NORM|10|00|00|GTC|Sunhome Guildmage
 --|FREE|U|FOIL|01|00|00|GTC|Sunhome Guildmage
 --|FREE|U|NORM|01|00|00|DDE|Sunscape Battlemage
 --|FREE|C|FOIL|01|00|00|SOM|Sunspear Shikari
@@ -1967,7 +1973,7 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|U|NORM|01|00|00|NPH|Tormentor Exarch
 --|FREE|U|NORM|01|00|00|WTH|Touchstone
 --|FREE|U|FOIL|01|00|00|GTC|Tower Defense
---|FREE|U|NORM|01|00|00|GTC|Tower Defense
+--|FREE|U|NORM|02|00|00|GTC|Tower Defense
 --|FREE|U|NORM|01|01|00|DKA|Tracker's Instincts
 --|FREE|U|NORM|03|01|00|ZEN|Trailblazer's Boots
 --|FREE|U|NORM|01|01|00|ZEN|Trapmaker's Snare
@@ -1993,6 +1999,7 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|U|NORM|04|00|00|SOM|Twisted Image
 --|FREE|U|NORM|04|01|00|SHM|Umbral Mantle
 --|FREE|U|NORM|01|00|00|ARC|Unbender Tine
+--|FREE|U|NORM|01|00|00|GTC|Undercity Informer
 --|FREE|U|NORM|03|00|00|ZEN|Unstable Footing
 --|FREE|C|FOIL|01|00|00|SOM|Untamed Might
 --|FREE|U|NORM|04|01|00|GTC|Urban Evolution
@@ -2016,7 +2023,7 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|U|NORM|01|00|00|10E|Vedalken Mastermind
 --|FREE|U|NORM|01|00|00|DDE|Verduran Emissary
 --|FREE|U|NORM|02|02|00|AVR|Vessel of Endless Rest
---|FREE|U|NORM|01|00|00|GTC|Viashino Shanktail
+--|FREE|U|NORM|02|00|00|GTC|Viashino Shanktail
 --|FREE|C|FOIL|01|01|00|DIS|Vigean Hydropon
 --|FREE|U|NORM|02|01|00|DIS|Vigean Intuition
 --|FREE|U|NORM|04|00|00|SOM|Vigil for the Lost
