@@ -237,7 +237,7 @@ sub dbox_format_card()
                   , $promo ? "promo" : ""
                   , ""
                   , $set_name
-                  , ""
+                  , 0 > $quantity ? "" : "Near Mint"
                   , "English"
                   );
 }
