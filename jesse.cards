@@ -442,7 +442,7 @@ TS|ALTS|R|NORM|01|01|00|AVR|Moonsilver Spear
 TS|ALTS|R|NORM|01|01|00|M11|Sword of Vengeance
 PC|CUBE|C|NORM|01|01|00|ZEN|Adventuring Gear
 PC|CUBE|C|NORM|01|01|00|M12|AEther Adept
-PC|CUBE|C|NORM|00|01|00|ALA/ARC|Agony Warp
+PC|CUBE|C|NORM|00|01|01|ALA/ARC|Agony Warp
 PC|CUBE|C|NORM|01|01|00|M13|Ajani's Sunstriker
 PC|CUBE|C|NORM|01|01|00|ALA|Akrasan Squire
 PC|CUBE|C|NORM|00|01|00|MOR|Ambassador Oak
@@ -665,9 +665,9 @@ PC|CUBE|C|NORM|01|01|00|M12|Incinerate
 PC|CUBE|C|NORM|01|01|00|CHK|Indomitable Will
 PC|CUBE|C|NORM|01|01|00|FUT|Infiltrator il-Kor
 PC|CUBE|C|NORM|01|01|00|LRW|Inner-Flame Acolyte
-PC|CUBE|C|NORM|00|01|00|SHM|Intimidator Initiate
+PC|CUBE|C|NORM|00|01|01|SHM|Intimidator Initiate
 PC|CUBE|C|NORM|01|01|00|ZEN|Into the Roil
-PC|CUBE|C|NORM|00|01|00|MMQ/DDD/CMD|Invigorate
+PC|CUBE|C|NORM|00|01|01|MMQ/DDD/CMD|Invigorate
 PC|CUBE|C|NORM|01|01|00|WWK|Iona's Judgment
 PC|CUBE|C|NORM|01|01|00|SOM|Iron Myr
 PC|CUBE|C|NORM|01|01|00|GPT|Izzet Boilerworks
@@ -758,7 +758,7 @@ PC|CUBE|C|NORM|01|01|00|DDG|Oblivion Ring
 PC|CUBE|C|NORM|01|02|00|INV|Obsidian Acolyte
 PC|CUBE|C|NORM|01|01|00|BOK|Okiba-Gang Shinobi
 PC|CUBE|C|NORM|01|01|00|ISD|One Eyed Scarecrow
-PC|CUBE|C|NORM|00|01|00|EVE|Oona's Grace
+PC|CUBE|C|NORM|00|01|01|EVE|Oona's Grace
 PC|CUBE|C|NORM|01|01|00|5DN|Opaline Bracers
 PC|CUBE|C|NORM|01|01|00|ZEN|Oran Rief Recluse
 PC|CUBE|C|NORM|01|02|00|FEM|Order of Leitbur
@@ -974,7 +974,7 @@ PC|CUBE|C|NORM|01|01|00|EVE|Wickerbough Elder
 PC|CUBE|C|NORM|01|01|00|ARB|Wildfield Borderpost
 PC|CUBE|C|NORM|01|01|00|ROE|Wildheart Invoker
 PC|CUBE|C|NORM|01|01|00|ARB|Winged Coatl
-PC|CUBE|C|NORM|00|01|00|MOR|Winnower Patrol
+PC|CUBE|C|NORM|00|01|01|MOR|Winnower Patrol
 PC|CUBE|C|NORM|01|01|00|ONS|Wirewood Herald
 PC|CUBE|C|NORM|01|01|00|DIS|Wrecking Ball
 PC|CUBE|C|NORM|01|01|00|ONS|Wretched Anurid
