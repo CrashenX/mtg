@@ -57,9 +57,9 @@ MR|MAIN|U|NORM|01|02|00|M12|Buried Ruin
 MR|MAIN|R|NORM|02|02|00|FUT|Cloud Key
 MR|MAIN|M|FOIL|02|02|00|WWK|Comet Storm (Prerelease)
 MR|MAIN|M|NORM|00|02|00|WWK/CMD|Comet Storm
-MR|MAIN|C|NORM|00|04|01|DST/DDF|Darksteel Citadel
+MR|MAIN|C|NORM|01|04|00|DST/DDF|Darksteel Citadel
 MR|MAIN|R|NORM|01|01|00|HOP|Darksteel Forge
-MR|MAIN|U|NORM|00|02|01|WWK/ARC/DDF|Everflowing Chalice
+MR|MAIN|U|NORM|01|02|00|WWK/ARC/DDF|Everflowing Chalice
 MR|MAIN|C|NORM|01|04|03|SOM|Iron Myr
 MR|MAIN|R|NORM|01|01|00|ARC|Lodestone Golem
 MR|MAIN|R|NORM|01|01|00|WWK|Lodestone Golem
@@ -233,8 +233,7 @@ GW|MAIN|R|NORM|01|00|00|4ED|Land Tax
 GW|MAIN|R|NORM|00|01|00|BRB|Land Tax
 GW|MAIN|M|FOIL|01|01|00|V12|Maze of Ith
 GW|MAIN|U|NORM|01|01|00|SHM|Mistveil Plains
-GW|MAIN|U|NORM|03|04|01|CMD|Mother of Runes
-GW|MAIN|U|NORM|01|00|00|ULG|Mother of Runes
+GW|MAIN|U|NORM|04|04|00|CMD|Mother of Runes
 GW|MAIN|R|NORM|04|04|00|CON|Noble Hierarch
 GW|MAIN|C|NORM|03|03|00|ZEN|Plains
 GW|MAIN|C|NORM|02|02|00|ARB|Qasali Pridemage
@@ -447,7 +446,7 @@ PC|CUBE|C|NORM|01|01|00|M13|Ajani's Sunstriker
 PC|CUBE|C|NORM|01|01|00|ALA|Akrasan Squire
 PC|CUBE|C|NORM|00|01|00|MOR|Ambassador Oak
 PC|CUBE|C|NORM|01|01|00|ISD|Ambush Viper
-PC|CUBE|C|NORM|00|01|01|MRD/HOP|Ancient Den
+PC|CUBE|C|NORM|01|01|00|MRD|Ancient Den
 PC|CUBE|C|NORM|01|01|00|ISD|Ancient Grudge
 PC|CUBE|C|NORM|00|01|00|USG/DDC|Angelic Page
 PC|CUBE|C|NORM|01|01|00|NPH|Apostle's Blessing
@@ -835,7 +834,7 @@ PC|CUBE|C|NORM|01|01|00|DIS|Seal of Doom
 PC|CUBE|C|NORM|01|01|00|PLC|Seal of Primordium
 PC|CUBE|C|NORM|01|01|00|WWK|Searing Blaze
 PC|CUBE|C|NORM|01|01|00|M13|Searing Spear
-PC|CUBE|C|NORM|00|01|01|MRD/DDF/HOP|Seat of the Synod
+PC|CUBE|C|NORM|01|01|00|MRD|Seat of the Synod
 PC|CUBE|C|NORM|01|01|00|ONS|Secluded Steppe
 PC|CUBE|C|NORM|01|01|00|WWK|Sejiri Steppe
 PC|CUBE|C|NORM|01|01|00|RTR|Selesnya Guildgate
@@ -1595,6 +1594,7 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|U|NORM|02|00|00|SOK|Molting Skin
 --|FREE|C|FOIL|01|00|00|MOR|Morsel Theft
 --|FREE|U|NORM|02|02|00|MBS|Mortarpod
+--|FREE|U|NORM|01|00|00|ULG|Mother of Runes
 --|FREE|C|FOIL|01|00|00|RTR|Mountain
 --|FREE|U|FOIL|01|00|00|ZEN|Murasa Pyromancer
 --|FREE|U|NORM|02|00|00|ZEN|Murasa Pyromancer
