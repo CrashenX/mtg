@@ -71,7 +71,7 @@ MR|MAIN|R|NORM|02|02|00|MBS|Myr Turbine
 MR|MAIN|U|NORM|04|04|00|SOM|Palladium Myr
 MR|MAIN|R|NORM|02|02|00|NPH|Phyrexian Metamorph
 MR|MAIN|R|NORM|01|03|02|SOM|Semblance Anvil
-MR|MAIN|R|NORM|01|02|01|ROE|Splinter Twin
+MR|MAIN|R|NORM|02|02|00|ROE|Splinter Twin
 MR|MAIN|U|NORM|01|04|00|WWK|Tectonic Edge
 MR|SIDE|U|NORM|03|03|00|NPH|Whipflare
 MR|ALTS|U|NORM|01|01|00|NPH|Alloy Myr
@@ -124,7 +124,7 @@ CC|DECK|M|FOIL|01|01|00|V12|Cephalid Coliseum
 CC|DECK|R|NORM|01|01|00|RTR|Chromatic Lantern
 CC|DECK|C|NORM|01|01|00|TSP|Clockspinning
 CC|DECK|R|NORM|00|01|00|EVE|Cold-Eyed Selkie
-CC|DECK|C|NORM|00|01|01|CMD|Command Tower
+CC|DECK|C|NORM|01|01|00|CMD|Command Tower
 CC|DECK|M|NORM|01|01|00|MBS|Consecrated Sphinx
 CC|DECK|R|NORM|00|01|00|DST|Darksteel Reactor
 CC|DECK|R|NORM|01|01|00|RTR|Death's Presence
@@ -190,7 +190,7 @@ CC|DECK|C|NORM|01|01|00|GTC|Simic Guildgate
 CC|DECK|C|NORM|01|01|00|DIS/CMD|Simic Signet
 CC|DECK|U|NORM|00|01|00|CMD|Sol Ring
 CC|DECK|R|NORM|00|01|00|ALA|Spearbreaker Behemoth
-CC|DECK|R|NORM|00|01|01|EXO|Spike Weaver
+CC|DECK|R|NORM|01|01|00|EXO|Spike Weaver
 CC|DECK|U|NORM|01|01|00|CMD|Temple of the False God
 CC|DECK|M|NORM|00|01|00|CON|Thornling
 CC|DECK|R|NORM|00|01|00|LRW|Thousand-Year Elixir
@@ -221,7 +221,7 @@ GW|MAIN|R|NORM|04|04|00|M10|Birds of Paradise
 GW|MAIN|R|NORM|00|00|00|AVR|Cavern of Souls
 GW|MAIN|M|FOIL|01|01|00|V12|Dryad Arbor
 GW|MAIN|R|NORM|02|02|00|M11|Fauna Shaman
-GW|MAIN|R|NORM|01|02|01|TSP|Flagstones of Trokair
+GW|MAIN|R|NORM|02|02|00|TSP|Flagstones of Trokair
 GW|MAIN|C|NORM|07|07|00|ZEN|Forest
 GW|MAIN|M|FOIL|01|01|00|V12|Glacial Chasm
 GW|MAIN|R|NORM|04|04|00|MBS|Green Sun's Zenith
@@ -250,7 +250,7 @@ GW|MAIN|R|NORM|01|01|00|4ED|Sylvan Library
 GW|MAIN|R|NORM|02|02|00|RTR|Temple Garden
 GW|MAIN|R|NORM|01|01|00|ODY|Terravore
 GW|MAIN|R|NORM|01|01|00|DKA|Thalia, Guardian of Thraben
-GW|MAIN|R|NORM|00|02|01|BOK|Umezawa's Jitte
+GW|MAIN|R|NORM|01|02|00|BOK|Umezawa's Jitte
 GW|MAIN|M|NORM|01|01|00|V12|Vesuva
 GW|MAIN|U|NORM|00|04|04|TMP|Wasteland
 GW|SIDE|C|NORM|01|01|00|WWK|Bojuka Bog
@@ -333,7 +333,7 @@ LF|DECK|C|NORM|01|01|00|ARC|Secluded Steppe
 LF|DECK|R|NORM|01|01|00|WWK|Seer's Sundial
 LF|DECK|C|NORM|01|01|00|GTC|Selesnya Guildgate
 LF|DECK|U|NORM|01|01|00|INV|Sterling Grove
-LF|DECK|R|NORM|00|01|01|GTC|Stomping Ground
+LF|DECK|R|NORM|01|01|00|GTC|Stomping Ground
 LF|DECK|R|NORM|01|01|00|WWK|Stirring Wildwood
 LF|DECK|R|NORM|01|01|00|ATH|Strip Mine
 LF|DECK|R|NORM|01|01|00|ISD|Sulfur Falls
@@ -372,7 +372,7 @@ WW|ALTS|R|NORM|01|01|00|DIS|Proclamation of Rebirth
 KN|MAIN|U|NORM|03|04|01|MBS|Accorder Paladin
 KN|MAIN|U|NORM|04|04|00|GTC|Boros Charm
 KN|MAIN|R|NORM|04|04|00|ISD|Clifftop Retreat
-KN|MAIN|M|NORM|00|01|01|ALA|Elspeth, Knight-Errant
+KN|MAIN|M|NORM|01|01|00|ALA|Elspeth, Knight-Errant
 KN|MAIN|R|NORM|03|03|00|M10|Honor of the Pure
 KN|MAIN|R|NORM|01|02|01|DDG|Knight Exemplar
 KN|MAIN|R|NORM|00|02|00|M11/DDG|Knight Exemplar
