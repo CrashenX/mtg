@@ -1036,6 +1036,7 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|U|NORM|06|04|00|SOM|Auriok Edgewright
 --|FREE|U|NORM|01|01|00|NPH|Auriok Survivors
 --|FREE|U|NORM|01|00|00|M12|Autumn's Veil
+--|FREE|U|NORM|01|00|00|M11|Awakener Druid
 --|FREE|U|NORM|01|00|00|DIS|Azorius Aethermage
 --|FREE|U|NORM|01|00|00|DIS|Azorius Herald
 --|FREE|U|NORM|01|00|00|RTR|Azorius Justiciar
@@ -1104,6 +1105,7 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|R|NORM|01|01|00|NPH|Caged Sun
 --|FREE|U|NORM|01|00|00|RTR|Call of the Conclave
 --|FREE|U|NORM|02|00|00|GTC|Call of the Nightwing
+--|FREE|U|NORM|01|00|00|M11|Call to Mind
 --|FREE|U|NORM|04|00|00|BOK|Callow Jushi
 --|FREE|U|NORM|03|00|00|WWK|Canopy Cover
 --|FREE|R|NORM|01|01|00|M13|Captain of the Watch
@@ -1118,7 +1120,7 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|U|NORM|01|00|00|NPH|Cathedral Membrane
 --|FREE|U|NORM|03|00|00|WWK|Caustic Crawler
 --|FREE|U|NORM|02|01|00|TSP|Celestial Dawn
---|FREE|U|NORM|05|00|00|M11|Celestial Purge
+--|FREE|U|NORM|06|00|00|M11|Celestial Purge
 --|FREE|U|NORM|02|00|00|M12|Celestial Purge
 --|FREE|U|NORM|01|00|00|ISD|Cellar Door
 --|FREE|R|NORM|02|00|00|SOM|Cerebral Eruption
@@ -1220,6 +1222,7 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|U|NORM|01|01|00|NPH|Dismember
 --|FREE|U|NORM|02|02|00|NPH|Dispatch
 --|FREE|U|NORM|06|00|00|SOM|Dispense Justice
+--|FREE|U|FOIL|01|00|00|SOM|Dispense Justice
 --|FREE|U|NORM|02|00|00|ISD|Dissipate
 --|FREE|R|NORM|02|01|00|SOM|Dissipation Field
 --|FREE|R|NORM|01|01|00|ISD|Divine Reckoning
@@ -1231,7 +1234,8 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|U|NORM|03|00|00|ROE|Dreamstone Hedron
 --|FREE|U|NORM|01|00|00|DKA|Drogskol Captain
 --|FREE|U|NORM|01|01|00|PLS|Dromar's Cavern
---|FREE|R|NORM|01|01|00|M12|Drowned Catacomb
+--|FREE|R|NORM|01|00|00|M11|Drowned Catacomb
+--|FREE|R|NORM|01|00|00|M12|Drowned Catacomb
 --|FREE|R|NORM|02|00|00|AVR|Dual Casting
 --|FREE|U|NORM|02|00|00|NPH|Due Respect
 --|FREE|U|NORM|01|00|00|DPA|Duskdale Wurm
@@ -1266,7 +1270,7 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|R|NORM|02|01|00|CON|Exotic Orchard
 --|FREE|U|NORM|01|01|00|GTC|Experiment One
 --|FREE|U|NORM|03|00|00|ROE|Explosive Revelation
---|FREE|R|NORM|01|01|00|SOM|Ezuri's Brigade
+--|FREE|R|NORM|02|01|00|SOM|Ezuri's Brigade
 --|FREE|R|NORM|02|01|00|SOM|Ezuri, Renegade Leader
 --|FREE|U|NORM|01|00|00|RTR|Fall of the Gavel
 --|FREE|U|NORM|01|00|00|NPH|Fallen Ferromancer
@@ -1278,7 +1282,7 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|U|NORM|03|03|00|ISD|Fiend Hunter
 --|FREE|R|FOIL|01|00|00|PD2|Figure of Destiny
 --|FREE|U|NORM|01|00|00|CON|Filigree Fracture
---|FREE|U|NORM|01|00|00|M11|Fire Servant
+--|FREE|U|NORM|02|00|00|M11|Fire Servant
 --|FREE|U|NORM|01|01|00|M10|Fireball
 --|FREE|U|NORM|09|00|00|GTC|Firefist Striker
 --|FREE|C|FOIL|01|00|00|DKA|Fires of Undeath
@@ -1308,7 +1312,7 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|R|NORM|01|00|00|M10|Gargoyle Castle
 --|FREE|U|NORM|01|00|00|M11|Gargoyle Sentinel
 --|FREE|M|NORM|01|00|00|M11|Garruk Wildspeaker
---|FREE|U|NORM|01|00|00|M11|Garruk's Packleader
+--|FREE|U|NORM|02|00|00|M11|Garruk's Packleader
 --|FREE|U|NORM|01|00|00|ISD|Gatstaf Shepherd
 --|FREE|U|NORM|01|00|00|DKA|Gavony Ironwright
 --|FREE|R|NORM|01|01|00|ISD|Gavony Township
@@ -1592,6 +1596,7 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|U|NORM|01|00|00|M13|Mwonvuli Beast Tracker
 --|FREE|R|NORM|01|01|00|ALA|Mycoloth
 --|FREE|U|NORM|01|00|00|NPH|Mycosynth Fiend
+--|FREE|U|NORM|04|04|00|SOM|Myr Galvanizer
 --|FREE|R|NORM|01|01|00|SOM|Myr Superion
 --|FREE|U|NORM|03|00|00|SOM|Myrsmith
 --|FREE|R|NORM|01|00|00|GTC|Mystic Genesis
@@ -1634,7 +1639,7 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|U|NORM|02|02|00|M12|Overrun
 --|FREE|U|NORM|02|02|00|DPA|Overrun
 --|FREE|U|NORM|01|01|00|CHK|Overwhelming Intellect
---|FREE|U|NORM|03|00|00|SOM|Oxidda Scrapmelter
+--|FREE|U|NORM|04|00|00|SOM|Oxidda Scrapmelter
 --|FREE|U|NORM|01|00|00|SOM|Painsmith
 --|FREE|C|FOIL|01|00|00|M11|Palace Guard
 --|FREE|U|NORM|01|01|00|DDG|Paladin of Prahv
@@ -2022,7 +2027,7 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|U|NORM|02|01|00|GTC|Voidwalk
 --|FREE|U|NORM|01|00|00|M12|Volcanic Geyser
 --|FREE|U|NORM|01|00|00|M13|Volcanic Geyser
---|FREE|U|NORM|02|00|00|SOM|Volition Reins
+--|FREE|U|NORM|03|00|00|SOM|Volition Reins
 --|FREE|U|NORM|01|01|00|DDE|Voltaic Key
 --|FREE|U|NORM|01|00|00|AVR|Vorstclaw
 --|FREE|U|NORM|01|00|00|WWK|Voyager Drake
@@ -2041,12 +2046,14 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|U|MISP|01|00|00|ARC|Wax // Wane
 --|FREE|R|NORM|02|00|00|GTC|Whispering Madness
 --|FREE|U|NORM|02|00|00|NPH|Whispering Specter
---|FREE|U|NORM|04|01|00|M10|Whispersilk Cloak
+--|FREE|U|NORM|04|00|00|M10|Whispersilk Cloak
+--|FREE|U|NORM|01|01|00|M11|Whispersilk Cloak
 --|FREE|U|NORM|01|00|00|DDE|Whispersilk Cloak
 --|FREE|U|NORM|01|01|00|DDG|White Knight
 --|FREE|U|NORM|01|01|00|M10|White Knight
 --|FREE|U|NORM|02|02|00|M11|White Knight
 --|FREE|R|NORM|01|00|00|RTR|Wild Beastmaster
+--|FREE|R|NORM|01|01|00|M11|Wild Evocation
 --|FREE|U|NORM|01|01|00|DDG|Wilt-Leaf Cavaliers
 --|FREE|U|NORM|04|00|00|ZEN|Windborne Charge
 --|FREE|R|NORM|01|00|00|SOK|Wine of Blood and Iron
