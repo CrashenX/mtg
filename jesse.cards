@@ -265,7 +265,7 @@ GW|SIDE|C|NORM|01|01|00|DDH|Qasali Pridemage
 GW|SIDE|R|NORM|01|01|00|JUD|Sylvan Safekeeper
 GW|SIDE|M|NORM|00|01|00|MBS|Thrun, the Last Troll
 GW|SIDE|U|NORM|00|03|01|M13|Tormod's Crypt
-GW|ALTS|U|NORM|00|04|01|ISD|Ghost Quarter
+GW|ALTS|U|NORM|02|04|01|ISD|Ghost Quarter
 GW|ALTS|R|NORM|01|01|00|AVR|Ulvenwald Tracker
 GW|ALTS|R|NORM|01|01|00|AVR|Slayers' Stronghold
 GW|ALTS|R|NORM|02|02|00|DKA|Thalia, Guardian of Thraben
@@ -1691,6 +1691,7 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|U|NORM|04|00|00|ZEN|Punishing Fire
 --|FREE|U|NORM|02|00|00|DDE|Puppet Strings
 --|FREE|R|NORM|01|00|00|NPH|Puresteel Paladin
+--|FREE|U|NORM|01|01|00|ISD|Purify the Grave
 --|FREE|R|FOIL|01|00|00|SOM|Putrefax
 --|FREE|U|NORM|01|01|00|M11|Pyroclasm
 --|FREE|R|NORM|02|00|00|ZEN|Pyromancer Ascension
