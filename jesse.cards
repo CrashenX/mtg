@@ -53,7 +53,7 @@ MF|SIDE|U|NORM|01|01|00|LRW|Surgespanner
 MF|SIDE|R|NORM|01|01|00|EVE|Wake Thrasher
 MR|MAIN|R|NORM|03|03|00|CON|Banefire
 MR|MAIN|R|NORM|01|03|00|PLC|Boom // Bust
-MR|MAIN|U|NORM|01|02|00|M12|Buried Ruin
+MR|MAIN|U|NORM|01|02|01|M12|Buried Ruin
 MR|MAIN|R|NORM|02|02|00|FUT|Cloud Key
 MR|MAIN|M|FOIL|02|02|00|WWK|Comet Storm (Prerelease)
 MR|MAIN|M|NORM|00|02|02|WWK/CMD|Comet Storm
@@ -62,8 +62,7 @@ MR|MAIN|R|NORM|01|01|00|HOP|Darksteel Forge
 MR|MAIN|U|NORM|01|02|00|WWK/ARC/DDF|Everflowing Chalice
 MR|MAIN|C|NORM|01|04|03|SOM|Iron Myr
 MR|MAIN|R|NORM|01|01|00|ARC|Lodestone Golem
-MR|MAIN|R|NORM|01|01|00|WWK|Lodestone Golem
-MR|MAIN|R|NORM|00|01|00|WWK/ARC|Lodestone Golem
+MR|MAIN|R|NORM|01|01|01|WWK|Lodestone Golem
 MR|MAIN|C|NORM|10|10|00|SOM|Mountain
 MR|MAIN|R|NORM|01|01|00|SOM|Myr Battlesphere
 MR|MAIN|U|NORM|04|04|00|SOM|Myr Galvanizer
@@ -72,7 +71,7 @@ MR|MAIN|U|NORM|04|04|00|SOM|Palladium Myr
 MR|MAIN|R|NORM|02|02|00|NPH|Phyrexian Metamorph
 MR|MAIN|R|NORM|01|03|02|SOM|Semblance Anvil
 MR|MAIN|R|NORM|02|02|00|ROE|Splinter Twin
-MR|MAIN|U|NORM|01|04|00|WWK|Tectonic Edge
+MR|MAIN|U|NORM|01|04|01|WWK|Tectonic Edge
 MR|SIDE|U|NORM|03|03|00|NPH|Whipflare
 MR|ALTS|U|NORM|01|01|00|NPH|Alloy Myr
 MR|ALTS|R|NORM|01|01|00|ROE|Awakening Zone
@@ -129,7 +128,7 @@ CC|DECK|M|NORM|01|01|00|MBS|Consecrated Sphinx
 CC|DECK|R|NORM|00|01|00|DST|Darksteel Reactor
 CC|DECK|R|NORM|01|01|00|RTR|Death's Presence
 CC|DECK|R|NORM|01|01|00|ULG|Defense of the Heart
-CC|DECK|C|NORM|00|01|00|SHM|Devoted Druid
+CC|DECK|C|NORM|00|01|01|SHM|Devoted Druid
 CC|DECK|R|NORM|00|01|00|RAV|Doubling Season
 CC|DECK|R|NORM|01|01|00|TMP|Earthcraft
 CC|DECK|R|NORM|01|01|00|DIS|Evolution Vat
@@ -265,7 +264,7 @@ GW|SIDE|R|NORM|01|01|00|EXO|Limited Resources
 GW|SIDE|C|NORM|01|01|00|DDH|Qasali Pridemage
 GW|SIDE|R|NORM|01|01|00|JUD|Sylvan Safekeeper
 GW|SIDE|M|NORM|00|01|00|MBS|Thrun, the Last Troll
-GW|SIDE|U|NORM|00|03|00|M13|Tormod's Crypt
+GW|SIDE|U|NORM|00|03|01|M13|Tormod's Crypt
 GW|ALTS|U|NORM|00|04|01|ISD|Ghost Quarter
 GW|ALTS|R|NORM|01|01|00|AVR|Ulvenwald Tracker
 GW|ALTS|R|NORM|01|01|00|AVR|Slayers' Stronghold
@@ -476,7 +475,7 @@ PC|CUBE|C|NORM|01|01|00|ONS|Barren Moor
 PC|CUBE|C|NORM|01|01|00|ROE|Battle-Rattle Shaman
 PC|CUBE|C|NORM|01|01|00|JUD|Benevolent Bodyguard
 PC|CUBE|C|NORM|01|01|00|AVR|Bladed Bracers
-PC|CUBE|C|NORM|00|01|00|DDK|Blazing Salvo
+PC|CUBE|C|NORM|00|01|01|DDK|Blazing Salvo
 PC|CUBE|C|NORM|01|01|00|ISD|Blazing Torch
 PC|CUBE|C|NORM|01|01|00|SOM|Blight Mamba
 PC|CUBE|C|NORM|01|01|00|MBS|Blightwidow
@@ -818,7 +817,7 @@ PC|CUBE|C|NORM|01|02|01|INV/DDH|Recoil
 PC|CUBE|C|NORM|01|01|00|INV|Recover
 PC|CUBE|C|NORM|00|01|01|EVE/DDH|Recumbent Bliss
 PC|CUBE|C|NORM|01|01|00|NPH|Remember the Fallen
-PC|CUBE|C|NORM|00|01|00|10E/LEG/CHR|Remove Soul
+PC|CUBE|C|NORM|00|01|01|10E|Remove Soul
 PC|CUBE|C|NORM|01|01|00|EVE|Rendclaw Trow
 PC|CUBE|C|NORM|01|01|00|GPT|Repeal
 PC|CUBE|C|NORM|01|02|01|INV/CMD/DD2|Repulse
@@ -927,7 +926,7 @@ PC|CUBE|C|NORM|01|01|00|DKA|Tragic Slip
 PC|CUBE|C|NORM|01|01|00|ARC|Tranquil Thicket
 PC|CUBE|C|NORM|01|01|00|ISD|Travel Preparations
 PC|CUBE|C|NORM|01|01|00|ISD|Traveler's Amulet
-PC|CUBE|C|NORM|00|01|00|MRD/PC2|Tree of Tales
+PC|CUBE|C|NORM|00|01|01|MRD|Tree of Tales
 PC|CUBE|C|NORM|01|01|00|TSP|Trespasser il-Vec
 PC|CUBE|C|NORM|01|01|00|NPH|Trespassing Souleater
 PC|CUBE|C|NORM|01|01|00|RTR|Trestle Troll
@@ -1917,7 +1916,7 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|U|NORM|02|00|00|M10|Telepathy
 --|FREE|R|NORM|01|00|00|SOM|Tempered Steel
 --|FREE|U|NORM|01|01|00|CMD|Temple of the False God
---|FREE|R|NORM|03|01|00|BOK|Tendo Ice Bridge
+--|FREE|R|NORM|01|01|00|BOK|Tendo Ice Bridge
 --|FREE|U|NORM|01|00|00|CHK|Terashi's Verdict
 --|FREE|R|NORM|01|00|00|WWK|Terastodon
 --|FREE|R|NORM|01|00|00|ZEN|Terra Stomper
