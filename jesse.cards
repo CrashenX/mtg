@@ -269,7 +269,7 @@ GW|SIDE|U|NORM|00|03|00|M13|Tormod's Crypt
 GW|ALTS|U|NORM|00|04|01|ISD|Ghost Quarter
 GW|ALTS|R|NORM|01|01|00|AVR|Ulvenwald Tracker
 GW|ALTS|R|NORM|01|01|00|AVR|Slayers' Stronghold
-GW|ALTS|R|NORM|03|03|00|DKA|Thalia, Guardian of Thraben
+GW|ALTS|R|NORM|02|02|00|DKA|Thalia, Guardian of Thraben
 LF|DECK|M|NORM|01|01|00|WWK|Admonition Angel
 LF|DECK|M|FOIL|01|01|00|V12|Ancient Tomb
 LF|DECK|R|NORM|01|01|00|CHK|Azusa, Lost but Seeking
@@ -408,6 +408,7 @@ TS|MAIN|C|NORM|04|04|00|MRD|Ancient Den
 TS|MAIN|R|NORM|01|01|00|SOM|Argentum Armor
 TS|MAIN|C|NORM|04|04|00|DST|Darksteel Citadel
 TS|MAIN|U|NORM|04|04|00|NPH|Dispatch
+TS|MAIN|R|NORM|00|01|00|ALA|Ethersworn Canonist
 TS|MAIN|C|NORM|02|02|00|MBS|Flayer Husk
 TS|MAIN|R|NORM|01|01|00|DST|Heartseeker
 TS|MAIN|U|NORM|04|04|00|ZEN|Kor Duelist
@@ -419,10 +420,11 @@ TS|MAIN|M|NORM|01|02|00|SOM|Mox Opal
 TS|MAIN|C|NORM|08|08|00|ZEN|Plains
 TS|MAIN|R|NORM|04|04|00|NPH|Puresteel Paladin
 TS|MAIN|R|NORM|04|04|00|WWK|Stoneforge Mystic
-TS|MAIN|U|NORM|00|04|00|NPH|Spellskite
+TS|MAIN|U|NORM|00|02|00|NPH|Spellskite
 TS|MAIN|M|NORM|01|01|00|MBS|Sword of Feast and Famine
 TS|MAIN|M|NORM|01|01|00|DST|Sword of Fire and Ice
 TS|MAIN|M|NORM|01|01|00|NPH|Sword of War and Peace
+TS|MAIN|R|NORM|01|01|00|DKA|Thalia, Guardian of Thraben
 TS|SIDE|M|NORM|01|01|00|NPH|Batterskull
 TS|SIDE|R|NORM|00|01|00|MBS|Darksteel Plate
 TS|SIDE|U|NORM|04|04|00|DKA|Faith's Shield
