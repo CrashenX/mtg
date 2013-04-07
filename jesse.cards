@@ -523,9 +523,9 @@ PC|CUBE|C|NORM|00|01|01|APC|Consume Strength
 PC|CUBE|C|NORM|01|01|00|MBS|Copper Carapace
 PC|CUBE|C|NORM|01|01|00|SOM|Copper Myr
 PC|CUBE|C|NORM|01|01|00|SOM|Corpse Cur
-PC|CUBE|U|NORM|01|01|00|M11|Corrupt
+PC|CUBE|C|NORM|01|02|00|USG|Corrupt
 PC|CUBE|C|NORM|01|01|00|WWK|Corrupted Zendikon
-PC|CUBE|C|NORM|01|02|00|TMP/MMQ/DD2|Counterspell
+PC|CUBE|C|NORM|01|01|00|MMQ|Counterspell
 PC|CUBE|C|NORM|01|01|00|ALA|Courier's Capsule
 PC|CUBE|C|NORM|01|01|00|ALA|Court Archers
 PC|CUBE|C|NORM|01|01|00|CON|Court Humonculus
@@ -591,7 +591,7 @@ PC|CUBE|C|NORM|01|01|00|TSP|Fathom Seer
 PC|CUBE|C|NORM|01|01|00|ISD|Festerhide Boar
 PC|CUBE|C|NORM|01|01|00|ARB|Fieldmist Borderpost
 PC|CUBE|C|NORM|01|01|00|TOR|Fiery Temper
-PC|CUBE|U|NORM|01|01|00|M11|Fireball
+PC|CUBE|C|NORM|01|02|00|BTD|Fireball
 PC|CUBE|C|NORM|01|01|00|VIS|Fireblast
 PC|CUBE|C|NORM|01|01|00|ODY|Firebolt
 PC|CUBE|C|NORM|01|01|00|ARB|Firewild Borderpost
@@ -793,7 +793,7 @@ PC|CUBE|C|NORM|01|01|00|USG|Priest of Titania
 PC|CUBE|C|NORM|01|01|00|JUD|Prismatic Strands
 PC|CUBE|C|NORM|01|01|00|NPH|Pristine Talisman
 PC|CUBE|C|NORM|01|01|00|INV|Probe
-PC|CUBE|U|NORM|01|01|00|M11|Prodigal Pyromancer
+PC|CUBE|C|NORM|01|02|00|10E|Prodigal Pyromancer
 PC|CUBE|C|NORM|01|01|00|INV|Prohibit
 PC|CUBE|C|NORM|01|01|00|GTC|Prophetic Prism
 PC|CUBE|C|NORM|01|01|00|RTR|Pursuit of Flight
@@ -929,7 +929,7 @@ PC|CUBE|C|NORM|00|01|01|MRD|Tree of Tales
 PC|CUBE|C|NORM|01|01|00|TSP|Trespasser il-Vec
 PC|CUBE|C|NORM|01|01|00|NPH|Trespassing Souleater
 PC|CUBE|C|NORM|01|01|00|RTR|Trestle Troll
-PC|CUBE|U|NORM|01|01|00|SOM|Trinket Mage
+PC|CUBE|C|NORM|01|02|00|DDF|Trinket Mage
 PC|CUBE|C|NORM|01|01|00|AVR|Trusted Forcemage
 PC|CUBE|C|NORM|01|01|00|SOM|Tumble Magnet
 PC|CUBE|C|NORM|01|01|00|SHM|Turn to Mist
