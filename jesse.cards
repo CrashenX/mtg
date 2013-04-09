@@ -443,7 +443,7 @@ PC|CUBE|C|NORM|01|01|00|M12|AEther Adept
 PC|CUBE|C|NORM|01|01|00|ALA|Agony Warp
 PC|CUBE|C|NORM|01|01|00|M13|Ajani's Sunstriker
 PC|CUBE|C|NORM|01|01|00|ALA|Akrasan Squire
-PC|CUBE|C|NORM|00|01|00|MOR|Ambassador Oak
+PC|CUBE|C|NORM|00|01|01|MOR|Ambassador Oak
 PC|CUBE|C|NORM|01|01|00|ISD|Ambush Viper
 PC|CUBE|C|NORM|01|01|00|MRD|Ancient Den
 PC|CUBE|C|NORM|01|01|00|ISD|Ancient Grudge
@@ -550,7 +550,7 @@ PC|CUBE|C|NORM|01|01|00|ISD|Delver of Secrets
 PC|CUBE|C|NORM|01|01|00|ARB|Deny Reality
 PC|CUBE|C|NORM|01|01|00|ROE|Deprive
 PC|CUBE|C|NORM|01|01|00|TSP|Desert
-PC|CUBE|C|NORM|01|02|00|SHM|Devoted Druid
+PC|CUBE|C|NORM|01|02|01|SHM|Devoted Druid
 PC|CUBE|C|NORM|01|01|00|RAV|Dimir Aqueduct
 PC|CUBE|C|NORM|01|01|00|GTC|Dimir Guildgate
 PC|CUBE|C|NORM|01|01|00|ICE|Disenchant
@@ -792,7 +792,7 @@ PC|CUBE|C|NORM|01|01|00|USG|Priest of Titania
 PC|CUBE|C|NORM|01|01|00|JUD|Prismatic Strands
 PC|CUBE|C|NORM|01|01|00|NPH|Pristine Talisman
 PC|CUBE|C|NORM|01|01|00|INV|Probe
-PC|CUBE|C|NORM|01|02|00|10E|Prodigal Pyromancer
+PC|CUBE|C|NORM|01|02|01|10E|Prodigal Pyromancer
 PC|CUBE|C|NORM|01|01|00|INV|Prohibit
 PC|CUBE|C|NORM|01|01|00|GTC|Prophetic Prism
 PC|CUBE|C|NORM|01|01|00|RTR|Pursuit of Flight
@@ -924,11 +924,11 @@ PC|CUBE|C|NORM|01|01|00|DKA|Tragic Slip
 PC|CUBE|C|NORM|01|01|00|ARC|Tranquil Thicket
 PC|CUBE|C|NORM|01|01|00|ISD|Travel Preparations
 PC|CUBE|C|NORM|01|01|00|ISD|Traveler's Amulet
-PC|CUBE|C|NORM|01|02|00|MRD|Tree of Tales
+PC|CUBE|C|NORM|01|02|01|MRD|Tree of Tales
 PC|CUBE|C|NORM|01|01|00|TSP|Trespasser il-Vec
 PC|CUBE|C|NORM|01|01|00|NPH|Trespassing Souleater
 PC|CUBE|C|NORM|01|01|00|RTR|Trestle Troll
-PC|CUBE|C|NORM|01|02|00|DDF|Trinket Mage
+PC|CUBE|C|NORM|01|02|01|DDF|Trinket Mage
 PC|CUBE|C|NORM|01|01|00|AVR|Trusted Forcemage
 PC|CUBE|C|NORM|01|01|00|SOM|Tumble Magnet
 PC|CUBE|C|NORM|01|01|00|SHM|Turn to Mist
