@@ -429,7 +429,7 @@ TS|ALTS|M|NORM|01|01|00|DKA|Elbrus, the Binding Blade
 TS|ALTS|R|NORM|01|01|00|SOM|Etched Champion
 TS|ALTS|C|NORM|02|02|00|MBS|Flayer Husk
 TS|ALTS|R|NORM|01|01|00|ZEN|Grappling Hook
-TS|ALTS|M|NORM|01|01|00|SOM|Indomitable Archangel
+TS|ALTS|M|NORM|02|01|00|SOM|Indomitable Archangel
 TS|ALTS|U|NORM|01|01|00|SOM|Infiltration Lens
 TS|ALTS|C|NORM|01|01|00|ZEN|Kor Outfitter
 TS|ALTS|R|NORM|01|01|00|DST|Leonin Shikari
@@ -1033,6 +1033,7 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|U|NORM|06|04|00|SOM|Auriok Edgewright
 --|FREE|U|NORM|01|01|00|NPH|Auriok Survivors
 --|FREE|U|NORM|01|00|00|M12|Autumn's Veil
+--|FREE|U|NORM|01|00|00|DKA|Avacyn's Collar
 --|FREE|U|NORM|01|00|00|M11|Awakener Druid
 --|FREE|U|NORM|01|00|00|DIS|Azorius Aethermage
 --|FREE|U|NORM|01|00|00|DIS|Azorius Herald
@@ -1055,7 +1056,7 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|R|NORM|01|00|00|WWK|Bazaar Trader
 --|FREE|U|NORM|01|00|00|NPH|Beast Within
 --|FREE|R|NORM|01|00|00|ZEN|Beastmaster Ascension
---|FREE|U|NORM|05|00|00|SOM|Bellowing Tanglewurm
+--|FREE|U|NORM|06|00|00|SOM|Bellowing Tanglewurm
 --|FREE|U|NORM|01|00|00|M12|Belltower Sphinx
 --|FREE|U|NORM|04|04|00|ODY|Beloved Chaplain
 --|FREE|U|NORM|02|00|00|WWK|Bestial Menace
@@ -1188,7 +1189,7 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|U|NORM|05|00|00|SOM|Darksteel Axe
 --|FREE|U|NORM|05|00|00|SOM|Darksteel Myr
 --|FREE|U|NORM|02|00|00|NPH|Darksteel Relic
---|FREE|U|NORM|04|00|00|SOM|Darksteel Sentinel
+--|FREE|U|NORM|05|00|00|SOM|Darksteel Sentinel
 --|FREE|U|NORM|01|00|00|TMP|Dauthi Embrace
 --|FREE|R|NORM|01|00|00|M11|Day of Judgment
 --|FREE|R|NORM|01|00|00|M12|Day of Judgment
@@ -1342,7 +1343,7 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|U|NORM|01|00|00|M12|Goblin Bangchuckers
 --|FREE|U|NORM|03|00|00|ZEN|Goblin Ruinblaster
 --|FREE|C|FOIL|01|00|00|SOM|Golden Urn
---|FREE|U|NORM|02|01|00|SOM|Golem Artisan
+--|FREE|U|NORM|03|01|00|SOM|Golem Artisan
 --|FREE|U|NORM|06|01|00|SOM|Golem's Heart
 --|FREE|U|NORM|01|00|00|ZEN|Gomazoa
 --|FREE|U|NORM|04|00|00|MBS|Gore Vassal
@@ -1357,7 +1358,7 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|U|NORM|06|04|00|ZEN|Greenweaver Druid
 --|FREE|U|NORM|01|00|00|GTC|Gridlock
 --|FREE|U|NORM|01|01|00|DDG|Griffin Guide
---|FREE|U|NORM|01|00|00|DKA|Grim Flowering
+--|FREE|U|NORM|02|00|00|DKA|Grim Flowering
 --|FREE|R|NORM|01|00|00|M12|Grim Lavamancer
 --|FREE|R|NORM|01|00|00|SHM|Grim Poppet
 --|FREE|R|NORM|01|00|00|SOM|Grindclock
@@ -1389,7 +1390,7 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|R|NORM|01|00|00|RTR|Havoc Festival
 --|FREE|R|NORM|01|01|00|SHM|Heartmender
 --|FREE|R|NORM|01|01|00|DST|Heartseeker
---|FREE|U|NORM|06|00|00|SOM|Heavy Arbalest
+--|FREE|U|NORM|07|00|00|SOM|Heavy Arbalest
 --|FREE|U|NORM|04|00|00|ZEN|Hellfire Mongrel
 --|FREE|U|NORM|02|00|00|RTR|Hellhole Flailer
 --|FREE|U|NORM|01|00|00|GTC|Hellraiser Goblin
@@ -1640,7 +1641,7 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|U|NORM|02|02|00|DPA|Overrun
 --|FREE|U|NORM|01|01|00|CHK|Overwhelming Intellect
 --|FREE|U|NORM|04|00|00|SOM|Oxidda Scrapmelter
---|FREE|U|NORM|01|00|00|SOM|Painsmith
+--|FREE|U|NORM|02|00|00|SOM|Painsmith
 --|FREE|C|FOIL|01|00|00|M11|Palace Guard
 --|FREE|U|NORM|01|01|00|DDG|Paladin of Prahv
 --|FREE|C|FOIL|01|00|00|ZEN|Paralyzing Grasp
@@ -1778,7 +1779,9 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|U|NORM|03|00|00|WWK|Scrib Nibblers
 --|FREE|R|NORM|03|00|00|ZEN|Scute Mob
 --|FREE|R|NORM|01|00|00|ZEN|Sea Gate Loremaster
+--|FREE|R|NORM|01|00|00|DKA|Seance
 --|FREE|U|NORM|03|00|00|ZEN|Seascape Aerialist
+--|FREE|U|NORM|01|00|00|DKA|Secrets of the Dead
 --|FREE|U|NORM|01|00|00|RTR|Security Blockade
 --|FREE|U|NORM|01|00|00|SOK|Seek the Horizon
 --|FREE|U|NORM|03|00|00|WWK|Sejiri Merfolk
@@ -1881,7 +1884,7 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|R|NORM|02|02|00|WWK|Stoneforge Mystic
 --|FREE|U|FOIL|01|00|00|AVR|Stonewright
 --|FREE|U|NORM|02|01|00|MBS|Strandwalker
---|FREE|R|NORM|02|00|00|SOM|Strata Scythe
+--|FREE|R|NORM|03|00|00|SOM|Strata Scythe
 --|FREE|U|NORM|01|00|00|RTR|Street Sweeper
 --|FREE|R|NORM|02|00|00|ROE|Student of Warfare
 --|FREE|U|NORM|04|00|00|ROE|Suffer the Past
@@ -1977,7 +1980,7 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|R|NORM|01|00|00|SOM|Tunnel Ignus
 --|FREE|U|NORM|06|01|00|ZEN|Turntimber Basilisk
 --|FREE|R|NORM|01|00|00|ZEN|Turntimber Ranger
---|FREE|U|NORM|04|00|00|SOM|Twisted Image
+--|FREE|U|NORM|05|00|00|SOM|Twisted Image
 --|FREE|U|NORM|04|01|00|SHM|Umbral Mantle
 --|FREE|U|NORM|01|00|00|ARC|Unbender Tine
 --|FREE|R|NORM|01|00|00|ISD|Undead Alchemist
