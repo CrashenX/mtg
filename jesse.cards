@@ -220,7 +220,7 @@ GW|MAIN|R|NORM|04|04|00|M10|Birds of Paradise
 GW|MAIN|R|NORM|00|00|00|AVR|Cavern of Souls
 GW|MAIN|M|FOIL|01|01|00|V12|Dryad Arbor
 GW|MAIN|R|NORM|02|02|00|M11|Fauna Shaman
-GW|MAIN|R|NORM|02|02|00|TSP|Flagstones of Trokair
+GW|MAIN|R|NORM|01|01|00|TSP|Flagstones of Trokair
 GW|MAIN|C|NORM|07|07|00|ZEN|Forest
 GW|MAIN|M|FOIL|01|01|00|V12|Glacial Chasm
 GW|MAIN|R|NORM|04|04|00|MBS|Green Sun's Zenith
@@ -263,7 +263,6 @@ GW|SIDE|R|NORM|01|01|00|EXO|Limited Resources
 GW|SIDE|C|NORM|01|01|00|DDH|Qasali Pridemage
 GW|SIDE|R|NORM|01|01|00|JUD|Sylvan Safekeeper
 GW|SIDE|M|NORM|00|01|00|MBS|Thrun, the Last Troll
-GW|SIDE|U|NORM|01|03|00|M13|Tormod's Crypt
 GW|ALTS|U|NORM|03|04|00|ISD|Ghost Quarter
 GW|ALTS|R|NORM|01|01|00|AVR|Ulvenwald Tracker
 GW|ALTS|R|NORM|01|01|00|AVR|Slayers' Stronghold
@@ -399,7 +398,6 @@ KN|ALTS|U|NORM|04|04|00|ZEN|Brave the Elements
 KN|ALTS|C|NORM|02|02|00|M10|Lightning Bolt
 KN|ALTS|C|NORM|02|02|00|AVR|Nearheath Pilgrim
 KN|ALTS|R|NORM|00|02|00|SHM|Runed Halo
-KN|ALTS|C|NORM|01|01|00|GTC|Skyknight Legionnaire
 KN|ALTS|R|NORM|00|02|00|10E/ONS|True Believer
 TS|MAIN|R|NORM|02|04|00|DST|Aether Vial
 TS|MAIN|C|NORM|04|04|00|MRD|Ancient Den
@@ -426,6 +424,7 @@ TS|MAIN|R|NORM|01|01|00|DKA|Thalia, Guardian of Thraben
 TS|SIDE|M|NORM|01|01|00|NPH|Batterskull
 TS|SIDE|R|NORM|00|01|00|MBS|Darksteel Plate
 TS|SIDE|U|NORM|04|04|00|DKA|Faith's Shield
+TS|SIDE|U|NORM|01|03|00|M13|Tormod's Crypt
 TS|ALTS|M|NORM|01|01|00|DKA|Elbrus, the Binding Blade
 TS|ALTS|R|NORM|01|01|00|SOM|Etched Champion
 TS|ALTS|C|NORM|02|02|00|MBS|Flayer Husk
@@ -1286,6 +1285,7 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|U|NORM|09|00|00|GTC|Firefist Striker
 --|FREE|C|FOIL|01|00|00|DKA|Fires of Undeath
 --|FREE|R|NORM|01|00|00|M13|Firewing Phoenix
+--|FREE|R|NORM|01|01|00|TSP|Flagstones of Trokair
 --|FREE|R|FOIL|01|00|00|ALA|Flameblast Dragon
 --|FREE|U|NORM|01|00|00|DIS|Flaring Flame-Kin
 --|FREE|U|NORM|01|00|00|DIS|Flash Foliage
@@ -1589,6 +1589,7 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|C|FOIL|01|00|00|MOR|Morsel Theft
 --|FREE|U|NORM|02|02|00|MBS|Mortarpod
 --|FREE|U|NORM|01|00|00|ULG|Mother of Runes
+--|FREE|C|FOIL|01|00|00|ISD|Mountain
 --|FREE|C|FOIL|01|00|00|RTR|Mountain
 --|FREE|U|FOIL|01|00|00|ZEN|Murasa Pyromancer
 --|FREE|U|NORM|02|00|00|ZEN|Murasa Pyromancer
