@@ -416,7 +416,7 @@ TS|MAIN|M|NORM|01|02|00|SOM|Mox Opal
 TS|MAIN|C|NORM|08|08|00|ZEN|Plains
 TS|MAIN|R|NORM|04|04|00|NPH|Puresteel Paladin
 TS|MAIN|R|NORM|04|04|00|WWK|Stoneforge Mystic
-TS|MAIN|U|NORM|00|02|00|NPH|Spellskite
+TS|MAIN|U|NORM|00|02|01|NPH|Spellskite
 TS|MAIN|M|NORM|01|01|00|MBS|Sword of Feast and Famine
 TS|MAIN|M|NORM|01|01|00|DST|Sword of Fire and Ice
 TS|MAIN|M|NORM|01|01|00|NPH|Sword of War and Peace
@@ -1855,7 +1855,6 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|R|NORM|02|00|00|ROE|Spawnsire of Ulamog
 --|FREE|U|NORM|02|02|00|ISD|Spectral Rider
 --|FREE|U|NORM|02|00|00|WWK|Spell Contortion
---|FREE|U|NORM|01|00|00|DIS|Spell Snare
 --|FREE|U|NORM|01|01|00|M10|Spellbook
 --|FREE|U|NORM|03|00|00|RTR|Sphere of Safety
 --|FREE|U|NORM|02|00|00|MBS|Sphere of the Suns
