@@ -372,8 +372,7 @@ KN|MAIN|U|NORM|04|04|00|GTC|Boros Charm
 KN|MAIN|R|NORM|04|04|00|ISD|Clifftop Retreat
 KN|MAIN|M|NORM|01|01|00|ALA|Elspeth, Knight-Errant
 KN|MAIN|R|NORM|03|03|00|M10|Honor of the Pure
-KN|MAIN|R|NORM|02|02|00|DDG|Knight Exemplar
-KN|MAIN|R|NORM|00|02|00|M11/DDG|Knight Exemplar
+KN|MAIN|R|NORM|02|04|01|DDG|Knight Exemplar
 KN|MAIN|C|NORM|02|02|00|M10|Lightning Bolt
 KN|ALTS|R|NORM|03|04|00|RAV|Lightning Helix
 KN|MAIN|C|NORM|04|04|00|ZEN|Mountain
