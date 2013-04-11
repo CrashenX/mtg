@@ -304,6 +304,7 @@ LF|DECK|R|NORM|01|01|00|M13|Hellion Crucible
 LF|DECK|R|NORM|01|01|00|ISD|Hinterland Harbor
 LF|DECK|R|NORM|01|01|00|BOK|Hokori, Dust Drinker
 LF|DECK|R|NORM|01|01|00|MOR|Idyllic Tutor
+LF|DECK|R|NORM|01|01|00|ISD|Isolated Chapel
 LF|DECK|R|NORM|01|01|00|ARC|Kamahl, Fist of Krosa
 LF|DECK|M|FOIL|01|01|00|DDG|Knight of the Reliquary
 LF|DECK|R|NORM|01|01|00|ARC|Leonin Abunas
@@ -330,6 +331,7 @@ LF|DECK|R|NORM|01|01|00|M13|Rootbound Crag
 LF|DECK|C|NORM|01|01|00|ARC|Secluded Steppe
 LF|DECK|R|NORM|01|01|00|WWK|Seer's Sundial
 LF|DECK|C|NORM|01|01|00|GTC|Selesnya Guildgate
+LF|DECK|R|NORM|01|01|00|RTR|Steam Vents
 LF|DECK|U|NORM|01|01|00|INV|Sterling Grove
 LF|DECK|R|NORM|01|01|00|GTC|Stomping Ground
 LF|DECK|R|NORM|01|01|00|WWK|Stirring Wildwood
@@ -1533,6 +1535,7 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|M|NORM|01|01|00|ZEN|Lotus Cobra
 --|FREE|R|NORM|01|01|00|DPA|Loxodon Warhammer
 --|FREE|R|NORM|04|00|00|DDF|Loyal Sentry
+--|FREE|R|NORM|01|01|00|ZEN|Lullmage Mentor
 --|FREE|U|NORM|01|00|00|ISD|Lumberknot
 --|FREE|U|FOIL|01|00|00|MBS|Lumengrid Gargoyle
 --|FREE|U|NORM|01|00|00|MBS|Lumengrid Gargoyle
