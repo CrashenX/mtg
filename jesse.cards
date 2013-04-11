@@ -399,45 +399,45 @@ KN|ALTS|C|NORM|02|02|00|M10|Lightning Bolt
 KN|ALTS|C|NORM|02|02|00|AVR|Nearheath Pilgrim
 KN|ALTS|R|NORM|00|02|00|SHM|Runed Halo
 KN|ALTS|R|NORM|00|02|00|10E/ONS|True Believer
-TS|MAIN|R|NORM|02|04|00|DST|Aether Vial
-TS|MAIN|C|NORM|04|04|00|MRD|Ancient Den
-TS|MAIN|R|NORM|01|01|00|SOM|Argentum Armor
-TS|MAIN|C|NORM|04|04|00|DST|Darksteel Citadel
-TS|MAIN|U|NORM|04|04|00|NPH|Dispatch
-TS|MAIN|R|NORM|00|02|00|ALA|Ethersworn Canonist
-TS|MAIN|C|NORM|02|02|00|MBS|Flayer Husk
-TS|MAIN|R|NORM|01|01|00|DST|Heartseeker
-TS|MAIN|U|NORM|04|04|00|ZEN|Kor Duelist
-TS|MAIN|C|NORM|01|01|00|ZEN|Kor Outfitter
-TS|MAIN|R|NORM|03|03|00|DST|Leonin Shikari
-TS|MAIN|U|NORM|01|01|00|ARC|Lightning Greaves
-TS|MAIN|R|NORM|03|03|00|ISD|Mentor of the Meek
-TS|MAIN|M|NORM|01|02|00|SOM|Mox Opal
-TS|MAIN|C|NORM|08|08|00|ZEN|Plains
-TS|MAIN|R|NORM|04|04|00|NPH|Puresteel Paladin
-TS|MAIN|R|NORM|04|04|00|WWK|Stoneforge Mystic
-TS|MAIN|U|NORM|00|02|01|NPH|Spellskite
-TS|MAIN|M|NORM|01|01|00|MBS|Sword of Feast and Famine
-TS|MAIN|M|NORM|01|01|00|DST|Sword of Fire and Ice
-TS|MAIN|M|NORM|01|01|00|NPH|Sword of War and Peace
-TS|MAIN|R|NORM|01|01|00|DKA|Thalia, Guardian of Thraben
-TS|SIDE|M|NORM|01|01|00|NPH|Batterskull
-TS|SIDE|R|NORM|00|01|00|MBS|Darksteel Plate
-TS|SIDE|U|NORM|04|04|00|DKA|Faith's Shield
-TS|SIDE|U|NORM|01|03|02|M13|Tormod's Crypt
-TS|ALTS|M|NORM|01|01|00|DKA|Elbrus, the Binding Blade
-TS|ALTS|R|NORM|01|01|00|SOM|Etched Champion
-TS|ALTS|C|NORM|02|02|00|MBS|Flayer Husk
-TS|ALTS|R|NORM|01|01|00|ZEN|Grappling Hook
-TS|ALTS|M|NORM|02|01|00|SOM|Indomitable Archangel
-TS|ALTS|U|NORM|01|01|00|SOM|Infiltration Lens
-TS|ALTS|C|NORM|01|01|00|ZEN|Kor Outfitter
-TS|ALTS|R|NORM|01|01|00|DST|Leonin Shikari
-TS|ALTS|R|NORM|01|01|00|SOM|Livewire Lash
-TS|ALTS|R|NORM|01|01|00|DDG|Loxodon Warhammer
-TS|ALTS|R|NORM|01|01|00|ISD|Mentor of the Meek
-TS|ALTS|R|NORM|01|01|00|AVR|Moonsilver Spear
-TS|ALTS|R|NORM|01|01|00|M11|Sword of Vengeance
+WS|MAIN|R|NORM|02|04|00|DST|Aether Vial
+WS|MAIN|C|NORM|04|04|00|MRD|Ancient Den
+WS|MAIN|R|NORM|01|01|00|SOM|Argentum Armor
+WS|MAIN|C|NORM|04|04|00|DST|Darksteel Citadel
+WS|MAIN|U|NORM|04|04|00|NPH|Dispatch
+WS|MAIN|R|NORM|00|02|00|ALA|Ethersworn Canonist
+WS|MAIN|C|NORM|02|02|00|MBS|Flayer Husk
+WS|MAIN|R|NORM|01|01|00|DST|Heartseeker
+WS|MAIN|U|NORM|04|04|00|ZEN|Kor Duelist
+WS|MAIN|C|NORM|01|01|00|ZEN|Kor Outfitter
+WS|MAIN|R|NORM|03|03|00|DST|Leonin Shikari
+WS|MAIN|U|NORM|01|01|00|ARC|Lightning Greaves
+WS|MAIN|R|NORM|03|03|00|ISD|Mentor of the Meek
+WS|MAIN|M|NORM|01|02|00|SOM|Mox Opal
+WS|MAIN|C|NORM|08|08|00|ZEN|Plains
+WS|MAIN|R|NORM|04|04|00|NPH|Puresteel Paladin
+WS|MAIN|R|NORM|04|04|00|WWK|Stoneforge Mystic
+WS|MAIN|U|NORM|00|02|01|NPH|Spellskite
+WS|MAIN|M|NORM|01|01|00|MBS|Sword of Feast and Famine
+WS|MAIN|M|NORM|01|01|00|DST|Sword of Fire and Ice
+WS|MAIN|M|NORM|01|01|00|NPH|Sword of War and Peace
+WS|MAIN|R|NORM|01|01|00|DKA|Thalia, Guardian of Thraben
+WS|SIDE|M|NORM|01|01|00|NPH|Batterskull
+WS|SIDE|R|NORM|00|01|00|MBS|Darksteel Plate
+WS|SIDE|U|NORM|04|04|00|DKA|Faith's Shield
+WS|SIDE|U|NORM|01|03|02|M13|Tormod's Crypt
+WS|ALTS|M|NORM|01|01|00|DKA|Elbrus, the Binding Blade
+WS|ALTS|R|NORM|01|01|00|SOM|Etched Champion
+WS|ALTS|C|NORM|02|02|00|MBS|Flayer Husk
+WS|ALTS|R|NORM|01|01|00|ZEN|Grappling Hook
+WS|ALTS|M|NORM|02|01|00|SOM|Indomitable Archangel
+WS|ALTS|U|NORM|01|01|00|SOM|Infiltration Lens
+WS|ALTS|C|NORM|01|01|00|ZEN|Kor Outfitter
+WS|ALTS|R|NORM|01|01|00|DST|Leonin Shikari
+WS|ALTS|R|NORM|01|01|00|SOM|Livewire Lash
+WS|ALTS|R|NORM|01|01|00|DDG|Loxodon Warhammer
+WS|ALTS|R|NORM|01|01|00|ISD|Mentor of the Meek
+WS|ALTS|R|NORM|01|01|00|AVR|Moonsilver Spear
+WS|ALTS|R|NORM|01|01|00|M11|Sword of Vengeance
 PC|CUBE|C|NORM|01|01|00|ZEN|Adventuring Gear
 PC|CUBE|C|NORM|01|01|00|M12|AEther Adept
 PC|CUBE|C|NORM|01|01|00|ALA|Agony Warp
