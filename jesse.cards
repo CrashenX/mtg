@@ -1217,6 +1217,7 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|M|FOIL|01|00|00|V12|Desert
 --|FREE|U|NORM|01|00|00|NPH|Despise
 --|FREE|R|NORM|01|01|00|ISD|Devil's Play
+--|FREE|C|NORM|01|00|00|SHM|Devoted Druid
 --|FREE|U|NORM|01|01|00|AVR|Devout Chaplain
 --|FREE|U|NORM|05|00|00|M11|Diabolic Tutor
 --|FREE|U|NORM|02|00|00|M12|Diabolic Tutor
@@ -1698,6 +1699,7 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|R|NORM|01|01|00|SCG|Primitive Etchings
 --|FREE|U|NORM|01|00|00|M10|Prized Unicorn
 --|FREE|U|NORM|04|00|00|M10|Prodigal Pyromancer
+--|FREE|U|NORM|01|00|00|M11|Prodigal Pyromancer
 --|FREE|R|NORM|04|00|00|M11|Protean Hydra
 --|FREE|R|NORM|01|01|00|MBS|Psychosis Crawler
 --|FREE|U|NORM|04|00|00|ZEN|Punishing Fire
@@ -1963,6 +1965,7 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|R|NORM|01|00|00|M11|Traumatize
 --|FREE|U|NORM|01|01|00|MBS|Treasure Mage
 --|FREE|R|NORM|01|00|00|GTC|Treasury Thrull
+--|FREE|C|NORM|01|00|00|MRD|Tree of Tales
 --|FREE|U|NORM|01|01|00|DDG|Treetop Village
 --|FREE|U|NORM|01|00|00|DDE|Treva's Charm
 --|FREE|U|NORM|03|00|00|PLS|Treva's Ruins
@@ -1972,7 +1975,7 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|U|NORM|03|00|00|SOM|Trigon of Mending
 --|FREE|U|NORM|03|00|00|SOM|Trigon of Rage
 --|FREE|U|NORM|06|00|00|SOM|Trigon of Thought
---|FREE|U|NORM|02|01|00|SOM|Trinket Mage
+--|FREE|U|NORM|03|01|00|SOM|Trinket Mage
 --|FREE|U|NORM|02|00|00|SHM|Trip Noose
 --|FREE|U|NORM|02|00|00|AVR|Triumph of Cruelty
 --|FREE|R|NORM|01|01|00|DPA|Troll Ascetic
