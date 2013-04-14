@@ -51,7 +51,7 @@ MF|SIDE|R|NORM|00|01|00|M12|Phantasmal Image
 MF|SIDE|U|NORM|02|02|00|MOR|Sage's Dousing
 MF|SIDE|U|NORM|01|01|00|LRW|Surgespanner
 MF|SIDE|R|NORM|01|01|00|EVE|Wake Thrasher
-MF|SIDE|R|NORM|00|01|01|ROE|Coralhelm Commander
+MF|SIDE|R|NORM|01|01|00|ROE|Coralhelm Commander
 MR|MAIN|R|NORM|03|03|00|CON|Banefire
 MR|MAIN|R|NORM|03|03|00|PLC|Boom // Bust
 MR|MAIN|U|NORM|02|02|00|M12|Buried Ruin
@@ -59,10 +59,9 @@ MR|MAIN|R|NORM|02|02|00|FUT|Cloud Key
 MR|MAIN|M|FOIL|02|02|00|WWK|Comet Storm (Prerelease)
 MR|MAIN|M|NORM|02|02|00|CMD|Comet Storm
 MR|MAIN|C|NORM|03|03|00|DST|Darksteel Citadel
-MR|MAIN|C|NORM|01|01|00|DDF|Darksteel Citadel
-MR|MAIN|C|NORM|00|01|01|DST/DDF|Darksteel Citadel
+MR|MAIN|C|NORM|02|02|00|DDF|Darksteel Citadel
 MR|MAIN|R|NORM|01|01|00|HOP|Darksteel Forge
-MR|MAIN|U|NORM|01|02|01|WWK/ARC/DDF|Everflowing Chalice
+MR|MAIN|U|NORM|02|02|00|WWK|Everflowing Chalice
 MR|MAIN|C|NORM|01|04|03|SOM|Iron Myr
 MR|MAIN|R|NORM|01|01|00|ARC|Lodestone Golem
 MR|MAIN|R|NORM|02|02|00|WWK|Lodestone Golem
@@ -74,7 +73,7 @@ MR|MAIN|U|NORM|04|04|00|SOM|Palladium Myr
 MR|MAIN|R|NORM|02|02|00|NPH|Phyrexian Metamorph
 MR|MAIN|R|NORM|03|03|00|SOM|Semblance Anvil
 MR|MAIN|R|NORM|02|02|00|ROE|Splinter Twin
-MR|MAIN|U|NORM|02|04|02|WWK|Tectonic Edge
+MR|MAIN|U|NORM|04|04|00|WWK|Tectonic Edge
 MR|SIDE|U|NORM|03|03|00|NPH|Whipflare
 MR|ALTS|U|NORM|01|01|00|NPH|Alloy Myr
 MR|ALTS|R|NORM|01|01|00|ROE|Awakening Zone
@@ -246,7 +245,7 @@ GW|MAIN|U|NORM|01|01|00|TSP|Scryb Ranger
 GW|MAIN|C|NORM|01|01|00|WWK|Sejiri Steppe
 GW|MAIN|R|NORM|02|02|00|M10|Sunpetal Grove
 GW|MAIN|U|NORM|01|01|00|ICE|Swords to Plowshares
-GW|MAIN|U|NORM|01|04|02|DDF|Swords to Plowshares
+GW|MAIN|U|NORM|03|04|00|DDF|Swords to Plowshares
 GW|MAIN|R|NORM|01|01|00|4ED|Sylvan Library
 GW|MAIN|R|NORM|02|02|00|RTR|Temple Garden
 GW|MAIN|R|NORM|01|01|00|ODY|Terravore
@@ -795,7 +794,7 @@ PC|CUBE|C|NORM|01|01|00|M10|Ponder
 PC|CUBE|C|NORM|01|01|00|NPH|Porcelain Legionnaire
 PC|CUBE|C|NORM|01|01|00|SHM|Power of Fire
 PC|CUBE|C|NORM|01|01|00|MRD|Predator's Strike
-PC|CUBE|C|NORM|00|01|01|M11|Preordain
+PC|CUBE|C|NORM|01|01|00|M11|Preordain
 PC|CUBE|C|NORM|01|01|00|SHM|Presence of Gond
 PC|CUBE|C|NORM|01|01|00|ISD|Prey Upon
 PC|CUBE|C|NORM|01|01|00|USG|Priest of Titania
@@ -1257,7 +1256,7 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|U|NORM|02|00|00|GTC|Elusive Krasis
 --|FREE|U|NORM|02|00|00|SOM|Embersmith
 --|FREE|U|NORM|02|02|00|ROE|Emerge Unscathed
---|FREE|R|NORM|01|02|01|ZEN|Emeria, the Sky Ruin
+--|FREE|R|NORM|02|02|00|ZEN|Emeria, the Sky Ruin
 --|FREE|U|NORM|01|00|00|WTH|Empyrial Armor
 --|FREE|U|NORM|01|01|00|EVE|Endure
 --|FREE|U|NORM|02|00|00|NPH|Enslave
@@ -1433,7 +1432,7 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|U|NORM|01|00|00|AVR|Human Frailty
 --|FREE|U|NORM|01|01|00|M12|Hunter's Insight
 --|FREE|U|NORM|01|01|00|ARC|Hunting Moa
---|FREE|U|NORM|00|02|02|FEM|hymn to Tourach
+--|FREE|U|NORM|02|02|00|FEM|hymn to Tourach
 --|FREE|U|NORM|03|00|00|NPH|Ichor Explosion
 --|FREE|U|NORM|08|00|00|SOM|Ichor Rats
 --|FREE|U|NORM|01|00|00|M10|Ignite Disorder
@@ -1917,7 +1916,8 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|C|FOIL|01|00|00|NPH|Swamp
 --|FREE|C|FOIL|01|00|00|M12|Swamp
 --|FREE|U|NORM|02|02|00|M12|Swiftfoot Boots
---|FREE|U|NORM|03|00|00|3ED|Swords to Plowshares
+--|FREE|U|NORM|02|00|00|3ED|Swords to Plowshares
+--|FREE|U|NORM|01|00|00|4ED|Swords to Plowshares
 --|FREE|U|NORM|01|00|00|RTR|Syncopate
 --|FREE|U|NORM|01|00|00|ARC|Synod Centurion
 --|FREE|U|NORM|01|01|00|ARC|Synod Sanctum
