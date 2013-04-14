@@ -58,7 +58,7 @@ MR|MAIN|U|NORM|02|02|00|M12|Buried Ruin
 MR|MAIN|R|NORM|02|02|00|FUT|Cloud Key
 MR|MAIN|M|FOIL|02|02|00|WWK|Comet Storm (Prerelease)
 MR|MAIN|M|NORM|02|02|00|CMD|Comet Storm
-MR|MAIN|C|NORM|03|03|00|DST|Darksteel Citadel
+MR|MAIN|C|NORM|02|02|00|DST|Darksteel Citadel
 MR|MAIN|C|NORM|02|02|00|DDF|Darksteel Citadel
 MR|MAIN|R|NORM|01|01|00|HOP|Darksteel Forge
 MR|MAIN|U|NORM|02|02|00|WWK|Everflowing Chalice
@@ -1196,6 +1196,7 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|U|NORM|02|00|00|SOM|Darkslick Drake
 --|FREE|U|NORM|05|00|00|SOM|Darksteel Axe
 --|FREE|U|NORM|05|00|00|SOM|Darksteel Myr
+--|FREE|C|NORM|01|00|00|DST|Darksteel Citadel
 --|FREE|U|NORM|02|00|00|NPH|Darksteel Relic
 --|FREE|U|NORM|05|00|00|SOM|Darksteel Sentinel
 --|FREE|U|NORM|01|00|00|TMP|Dauthi Embrace
