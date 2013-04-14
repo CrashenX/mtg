@@ -6,28 +6,130 @@ use Pod::Usage;
 my $deck_size  = 60;
 my $num_copies = 4;
 my $num_draws  = 7;
+my $min_drawn  = 1;
+my $max_drawn  = 1;
 my $help       = 0;
 my $error      = 0;
+
+my $description = sprintf(
+    "\nThis program determines the probability of drawing at least the \n"
+  . "specified minimum and at most the specified maximum number of cards \n"
+  . "within a deck of the specified size by the specified number of draws \n"
+  . "given the specified number of copies of the card in the deck.\n\n"
+  . "  -s, --deck-size        The size of the deck             (default %2d)\n"
+  . "  -c, --num-copies       The number of copies of the card (default %2d)\n"
+  . "  -d, --draws            The number of draws taken        (default %2d)\n"
+  . "  --min                  The minimum number of card drawn (default %2d)\n"
+  . "  --max                  The maximum number of card drawn (default %2d)\n"
+  . "  -h, --help             This help message\n",
+  $deck_size, $num_copies, $num_draws, $min_drawn, $max_drawn
+);
 
 my $options = GetOptions ("s|deck-size=i"  => \$deck_size,
                           "c|num-copies=i" => \$num_copies,
                           "d|num-draws=i"  => \$num_draws,
+                          "min=i"          => \$min_drawn,
+                          "max=i"          => \$max_drawn,
                           "h|help"         => \$help);
-my $description =
-    "\nThis program determines the probability of drawing at least\n"
-  . "one copy of a card within a deck of the specified size by\n"  
-  . "the specified number of draws given the specified number of\n"
-  . "copies of the card in the deck.\n\n"
-  . "  -s, --deck-size        The size of the deck             (default 60)\n"
-  . "  -c, --num-copies       The number of copies of the card (default  4)\n"
-  . "  -d, --draws            The number of draws taken        (default  7)\n"
-  . "  -h, --help             This help message\n";
+
 my $exit_status = 0;
 my $verbose_lvl = 0;
 my $help_output = \*STDERR;
 
+sub factorial {
+    my $in = shift;
+    my $out = $in;
+
+    return 1 if(0 == $in);
+
+    while(1 < $in) {
+        $in -= 1;
+        $out *= $in;
+    }
+
+    return $out;
+}
+
+sub choose {
+    my $n = shift;
+    my $k = shift;
+
+    my $n_fact = &factorial($n);
+    my $k_fact = &factorial($k);
+    my $n_k_fact = &factorial($n - $k);
+
+    return $n_fact/($k_fact * $n_k_fact);
+}
+
+# size   = deck size
+# copies = copies in deck
+# drawn  = cards drawn
+# min = minimum copies drawn
+# max = maximum copies drawn
+sub probability {
+    my $deck   = shift;
+    my $copies = shift;
+    my $drawn  = shift;
+    my $min    = shift;
+    my $max    = shift;
+    my $tot_prob = 0;
+
+    printf("choose: %.10f\n", &choose($deck, $drawn));
+    for(my $i = $min; $i <= $max; ++$i) {
+        $tot_prob += ( &choose($copies, $i)
+                     * &choose($deck - $copies, $drawn - $i)
+                     )
+                   / &choose($deck, $drawn);
+    }
+
+    return $tot_prob;
+}
+
+sub probability_at_least {
+    my $deck   = shift;
+    my $copies = shift;
+    my $drawn  = shift;
+
+    my $num_factor  = $deck - $copies;
+    my $den_factor  = $deck;
+    my $numerator   = 1;
+    my $denominator = 1;
+
+    for(my $i = 0; $i < $drawn; ++$i, --$num_factor, --$den_factor) {
+        $numerator   *= $num_factor;
+        $denominator *= $den_factor;
+    }
+
+    return (1 - ($numerator / $denominator));
+}
+
+sub print_results {
+    my $deck   = shift;
+    my $copies = shift;
+    my $drawn  = shift;
+    my $min    = shift;
+    my $max    = shift;
+    my $prob   = shift;
+
+    my $range_phrase = "%s";
+    if($min == $max) {
+        my $copy_phrase = (1 == $min) ? "copy" : "copies";
+        $range_phrase = sprintf($range_phrase,
+            "exactly $min_drawn $copy_phrase");
+    }
+    else {
+        $range_phrase = sprintf($range_phrase,
+            "at least $min and at most $max copies");
+    }
+    printf("\nThe probability of drawing %s in a %d card \n".
+           "deck by draw %d when there are %d copies in the deck is %.2f%s.\n",
+           $range_phrase, $deck, $drawn, $copies, $prob, '%');
+}
+
+
 if($deck_size  < 1 || $num_copies < 0 || $num_copies > $deck_size
-                   || $num_draws  < 0 || $num_draws > $deck_size) {
+                   || $num_draws  < 0 || $num_draws > $deck_size
+                   || $min_drawn > $max_drawn || $max_drawn > $num_draws) {
     $error = 1;
     $exit_status = 1;
     $description = "\nInvalid value specified for option.\n" . $description;
@@ -40,17 +142,30 @@ pod2usage(
     -output =>  $help_output }
 ) if($help || $error);
 
-my $num_factor  = $deck_size - $num_copies;
-my $den_factor  = $deck_size;
-my $numerator   = 1;
-my $denominator = 1;
+my $prob = 100 * &probability( $deck_size
+                             , $num_copies
+                             , $num_draws
+                             , $min_drawn
+                             , $max_drawn
+                             );
 
-for(my $i = 0; $i < $num_draws; ++$i, --$num_factor, --$den_factor) {
-    $numerator   *= $num_factor; 
-    $denominator *= $den_factor; 
-}
+&print_results( $deck_size
+              , $num_copies
+              , $num_draws
+              , $min_drawn
+              , $max_drawn
+              , $prob
+              );
 
-my $probability = (1 - ($numerator / $denominator)) * 100;
-printf("\nThe probability of drawing at least one copy in a %s card deck\n" .
-       "by draw %d when there are %d copies in the deck is %.2f%s.\n",
-       $deck_size, $num_draws, $num_copies, $probability, '%');
+$prob = 100 * &probability_at_least( $deck_size
+                                   , $num_copies
+                                   , $num_draws
+                                   );
+
+&print_results( $deck_size
+              , $num_copies
+              , $num_draws
+              , 1
+              , ($num_draws < $num_copies) ? $num_draws : $num_copies
+              , $prob
+              );
