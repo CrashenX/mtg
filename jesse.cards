@@ -1018,7 +1018,7 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|U|NORM|01|00|00|M12|Angel's Feather
 --|FREE|U|NORM|01|00|00|AVR|Angel's Tomb
 --|FREE|R|NORM|01|00|00|ROE|Angelheart Vial
---|FREE|U|NORM|02|00|00|AVR|Angelic Armaments
+--|FREE|U|NORM|03|00|00|AVR|Angelic Armaments
 --|FREE|R|NORM|01|00|00|GTC|Angelic Skirmisher
 --|FREE|R|FOIL|01|00|00|M12|Arachnus Spinner
 --|FREE|R|NORM|01|00|00|SOK|Arashi, the Sky Asunder
@@ -1202,6 +1202,7 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|R|NORM|01|00|00|M12|Day of Judgment
 --|FREE|R|NORM|02|02|00|ZEN|Day of Judgment
 --|FREE|R|NORM|01|00|00|RTR|Deadbridge Goliath
+--|FREE|R|NORM|01|00|00|RTR|Death's Presence
 --|FREE|U|NORM|04|00|00|WWK|Deathforge Shaman
 --|FREE|C|FOIL|01|00|00|SOK|Deathknell Kami
 --|FREE|U|NORM|02|00|00|M11|Deathmark
@@ -1238,6 +1239,7 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|U|NORM|01|00|00|ROE|Drake Umbra
 --|FREE|U|NORM|04|00|00|WWK|Dread Statuary
 --|FREE|U|NORM|03|00|00|ROE|Dreamstone Hedron
+--|FREE|U|NORM|01|00|00|RTR|Dreg Mangler
 --|FREE|U|NORM|01|00|00|DKA|Drogskol Captain
 --|FREE|U|NORM|01|01|00|PLS|Dromar's Cavern
 --|FREE|R|NORM|02|00|00|AVR|Dual Casting
@@ -1480,7 +1482,7 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|R|NORM|03|01|00|SOM|Kemba, Kha Regent
 --|FREE|U|NORM|03|00|00|SOK|Kemuri-Onna
 --|FREE|R|NORM|01|00|00|ISD|Kessig Cagebreakers
---|FREE|U|NORM|01|00|00|AVR|Kessig Malcontents
+--|FREE|U|NORM|02|00|00|AVR|Kessig Malcontents
 --|FREE|U|NORM|05|01|00|ZEN|Khalni Gem
 --|FREE|C|FOIL|01|00|00|ZEN|Khalni Heart Expedition
 --|FREE|M|NORM|01|01|00|ROE|Khalni Hydra
@@ -1541,6 +1543,7 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|U|FOIL|01|00|00|MBS|Lumengrid Gargoyle
 --|FREE|U|NORM|01|00|00|MBS|Lumengrid Gargoyle
 --|FREE|R|NORM|03|00|00|GTC|Luminate Primordial
+--|FREE|R|NORM|01|00|00|AVR|Lunar Mystic
 --|FREE|U|FOIL|01|00|00|M12|Lure
 --|FREE|U|NORM|01|00|00|ROE|Lust for War
 --|FREE|U|NORM|01|00|00|RTR|Lyev Skyknight
@@ -1948,7 +1951,7 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|U|NORM|05|00|00|SOM|Thrummingbird
 --|FREE|U|NORM|01|00|00|ALA|Thunder-Thrash Elder
 --|FREE|C|FOIL|01|00|00|NPH|Thundering Tanadon
---|FREE|U|NORM|01|00|00|AVR|Thunderous Wrath
+--|FREE|U|NORM|02|00|00|AVR|Thunderous Wrath
 --|FREE|U|NORM|01|00|00|DDE|Thunderscape Battlemage
 --|FREE|U|NORM|01|00|00|ARC|Thunderstaff
 --|FREE|U|FOIL|01|00|00|WWK|Tideforce Elemental
@@ -1989,6 +1992,7 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|U|NORM|06|01|00|ZEN|Turntimber Basilisk
 --|FREE|R|NORM|01|00|00|ZEN|Turntimber Ranger
 --|FREE|U|NORM|05|00|00|SOM|Twisted Image
+--|FREE|U|NORM|01|00|00|RTR|Ultimate Price
 --|FREE|U|NORM|04|01|00|SHM|Umbral Mantle
 --|FREE|U|NORM|01|00|00|ARC|Unbender Tine
 --|FREE|R|NORM|01|00|00|ISD|Undead Alchemist
