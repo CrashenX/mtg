@@ -72,7 +72,7 @@ MR|MAIN|U|NORM|04|04|00|SOM|Palladium Myr
 MR|MAIN|R|NORM|02|02|00|NPH|Phyrexian Metamorph
 MR|MAIN|R|NORM|03|03|00|SOM|Semblance Anvil
 MR|MAIN|R|NORM|02|02|00|ROE|Splinter Twin
-MR|MAIN|U|NORM|04|04|00|WWK|Tectonic Edge
+MR|MAIN|U|NORM|02|04|00|WWK|Tectonic Edge
 MR|SIDE|U|NORM|03|03|00|NPH|Whipflare
 MR|ALTS|U|NORM|01|01|00|NPH|Alloy Myr
 MR|ALTS|R|NORM|01|01|00|ROE|Awakening Zone
@@ -359,21 +359,21 @@ WW|MAIN|C|NORM|02|02|00|EXO|Soul Warden
 WW|MAIN|C|NORM|02|02|00|M10|Soul Warden
 WW|MAIN|C|NORM|04|04|00|ROE|Soul's Attendant
 WW|MAIN|R|NORM|00|02|02|AVR|Cavern of Souls
+WW|MAIN|R|NORM|00|01|01|TSP|Flagstones of Trokair
 WW|MAIN|C|NORM|04|04|00|ZEN|Kabira Crossroads
-WW|MAIN|C|FULL|00|10|10|ZEN|Plains
-WW|MAIN|U|NORM|00|02|00|WWK|Tectonic Edge
+WW|MAIN|C|FULL|00|09|09|ZEN|Plains
+WW|MAIN|U|NORM|02|02|00|WWK|Tectonic Edge
 WW|MAIN|M|NORM|02|03|00|V12|Windbrisk Heights
 WW|MAIN|U|NORM|00|04|04|CON|Path to Exile
 WW|MAIN|R|NORM|03|03|00|DIS|Proclamation of Rebirth
 WW|MAIN|R|NORM|03|03|00|M10|Honor of the Pure
 WW|SIDE|C|NORM|04|04|00|GTC|Beckon Apparation
-WW|SIDE|U|NORM|00|01|01|NPH|Dismember
+WW|SIDE|U|NORM|02|02|00|DKA|Chalice of Life
 WW|SIDE|U|NORM|02|02|00|M13|Oblivion Ring
 WW|SIDE|R|NORM|01|01|00|DIS|Proclamation of Rebirth
 WW|SIDE|R|NORM|00|03|03|SOM|Ratchet Bomb
-WW|SIDE|R|NORM|01|01|00|SOK|Rune-Tail, Kitsune Ascendant
 WW|SIDE|R|NORM|00|03|03|NPH|Surgical Extraction
-KN|MAIN|U|NORM|04|04|00|MBS|Accorder Paladin
+KN|MAIN|U|NORM|03|03|00|MBS|Accorder Paladin
 KN|MAIN|C|NORM|01|01|00|DDG|Caravan Escort
 KN|MAIN|R|NORM|04|04|00|ISD|Champion of the Parish
 KN|MAIN|R|NORM|02|04|01|DDG|Knight Exemplar
@@ -384,7 +384,8 @@ KN|MAIN|U|NORM|02|02|00|10E|Wrath of God
 KN|MAIN|R|NORM|03|03|00|M10|Honor of the Pure
 KN|MAIN|R|NORM|02|02|00|AVR|Cavern of Souls
 KN|MAIN|R|NORM|04|04|00|ISD|Clifftop Retreat
-KN|MAIN|C|FULL|10|10|00|ZEN|Plains
+KN|MAIN|R|NORM|01|01|00|TSP|Flagstones of Trokair
+KN|MAIN|C|FULL|09|09|00|ZEN|Plains
 KN|MAIN|R|NORM|01|04|00|GTC|Sacred Foundry
 KN|MAIN|R|NORM|02|02|00|AVR|Slayers' Stronghold
 KN|MAIN|U|NORM|04|04|00|GTC|Boros Charm
@@ -1288,7 +1289,6 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|U|NORM|09|00|00|GTC|Firefist Striker
 --|FREE|C|FOIL|01|00|00|DKA|Fires of Undeath
 --|FREE|R|NORM|01|00|00|M13|Firewing Phoenix
---|FREE|R|NORM|01|01|00|TSP|Flagstones of Trokair
 --|FREE|R|FOIL|01|00|00|ALA|Flameblast Dragon
 --|FREE|U|NORM|01|00|00|DIS|Flaring Flame-Kin
 --|FREE|U|NORM|01|00|00|DIS|Flash Foliage
@@ -2098,5 +2098,6 @@ KN|ALTS|C|NORM|02|02|00|M10|Lightning Bolt
 KN|ALTS|C|NORM|02|02|00|AVR|Nearheath Pilgrim
 KN|ALTS|R|NORM|00|02|00|SHM|Runed Halo
 KN|ALTS|R|NORM|00|02|00|10E/ONS|True Believer
+KN|ALTS|U|NORM|01|01|00|MBS|Accorder Paladin
 WW|ALTS|C|NORM|01|01|00|CSP|Martyr of Sands
-WW|ALTS|U|NORM|02|02|00|DKA|Chalice of Life
+WW|ALTS|R|NORM|01|01|00|SOK|Rune-Tail, Kitsune Ascendant
