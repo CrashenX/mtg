@@ -162,7 +162,7 @@ CC|DECK|R|NORM|00|01|00|MMQ|Magistrate's Scepter
 CC|DECK|M|NORM|01|01|00|GTC|Master Biomancer
 CC|DECK|R|NORM|00|01|00|SOK|Mikokoro, Center of the Sea
 CC|DECK|R|NORM|00|01|00|CHK|Minamo, School at Water's Edge
-CC|DECK|R|NORM|00|01|00|MRD|Mind's Eye
+CC|DECK|R|NORM|00|01|01|MRD|Mind's Eye
 CC|DECK|U|NORM|01|01|00|DST|Mirrodin's Core
 CC|DECK|R|NORM|01|01|00|ROE|Momentous Fall
 CC|DECK|R|NORM|00|01|00|DIS|Momir Vig, Simic Visionary
@@ -399,7 +399,7 @@ KN|SIDE|R|NORM|03|03|00|SOM|Ratchet Bomb
 KN|SIDE|R|NORM|01|01|00|RTR|Rest in Peace
 KN|SIDE|U|NORM|02|02|00|GTC|Skullcrack
 KN|SIDE|R|NORM|01|03|00|NPH|Surgical Extraction
-WS|MAIN|R|NORM|02|04|00|DST|Aether Vial
+WS|MAIN|R|NORM|02|04|01|DST|Aether Vial
 WS|MAIN|C|NORM|04|04|00|MRD|Ancient Den
 WS|MAIN|R|NORM|01|01|00|SOM|Argentum Armor
 WS|MAIN|C|NORM|04|04|00|DST|Darksteel Citadel
@@ -550,7 +550,7 @@ PC|CUBE|C|NORM|01|01|00|ROE|Dawnglare Invoker
 PC|CUBE|C|NORM|01|01|00|RTR|Dead Reveler
 PC|CUBE|C|NORM|01|01|00|ISD|Dead Weight
 PC|CUBE|C|NORM|01|01|00|M13|Deadly Recluse
-PC|CUBE|C|NORM|00|01|00|TOR|Deep Analysis
+PC|CUBE|C|NORM|00|01|01|TOR|Deep Analysis
 PC|CUBE|C|NORM|01|01|00|ISD|Delver of Secrets
 PC|CUBE|C|NORM|01|01|00|ARB|Deny Reality
 PC|CUBE|C|NORM|01|01|00|ROE|Deprive
@@ -1034,7 +1034,6 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|U|NORM|01|01|00|ROE|Artisan of Kozilek
 --|FREE|R|NORM|01|01|00|SOM|Asceticism
 --|FREE|R|NORM|01|00|00|RTR|Ash Zealot
---|FREE|M|NORM|01|00|00|GTC|Aurelia, the Warleader
 --|FREE|U|NORM|06|04|00|SOM|Auriok Edgewright
 --|FREE|U|NORM|01|01|00|NPH|Auriok Survivors
 --|FREE|U|NORM|01|00|00|M12|Autumn's Veil
@@ -1547,7 +1546,6 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|U|NORM|03|00|00|ISD|Make a Wish
 --|FREE|R|NORM|02|00|00|ZEN|Malakir Bloodwitch
 --|FREE|U|NORM|01|00|00|ROE|Mammoth Umbra
---|FREE|C|NORM|03|00|00|SHM|Manamorphose
 --|FREE|U|NORM|01|00|00|GTC|Mark for Death
 --|FREE|U|FOIL|01|00|00|GTC|Mark for Death
 --|FREE|U|NORM|02|00|00|ZEN|Mark of Mutiny
@@ -2049,7 +2047,6 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|U|NORM|01|00|00|M10|War Priest of Thune
 --|FREE|U|NORM|09|04|00|M13|War Priest of Thune
 --|FREE|U|NORM|01|00|00|ROE|Warmonger's Chariot
---|FREE|M|NORM|01|00|00|ZEN|Warren Instigator
 --|FREE|U|NORM|02|02|00|SHM|Wasp Lancer
 --|FREE|U|NORM|01|00|00|GTC|Wasteland Viper
 --|FREE|U|NORM|01|01|00|ARC|Watchwolf
@@ -2069,7 +2066,7 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|R|NORM|01|00|00|SOK|Wine of Blood and Iron
 --|FREE|R|NORM|01|00|00|GPT|Witch-Maw Nephilim
 --|FREE|U|NORM|01|01|00|MOR|Wolf-Skull Shaman
---|FREE|R|FOIL|02|00|00|WWK|Wolfbriar Elemental
+--|FREE|R|FOIL|01|00|00|WWK|Wolfbriar Elemental
 --|FREE|R|NORM|01|00|00|WWK|Wolfbriar Elemental
 --|FREE|U|NORM|01|00|00|AVR|Wolfir Avenger
 --|FREE|C|FOIL|01|00|00|ISD|Wooden Stake
