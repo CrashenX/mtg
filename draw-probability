@@ -74,7 +74,6 @@ sub probability {
     my $max    = shift;
     my $tot_prob = 0;
 
-    printf("choose: %.10f\n", &choose($deck, $drawn));
     for(my $i = $min; $i <= $max; ++$i) {
         $tot_prob += ( &choose($copies, $i)
                      * &choose($deck - $copies, $drawn - $i)
