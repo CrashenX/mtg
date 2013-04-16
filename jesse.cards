@@ -376,9 +376,9 @@ WW|SIDE|R|NORM|00|03|03|NPH|Surgical Extraction
 KN|MAIN|U|NORM|03|03|00|MBS|Accorder Paladin
 KN|MAIN|C|NORM|01|01|00|DDG|Caravan Escort
 KN|MAIN|R|NORM|04|04|00|ISD|Champion of the Parish
-KN|MAIN|R|NORM|02|04|01|DDG|Knight Exemplar
+KN|MAIN|R|NORM|02|04|02|DDG|Knight Exemplar
 KN|MAIN|R|NORM|02|02|00|AVR|Silverblade Paladin
-KN|MAIN|C|NORM|00|02|00|RAV|Skyknight Legionnaire
+KN|MAIN|C|NORM|00|02|02|RAV|Skyknight Legionnaire
 KN|MAIN|R|NORM|04|04|00|ROE|Student of Warfare
 KN|MAIN|U|NORM|02|02|00|10E|Wrath of God
 KN|MAIN|R|NORM|03|03|00|M10|Honor of the Pure
@@ -399,7 +399,7 @@ KN|SIDE|R|NORM|03|03|00|SOM|Ratchet Bomb
 KN|SIDE|R|NORM|01|01|00|RTR|Rest in Peace
 KN|SIDE|U|NORM|02|02|00|GTC|Skullcrack
 KN|SIDE|R|NORM|01|03|00|NPH|Surgical Extraction
-WS|MAIN|R|NORM|02|04|01|DST|Aether Vial
+WS|MAIN|R|NORM|02|04|02|DST|Aether Vial
 WS|MAIN|C|NORM|04|04|00|MRD|Ancient Den
 WS|MAIN|R|NORM|01|01|00|SOM|Argentum Armor
 WS|MAIN|C|NORM|04|04|00|DST|Darksteel Citadel
@@ -527,7 +527,7 @@ PC|CUBE|C|NORM|01|01|00|APC|Consume Strength
 PC|CUBE|C|NORM|01|01|00|MBS|Copper Carapace
 PC|CUBE|C|NORM|01|01|00|SOM|Copper Myr
 PC|CUBE|C|NORM|01|01|00|SOM|Corpse Cur
-PC|CUBE|C|NORM|01|02|00|USG|Corrupt
+PC|CUBE|C|NORM|01|02|01|USG|Corrupt
 PC|CUBE|C|NORM|01|01|00|WWK|Corrupted Zendikon
 PC|CUBE|C|NORM|01|01|00|MMQ|Counterspell
 PC|CUBE|C|NORM|01|01|00|ALA|Courier's Capsule
@@ -537,7 +537,7 @@ PC|CUBE|C|NORM|01|01|00|5DN|Cranial Plating
 PC|CUBE|C|NORM|01|01|00|INV|Crimson Acolyte
 PC|CUBE|C|NORM|01|01|00|ISD|Crossway Vampire
 PC|CUBE|C|NORM|01|01|00|WWK|Crusher Zendikon
-PC|CUBE|C|NORM|00|01|00|VIS|Crypt Rats
+PC|CUBE|C|NORM|00|01|01|VIS|Crypt Rats
 PC|CUBE|C|NORM|01|01|00|SHM|Curse of Chains
 PC|CUBE|C|NORM|01|01|00|SOM|Cystbearer
 PC|CUBE|C|NORM|01|01|00|RTR|Daggerdrome Imp
@@ -595,7 +595,7 @@ PC|CUBE|C|NORM|01|01|00|TSP|Fathom Seer
 PC|CUBE|C|NORM|01|01|00|ISD|Festerhide Boar
 PC|CUBE|C|NORM|01|01|00|ARB|Fieldmist Borderpost
 PC|CUBE|C|NORM|01|01|00|TOR|Fiery Temper
-PC|CUBE|C|NORM|01|02|00|LEB|Fireball
+PC|CUBE|C|NORM|01|02|01|LEB|Fireball
 PC|CUBE|C|NORM|01|01|00|VIS|Fireblast
 PC|CUBE|C|NORM|01|01|00|ODY|Firebolt
 PC|CUBE|C|NORM|01|01|00|ARB|Firewild Borderpost
