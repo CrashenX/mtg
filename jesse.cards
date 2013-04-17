@@ -162,7 +162,7 @@ CC|DECK|R|NORM|00|01|00|MMQ|Magistrate's Scepter
 CC|DECK|M|NORM|01|01|00|GTC|Master Biomancer
 CC|DECK|R|NORM|00|01|00|SOK|Mikokoro, Center of the Sea
 CC|DECK|R|NORM|00|01|00|CHK|Minamo, School at Water's Edge
-CC|DECK|R|NORM|00|01|01|MRD|Mind's Eye
+CC|DECK|R|NORM|01|01|00|MRD|Mind's Eye
 CC|DECK|U|NORM|01|01|00|DST|Mirrodin's Core
 CC|DECK|R|NORM|01|01|00|ROE|Momentous Fall
 CC|DECK|R|NORM|00|01|00|DIS|Momir Vig, Simic Visionary
@@ -400,7 +400,7 @@ KN|SIDE|R|NORM|03|03|00|SOM|Ratchet Bomb
 KN|SIDE|R|NORM|01|01|00|RTR|Rest in Peace
 KN|SIDE|U|NORM|02|02|00|GTC|Skullcrack
 KN|SIDE|R|NORM|01|03|00|NPH|Surgical Extraction
-WS|MAIN|R|NORM|02|04|02|DST|Aether Vial
+WS|MAIN|R|NORM|03|04|01|DST|Aether Vial
 WS|MAIN|C|NORM|04|04|00|MRD|Ancient Den
 WS|MAIN|R|NORM|01|01|00|SOM|Argentum Armor
 WS|MAIN|C|NORM|04|04|00|DST|Darksteel Citadel
@@ -551,7 +551,7 @@ PC|CUBE|C|NORM|01|01|00|ROE|Dawnglare Invoker
 PC|CUBE|C|NORM|01|01|00|RTR|Dead Reveler
 PC|CUBE|C|NORM|01|01|00|ISD|Dead Weight
 PC|CUBE|C|NORM|01|01|00|M13|Deadly Recluse
-PC|CUBE|C|NORM|00|01|01|TOR|Deep Analysis
+PC|CUBE|C|NORM|01|01|00|TOR|Deep Analysis
 PC|CUBE|C|NORM|01|01|00|ISD|Delver of Secrets
 PC|CUBE|C|NORM|01|01|00|ARB|Deny Reality
 PC|CUBE|C|NORM|01|01|00|ROE|Deprive
