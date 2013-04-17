@@ -1244,7 +1244,7 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|U|NORM|01|00|00|M11|Duskdale Wurm
 --|FREE|U|NORM|04|00|00|GTC|Dying Wish
 --|FREE|U|NORM|02|00|00|M11|Earth Servant
---|FREE|U|NORM|02|00|00|SOK|Ebony Owl Netsuke
+--|FREE|U|NORM|01|00|00|SOK|Ebony Owl Netsuke
 --|FREE|U|NORM|03|00|00|SOK|Eiganjo Free-Riders
 --|FREE|R|NORM|01|00|00|ISD|Elder of Laurels
 --|FREE|U|NORM|01|00|00|DDE|Elfhame Palace
@@ -2012,7 +2012,6 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|U|NORM|07|00|00|MBS|Vedalken Anatomist
 --|FREE|U|NORM|03|01|00|MBS|Vedalken Infuser
 --|FREE|U|NORM|03|00|00|5DN|Vedalken Mastermind
---|FREE|U|NORM|01|00|00|10E|Vedalken Mastermind
 --|FREE|R|NORM|01|00|00|M11|Vengeful Archon
 --|FREE|R|NORM|02|01|00|SOM|Venser's Journal
 --|FREE|R|FOIL|01|00|00|DPA|Verdant Force
