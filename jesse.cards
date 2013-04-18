@@ -366,14 +366,14 @@ WW|MAIN|U|NORM|02|02|00|WWK|Tectonic Edge
 WW|MAIN|M|NORM|02|03|00|V12|Windbrisk Heights
 WW|MAIN|U|NORM|00|04|04|CON|Path to Exile
 WW|MAIN|R|NORM|03|03|00|DIS|Proclamation of Rebirth
-WW|MAIN|R|NORM|03|03|00|M10|Honor of the Pure
+WW|MAIN|R|NORM|02|02|00|M10|Honor of the Pure
 WW|SIDE|C|NORM|04|04|00|GTC|Beckon Apparation
 WW|SIDE|U|NORM|02|02|00|DKA|Chalice of Life
 WW|SIDE|U|NORM|02|02|00|M13|Oblivion Ring
 WW|SIDE|R|NORM|01|01|00|DIS|Proclamation of Rebirth
 WW|SIDE|R|NORM|00|03|03|SOM|Ratchet Bomb
 WW|SIDE|R|NORM|00|03|03|NPH|Surgical Extraction
-KN|MAIN|U|NORM|03|03|00|MBS|Accorder Paladin
+KN|MAIN|U|NORM|04|04|00|MBS|Accorder Paladin
 KN|MAIN|C|NORM|01|01|00|DDG|Caravan Escort
 KN|MAIN|R|NORM|04|04|00|ISD|Champion of the Parish
 KN|MAIN|R|NORM|02|04|01|DDG|Knight Exemplar
@@ -2092,6 +2092,6 @@ KN|ALTS|C|NORM|02|02|00|M10|Lightning Bolt
 KN|ALTS|C|NORM|02|02|00|AVR|Nearheath Pilgrim
 KN|ALTS|R|NORM|00|02|00|SHM|Runed Halo
 KN|ALTS|R|NORM|00|02|00|10E/ONS|True Believer
-KN|ALTS|U|NORM|01|01|00|MBS|Accorder Paladin
 WW|ALTS|C|NORM|01|01|00|CSP|Martyr of Sands
 WW|ALTS|R|NORM|01|01|00|SOK|Rune-Tail, Kitsune Ascendant
+WW|ALTS|R|NORM|01|01|00|M10|Honor of the Pure
