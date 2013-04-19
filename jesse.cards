@@ -215,59 +215,49 @@ CC|ALTS|M|NORM|01|01|00|GTC|Prime Speaker Zegana
 CC|ALTS|R|NORM|01|01|00|ROE|Recurring Insight
 CC|ALTS|R|NORM|01|01|00|DIS|Voidslime
 CC|ALTS|M|NORM|00|01|00|ARB|Jenara, Asura of War
-GW|MAIN|R|NORM|02|00|00|3ED|Armageddon
-GW|MAIN|R|NORM|00|03|01|P02|Armageddon
-GW|MAIN|R|NORM|04|04|00|M10|Birds of Paradise
-GW|MAIN|R|NORM|02|02|00|AVR|Cavern of Souls
-GW|MAIN|M|FOIL|01|01|00|V12|Dryad Arbor
+GW|MAIN|R|NORM|01|01|00|ARB|Dauntless Escort
 GW|MAIN|R|NORM|02|02|00|M11|Fauna Shaman
-GW|MAIN|R|NORM|01|01|00|TSP|Flagstones of Trokair
-GW|MAIN|C|NORM|07|07|00|ZEN|Forest
-GW|MAIN|M|FOIL|01|01|00|V12|Glacial Chasm
-GW|MAIN|R|NORM|04|04|00|MBS|Green Sun's Zenith
-GW|MAIN|R|NORM|01|01|00|FUT|Horizon Canopy
-GW|MAIN|U|NORM|01|01|00|LEG|Karakas
 GW|MAIN|M|FOIL|02|02|00|DDG|Knight of the Reliquary
 GW|MAIN|R|NORM|02|02|00|CON|Knight of the Reliquary
-GW|MAIN|R|NORM|00|01|00|LEG|Land Tax
-GW|MAIN|M|FOIL|01|01|00|V12|Maze of Ith
-GW|MAIN|U|NORM|01|01|00|SHM|Mistveil Plains
 GW|MAIN|U|NORM|04|04|00|CMD|Mother of Runes
 GW|MAIN|R|NORM|04|04|00|CON|Noble Hierarch
-GW|MAIN|C|NORM|03|03|00|ZEN|Plains
 GW|MAIN|C|NORM|02|02|00|ARB|Qasali Pridemage
-GW|MAIN|U|NORM|01|01|00|JUD|Riftstone Portal
-GW|MAIN|R|NORM|00|04|00|3ED|Savannah
-GW|MAIN|R|NORM|01|01|00|CMD|Scavenging Ooze
+GW|MAIN|R|NORM|01|02|00|CMD|Scavenging Ooze
 GW|MAIN|U|NORM|01|01|00|TSP|Scryb Ranger
-GW|MAIN|C|NORM|01|01|00|WWK|Sejiri Steppe
-GW|MAIN|R|NORM|02|02|00|M10|Sunpetal Grove
+GW|MAIN|R|NORM|01|01|00|JUD|Sylvan Safekeeper
+GW|MAIN|R|NORM|01|01|00|ODY|Terravore
+GW|MAIN|R|NORM|03|03|00|DKA|Thalia, Guardian of Thraben
+GW|MAIN|C|NORM|02|02|00|ULG|Crop Rotation
 GW|MAIN|U|NORM|01|01|00|ICE|Swords to Plowshares
 GW|MAIN|U|NORM|03|04|00|DDF|Swords to Plowshares
 GW|MAIN|R|NORM|01|01|00|4ED|Sylvan Library
-GW|MAIN|R|NORM|00|02|00|CMA|Sylvan Library
-GW|MAIN|R|NORM|02|02|00|RTR|Temple Garden
-GW|MAIN|R|NORM|01|01|00|ODY|Terravore
-GW|MAIN|R|NORM|01|01|00|DKA|Thalia, Guardian of Thraben
-GW|MAIN|R|NORM|00|01|00|BOK|Umezawa's Jitte
-GW|MAIN|M|NORM|01|01|00|V12|Vesuva
+GW|MAIN|R|NORM|00|01|00|CMA|Sylvan Library
+GW|MAIN|R|NORM|01|01|00|AVR|Cavern of Souls
+GW|MAIN|M|FOIL|01|01|00|V12|Dryad Arbor
+GW|MAIN|R|NORM|01|01|00|TSP|Flagstones of Trokair
+GW|MAIN|C|FULL|07|07|00|ZEN|Forest
+GW|MAIN|R|NORM|01|01|00|FUT|Horizon Canopy
+GW|MAIN|U|NORM|01|01|00|LEG|Karakas
+GW|MAIN|M|FOIL|01|01|00|V12|Maze of Ith
+GW|MAIN|C|FULL|01|01|00|ZEN|Plains
+GW|MAIN|C|NORM|01|01|00|WWK|Sejiri Steppe
+GW|MAIN|R|NORM|01|01|00|M10|Sunpetal Grove
+GW|MAIN|R|NORM|03|03|00|RTR|Temple Garden
 GW|MAIN|U|NORM|04|04|00|TMP|Wasteland
+GW|MAIN|R|NORM|00|01|01|P02|Armageddon
+GW|MAIN|R|NORM|04|04|00|MBS|Green Sun's Zenith
 GW|SIDE|C|NORM|01|01|00|WWK|Bojuka Bog
 GW|SIDE|U|NORM|01|01|00|TMP|Choke
-GW|SIDE|C|NORM|02|02|00|ULG|Crop Rotation
-GW|SIDE|R|NORM|02|02|00|ARB|Dauntless Escort
-GW|SIDE|U|NORM|01|01|00|RTR|Dryad Militant
-GW|SIDE|C|NORM|00|01|00|SHM|Faerie Macabre
+GW|SIDE|R|NORM|01|01|00|ARB|Dauntless Escort
+GW|SIDE|U|NORM|01|01|00|NPH|Dismember
+GW|SIDE|R|NORM|00|02|00|5DN|Engineered Explosives
 GW|SIDE|R|NORM|01|01|00|LRW|Gaddock Teeg
 GW|SIDE|R|NORM|01|01|00|DDJ|Life from the Loam
-GW|SIDE|R|NORM|01|01|00|EXO|Limited Resources
+GW|SIDE|M|NORM|00|01|00|ROE|Linvala, Keeper of Silence
 GW|SIDE|C|NORM|01|01|00|DDH|Qasali Pridemage
-GW|SIDE|R|NORM|01|01|00|JUD|Sylvan Safekeeper
+GW|SIDE|R|NORM|00|03|03|NPH|Surgical Extraction
 GW|SIDE|M|NORM|00|01|00|MBS|Thrun, the Last Troll
-GW|ALTS|U|NORM|04|04|00|ISD|Ghost Quarter
-GW|ALTS|R|NORM|01|01|00|AVR|Ulvenwald Tracker
-GW|ALTS|R|NORM|01|01|00|AVR|Slayers' Stronghold
-GW|ALTS|R|NORM|02|02|00|DKA|Thalia, Guardian of Thraben
+GW|SIDE|R|NORM|01|01|00|AVR|Ulvenwald Tracker
 LF|DECK|M|NORM|01|01|00|WWK|Admonition Angel
 LF|DECK|M|FOIL|01|01|00|V12|Ancient Tomb
 LF|DECK|R|NORM|01|01|00|CHK|Azusa, Lost but Seeking
@@ -366,14 +356,14 @@ WW|MAIN|U|NORM|02|02|00|WWK|Tectonic Edge
 WW|MAIN|M|NORM|02|03|00|V12|Windbrisk Heights
 WW|MAIN|U|NORM|00|04|04|CON|Path to Exile
 WW|MAIN|R|NORM|03|03|00|DIS|Proclamation of Rebirth
-WW|MAIN|R|NORM|02|02|00|M10|Honor of the Pure
+WW|MAIN|R|NORM|03|03|00|M10|Honor of the Pure
 WW|SIDE|C|NORM|04|04|00|GTC|Beckon Apparation
 WW|SIDE|U|NORM|02|02|00|DKA|Chalice of Life
 WW|SIDE|U|NORM|02|02|00|M13|Oblivion Ring
 WW|SIDE|R|NORM|01|01|00|DIS|Proclamation of Rebirth
 WW|SIDE|R|NORM|00|03|03|SOM|Ratchet Bomb
 WW|SIDE|R|NORM|00|03|03|NPH|Surgical Extraction
-KN|MAIN|U|NORM|04|04|00|MBS|Accorder Paladin
+KN|MAIN|U|NORM|03|03|00|MBS|Accorder Paladin
 KN|MAIN|C|NORM|01|01|00|DDG|Caravan Escort
 KN|MAIN|R|NORM|04|04|00|ISD|Champion of the Parish
 KN|MAIN|R|NORM|04|04|00|DDG|Knight Exemplar
@@ -392,57 +382,46 @@ KN|MAIN|U|NORM|04|04|00|GTC|Boros Charm
 KN|MAIN|C|NORM|04|04|00|M10|Lightning Bolt
 KN|MAIN|U|NORM|04|04|00|CON|Path to Exile
 KN|MAIN|M|NORM|01|01|00|ALA|Elspeth, Knight-Errant
-KN|SIDE|U|NORM|01|01|00|NPH|Dismember
+KN|SIDE|U|NORM|00|01|00|NPH|Dismember
 KN|SIDE|R|NORM|03|03|00|MBS|Mirran Crusader
 KN|SIDE|U|NORM|02|02|00|M13|Oblivion Ring
 KN|SIDE|R|NORM|03|03|00|SOM|Ratchet Bomb
 KN|SIDE|R|NORM|01|01|00|RTR|Rest in Peace
 KN|SIDE|U|NORM|02|02|00|GTC|Skullcrack
 KN|SIDE|R|NORM|01|03|00|NPH|Surgical Extraction
-WS|MAIN|R|NORM|04|04|00|DST|Aether Vial
-WS|MAIN|C|NORM|04|04|00|MRD|Ancient Den
-WS|MAIN|R|NORM|01|01|00|SOM|Argentum Armor
-WS|MAIN|C|NORM|04|04|00|DST|Darksteel Citadel
-WS|MAIN|U|NORM|04|04|00|NPH|Dispatch
 WS|MAIN|R|NORM|00|02|00|ALA|Ethersworn Canonist
-WS|MAIN|C|NORM|02|02|00|MBS|Flayer Husk
-WS|MAIN|U|NORM|00|01|01|LEG|Karakas
 WS|MAIN|U|NORM|04|04|00|ZEN|Kor Duelist
 WS|MAIN|C|NORM|01|01|00|ZEN|Kor Outfitter
 WS|MAIN|R|NORM|02|02|00|DST|Leonin Shikari
-WS|MAIN|U|NORM|01|01|00|ARC|Lightning Greaves
 WS|MAIN|R|NORM|02|02|00|ISD|Mentor of the Meek
 WS|MAIN|U|NORM|04|04|00|CMD|Mother of Runes
-WS|MAIN|M|NORM|01|02|01|SOM|Mox Opal
-WS|MAIN|C|FULL|07|07|00|ZEN|Plains
 WS|MAIN|R|NORM|04|04|00|NPH|Puresteel Paladin
-WS|MAIN|R|NORM|04|04|00|WWK|Stoneforge Mystic
 WS|MAIN|U|NORM|01|01|00|NPH|Spellskite
+WS|MAIN|R|NORM|04|04|00|WWK|Stoneforge Mystic
+WS|MAIN|U|NORM|04|04|00|NPH|Dispatch
+WS|MAIN|C|NORM|04|04|00|MRD|Ancient Den
+WS|MAIN|R|NORM|01|01|00|AVR|Cavern of Souls
+WS|MAIN|C|NORM|04|04|00|DST|Darksteel Citadel
+WS|MAIN|R|NORM|00|01|01|TSP|Flagstones of Trokair
+WS|MAIN|R|NORM|00|01|01|FUT|Horizon Canopy
+WS|MAIN|U|NORM|00|01|01|LEG|Karakas
+WS|MAIN|C|FULL|04|04|00|ZEN|Plains
+WS|MAIN|U|NORM|00|04|04|TMP|Wasteland
+WS|MAIN|R|NORM|04|04|00|DST|Aether Vial
+WS|MAIN|R|NORM|01|01|00|SOM|Argentum Armor
+WS|MAIN|C|NORM|02|02|00|MBS|Flayer Husk
+WS|MAIN|U|NORM|01|01|00|ARC|Lightning Greaves
+WS|MAIN|M|NORM|01|02|01|SOM|Mox Opal
 WS|MAIN|M|NORM|01|01|00|NPH|Sword of War and Peace
 WS|MAIN|R|NORM|01|01|00|BOK|Umezawa's Jitte
-WS|MAIN|U|NORM|00|04|04|TMP|Wasteland
 WS|SIDE|M|NORM|01|01|00|NPH|Batterskull
 WS|SIDE|R|NORM|00|01|00|MBS|Darksteel Plate
+WS|SIDE|R|NORM|00|02|02|5DN|Engineered Explosives
 WS|SIDE|U|NORM|04|04|00|DKA|Faith's Shield
-WS|SIDE|U|NORM|00|01|00|NPH|Spellskite
+WS|SIDE|R|NORM|00|02|02|NPH|Surgical Extraction
 WS|SIDE|M|NORM|01|01|00|MBS|Sword of Feast and Famine
 WS|SIDE|M|NORM|01|01|00|DST|Sword of Fire and Ice
 WS|SIDE|U|NORM|03|03|00|M13|Tormod's Crypt
-WS|ALTS|M|NORM|01|01|00|DKA|Elbrus, the Binding Blade
-WS|ALTS|R|NORM|01|01|00|SOM|Etched Champion
-WS|ALTS|C|NORM|02|02|00|MBS|Flayer Husk
-WS|ALTS|R|NORM|01|01|00|ZEN|Grappling Hook
-WS|ALTS|R|NORM|01|01|00|DST|Heartseeker
-WS|ALTS|M|NORM|02|01|00|SOM|Indomitable Archangel
-WS|ALTS|U|NORM|01|01|00|SOM|Infiltration Lens
-WS|ALTS|C|NORM|01|01|00|ZEN|Kor Outfitter
-WS|ALTS|R|NORM|02|02|00|DST|Leonin Shikari
-WS|ALTS|R|NORM|01|01|00|SOM|Livewire Lash
-WS|ALTS|R|NORM|01|01|00|DDG|Loxodon Warhammer
-WS|ALTS|R|NORM|02|02|00|ISD|Mentor of the Meek
-WS|ALTS|R|NORM|01|01|00|AVR|Moonsilver Spear
-WS|ALTS|R|NORM|01|01|00|M11|Sword of Vengeance
-WS|ALTS|R|NORM|01|01|00|DKA|Thalia, Guardian of Thraben
 PC|CUBE|C|NORM|01|01|00|ZEN|Adventuring Gear
 PC|CUBE|C|NORM|01|01|00|M12|AEther Adept
 PC|CUBE|C|NORM|01|01|00|ALA|Agony Warp
@@ -2095,3 +2074,34 @@ KN|ALTS|R|NORM|00|02|00|10E/ONS|True Believer
 WW|ALTS|C|NORM|01|01|00|CSP|Martyr of Sands
 WW|ALTS|R|NORM|01|01|00|SOK|Rune-Tail, Kitsune Ascendant
 WW|ALTS|R|NORM|01|01|00|M10|Honor of the Pure
+GW|ALTS|R|NORM|02|00|00|3ED|Armageddon
+GW|ALTS|R|NORM|04|04|00|M10|Birds of Paradise
+GW|ALTS|M|FOIL|01|01|00|V12|Glacial Chasm
+GW|ALTS|R|NORM|00|01|00|LEG|Land Tax
+GW|ALTS|U|NORM|01|01|00|SHM|Mistveil Plains
+GW|ALTS|U|NORM|01|01|00|JUD|Riftstone Portal
+GW|ALTS|R|NORM|00|04|00|3ED|Savannah
+GW|ALTS|R|NORM|00|01|00|BOK|Umezawa's Jitte
+GW|ALTS|M|NORM|01|01|00|V12|Vesuva
+GW|ALTS|U|NORM|01|01|00|RTR|Dryad Militant
+GW|ALTS|C|NORM|00|01|00|SHM|Faerie Macabre
+GW|ALTS|R|NORM|01|01|00|EXO|Limited Resources
+GW|ALTS|M|NORM|00|01|00|MBS|Thrun, the Last Troll
+GW|ALTS|U|NORM|04|04|00|ISD|Ghost Quarter
+GW|ALTS|R|NORM|01|01|00|AVR|Slayers' Stronghold
+GW|ALTS|R|NORM|01|01|00|DKA|Thalia, Guardian of Thraben
+WS|ALTS|M|NORM|01|01|00|DKA|Elbrus, the Binding Blade
+WS|ALTS|R|NORM|01|01|00|SOM|Etched Champion
+WS|ALTS|C|NORM|02|02|00|MBS|Flayer Husk
+WS|ALTS|R|NORM|01|01|00|ZEN|Grappling Hook
+WS|ALTS|R|NORM|01|01|00|DST|Heartseeker
+WS|ALTS|M|NORM|02|01|00|SOM|Indomitable Archangel
+WS|ALTS|U|NORM|01|01|00|SOM|Infiltration Lens
+WS|ALTS|C|NORM|01|01|00|ZEN|Kor Outfitter
+WS|ALTS|R|NORM|02|02|00|DST|Leonin Shikari
+WS|ALTS|R|NORM|01|01|00|SOM|Livewire Lash
+WS|ALTS|R|NORM|01|01|00|DDG|Loxodon Warhammer
+WS|ALTS|R|NORM|02|02|00|ISD|Mentor of the Meek
+WS|ALTS|R|NORM|01|01|00|AVR|Moonsilver Spear
+WS|ALTS|R|NORM|01|01|00|M11|Sword of Vengeance
+WS|ALTS|R|NORM|01|01|00|DKA|Thalia, Guardian of Thraben
