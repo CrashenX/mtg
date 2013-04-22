@@ -429,7 +429,7 @@ PC|CUBE|C|NORM|01|01|00|M13|Ajani's Sunstriker
 PC|CUBE|C|NORM|01|01|00|ALA|Akrasan Squire
 PC|CUBE|C|NORM|01|01|00|MOR|Ambassador Oak
 PC|CUBE|C|NORM|01|01|00|ISD|Ambush Viper
-PC|CUBE|C|NORM|01|02|01|MRD|Ancient Den
+PC|CUBE|C|NORM|01|01|00|MRD|Ancient Den
 PC|CUBE|C|NORM|01|01|00|ISD|Ancient Grudge
 PC|CUBE|C|NORM|01|01|00|USG|Angelic Page
 PC|CUBE|C|NORM|01|01|00|NPH|Apostle's Blessing
@@ -468,7 +468,7 @@ PC|CUBE|C|NORM|01|01|00|NPH|Blinding Souleater
 PC|CUBE|C|NORM|01|01|00|MBS|Blisterstick Shaman
 PC|CUBE|C|NORM|01|01|00|M12|Blood Ogre
 PC|CUBE|C|NORM|01|01|00|ISD|Bonds of Faith
-PC|CUBE|C|NORM|01|02|01|MRD|Bonesplitter
+PC|CUBE|C|NORM|01|01|00|MRD|Bonesplitter
 PC|CUBE|C|NORM|01|01|00|AVR|Borderland Ranger
 PC|CUBE|C|NORM|01|01|00|RAV|Boros Garrison
 PC|CUBE|C|NORM|01|01|00|GTC|Boros Guildgate
@@ -710,7 +710,7 @@ PC|CUBE|C|NORM|01|01|00|AVR|Mist Raven
 PC|CUBE|C|NORM|01|01|00|ARC|Mistvein Borderpost
 PC|CUBE|C|NORM|01|01|00|ROE|Mnemonic Wall
 PC|CUBE|C|NORM|01|01|00|TMP|Mogg Fanatic
-PC|CUBE|C|NORM|00|01|01|TSP/EVG|Mogg War Marshal
+PC|CUBE|C|NORM|01|01|00|TSP|Mogg War Marshal
 PC|CUBE|C|NORM|01|01|00|TSP|Momentary Blink
 PC|CUBE|C|NORM|01|01|00|LRW|Moonglove Extract
 PC|CUBE|C|NORM|01|01|00|NPH|Mortis Dogs
@@ -737,7 +737,7 @@ PC|CUBE|C|NORM|01|01|00|BOK|Ninja of the Deep Hours
 PC|CUBE|C|NORM|01|01|00|ROE|Null Champion
 PC|CUBE|C|NORM|01|01|00|M10|Oakenform
 PC|CUBE|C|NORM|01|01|00|DDG|Oblivion Ring
-PC|CUBE|C|NORM|01|02|01|INV|Obsidian Acolyte
+PC|CUBE|C|NORM|01|01|00|INV|Obsidian Acolyte
 PC|CUBE|C|NORM|01|01|00|BOK|Okiba-Gang Shinobi
 PC|CUBE|C|NORM|01|01|00|ISD|One Eyed Scarecrow
 PC|CUBE|C|NORM|01|01|00|EVE|Oona's Grace
@@ -804,7 +804,7 @@ PC|CUBE|C|NORM|01|01|00|EVE|Rendclaw Trow
 PC|CUBE|C|NORM|01|01|00|GPT|Repeal
 PC|CUBE|C|NORM|01|01|00|INV|Repulse
 PC|CUBE|C|NORM|01|01|00|TSP|Rift Bolt
-PC|CUBE|C|NORM|00|01|01|TMP/HOP|Rolling Thunder
+PC|CUBE|C|NORM|01|01|00|TMP|Rolling Thunder
 PC|CUBE|C|NORM|01|01|00|CSP|Ronom Unicorn
 PC|CUBE|C|NORM|01|01|00|MBS|Rot Wolf
 PC|CUBE|C|NORM|01|01|00|LRW|Runed Stalactite
@@ -908,7 +908,7 @@ PC|CUBE|C|NORM|01|01|00|DKA|Tragic Slip
 PC|CUBE|C|NORM|01|01|00|ARC|Tranquil Thicket
 PC|CUBE|C|NORM|01|01|00|ISD|Travel Preparations
 PC|CUBE|C|NORM|01|01|00|ISD|Traveler's Amulet
-PC|CUBE|C|NORM|01|02|01|MRD|Tree of Tales
+PC|CUBE|C|NORM|01|01|00|MRD|Tree of Tales
 PC|CUBE|C|NORM|01|01|00|TSP|Trespasser il-Vec
 PC|CUBE|C|NORM|01|01|00|NPH|Trespassing Souleater
 PC|CUBE|C|NORM|01|01|00|RTR|Trestle Troll
