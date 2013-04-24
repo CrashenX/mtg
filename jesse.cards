@@ -388,7 +388,7 @@ KN|SIDE|U|NORM|02|02|00|M13|Oblivion Ring
 KN|SIDE|R|NORM|03|03|00|SOM|Ratchet Bomb
 KN|SIDE|R|NORM|01|01|00|RTR|Rest in Peace
 KN|SIDE|U|NORM|02|02|00|GTC|Skullcrack
-KN|SIDE|R|NORM|01|03|00|NPH|Surgical Extraction
+KN|SIDE|R|NORM|01|03|01|NPH|Surgical Extraction
 WS|MAIN|R|NORM|00|02|00|ALA|Ethersworn Canonist
 WS|MAIN|U|NORM|04|04|00|ZEN|Kor Duelist
 WS|MAIN|C|NORM|01|01|00|ZEN|Kor Outfitter
