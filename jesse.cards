@@ -993,6 +993,7 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|R|NORM|01|00|00|GTC|Alms Beast
 --|FREE|U|NORM|02|00|00|GTC|Alpha Authority
 --|FREE|R|NORM|01|00|00|HML|Anaba Spirit Crafter
+--|FREE|C|NORM|01|00|00|MRD|Ancient Den
 --|FREE|U|NORM|01|00|00|10E|Angel of Mercy
 --|FREE|U|NORM|01|00|00|M12|Angel's Feather
 --|FREE|U|NORM|01|00|00|AVR|Angel's Tomb
@@ -1066,6 +1067,7 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|U|NORM|01|00|00|MOR|Boldwyr Intimidator
 --|FREE|C|NORM|04|04|00|ISD|Bonds of Faith
 --|FREE|U|NORM|01|00|00|DDE|Bone Shredder
+--|FREE|C|NORM|01|00|00|MRD|Bonesplitter
 --|FREE|U|NORM|04|00|00|ISD|Boneyard Wurm
 --|FREE|U|NORM|05|00|00|GTC|Boros Charm
 --|FREE|U|NORM|08|00|00|GTC|Boros Elite
@@ -1096,6 +1098,7 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|U|NORM|04|00|00|BOK|Callow Jushi
 --|FREE|U|NORM|03|00|00|WWK|Canopy Cover
 --|FREE|R|NORM|01|01|00|M13|Captain of the Watch
+--|FREE|C|NORM|03|03|00|DDG|Caravan Escort
 --|FREE|U|NORM|03|00|00|NPH|Caress of Phyrexia
 --|FREE|U|NORM|04|00|00|ZEN|Carnage Altar
 --|FREE|U|NORM|01|00|00|M12|Carnage Wurm
@@ -1145,7 +1148,7 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|U|NORM|01|00|00|ROE|Corpsehatch
 --|FREE|R|NORM|01|01|00|RTR|Corpsejack Menance
 --|FREE|U|NORM|03|00|00|NPH|Corrosive Gale
---|FREE|U|NORM|05|00|00|M11|Corrupt
+--|FREE|U|NORM|06|00|00|M11|Corrupt
 --|FREE|U|NORM|02|00|00|MBS|Corrupted Conscience
 --|FREE|U|NORM|02|00|00|SOM|Corrupted Harvester
 --|FREE|U|NORM|03|00|00|NPH|Corrupted Resolve
@@ -1207,6 +1210,7 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|U|NORM|01|00|00|GTC|Dimir Keyrune
 --|FREE|R|NORM|01|00|00|5ED|Dingus Egg
 --|FREE|U|FOIL|01|00|00|GTC|Disciple of the Old Ways
+--|FREE|C|NORM|03|03|00|TMP|Disenchant
 --|FREE|U|NORM|02|02|00|NPH|Dispatch
 --|FREE|U|NORM|06|00|00|SOM|Dispense Justice
 --|FREE|U|FOIL|01|00|00|SOM|Dispense Justice
@@ -1275,6 +1279,7 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|U|NORM|01|00|00|CON|Filigree Fracture
 --|FREE|U|NORM|02|00|00|M11|Fire Servant
 --|FREE|U|NORM|01|01|00|M10|Fireball
+--|FREE|U|NORM|01|01|00|M11|Fireball
 --|FREE|U|NORM|09|00|00|GTC|Firefist Striker
 --|FREE|C|FOIL|01|00|00|DKA|Fires of Undeath
 --|FREE|R|NORM|01|00|00|M13|Firewing Phoenix
@@ -1297,6 +1302,7 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|U|NORM|02|00|00|ISD|Full Moon's Rise
 --|FREE|R|NORM|01|00|00|4ED|Fungusaur
 --|FREE|U|NORM|01|00|00|SOM|Furnace Celebration
+--|FREE|C|NORM|01|00|00|ICE|Fyndhorn Elves
 --|FREE|U|NORM|02|02|00|WTH|Gaea's Blessing
 --|FREE|U|NORM|03|00|00|ISD|Gallows Warden
 --|FREE|R|NORM|01|00|00|MBS|Galvanoth
@@ -1350,6 +1356,7 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|U|NORM|01|01|00|DDG|Grasslands
 --|FREE|U|NORM|03|00|00|ROE|Gravity Well
 --|FREE|U|NORM|03|00|00|ZEN|Graypelt Refuge
+--|FREE|C|NORM|02|00|00|MRD|Great Furnace
 --|FREE|U|NORM|01|00|00|M12|Greatsword
 --|FREE|U|NORM|02|00|00|NPH|Greenhilt Trainee
 --|FREE|U|NORM|06|04|00|ZEN|Greenweaver Druid
@@ -1513,6 +1520,7 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|U|NORM|05|04|00|MBS|Leonin Relic-Warder
 --|FREE|R|NORM|02|02|00|DST|Leonin Shikari
 --|FREE|U|NORM|01|01|00|DDG|Leonin Skyhunter
+--|FREE|C|NORM|04|04|00|MBS|Leonin Skyhunter
 --|FREE|U|NORM|01|00|00|M12|Levitation
 --|FREE|U|NORM|02|00|00|M10|Levitation
 --|FREE|R|NORM|02|01|00|M11|Leyline of Anticipation
@@ -1526,6 +1534,7 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|U|NORM|01|00|00|AVR|Lightning Prowess
 --|FREE|U|NORM|04|00|00|M11|Liliana's Caress
 --|FREE|R|NORM|01|01|00|EXO|Limited Resources
+--|FREE|C|NORM|02|02|00|DDG|Lionheart Maverick
 --|FREE|U|NORM|04|00|00|SOM|Liquimetal Coating
 --|FREE|R|NORM|01|01|00|SOM|Livewire Lash
 --|FREE|U|NORM|05|00|00|ZEN|Living Tsunami
@@ -1630,7 +1639,7 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|U|NORM|02|00|00|ROE|Not of This World
 --|FREE|U|NORM|02|02|00|NPH|Noxious Revival
 --|FREE|U|NORM|02|00|00|M12|Oblivion Ring
---|FREE|U|NORM|03|00|00|M13|Oblivion Ring
+--|FREE|U|NORM|03|02|00|M13|Oblivion Ring
 --|FREE|U|NORM|04|00|00|SOK|Oboro Envoy
 --|FREE|U|NORM|04|00|00|SOM|Ogre Geargrabber
 --|FREE|C|FOIL|01|00|00|ROE|Ogre Sentry
@@ -1709,7 +1718,7 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|U|NORM|04|00|00|ZEN|Punishing Fire
 --|FREE|U|NORM|02|00|00|DDE|Puppet Strings
 --|FREE|R|NORM|01|00|00|NPH|Puresteel Paladin
---|FREE|U|NORM|01|01|00|ISD|Purify the Grave
+--|FREE|U|NORM|03|03|00|ISD|Purify the Grave
 --|FREE|R|FOIL|01|00|00|SOM|Putrefax
 --|FREE|U|NORM|01|01|00|M11|Pyroclasm
 --|FREE|R|NORM|02|00|00|ZEN|Pyromancer Ascension
@@ -1828,6 +1837,7 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|U|NORM|03|03|00|MBS|Signal Pest
 --|FREE|U|NORM|01|01|00|DDG|Silver Knight
 --|FREE|U|NORM|02|00|00|ISD|Silver-Inlaid Dagger
+--|FREE|R|NORM|01|01|00|AVR|Silverblade Paladin
 --|FREE|U|NORM|01|00|00|GTC|Simic Charm
 --|FREE|U|NORM|04|01|00|GTC|Simic Fluxmage
 --|FREE|U|NORM|02|01|00|GTC|Simic Keyrune
@@ -1839,7 +1849,9 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|U|NORM|02|00|00|MBS|Skinwing
 --|FREE|U|NORM|02|00|00|SOK|Skull Collector
 --|FREE|U|NORM|01|00|00|ARC|Skullcage
+--|FREE|U|NORM|02|02|00|GTC|Skullcrack
 --|FREE|C|FOIL|01|00|00|GTC|Skyblinder Staff
+--|FREE|C|NORM|01|01|00|RAV|Skyknight Legionnaire
 --|FREE|U|NORM|01|00|00|RTR|Skymark Roc
 --|FREE|R|NORM|01|00|00|PLS|Skyship Weatherlight
 --|FREE|U|NORM|01|00|00|CON|Skyward Eye Prophets
@@ -1902,6 +1914,7 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|U|NORM|02|01|00|MBS|Strandwalker
 --|FREE|R|NORM|03|00|00|SOM|Strata Scythe
 --|FREE|U|NORM|01|00|00|RTR|Street Sweeper
+--|FREE|R|NORM|01|01|00|DKA|Sudden Disappearance
 --|FREE|U|NORM|04|00|00|ROE|Suffer the Past
 --|FREE|U|NORM|02|00|00|WWK|Summit Apes
 --|FREE|U|NORM|03|00|00|ZEN|Summoner's Bane
@@ -1976,7 +1989,7 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|R|NORM|01|00|00|M11|Traumatize
 --|FREE|U|NORM|01|01|00|MBS|Treasure Mage
 --|FREE|R|NORM|01|00|00|GTC|Treasury Thrull
---|FREE|C|NORM|01|00|00|MRD|Tree of Tales
+--|FREE|C|NORM|02|00|00|MRD|Tree of Tales
 --|FREE|U|NORM|01|01|00|DDG|Treetop Village
 --|FREE|U|NORM|01|00|00|DDE|Treva's Charm
 --|FREE|U|NORM|03|00|00|PLS|Treva's Ruins
