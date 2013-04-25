@@ -530,7 +530,7 @@ PC|CUBE|C|NORM|01|01|00|RTR|Dead Reveler
 PC|CUBE|C|NORM|01|01|00|ISD|Dead Weight
 PC|CUBE|C|NORM|01|01|00|M13|Deadly Recluse
 PC|CUBE|C|NORM|01|01|00|TOR|Deep Analysis
-PC|CUBE|C|NORM|01|01|00|ISD|Delver of Secrets
+PC|CUBE|C|NORM|02|00|00|ISD|Delver of Secrets
 PC|CUBE|C|NORM|01|01|00|ARB|Deny Reality
 PC|CUBE|C|NORM|01|01|00|ROE|Deprive
 PC|CUBE|C|NORM|01|01|00|TSP|Desert
@@ -1018,7 +1018,7 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|U|NORM|01|01|00|ROE|Artisan of Kozilek
 --|FREE|R|NORM|01|01|00|SOM|Asceticism
 --|FREE|R|NORM|01|00|00|RTR|Ash Zealot
---|FREE|U|NORM|06|04|00|SOM|Auriok Edgewright
+--|FREE|U|NORM|07|04|00|SOM|Auriok Edgewright
 --|FREE|U|NORM|01|01|00|NPH|Auriok Survivors
 --|FREE|U|NORM|01|00|00|M12|Autumn's Veil
 --|FREE|U|NORM|01|00|00|DKA|Avacyn's Collar
@@ -1030,6 +1030,7 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|U|NORM|02|00|00|M12|Azure Mage
 --|FREE|R|NORM|01|01|00|ISD|Back from the Brink
 --|FREE|U|NORM|01|01|00|MIR|Bad River
+--|FREE|R|NORM|01|00|00|ISD|Balefire Dragon
 --|FREE|U|NORM|03|00|00|ZEN|Baloth Cage Trap
 --|FREE|U|NORM|02|01|00|ZEN|Baloth Woodcrasher
 --|FREE|U|NORM|03|00|00|GTC|Bane Alley Broker
@@ -1054,6 +1055,7 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|U|NORM|01|00|00|ISD|Bitterheart Witch
 --|FREE|U|NORM|01|00|00|M10|Black Knight
 --|FREE|U|NORM|01|00|00|M11|Black Knight
+--|FREE|R|FOIL|01|00|00|SOM|Blackcleave Cliffs
 --|FREE|R|NORM|01|00|00|ZEN|Blade of the Bloodchief
 --|FREE|C|FOIL|01|00|00|ZEN|Bladetusk Boar
 --|FREE|U|NORM|02|00|00|DPA|Blanchwood Armor
@@ -1141,7 +1143,7 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|R|NORM|01|00|00|GTC|Consuming Aberration
 --|FREE|U|FOIL|01|00|00|SOM|Contagion Clasp
 --|FREE|U|NORM|05|00|00|SOM|Contagion Clasp
---|FREE|R|NORM|02|01|00|SOM|Contagion Engine
+--|FREE|R|NORM|03|01|00|SOM|Contagion Engine
 --|FREE|R|NORM|01|00|00|M11|Conundrum Sphinx
 --|FREE|U|NORM|03|00|00|NPH|Conversion Chamber
 --|FREE|U|NORM|03|00|00|MBS|Core Prowler
@@ -1177,6 +1179,7 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|U|NORM|01|00|00|RTR|Dark Revenant
 --|FREE|U|FOIL|01|00|00|SOM|Darkslick Drake
 --|FREE|U|NORM|02|00|00|SOM|Darkslick Drake
+--|FREE|R|NORM|01|00|00|SOM|Darkslick Shores
 --|FREE|U|NORM|05|00|00|SOM|Darksteel Axe
 --|FREE|C|NORM|01|00|00|DST|Darksteel Citadel
 --|FREE|U|NORM|05|00|00|SOM|Darksteel Myr
@@ -1288,7 +1291,7 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|U|NORM|01|00|00|DIS|Flash Foliage
 --|FREE|U|FOIL|01|00|00|M11|Flashfreeze
 --|FREE|C|NORM|02|02|00|MBS|Flayer Husk
---|FREE|U|NORM|02|00|00|SOM|Flesh Allergy
+--|FREE|U|NORM|03|00|00|SOM|Flesh Allergy
 --|FREE|U|NORM|01|00|00|MBS|Flesh-Eater Imp
 --|FREE|U|NORM|02|00|00|SOK|Footsteps of the Goryo
 --|FREE|C|FOIL|01|00|00|SHM|Forest
@@ -1431,7 +1434,7 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|U|NORM|01|01|00|M12|Hunter's Insight
 --|FREE|U|NORM|01|01|00|ARC|Hunting Moa
 --|FREE|U|NORM|03|00|00|NPH|Ichor Explosion
---|FREE|U|NORM|08|00|00|SOM|Ichor Rats
+--|FREE|U|NORM|09|00|00|SOM|Ichor Rats
 --|FREE|U|NORM|01|00|00|M10|Ignite Disorder
 --|FREE|R|NORM|01|00|00|ALA|Immortal Coil
 --|FREE|U|NORM|01|00|00|SHM|Incremental Blight
@@ -1573,7 +1576,7 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|R|NORM|01|01|00|ARC|Master Transmuter
 --|FREE|U|NORM|01|00|00|SOK|Measure of Wickedness
 --|FREE|U|NORM|04|00|00|M10|Megrim
---|FREE|U|NORM|02|02|00|SOM|Memnite
+--|FREE|U|NORM|03|03|00|SOM|Memnite
 --|FREE|U|NORM|01|01|00|ISD|Memory's Journey
 --|FREE|U|NORM|02|01|00|NPH|Mental Misstep
 --|FREE|U|NORM|02|00|00|GTC|Mental Vapors
@@ -1603,6 +1606,7 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|R|NORM|01|00|00|SOM|Molten Psyche
 --|FREE|U|NORM|02|00|00|SOK|Molting Skin
 --|FREE|R|NORM|01|01|00|AVR|Moonsilver Spear
+--|FREE|U|NORM|01|00|00|ISD|Morkrut Banshee
 --|FREE|C|FOIL|01|00|00|MOR|Morsel Theft
 --|FREE|U|NORM|02|02|00|MBS|Mortarpod
 --|FREE|U|NORM|01|00|00|ULG|Mother of Runes
@@ -1641,7 +1645,7 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|U|NORM|02|00|00|M12|Oblivion Ring
 --|FREE|U|NORM|03|02|00|M13|Oblivion Ring
 --|FREE|U|NORM|04|00|00|SOK|Oboro Envoy
---|FREE|U|NORM|04|00|00|SOM|Ogre Geargrabber
+--|FREE|U|NORM|05|00|00|SOM|Ogre Geargrabber
 --|FREE|C|FOIL|01|00|00|ROE|Ogre Sentry
 --|FREE|U|NORM|01|00|00|ROE|Ogre's Cleaver
 --|FREE|R|NORM|01|00|00|NPH|Omen Machine
@@ -1844,6 +1848,7 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|R|NORM|01|01|00|GTC|Simic Manipulator
 --|FREE|U|NORM|01|00|00|ISD|Skaab Goliath
 --|FREE|U|NORM|01|00|00|GTC|Skarrg Guildmage
+--|FREE|C|FOIL|01|00|00|ISD|Skeletal Grimace
 --|FREE|U|NORM|02|00|00|ROE|Skeletal Wurm
 --|FREE|U|NORM|02|00|00|SOM|Skinrender
 --|FREE|U|NORM|02|00|00|MBS|Skinwing
@@ -1858,7 +1863,7 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|R|NORM|01|00|00|RTR|Slaughter Games
 --|FREE|U|NORM|03|00|00|WWK|Slavering Nulls
 --|FREE|U|NORM|01|00|00|DDE|Slay
---|FREE|U|NORM|02|00|00|ISD|Slayer of the Wicked
+--|FREE|U|NORM|03|00|00|ISD|Slayer of the Wicked
 --|FREE|R|NORM|01|01|00|AVR|Slayers' Stronghold
 --|FREE|U|NORM|07|00|00|M10|Sleep
 --|FREE|U|NORM|01|00|00|M11|Sleep
@@ -1966,7 +1971,7 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|U|NORM|02|00|00|DDE|Thornscape Battlemage
 --|FREE|U|NORM|02|00|00|RTR|Thoughtflare
 --|FREE|U|NORM|01|00|00|M12|Thran Golem
---|FREE|U|NORM|04|00|00|SOM|Throne of Geth
+--|FREE|U|NORM|05|00|00|SOM|Throne of Geth
 --|FREE|U|NORM|01|00|00|GTC|Thrull Parasite
 --|FREE|U|NORM|05|00|00|SOM|Thrummingbird
 --|FREE|M|NORM|00|01|00|MBS|Thrun, the Last Troll
@@ -1991,6 +1996,7 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|R|NORM|01|00|00|GTC|Treasury Thrull
 --|FREE|C|NORM|02|00|00|MRD|Tree of Tales
 --|FREE|U|NORM|01|01|00|DDG|Treetop Village
+--|FREE|U|NORM|01|01|00|ISD|Trepanation Blade
 --|FREE|U|NORM|01|00|00|DDE|Treva's Charm
 --|FREE|U|NORM|03|00|00|PLS|Treva's Ruins
 --|FREE|U|FOIL|01|00|00|SOM|Trigon of Corruption
