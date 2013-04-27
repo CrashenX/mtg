@@ -228,8 +228,7 @@ GW|MAIN|R|NORM|01|01|00|JUD|Sylvan Safekeeper
 GW|MAIN|R|NORM|01|01|00|ODY|Terravore
 GW|MAIN|R|NORM|03|03|00|DKA|Thalia, Guardian of Thraben
 GW|MAIN|C|NORM|02|02|00|ULG|Crop Rotation
-GW|MAIN|U|NORM|01|01|00|ICE|Swords to Plowshares
-GW|MAIN|U|NORM|03|04|00|DDF|Swords to Plowshares
+GW|MAIN|U|NORM|04|04|00|DDF|Swords to Plowshares
 GW|MAIN|R|NORM|01|01|00|4ED|Sylvan Library
 GW|MAIN|R|NORM|00|01|00|CMA|Sylvan Library
 GW|MAIN|R|NORM|01|01|00|AVR|Cavern of Souls
@@ -1946,6 +1945,8 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|R|NORM|01|01|00|M11|Sword of Vengeance
 --|FREE|U|NORM|02|00|00|3ED|Swords to Plowshares
 --|FREE|U|NORM|01|00|00|4ED|Swords to Plowshares
+--|FREE|U|NORM|01|00|00|DDF|Swords to Plowshares
+--|FREE|U|NORM|01|01|00|ICE|Swords to Plowshares
 --|FREE|U|NORM|01|00|00|RTR|Syncopate
 --|FREE|U|NORM|01|00|00|ARC|Synod Centurion
 --|FREE|U|NORM|01|01|00|ARC|Synod Sanctum
