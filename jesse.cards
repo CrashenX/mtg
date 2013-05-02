@@ -34,7 +34,7 @@ MF|MAIN|U|NORM|04|04|00|LRW|Merrow Reejerey
 MF|MAIN|R|NORM|01|01|00|CHK|Minamo, School at Water's Edge
 MF|MAIN|R|NORM|01|01|00|SOK|Miren, the Moaning Well
 MF|MAIN|R|NORM|00|04|00|MOR|Mutavault
-MF|MAIN|R|NORM|02|03|00|M12|Phantasmal Image
+MF|MAIN|R|NORM|00|03|02|M12|Phantasmal Image
 MF|MAIN|U|NORM|02|02|00|MOR|Sage's Dousing
 MF|MAIN|U|NORM|04|04|00|LRW|Silvergill Adept
 MF|MAIN|C|NORM|02|02|00|ZEN|Spell Pierce
@@ -154,7 +154,7 @@ CC|DECK|R|NORM|01|01|00|DKA|Increasing Savagery
 CC|DECK|R|NORM|01|01|00|SOM|Inexorable Tide
 CC|DECK|C|NORM|01|01|00|ZEN|Island
 CC|DECK|U|NORM|01|01|00|SHM|Leech Bonder
-CC|DECK|U|NORM|01|01|00|DDE|Lightning Greaves
+CC|DECK|U|NORM|00|01|01|DDE|Lightning Greaves
 CC|DECK|U|NORM|01|01|00|ARC|Llanowar Reborn
 CC|DECK|C|NORM|01|01|00|ONS|Lonely Sandbar
 CC|DECK|U|NORM|01|01|00|ARB|Lorescale Coatl
@@ -283,7 +283,6 @@ LF|DECK|M|FOIL|01|01|00|V12|Forbidden Orchard
 LF|DECK|R|NORM|01|01|00|M10|Gargoyle Castle
 LF|DECK|U|NORM|01|01|00|WTH|Gemstone Mine
 LF|DECK|M|FOIL|01|01|00|V12|Glacial Chasm
-LF|DECK|R|NORM|01|01|00|M13|Glacial Fortress
 LF|DECK|R|NORM|01|01|00|GTC|Godless Shrine
 LF|DECK|C|NORM|01|01|00|ZEN|Grazing Gladehart
 LF|DECK|M|FOIL|01|01|00|V12|Grove of the Burnwillows
@@ -316,6 +315,7 @@ LF|DECK|R|NORM|01|01|00|ZEN|Rite of Replication
 LF|DECK|R|NORM|01|01|00|FUT|Rites of Flourishing
 LF|DECK|U|NORM|01|01|00|RTR|Rogue's Passage
 LF|DECK|R|NORM|01|01|00|M13|Rootbound Crag
+LF|DECK|R|NORM|01|01|00|GTC|Sacred Foundry
 LF|DECK|C|NORM|01|01|00|ARC|Secluded Steppe
 LF|DECK|R|NORM|01|01|00|WWK|Seer's Sundial
 LF|DECK|C|NORM|01|01|00|GTC|Selesnya Guildgate
@@ -348,11 +348,11 @@ WW|MAIN|C|NORM|02|02|00|EXO|Soul Warden
 WW|MAIN|C|NORM|02|02|00|M10|Soul Warden
 WW|MAIN|C|NORM|04|04|00|ROE|Soul's Attendant
 WW|MAIN|R|NORM|00|02|02|AVR|Cavern of Souls
-WW|MAIN|R|NORM|00|01|01|TSP|Flagstones of Trokair
+WW|MAIN|R|NORM|01|01|00|TSP|Flagstones of Trokair
 WW|MAIN|C|NORM|04|04|00|ZEN|Kabira Crossroads
 WW|MAIN|C|FULL|00|09|09|ZEN|Plains
 WW|MAIN|U|NORM|02|02|00|WWK|Tectonic Edge
-WW|MAIN|M|NORM|02|03|00|V12|Windbrisk Heights
+WW|MAIN|M|NORM|00|03|02|V12|Windbrisk Heights
 WW|MAIN|U|NORM|00|04|04|CON|Path to Exile
 WW|MAIN|R|NORM|03|03|00|DIS|Proclamation of Rebirth
 WW|MAIN|R|NORM|03|03|00|M10|Honor of the Pure
@@ -362,25 +362,26 @@ WW|SIDE|U|NORM|02|02|00|M13|Oblivion Ring
 WW|SIDE|R|NORM|01|01|00|DIS|Proclamation of Rebirth
 WW|SIDE|R|NORM|00|03|03|SOM|Ratchet Bomb
 WW|SIDE|R|NORM|00|03|03|NPH|Surgical Extraction
-KN|MAIN|U|NORM|03|03|00|MBS|Accorder Paladin
-KN|MAIN|C|NORM|01|01|00|DDG|Caravan Escort
 KN|MAIN|R|NORM|04|04|00|ISD|Champion of the Parish
+KN|MAIN|U|NORM|00|04|04|DIS|Court Hussar
 KN|MAIN|R|NORM|04|04|00|DDG|Knight Exemplar
+KN|MAIN|U|NORM|04|04|00|RTR|Lyev Skyknight
+KN|MAIN|R|NORM|02|02|00|M12|Phantasmal Image
 KN|MAIN|R|NORM|02|02|00|AVR|Silverblade Paladin
-KN|MAIN|C|NORM|02|02|00|RAV|Skyknight Legionnaire
 KN|MAIN|R|NORM|04|04|00|ROE|Student of Warfare
-KN|MAIN|U|NORM|02|02|00|10E|Wrath of God
-KN|MAIN|R|NORM|03|03|00|M10|Honor of the Pure
-KN|MAIN|R|NORM|02|02|00|AVR|Cavern of Souls
-KN|MAIN|R|NORM|04|04|00|ISD|Clifftop Retreat
-KN|MAIN|R|NORM|01|01|00|TSP|Flagstones of Trokair
-KN|MAIN|C|FULL|09|09|00|ZEN|Plains
-KN|MAIN|R|NORM|01|04|00|GTC|Sacred Foundry
-KN|MAIN|R|NORM|02|02|00|AVR|Slayers' Stronghold
-KN|MAIN|U|NORM|04|04|00|GTC|Boros Charm
-KN|MAIN|C|NORM|04|04|00|M10|Lightning Bolt
+KN|MAIN|R|NORM|01|01|00|M12|Sun Titan
+KN|MAIN|R|NORM|00|01|01|ONS|Weathered Wayfarer
 KN|MAIN|U|NORM|04|04|00|CON|Path to Exile
+KN|MAIN|R|NORM|03|03|00|AVR|Cavern of Souls
+KN|MAIN|R|NORM|01|04|03|M13|Glacial Fortress
+KN|MAIN|R|NORM|00|04|03|RTR|Hallowed Fountain
+KN|MAIN|C|FULL|10|10|00|ZEN|Plains
+KN|MAIN|M|NORM|02|02|00|V12|Windbrisk Heights
 KN|MAIN|M|NORM|01|01|00|ALA|Elspeth, Knight-Errant
+KN|MAIN|M|NORM|00|01|01|SOM|Venser, the Sojourner
+KN|MAIN|R|NORM|01|01|00|10E|Wrath of God
+KN|MAIN|R|NORM|03|03|00|M10|Honor of the Pure
+KN|DECK|U|NORM|01|01|00|DDE|Lightning Greaves
 KN|SIDE|U|NORM|00|01|00|NPH|Dismember
 KN|SIDE|R|NORM|03|03|00|MBS|Mirran Crusader
 KN|SIDE|U|NORM|02|02|00|M13|Oblivion Ring
@@ -399,7 +400,7 @@ WS|MAIN|U|NORM|01|01|00|NPH|Spellskite
 WS|MAIN|R|NORM|04|04|00|WWK|Stoneforge Mystic
 WS|MAIN|U|NORM|04|04|00|NPH|Dispatch
 WS|MAIN|C|NORM|04|04|00|MRD|Ancient Den
-WS|MAIN|R|NORM|01|01|00|AVR|Cavern of Souls
+WS|MAIN|R|NORM|00|01|01|AVR|Cavern of Souls
 WS|MAIN|C|NORM|04|04|00|DST|Darksteel Citadel
 WS|MAIN|R|NORM|00|01|01|TSP|Flagstones of Trokair
 WS|MAIN|R|NORM|00|01|01|FUT|Horizon Canopy
@@ -963,7 +964,7 @@ PC|CUBE|C|NORM|01|01|00|ULG|Yavimaya Granger
 PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|U|NORM|03|00|00|ISD|Abattoir Ghoul
 --|FREE|U|NORM|02|00|00|SOM|Abuna Acolyte
---|FREE|U|NORM|01|01|00|MBS|Accorder Paladin
+--|FREE|U|NORM|04|04|00|MBS|Accorder Paladin
 --|FREE|U|NORM|03|00|00|SOM|Acid Web Spider
 --|FREE|U|NORM|01|01|00|M13|Acidic Slime
 --|FREE|U|FOIL|02|00|00|NPH|Act of Aggression
@@ -1071,6 +1072,7 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|C|NORM|01|00|00|MRD|Bonesplitter
 --|FREE|U|NORM|04|00|00|ISD|Boneyard Wurm
 --|FREE|U|NORM|01|00|00|GTC|Boros Charm
+--|FREE|U|NORM|04|04|00|GTC|Boros Charm
 --|FREE|U|NORM|08|00|00|GTC|Boros Elite
 --|FREE|U|NORM|02|00|00|GTC|Boros Keyrune
 --|FREE|M|FOIL|01|01|00|V12|Boseiju, Who Shelters All
@@ -1099,7 +1101,7 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|U|NORM|04|00|00|BOK|Callow Jushi
 --|FREE|U|NORM|03|00|00|WWK|Canopy Cover
 --|FREE|R|NORM|01|01|00|M13|Captain of the Watch
---|FREE|C|NORM|03|03|00|DDG|Caravan Escort
+--|FREE|C|NORM|04|04|00|DDG|Caravan Escort
 --|FREE|U|NORM|03|00|00|NPH|Caress of Phyrexia
 --|FREE|U|NORM|04|00|00|ZEN|Carnage Altar
 --|FREE|U|NORM|01|00|00|M12|Carnage Wurm
@@ -1127,6 +1129,7 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|U|NORM|01|00|00|GTC|Cinder Elemental
 --|FREE|U|NORM|01|00|00|M12|Circle of Flame
 --|FREE|U|NORM|01|00|00|ISD|Civilized Scholar
+--|FREE|R|NORM|04|04|00|ISD|Clifftop Retreat
 --|FREE|C|FOIL|01|00|00|GTC|Clinging Anemones
 --|FREE|U|NORM|01|00|00|ISD|Cloistered Youth
 --|FREE|U|NORM|04|00|00|SOM|Clone Shell
@@ -1530,6 +1533,7 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|U|NORM|01|01|00|4ED|Library of Leng
 --|FREE|U|NORM|03|00|00|SOM|Lifesmith
 --|FREE|U|NORM|03|00|00|WWK|Lightkeeper of Emeria
+--|FREE|C|NORM|04|04|00|M10|Lightning Bolt
 --|FREE|U|NORM|00|02|00|DDH|Lightning Helix
 --|FREE|U|NORM|02|00|00|RAV|Lightning Helix
 --|FREE|U|NORM|06|04|00|AVR|Lightning Mauler
@@ -1554,7 +1558,6 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|R|NORM|01|00|00|AVR|Lunar Mystic
 --|FREE|U|FOIL|01|00|00|M12|Lure
 --|FREE|U|NORM|01|00|00|ROE|Lust for War
---|FREE|U|NORM|04|04|00|RTR|Lyev Skyknight
 --|FREE|R|NORM|01|00|00|ARB|Madrush Cyclops
 --|FREE|R|NORM|01|00|00|M11|Magma Phoenix
 --|FREE|U|NORM|03|00|00|ISD|Make a Wish
@@ -1855,7 +1858,7 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|U|NORM|01|00|00|ARC|Skullcage
 --|FREE|U|NORM|02|02|00|GTC|Skullcrack
 --|FREE|C|FOIL|01|00|00|GTC|Skyblinder Staff
---|FREE|C|NORM|01|01|00|RAV|Skyknight Legionnaire
+--|FREE|C|NORM|03|03|00|RAV|Skyknight Legionnaire
 --|FREE|U|NORM|01|00|00|RTR|Skymark Roc
 --|FREE|R|NORM|01|00|00|PLS|Skyship Weatherlight
 --|FREE|U|NORM|01|00|00|CON|Skyward Eye Prophets
@@ -1864,6 +1867,7 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|U|NORM|01|00|00|DDE|Slay
 --|FREE|U|NORM|03|00|00|ISD|Slayer of the Wicked
 --|FREE|R|NORM|01|01|00|AVR|Slayers' Stronghold
+--|FREE|R|NORM|02|02|00|AVR|Slayers' Stronghold
 --|FREE|U|NORM|07|00|00|M10|Sleep
 --|FREE|U|NORM|01|00|00|M11|Sleep
 --|FREE|U|NORM|04|00|00|SOM|Slice in Twain
@@ -1923,7 +1927,6 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|U|NORM|02|00|00|WWK|Summit Apes
 --|FREE|U|NORM|03|00|00|ZEN|Summoner's Bane
 --|FREE|U|NORM|01|00|00|ARC|Sun Droplet
---|FREE|R|NORM|01|01|00|M12|Sun Titan
 --|FREE|R|FOIL|02|00|00|SOM|Sunblast Angel
 --|FREE|R|NORM|01|00|00|SOM|Sunblast Angel
 --|FREE|U|NORM|02|00|00|SOK|Sunder from Within
@@ -2108,6 +2111,7 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|R|NORM|01|00|00|WWK|Wolfbriar Elemental
 --|FREE|U|NORM|01|00|00|AVR|Wolfir Avenger
 --|FREE|C|FOIL|01|00|00|ISD|Wooden Stake
+--|FREE|R|NORM|01|01|00|10E|Wrath of God
 --|FREE|U|NORM|02|00|00|ISD|Wreath of Geists
 --|FREE|R|NORM|01|00|00|GTC|Wrecking Ogre
 --|FREE|U|NORM|02|00|00|DPA|Wurm's Tooth
