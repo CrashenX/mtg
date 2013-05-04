@@ -1038,7 +1038,7 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|U|NORM|01|01|00|AVR|Banishing Stroke
 --|FREE|U|FOIL|01|00|00|SOM|Barbed Battlegear
 --|FREE|U|NORM|02|00|00|SOM|Barbed Battlegear
---|FREE|U|NORM|03|00|00|SOM|Barrage Ogre
+--|FREE|U|NORM|02|00|00|SOM|Barrage Ogre
 --|FREE|R|NORM|01|00|00|FUT|Barren Glory
 --|FREE|U|NORM|01|00|00|AVR|Barter in Blood
 --|FREE|U|NORM|01|01|00|3ED|Basalt Monolith
@@ -1354,7 +1354,7 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|U|NORM|01|00|00|M12|Goblin Bangchuckers
 --|FREE|U|NORM|03|00|00|ZEN|Goblin Ruinblaster
 --|FREE|C|FOIL|01|00|00|SOM|Golden Urn
---|FREE|U|NORM|03|01|00|SOM|Golem Artisan
+--|FREE|U|NORM|02|01|00|SOM|Golem Artisan
 --|FREE|U|NORM|06|01|00|SOM|Golem's Heart
 --|FREE|U|NORM|01|00|00|ZEN|Gomazoa
 --|FREE|U|NORM|04|00|00|MBS|Gore Vassal
@@ -1660,7 +1660,6 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|R|NORM|01|00|00|NPH|Omen Machine
 --|FREE|U|NORM|01|00|00|GTC|One Thousand Lashes
 --|FREE|U|NORM|01|00|00|M12|Onyx Mage
---|FREE|R|NORM|01|00|00|GTC|Ooze Flux
 --|FREE|U|NORM|01|00|00|DDE|Order of Yawgmoth
 --|FREE|U|NORM|01|04|00|GPT|Order of the Stars
 --|FREE|U|NORM|03|00|00|GTC|Ordruun Veteran
@@ -2018,7 +2017,7 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|U|NORM|03|00|00|SOM|Trigon of Corruption
 --|FREE|U|NORM|01|00|00|SOM|Trigon of Infestation
 --|FREE|U|NORM|03|00|00|SOM|Trigon of Mending
---|FREE|U|NORM|03|00|00|SOM|Trigon of Rage
+--|FREE|U|NORM|02|00|00|SOM|Trigon of Rage
 --|FREE|U|NORM|06|00|00|SOM|Trigon of Thought
 --|FREE|U|NORM|04|01|00|SOM|Trinket Mage
 --|FREE|U|NORM|02|00|00|SHM|Trip Noose
