@@ -390,15 +390,15 @@ KN|SIDE|R|NORM|01|01|00|RTR|Rest in Peace
 KN|SIDE|U|NORM|02|02|00|GTC|Skullcrack
 KN|SIDE|R|NORM|02|03|00|NPH|Surgical Extraction
 WS|MAIN|M|NORM|01|01|00|NPH|Batterskull
-WS|MAIN|R|NORM|00|04|00|MRD|Chalice of the Void
-WS|MAIN|C|NORM|00|01|00|5DN|Cranial Plating
-WS|MAIN|C|NORM|00|04|00|TMP|Lotus Petal
-WS|MAIN|U|NORM|00|04|00|CSP|Mishra's Bauble
+WS|MAIN|R|NORM|00|04|03|MRD|Chalice of the Void
+WS|MAIN|C|NORM|00|01|01|5DN|Cranial Plating
+WS|MAIN|C|NORM|00|04|04|TMP|Lotus Petal
+WS|MAIN|U|NORM|00|04|04|CSP|Mishra's Bauble
 WS|MAIN|M|NORM|03|03|00|SOM|Mox Opal
 WS|MAIN|U|NORM|01|01|00|5DN|Paradise Mantle
 WS|MAIN|M|NORM|01|01|00|DST|Sword of Fire and Ice
 WS|MAIN|R|NORM|01|01|00|BOK|Umezawa's Jitte
-WS|MAIN|U|NORM|01|04|00|ICE|Urza's Bauble
+WS|MAIN|U|NORM|01|04|03|ICE|Urza's Bauble
 WS|MAIN|C|NORM|01|01|00|AVR|Ghostly Flicker
 WS|MAIN|C|NORM|03|03|00|MRD|Thoughtcast
 WS|MAIN|R|NORM|02|02|00|SOM|Etched Champion
@@ -412,15 +412,16 @@ WS|MAIN|C|NORM|04|04|00|MRD|Ancient Den
 WS|MAIN|R|NORM|00|04|04|AVR|Cavern of Souls
 WS|MAIN|C|NORM|03|03|00|DST|Darksteel Citadel
 WS|MAIN|U|NORM|00|01|01|LEG|Karakas
-WS|MAIN|C|NORM|00|04|00|MRD|Seat of the Synod
+WS|MAIN|C|NORM|00|04|04|MRD|Seat of the Synod
 WS|SIDE|R|NORM|01|01|00|SOM|Argentum Armor
+WS|SIDE|C|NORM|00|01|01|5DN|Cranial Plating
 WS|SIDE|R|NORM|02|02|00|5DN|Engineered Explosives
 WS|SIDE|R|NORM|01|01|00|ALA|Ethersworn Canonist
 WS|SIDE|R|NORM|00|02|02|NPH|Surgical Extraction
 WS|SIDE|M|NORM|01|01|00|MBS|Sword of Feast and Famine
 WS|SIDE|M|NORM|02|02|00|NPH|Sword of War and Peace
 WS|SIDE|U|NORM|03|03|00|M13|Tormod's Crypt
-WS|SIDE|C|NORM|00|02|00|MRD|Welding Jar
+WS|SIDE|C|NORM|00|04|04|MRD|Welding Jar
 PC|CUBE|C|NORM|01|01|00|ZEN|Adventuring Gear
 PC|CUBE|C|NORM|01|01|00|M12|AEther Adept
 PC|CUBE|C|NORM|01|01|00|ALA|Agony Warp
@@ -2124,8 +2125,8 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|C|FOIL|01|00|00|ZEN|Zendikar Farguide
 --|FREE|U|NORM|01|01|00|DDG|Zhalfirin Commander
 --|FREE|U|NORM|01|00|00|ICE|Zuran Orb
---|FREE|C|NORM|00|04|00|ARB|Ethercaste Knight
---|FREE|U|NORM|00|04|00|RTR|Judge's Familiar
+--|FREE|C|NORM|00|04|04|ARB|Ethercaste Knight
+--|FREE|U|NORM|00|04|04|RTR|Judge's Familiar
 --|FREE|U|NORM|00|04|00|5DN|Steelshaper's Gift
 --|FREE|R|NORM|00|04|00|M13|Serra Avenger
 --|FREE|R|NORM|00|01|00|DGM|Lavinia of the Tenth
