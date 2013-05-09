@@ -23,7 +23,7 @@ BN|MAIN|U|NORM|04|04|00|WWK|Tectonic Edge
 BN|MAIN|R|NORM|01|01|00|WWK|Terastodon
 BN|MAIN|M|NORM|01|01|00|ROE|Ulamog, the Infinite Gyre
 BN|MAIN|R|NORM|01|01|00|DPA|Vigor
-MF|MAIN|R|NORM|00|00|00|DST|Aether Vial
+MF|MAIN|R|NORM|04|04|00|DST|Aether Vial
 MF|MAIN|R|NORM|01|03|00|CHK|Azami, Lady of Scrolls
 MF|MAIN|U|NORM|01|04|00|SHM|Cursecatcher
 MF|MAIN|C|NORM|10|10|00|ZEN|ISLAND
@@ -154,7 +154,7 @@ CC|DECK|R|NORM|01|01|00|DKA|Increasing Savagery
 CC|DECK|R|NORM|01|01|00|SOM|Inexorable Tide
 CC|DECK|C|NORM|01|01|00|ZEN|Island
 CC|DECK|U|NORM|01|01|00|SHM|Leech Bonder
-CC|DECK|U|NORM|00|01|01|DDE|Lightning Greaves
+CC|DECK|U|NORM|01|01|00|DDE|Lightning Greaves
 CC|DECK|U|NORM|01|01|00|ARC|Llanowar Reborn
 CC|DECK|C|NORM|01|01|00|ONS|Lonely Sandbar
 CC|DECK|U|NORM|01|01|00|ARB|Lorescale Coatl
@@ -174,7 +174,6 @@ CC|DECK|U|NORM|01|01|00|DIS|Novijen, Heart of Progress
 CC|DECK|R|NORM|00|01|00|CHK|Okina, Temple to the Grandfathers
 CC|DECK|R|NORM|01|01|00|ZEN|Oran-Rief, the Vastwood
 CC|DECK|U|NORM|01|01|00|CHK|Overwhelming Intellect
-CC|DECK|U|NORM|01|01|00|5DN|Paradise Mantle
 CC|DECK|U|NORM|01|01|00|DIS|Plaxcaster Frogling
 CC|DECK|M|NORM|01|01|00|MBS|Praetor's Counsel
 CC|DECK|M|NORM|01|01|00|M13|Primordial Hydra
@@ -375,7 +374,7 @@ KN|MAIN|R|NORM|01|01|00|ONS|Weathered Wayfarer
 KN|MAIN|U|NORM|04|04|00|CON|Path to Exile
 KN|MAIN|R|NORM|03|03|00|AVR|Cavern of Souls
 KN|MAIN|R|NORM|04|04|00|M13|Glacial Fortress
-KN|MAIN|R|NORM|01|04|02|RTR|Hallowed Fountain
+KN|MAIN|R|NORM|03|04|00|RTR|Hallowed Fountain
 KN|MAIN|C|FULL|10|10|00|ZEN|Plains
 KN|MAIN|M|NORM|02|02|00|V12|Windbrisk Heights
 KN|MAIN|M|NORM|01|01|00|ALA|Elspeth, Knight-Errant
@@ -389,40 +388,39 @@ KN|SIDE|U|NORM|02|02|00|M13|Oblivion Ring
 KN|SIDE|R|NORM|03|03|00|SOM|Ratchet Bomb
 KN|SIDE|R|NORM|01|01|00|RTR|Rest in Peace
 KN|SIDE|U|NORM|02|02|00|GTC|Skullcrack
-KN|SIDE|R|NORM|01|03|01|NPH|Surgical Extraction
-WS|MAIN|R|NORM|02|02|00|ALA|Ethersworn Canonist
-WS|MAIN|U|NORM|04|04|00|ZEN|Kor Duelist
-WS|MAIN|C|NORM|01|01|00|ZEN|Kor Outfitter
-WS|MAIN|R|NORM|02|02|00|DST|Leonin Shikari
-WS|MAIN|R|NORM|02|02|00|ISD|Mentor of the Meek
-WS|MAIN|U|NORM|04|04|00|CMD|Mother of Runes
+KN|SIDE|R|NORM|02|03|00|NPH|Surgical Extraction
+WS|MAIN|M|NORM|01|01|00|NPH|Batterskull
+WS|MAIN|R|NORM|00|04|00|MRD|Chalice of the Void
+WS|MAIN|C|NORM|00|01|00|5DN|Cranial Plating
+WS|MAIN|C|NORM|00|04|00|TMP|Lotus Petal
+WS|MAIN|U|NORM|00|04|00|CSP|Mishra's Bauble
+WS|MAIN|M|NORM|03|03|00|SOM|Mox Opal
+WS|MAIN|U|NORM|01|01|00|5DN|Paradise Mantle
+WS|MAIN|M|NORM|01|01|00|DST|Sword of Fire and Ice
+WS|MAIN|R|NORM|01|01|00|BOK|Umezawa's Jitte
+WS|MAIN|U|NORM|01|04|00|ICE|Urza's Bauble
+WS|MAIN|C|NORM|01|01|00|AVR|Ghostly Flicker
+WS|MAIN|C|NORM|03|03|00|MRD|Thoughtcast
+WS|MAIN|R|NORM|02|02|00|SOM|Etched Champion
+WS|MAIN|R|NORM|01|01|00|ALA|Ethersworn Canonist
+WS|MAIN|U|NORM|02|02|00|ISD|Invisible Stalker
 WS|MAIN|R|NORM|04|04|00|NPH|Puresteel Paladin
 WS|MAIN|U|NORM|01|01|00|NPH|Spellskite
 WS|MAIN|R|NORM|04|04|00|WWK|Stoneforge Mystic
-WS|MAIN|U|NORM|04|04|00|NPH|Dispatch
+WS|MAIN|C|NORM|02|02|00|NPH|Vault Skirge
 WS|MAIN|C|NORM|04|04|00|MRD|Ancient Den
-WS|MAIN|R|NORM|00|01|01|AVR|Cavern of Souls
-WS|MAIN|C|NORM|04|04|00|DST|Darksteel Citadel
-WS|MAIN|R|NORM|00|01|01|TSP|Flagstones of Trokair
-WS|MAIN|R|NORM|00|01|01|FUT|Horizon Canopy
+WS|MAIN|R|NORM|00|04|04|AVR|Cavern of Souls
+WS|MAIN|C|NORM|03|03|00|DST|Darksteel Citadel
 WS|MAIN|U|NORM|00|01|01|LEG|Karakas
-WS|MAIN|C|FULL|04|04|00|ZEN|Plains
-WS|MAIN|U|NORM|00|04|04|TMP|Wasteland
-WS|MAIN|R|NORM|04|04|00|DST|Aether Vial
-WS|MAIN|R|NORM|01|01|00|SOM|Argentum Armor
-WS|MAIN|C|NORM|02|02|00|MBS|Flayer Husk
-WS|MAIN|U|NORM|01|01|00|ARC|Lightning Greaves
-WS|MAIN|M|NORM|02|02|00|SOM|Mox Opal
-WS|MAIN|M|NORM|01|01|00|NPH|Sword of War and Peace
-WS|MAIN|R|NORM|01|01|00|BOK|Umezawa's Jitte
-WS|SIDE|M|NORM|01|01|00|NPH|Batterskull
-WS|SIDE|R|NORM|00|01|00|MBS|Darksteel Plate
-WS|SIDE|R|NORM|00|02|02|5DN|Engineered Explosives
-WS|SIDE|U|NORM|04|04|00|DKA|Faith's Shield
+WS|MAIN|C|NORM|00|04|00|MRD|Seat of the Synod
+WS|SIDE|R|NORM|01|01|00|SOM|Argentum Armor
+WS|SIDE|R|NORM|02|02|00|5DN|Engineered Explosives
+WS|SIDE|R|NORM|01|01|00|ALA|Ethersworn Canonist
 WS|SIDE|R|NORM|00|02|02|NPH|Surgical Extraction
 WS|SIDE|M|NORM|01|01|00|MBS|Sword of Feast and Famine
-WS|SIDE|M|NORM|01|01|00|DST|Sword of Fire and Ice
+WS|SIDE|M|NORM|02|02|00|NPH|Sword of War and Peace
 WS|SIDE|U|NORM|03|03|00|M13|Tormod's Crypt
+WS|SIDE|C|NORM|00|02|00|MRD|Welding Jar
 PC|CUBE|C|NORM|01|01|00|ZEN|Adventuring Gear
 PC|CUBE|C|NORM|01|01|00|M12|AEther Adept
 PC|CUBE|C|NORM|01|01|00|ALA|Agony Warp
@@ -1186,7 +1184,7 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|U|NORM|02|00|00|SOM|Darkslick Drake
 --|FREE|R|NORM|01|00|00|SOM|Darkslick Shores
 --|FREE|U|NORM|07|00|00|SOM|Darksteel Axe
---|FREE|C|NORM|01|00|00|DST|Darksteel Citadel
+--|FREE|C|NORM|02|01|00|DST|Darksteel Citadel
 --|FREE|U|NORM|06|00|00|SOM|Darksteel Myr
 --|FREE|U|NORM|02|00|00|NPH|Darksteel Relic
 --|FREE|U|NORM|05|00|00|SOM|Darksteel Sentinel
@@ -1218,7 +1216,7 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|R|NORM|01|00|00|5ED|Dingus Egg
 --|FREE|U|FOIL|01|00|00|GTC|Disciple of the Old Ways
 --|FREE|C|NORM|03|03|00|TMP|Disenchant
---|FREE|U|NORM|02|02|00|NPH|Dispatch
+--|FREE|U|NORM|06|06|00|NPH|Dispatch
 --|FREE|U|NORM|07|00|00|SOM|Dispense Justice
 --|FREE|U|FOIL|01|00|00|SOM|Dispense Justice
 --|FREE|U|NORM|02|00|00|ISD|Dissipate
@@ -1260,7 +1258,6 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|U|NORM|03|00|00|NPH|Entomber Exarch
 --|FREE|U|NORM|01|00|00|HML|Eron the Relentless
 --|FREE|U|NORM|01|00|00|ROE|Escaped Null
---|FREE|R|NORM|02|02|00|SOM|Etched Champion
 --|FREE|M|NORM|02|00|00|NPH|Etched Monstrosity
 --|FREE|U|NORM|01|00|00|DDE|Evasive Action
 --|FREE|U|NORM|02|00|00|SOK|Evermind
@@ -1273,6 +1270,7 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|R|NORM|02|01|00|SOM|Ezuri's Brigade
 --|FREE|R|NORM|01|01|00|SOM|Ezuri, Renegade Leader
 --|FREE|C|NORM|00|03|00|SHM|Faerie Macabre
+--|FREE|U|NORM|04|04|00|DKA|Faith's Shield
 --|FREE|U|NORM|02|00|00|RTR|Fall of the Gavel
 --|FREE|U|NORM|01|00|00|NPH|Fallen Ferromancer
 --|FREE|R|PROM|01|01|00|GTC|Fathom Mage
@@ -1294,7 +1292,7 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|U|NORM|01|00|00|DIS|Flaring Flame-Kin
 --|FREE|U|NORM|01|00|00|DIS|Flash Foliage
 --|FREE|U|FOIL|01|00|00|M11|Flashfreeze
---|FREE|C|NORM|02|02|00|MBS|Flayer Husk
+--|FREE|C|NORM|04|04|00|MBS|Flayer Husk
 --|FREE|U|NORM|04|00|00|SOM|Flesh Allergy
 --|FREE|U|NORM|01|00|00|MBS|Flesh-Eater Imp
 --|FREE|U|NORM|02|00|00|SOK|Footsteps of the Goryo
@@ -1453,7 +1451,7 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|U|NORM|02|00|00|ISD|Into the Maw of Hell
 --|FREE|R|FOIL|01|00|00|NPH|Invader Parasite
 --|FREE|R|NORM|01|00|00|NPH|Invader Parasite
---|FREE|U|NORM|03|04|00|ISD|Invisible Stalker
+--|FREE|U|NORM|01|01|00|ISD|Invisible Stalker
 --|FREE|U|NORM|01|00|00|ROE|Irresistible Prey
 --|FREE|R|NORM|01|01|00|CHK|Isamaru, Hound of Konda
 --|FREE|C|FOIL|01|00|00|SOM|Island
@@ -1503,9 +1501,9 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|R|NORM|01|00|00|MBS|Knowledge Pool
 --|FREE|U|NORM|03|03|00|ZEN|Kor Aeronaut
 --|FREE|U|FOIL|01|00|00|ZEN|Kor Duelist
---|FREE|U|NORM|03|00|00|ZEN|Kor Duelist
+--|FREE|U|NORM|07|04|00|ZEN|Kor Duelist
 --|FREE|U|NORM|04|04|00|WWK|Kor Firewalker
---|FREE|C|NORM|01|01|00|ZEN|Kor Outfitter
+--|FREE|C|NORM|02|02|00|ZEN|Kor Outfitter
 --|FREE|U|FOIL|01|00|00|ZEN|Kor Skyfisher
 --|FREE|U|NORM|01|00|00|RTR|Korozda Guildmage
 --|FREE|U|NORM|01|00|00|M12|Kraken's Eye
@@ -1523,7 +1521,7 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|U|NORM|03|00|00|WWK|Leatherback Baloth
 --|FREE|U|NORM|05|00|00|SHM|Leech Bonder
 --|FREE|U|NORM|05|04|00|MBS|Leonin Relic-Warder
---|FREE|R|NORM|02|02|00|DST|Leonin Shikari
+--|FREE|R|NORM|04|04|00|DST|Leonin Shikari
 --|FREE|U|NORM|01|01|00|DDG|Leonin Skyhunter
 --|FREE|C|NORM|04|04|00|MBS|Leonin Skyhunter
 --|FREE|U|NORM|01|00|00|M12|Levitation
@@ -1581,7 +1579,7 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|U|NORM|01|01|00|ISD|Memory's Journey
 --|FREE|U|NORM|02|01|00|NPH|Mental Misstep
 --|FREE|U|NORM|01|00|00|GTC|Mental Vapors
---|FREE|R|NORM|02|02|00|ISD|Mentor of the Meek
+--|FREE|R|NORM|04|04|00|ISD|Mentor of the Meek
 --|FREE|U|NORM|02|00|00|ZEN|Merfolk Seastalkers
 --|FREE|U|NORM|01|00|00|ROE|Merfolk Skyscout
 --|FREE|U|NORM|04|00|00|ZEN|Merfolk Wayfinder
@@ -2040,7 +2038,6 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|R|NORM|01|01|00|NPH|Unwinding Clock
 --|FREE|U|NORM|03|01|00|GTC|Urban Evolution
 --|FREE|U|NORM|04|00|00|GTC|Urbis Protector
---|FREE|U|NORM|01|00|00|ICE|Urza's Bauble
 --|FREE|U|NORM|01|00|00|CHR|Urza's Mine
 --|FREE|U|NORM|01|00|00|5ED|Urza's Mine
 --|FREE|U|NORM|01|00|00|CHR|Urza's Power Plant
@@ -2131,5 +2128,5 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|U|NORM|00|04|00|RTR|Judge's Familiar
 --|FREE|U|NORM|00|04|00|5DN|Steelshaper's Gift
 --|FREE|R|NORM|00|04|00|M13|Serra Avenger
---|FREE|C|NORM|00|04|00|MRD|Seat of the Synod
 --|FREE|R|NORM|00|01|00|DGM|Lavinia of the Tenth
+--|FREE|C|NORM|00|04|00|WTH|Disrupt
