@@ -390,7 +390,7 @@ KN|SIDE|R|NORM|01|01|00|RTR|Rest in Peace
 KN|SIDE|U|NORM|02|02|00|GTC|Skullcrack
 KN|SIDE|R|NORM|02|03|00|NPH|Surgical Extraction
 WS|MAIN|M|NORM|01|01|00|NPH|Batterskull
-WS|MAIN|R|NORM|00|04|03|MRD|Chalice of the Void
+WS|MAIN|R|NORM|00|04|04|MRD|Chalice of the Void
 WS|MAIN|C|NORM|00|01|01|5DN|Cranial Plating
 WS|MAIN|C|NORM|00|04|04|TMP|Lotus Petal
 WS|MAIN|U|NORM|00|04|04|CSP|Mishra's Bauble
