@@ -1,5 +1,5 @@
 BN|MAIN|C|NORM|03|03|00|M11|Cultivate
-BN|MAIN|R|NORM|03|04|00|ROE|Eldrazi Temple
+BN|MAIN|R|NORM|03|04|01|ROE|Eldrazi Temple
 BN|MAIN|M|PROM|01|01|00|ROE|Emrakul, the Aeons Torn
 BN|MAIN|U|NORM|01|01|00|ARC|Everflowing Chalice
 BN|MAIN|U|NORM|01|01|00|WWK|Everflowing Chalice
@@ -34,7 +34,7 @@ MF|MAIN|U|NORM|04|04|00|LRW|Merrow Reejerey
 MF|MAIN|R|NORM|01|01|00|CHK|Minamo, School at Water's Edge
 MF|MAIN|R|NORM|01|01|00|SOK|Miren, the Moaning Well
 MF|MAIN|R|NORM|00|04|00|MOR|Mutavault
-MF|MAIN|R|NORM|00|03|02|M12|Phantasmal Image
+MF|MAIN|R|NORM|00|03|03|M12|Phantasmal Image
 MF|MAIN|U|NORM|02|02|00|MOR|Sage's Dousing
 MF|MAIN|U|NORM|04|04|00|LRW|Silvergill Adept
 MF|MAIN|C|NORM|02|02|00|ZEN|Spell Pierce
@@ -46,7 +46,7 @@ MF|SIDE|R|NORM|02|04|00|TSP|Lord of Atlantis
 MF|SIDE|R|NORM|01|01|00|M10|Merfolk Sovereign
 MF|SIDE|R|NORM|01|01|00|M11|Merfolk Sovereign
 MF|SIDE|R|NORM|01|01|00|LRW|Merrow Commerce
-MF|SIDE|R|NORM|00|01|00|M12|Phantasmal Image
+MF|SIDE|R|NORM|00|01|01|M12|Phantasmal Image
 MF|SIDE|U|NORM|02|02|00|MOR|Sage's Dousing
 MF|SIDE|U|NORM|01|01|00|LRW|Surgespanner
 MF|SIDE|R|NORM|01|01|00|EVE|Wake Thrasher
@@ -1054,7 +1054,6 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|U|NORM|01|00|00|ISD|Bitterheart Witch
 --|FREE|U|NORM|01|00|00|M10|Black Knight
 --|FREE|U|NORM|01|00|00|M11|Black Knight
---|FREE|R|FOIL|01|00|00|SOM|Blackcleave Cliffs
 --|FREE|R|NORM|01|00|00|ZEN|Blade of the Bloodchief
 --|FREE|C|FOIL|01|00|00|ZEN|Bladetusk Boar
 --|FREE|U|NORM|02|00|00|DPA|Blanchwood Armor
@@ -1079,6 +1078,7 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|U|NORM|01|00|00|AVR|Bower Passage
 --|FREE|U|NORM|01|00|00|DIS|Brace for Impact
 --|FREE|U|NORM|01|00|00|DIS|Brain Pry
+--|FREE|C|NORM|00|02|01|ICE|Brainstorm
 --|FREE|U|NORM|03|00|00|ISD|Bramblecrush
 --|FREE|U|NORM|01|00|00|ROE|Bramblesnap
 --|FREE|U|NORM|03|00|00|MBS|Brass Squire
@@ -1466,7 +1466,6 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|U|NORM|01|00|00|ARC|Juggernaut
 --|FREE|U|NORM|01|00|00|M11|Juggernaut
 --|FREE|U|NORM|03|00|00|ALA|Jund Battlemage
---|FREE|U|NORM|01|00|00|ALA|Jund Charm
 --|FREE|U|NORM|01|01|00|DDG|Juniper Order Ranger
 --|FREE|U|NORM|03|00|00|ZEN|Jwar Isle Refuge
 --|FREE|U|NORM|01|01|00|DDG|Kabira Vindicator
@@ -1534,7 +1533,7 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|U|NORM|03|00|00|WWK|Lightkeeper of Emeria
 --|FREE|C|NORM|04|04|00|M10|Lightning Bolt
 --|FREE|U|NORM|00|02|00|DDH|Lightning Helix
---|FREE|U|NORM|02|00|00|RAV|Lightning Helix
+--|FREE|U|NORM|01|00|00|RAV|Lightning Helix
 --|FREE|U|NORM|06|04|00|AVR|Lightning Mauler
 --|FREE|U|NORM|01|00|00|AVR|Lightning Prowess
 --|FREE|U|NORM|04|00|00|M11|Liliana's Caress
@@ -1837,7 +1836,6 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|U|NORM|02|00|00|ALL|Shield Sphere
 --|FREE|U|NORM|02|00|00|SOK|Shifting Borders
 --|FREE|M|FOIL|01|01|00|V12|Shivan Gorge
---|FREE|U|NORM|01|00|00|DDE|Shivan Oasis
 --|FREE|C|FOIL|01|00|00|DKA|Shriekgeist
 --|FREE|U|NORM|02|00|00|NPH|Shrine of Boundless Growth
 --|FREE|U|NORM|02|00|00|NPH|Shrine of Limitless Power
@@ -2006,7 +2004,7 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|U|NORM|01|01|00|DDG|Treetop Village
 --|FREE|U|NORM|01|01|00|ISD|Trepanation Blade
 --|FREE|U|NORM|01|00|00|DDE|Treva's Charm
---|FREE|U|NORM|03|00|00|PLS|Treva's Ruins
+--|FREE|U|NORM|02|00|00|PLS|Treva's Ruins
 --|FREE|U|FOIL|01|00|00|SOM|Trigon of Corruption
 --|FREE|U|NORM|03|00|00|SOM|Trigon of Corruption
 --|FREE|U|NORM|01|00|00|SOM|Trigon of Infestation
@@ -2129,5 +2127,5 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|U|NORM|00|04|04|RTR|Judge's Familiar
 --|FREE|U|NORM|00|04|00|5DN|Steelshaper's Gift
 --|FREE|R|NORM|00|04|00|M13|Serra Avenger
---|FREE|R|NORM|00|01|00|DGM|Lavinia of the Tenth
+--|FREE|R|NORM|00|01|01|DGM|Lavinia of the Tenth
 --|FREE|C|NORM|00|04|00|WTH|Disrupt
