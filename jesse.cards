@@ -24,8 +24,8 @@ BN|MAIN|R|NORM|01|01|00|WWK|Terastodon
 BN|MAIN|M|NORM|01|01|00|ROE|Ulamog, the Infinite Gyre
 BN|MAIN|R|NORM|01|01|00|DPA|Vigor
 MF|MAIN|R|NORM|04|04|00|DST|Aether Vial
-MF|MAIN|R|NORM|01|03|00|CHK|Azami, Lady of Scrolls
-MF|MAIN|U|NORM|01|04|00|SHM|Cursecatcher
+MF|MAIN|R|NORM|01|03|01|CHK|Azami, Lady of Scrolls
+MF|MAIN|U|NORM|01|04|01|SHM|Cursecatcher
 MF|MAIN|C|NORM|10|10|00|ZEN|ISLAND
 MF|MAIN|R|NORM|04|04|00|M13|Master of the Pearl Trident
 MF|MAIN|R|NORM|02|02|00|M11|Merfolk Sovereign
@@ -190,7 +190,7 @@ CC|DECK|U|NORM|00|01|00|CMD|Sol Ring
 CC|DECK|R|NORM|00|01|00|ALA|Spearbreaker Behemoth
 CC|DECK|R|NORM|01|01|00|EXO|Spike Weaver
 CC|DECK|U|NORM|01|01|00|CMD|Temple of the False God
-CC|DECK|M|NORM|00|01|00|CON|Thornling
+CC|DECK|M|NORM|00|01|01|CON|Thornling
 CC|DECK|R|NORM|00|01|00|LRW|Thousand-Year Elixir
 CC|DECK|R|NORM|01|01|00|USG|Thran Quarry
 CC|DECK|U|NORM|01|01|00|FUT|Tolaria West
@@ -1076,7 +1076,8 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|U|NORM|01|00|00|AVR|Bower Passage
 --|FREE|U|NORM|01|00|00|DIS|Brace for Impact
 --|FREE|U|NORM|01|00|00|DIS|Brain Pry
---|FREE|C|NORM|01|02|00|ICE|Brainstorm
+--|FREE|C|NORM|01|00|00|ICE|Brainstorm
+--|FREE|C|NORM|00|04|00|CMD|Brainstorm
 --|FREE|U|NORM|03|00|00|ISD|Bramblecrush
 --|FREE|U|NORM|01|00|00|ROE|Bramblesnap
 --|FREE|U|NORM|03|00|00|MBS|Brass Squire
@@ -1545,7 +1546,6 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|C|NORM|04|04|00|MBS|Leonin Skyhunter
 --|FREE|U|NORM|01|00|00|M12|Levitation
 --|FREE|U|NORM|02|00|00|M10|Levitation
---|FREE|R|NORM|02|01|00|M11|Leyline of Anticipation
 --|FREE|R|NORM|04|00|00|M11|Leyline of Vitality
 --|FREE|U|NORM|01|01|00|4ED|Library of Leng
 --|FREE|U|NORM|04|00|00|SOM|Lifesmith
@@ -1633,7 +1633,6 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|U|NORM|01|00|00|ISD|Morkrut Banshee
 --|FREE|C|FOIL|01|00|00|MOR|Morsel Theft
 --|FREE|U|NORM|02|02|00|MBS|Mortarpod
---|FREE|U|NORM|01|00|00|ULG|Mother of Runes
 --|FREE|C|FOIL|01|00|00|ISD|Mountain
 --|FREE|C|FOIL|01|00|00|RTR|Mountain
 --|FREE|U|FOIL|01|00|00|ZEN|Murasa Pyromancer
@@ -2102,7 +2101,7 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|U|NORM|03|01|00|MBS|Vedalken Infuser
 --|FREE|U|NORM|03|00|00|5DN|Vedalken Mastermind
 --|FREE|R|NORM|01|00|00|M11|Vengeful Archon
---|FREE|R|NORM|02|01|00|SOM|Venser's Journal
+--|FREE|R|NORM|01|01|00|SOM|Venser's Journal
 --|FREE|R|FOIL|01|00|00|DPA|Verdant Force
 --|FREE|U|NORM|01|00|00|DDE|Verduran Emissary
 --|FREE|U|NORM|02|02|00|AVR|Vessel of Endless Rest
