@@ -63,42 +63,6 @@ MR|MAIN|R|NORM|03|03|00|SOM|Semblance Anvil
 MR|MAIN|R|NORM|02|02|00|ROE|Splinter Twin
 MR|MAIN|U|NORM|02|04|00|WWK|Tectonic Edge
 MR|SIDE|U|NORM|03|03|00|NPH|Whipflare
-MR|ALTS|U|NORM|01|01|00|NPH|Alloy Myr
-MR|ALTS|R|NORM|01|01|00|ROE|Awakening Zone
-MR|ALTS|C|NORM|01|01|00|SOM|Copper Myr
-MR|ALTS|U|NORM|01|01|00|SOM|Darksteel Myr
-MR|ALTS|U|NORM|01|01|00|MIR|Enlightened Tutor
-MR|ALTS|R|NORM|01|01|00|SOM|Gold Myr
-MR|ALTS|R|NORM|01|01|00|SOM|Grand Architect
-MR|ALTS|C|NORM|01|01|00|NPH|Hovermyr
-MR|ALTS|U|NORM|01|01|00|ISD|Intangible Virtue
-MR|ALTS|R|NORM|01|01|00|RTR|Jarad's Orders
-MR|ALTS|R|NORM|01|01|00|SOM|Kuldotha Phoenix
-MR|ALTS|C|NORM|01|01|00|SOM|Leaden Myr
-MR|ALTS|R|NORM|01|01|00|ROE|Magmaw
-MR|ALTS|C|NORM|01|01|00|MBS|Master's Call
-MR|ALTS|R|NORM|01|01|00|MBS|Mirrorworks
-MR|ALTS|R|NORM|01|01|00|SOM|Myr Battlesphere
-MR|ALTS|R|NORM|01|01|00|SOM|Myr Propagator
-MR|ALTS|R|NORM|01|01|00|SOM|Myr Reservoir
-MR|ALTS|U|NORM|01|01|00|MRD|Myr Retriever
-MR|ALTS|R|NORM|01|01|00|SOM|Myr Superion
-MR|ALTS|R|NORM|01|01|00|MBS|Myr Welder
-MR|ALTS|U|NORM|01|01|00|SOM|Myrsmith
-MR|ALTS|R|NORM|01|01|00|ISD|Parallel Lives
-MR|ALTS|C|NORM|01|01|00|SOM|Perilous Myr
-MR|ALTS|M|NORM|01|01|00|SOM|Platinum Emperion
-MR|ALTS|R|NORM|01|01|00|SOM|Shape Anew
-MR|ALTS|R|NORM|01|01|00|MBS|Shimmer Myr
-MR|ALTS|U|NORM|01|01|00|NPH|Shrine of Loyal Legions
-MR|ALTS|C|NORM|01|01|00|SOM|Silver Myr
-MR|ALTS|R|NORM|01|01|00|NPH|Soul Conduit
-MR|ALTS|R|NORM|01|01|00|M11|Steel Overseer
-MR|ALTS|C|NORM|01|01|00|SOM|Strider Harness
-MR|ALTS|R|NORM|01|01|00|SOM|Tempered Steel
-MR|ALTS|R|NORM|01|01|00|MBS|Thopter Assembly
-MR|ALTS|R|NORM|01|01|00|NPH|Unwinding Clock
-MR|ALTS|R|NORM|01|01|00|ZEN|World Queller
 CC|DECK|R|NORM|01|01|00|AVR|Alchemist's Refuge
 CC|DECK|U|NORM|01|01|00|CON|Ancient Ziggurat
 CC|DECK|R|NORM|01|01|00|10E|Arcanis the Omnipotent
@@ -2177,3 +2141,39 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|U|NORM|01|00|00|ICE|Zuran Orb
 --|FREE|C|NORM|00|01|00|LRW|Spellstutter Sprite
 --|FREE|C|NORM|00|02|02|ZEN|Spell Pierce
+--|FREE|U|NORM|01|01|00|NPH|Alloy Myr
+--|FREE|R|NORM|01|01|00|ROE|Awakening Zone
+--|FREE|C|NORM|01|01|00|SOM|Copper Myr
+--|FREE|U|NORM|01|01|00|SOM|Darksteel Myr
+--|FREE|U|NORM|01|01|00|MIR|Enlightened Tutor
+--|FREE|R|NORM|01|01|00|SOM|Gold Myr
+--|FREE|R|NORM|01|01|00|SOM|Grand Architect
+--|FREE|C|NORM|01|01|00|NPH|Hovermyr
+--|FREE|U|NORM|01|01|00|ISD|Intangible Virtue
+--|FREE|R|NORM|01|01|00|RTR|Jarad's Orders
+--|FREE|R|NORM|01|01|00|SOM|Kuldotha Phoenix
+--|FREE|C|NORM|01|01|00|SOM|Leaden Myr
+--|FREE|R|NORM|01|01|00|ROE|Magmaw
+--|FREE|C|NORM|01|01|00|MBS|Master's Call
+--|FREE|R|NORM|01|01|00|MBS|Mirrorworks
+--|FREE|R|NORM|01|01|00|SOM|Myr Battlesphere
+--|FREE|R|NORM|01|01|00|SOM|Myr Propagator
+--|FREE|R|NORM|01|01|00|SOM|Myr Reservoir
+--|FREE|U|NORM|01|01|00|MRD|Myr Retriever
+--|FREE|R|NORM|01|01|00|SOM|Myr Superion
+--|FREE|R|NORM|01|01|00|MBS|Myr Welder
+--|FREE|U|NORM|01|01|00|SOM|Myrsmith
+--|FREE|R|NORM|01|01|00|ISD|Parallel Lives
+--|FREE|C|NORM|01|01|00|SOM|Perilous Myr
+--|FREE|M|NORM|01|01|00|SOM|Platinum Emperion
+--|FREE|R|NORM|01|01|00|SOM|Shape Anew
+--|FREE|R|NORM|01|01|00|MBS|Shimmer Myr
+--|FREE|U|NORM|01|01|00|NPH|Shrine of Loyal Legions
+--|FREE|C|NORM|01|01|00|SOM|Silver Myr
+--|FREE|R|NORM|01|01|00|NPH|Soul Conduit
+--|FREE|R|NORM|01|01|00|M11|Steel Overseer
+--|FREE|C|NORM|01|01|00|SOM|Strider Harness
+--|FREE|R|NORM|01|01|00|SOM|Tempered Steel
+--|FREE|R|NORM|01|01|00|MBS|Thopter Assembly
+--|FREE|R|NORM|01|01|00|NPH|Unwinding Clock
+--|FREE|R|NORM|01|01|00|ZEN|World Queller
