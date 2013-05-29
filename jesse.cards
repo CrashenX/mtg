@@ -175,7 +175,7 @@ GW|MAIN|R|NORM|02|02|00|CON|Knight of the Reliquary
 GW|MAIN|U|NORM|04|04|00|CMD|Mother of Runes
 GW|MAIN|R|NORM|04|04|00|CON|Noble Hierarch
 GW|MAIN|C|NORM|02|02|00|ARB|Qasali Pridemage
-GW|MAIN|R|NORM|01|02|00|CMD|Scavenging Ooze
+GW|MAIN|R|NORM|01|02|01|CMD|Scavenging Ooze
 GW|MAIN|U|NORM|01|01|00|TSP|Scryb Ranger
 GW|MAIN|R|NORM|01|01|00|JUD|Sylvan Safekeeper
 GW|MAIN|R|NORM|01|01|00|ODY|Terravore
@@ -1001,7 +1001,6 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|U|NORM|01|00|00|M12|Belltower Sphinx
 --|FREE|U|NORM|04|04|00|ODY|Beloved Chaplain
 --|FREE|U|NORM|02|00|00|WWK|Bestial Menace
---|FREE|R|NORM|01|00|00|M12|Birds of Paradise
 --|FREE|R|NORM|04|04|00|M10|Birds of Paradise
 --|FREE|U|NORM|01|00|00|SHM|Biting Tether
 --|FREE|U|NORM|01|00|00|ISD|Bitterheart Witch
@@ -1145,7 +1144,6 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|U|NORM|01|00|00|RTR|Dark Revenant
 --|FREE|U|FOIL|01|00|00|SOM|Darkslick Drake
 --|FREE|U|NORM|02|00|00|SOM|Darkslick Drake
---|FREE|R|NORM|01|00|00|SOM|Darkslick Shores
 --|FREE|U|NORM|07|00|00|SOM|Darksteel Axe
 --|FREE|C|NORM|02|01|00|DST|Darksteel Citadel
 --|FREE|U|NORM|06|00|00|SOM|Darksteel Myr
@@ -1153,7 +1151,6 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|U|NORM|02|00|00|NPH|Darksteel Relic
 --|FREE|U|NORM|05|00|00|SOM|Darksteel Sentinel
 --|FREE|U|NORM|01|00|00|TMP|Dauthi Embrace
---|FREE|R|NORM|01|00|00|M12|Day of Judgment
 --|FREE|R|NORM|02|02|00|ZEN|Day of Judgment
 --|FREE|R|NORM|01|00|00|RTR|Deadbridge Goliath
 --|FREE|R|NORM|01|00|00|RTR|Death's Presence
@@ -1258,7 +1255,6 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|U|NORM|02|00|00|SOK|Feral Lightning
 --|FREE|C|NORM|01|01|00|ARC|Fertilid
 --|FREE|U|NORM|03|03|00|ISD|Fiend Hunter
---|FREE|R|FOIL|01|00|00|PD2|Figure of Destiny
 --|FREE|U|NORM|01|00|00|CON|Filigree Fracture
 --|FREE|U|NORM|02|00|00|M11|Fire Servant
 --|FREE|U|NORM|01|01|00|M10|Fireball
@@ -1352,7 +1348,7 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|U|NORM|03|00|00|ROE|Gravity Well
 --|FREE|U|NORM|03|00|00|ZEN|Graypelt Refuge
 --|FREE|C|NORM|03|01|00|ZEN|Grazing Gladehart
---|FREE|C|NORM|02|00|00|MRD|Great Furnace
+--|FREE|C|NORM|01|00|00|MRD|Great Furnace
 --|FREE|U|NORM|01|00|00|M12|Greatsword
 --|FREE|U|NORM|02|00|00|NPH|Greenhilt Trainee
 --|FREE|U|NORM|06|04|00|ZEN|Greenweaver Druid
@@ -1525,7 +1521,6 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|C|NORM|01|01|00|SOM|Leaden Myr
 --|FREE|U|NORM|03|00|00|WWK|Leatherback Baloth
 --|FREE|U|NORM|05|00|00|SHM|Leech Bonder
---|FREE|R|NORM|01|00|00|GTC|Legion Loyalist
 --|FREE|M|NORM|01|01|00|DGM|Legion's Initiative
 --|FREE|U|NORM|05|04|00|MBS|Leonin Relic-Warder
 --|FREE|R|NORM|04|04|00|DST|Leonin Shikari
@@ -1765,7 +1760,6 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|R|FOIL|01|00|00|SOM|Putrefax
 --|FREE|U|NORM|01|01|00|M11|Pyroclasm
 --|FREE|U|NORM|02|00|00|RTR|Pyroconvergence
---|FREE|R|NORM|02|00|00|ZEN|Pyromancer Ascension
 --|FREE|U|NORM|03|00|00|ZEN|Quest for Ancient Secrets
 --|FREE|U|NORM|03|00|00|ZEN|Quest for Pure Flame
 --|FREE|U|NORM|04|01|00|WWK|Quest for Renewal
@@ -2022,7 +2016,6 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|U|NORM|02|02|00|M12|Swiftfoot Boots
 --|FREE|R|NORM|01|01|00|M11|Sword of Vengeance
 --|FREE|M|NORM|01|01|00|NPH|Sword of War and Peace
---|FREE|U|NORM|02|00|00|3ED|Swords to Plowshares
 --|FREE|U|NORM|01|01|00|ICE|Swords to Plowshares
 --|FREE|U|NORM|02|00|00|RTR|Syncopate
 --|FREE|U|NORM|01|00|00|ARC|Synod Centurion
