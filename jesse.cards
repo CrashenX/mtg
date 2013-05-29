@@ -354,7 +354,7 @@ WS|MAIN|R|NORM|01|01|00|BOK|Umezawa's Jitte
 WS|MAIN|C|NORM|04|04|00|MRD|Thoughtcast
 WS|MAIN|U|NORM|03|03|00|ISD|Invisible Stalker
 WS|MAIN|C|NORM|02|02|00|ZEN|Kor Skyfisher
-WS|MAIN|R|NORM|00|04|04|ARB|Meddling Mage
+WS|MAIN|R|NORM|04|04|00|ARB|Meddling Mage
 WS|MAIN|R|NORM|04|04|00|NPH|Puresteel Paladin
 WS|MAIN|R|NORM|04|04|00|WWK|Stoneforge Mystic
 WS|MAIN|C|NORM|04|04|00|MRD|Ancient Den
@@ -1579,7 +1579,7 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|R|NORM|01|01|00|SOK|Miren, the Moaning Well
 --|FREE|U|NORM|03|00|00|DST|Mirrodin's Core
 --|FREE|R|NORM|01|00|00|MBS|Mirrorworks
---|FREE|C|NORM|00|04|02|BOK|Mistblade Shinobi
+--|FREE|C|NORM|02|04|00|BOK|Mistblade Shinobi
 --|FREE|U|NORM|01|01|00|SHM|Mistveil Plains
 --|FREE|R|NORM|01|00|00|MBS|Mitotic Manipulation
 --|FREE|R|NORM|02|01|00|M11|Mitotic Slime
@@ -1622,7 +1622,7 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|U|NORM|02|00|00|SOK|Nikko-Onna
 --|FREE|R|NORM|01|00|00|SOM|Nim Deathmantle
 --|FREE|U|NORM|01|00|00|GTC|Nimbus Swimmer
---|FREE|C|NORM|00|04|03|BOK|Ninja of the Deep Hours
+--|FREE|C|NORM|03|04|00|BOK|Ninja of the Deep Hours
 --|FREE|M|NORM|01|00|00|RTR|Niv-Mizzet, Dracogenius
 --|FREE|R|NORM|02|02|00|NPH|Norn's Annex
 --|FREE|U|NORM|02|00|00|ROE|Not of This World
@@ -1748,7 +1748,7 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|R|NORM|01|01|00|DGM|Render Silent
 --|FREE|R|NORM|01|00|00|ROE|Renegade Doppelganger
 --|FREE|U|NORM|01|01|00|MMQ|Renounce
---|FREE|C|NORM|00|04|04|GPT|Repeal
+--|FREE|C|NORM|04|04|00|GPT|Repeal
 --|FREE|U|NORM|01|00|00|DDG|Reprisal
 --|FREE|R|NORM|02|01|00|RTR|Rest in Peace
 --|FREE|U|NORM|01|01|00|GTC|Restore the Peace
