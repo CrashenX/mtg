@@ -23,9 +23,9 @@ BN|MAIN|U|NORM|04|04|00|WWK|Tectonic Edge
 BN|MAIN|R|NORM|01|01|00|WWK|Terastodon
 BN|MAIN|M|NORM|01|01|00|ROE|Ulamog, the Infinite Gyre
 BN|MAIN|R|NORM|01|01|00|DPA|Vigor
-MF|MAIN|R|NORM|01|03|01|CHK|Azami, Lady of Scrolls
+MF|MAIN|R|NORM|02|03|00|CHK|Azami, Lady of Scrolls
 MF|MAIN|R|NORM|01|01|00|ROE|Coralhelm Commander
-MF|MAIN|U|NORM|01|04|02|SHM|Cursecatcher
+MF|MAIN|U|NORM|03|04|00|SHM|Cursecatcher
 MF|MAIN|R|NORM|04|04|00|M13|Master of the Pearl Trident
 MF|MAIN|U|NORM|04|04|00|LRW|Merrow Reejerey
 MF|MAIN|R|NORM|02|03|01|M12|Phantasmal Image
@@ -144,7 +144,7 @@ CC|DECK|U|NORM|00|01|00|CMD|Sol Ring
 CC|DECK|R|NORM|00|01|00|ALA|Spearbreaker Behemoth
 CC|DECK|R|NORM|01|01|00|EXO|Spike Weaver
 CC|DECK|U|NORM|01|01|00|CMD|Temple of the False God
-CC|DECK|M|NORM|00|01|01|CON|Thornling
+CC|DECK|M|NORM|01|01|00|CON|Thornling
 CC|DECK|R|NORM|00|01|00|LRW|Thousand-Year Elixir
 CC|DECK|R|NORM|01|01|00|USG|Thran Quarry
 CC|DECK|U|NORM|01|01|00|FUT|Tolaria West
@@ -343,7 +343,7 @@ KN|SIDE|R|NORM|01|01|00|RTR|Rest in Peace
 KN|SIDE|R|NORM|02|03|00|NPH|Surgical Extraction
 WS|MAIN|C|NORM|03|03|00|SOM|Accorder's Shield
 WS|MAIN|M|NORM|01|01|00|NPH|Batterskull
-WS|MAIN|R|NORM|03|04|01|MRD|Chalice of the Void
+WS|MAIN|R|NORM|04|04|00|MRD|Chalice of the Void
 WS|MAIN|C|NORM|01|01|00|5DN|Cranial Plating
 WS|MAIN|C|NORM|04|04|00|TMP|Lotus Petal
 WS|MAIN|U|NORM|04|04|00|CSP|Mishra's Bauble
@@ -1207,7 +1207,7 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|U|NORM|04|00|00|GTC|Dying Wish
 --|FREE|U|NORM|02|00|00|M11|Earth Servant
 --|FREE|U|NORM|01|00|00|SOK|Ebony Owl Netsuke
---|FREE|C|NORM|00|04|04|DST|Echoing Truth
+--|FREE|C|NORM|04|04|00|DST|Echoing Truth
 --|FREE|C|NORM|01|01|00|DDG|Edge of Autumn
 --|FREE|U|NORM|03|00|00|SOK|Eiganjo Free-Riders
 --|FREE|M|NORM|01|01|00|DKA|Elbrus, the Binding Blade
@@ -1581,7 +1581,7 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|C|NORM|01|01|00|MBS|Master's Call
 --|FREE|U|NORM|01|00|00|DGM|Maw of the Obzedat
 --|FREE|U|NORM|01|00|00|SOK|Measure of Wickedness
---|FREE|R|NORM|00|04|04|ARB|Meddling Mage
+--|FREE|R|NORM|04|04|00|ARB|Meddling Mage
 --|FREE|U|NORM|04|00|00|M10|Megrim
 --|FREE|U|NORM|03|03|00|SOM|Memnite
 --|FREE|U|NORM|01|01|00|ISD|Memory's Journey
@@ -1875,7 +1875,7 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|U|NORM|04|00|00|M10|Serra Angel
 --|FREE|U|NORM|01|00|00|M11|Serra Angel
 --|FREE|U|NORM|01|00|00|M13|Serra Angel
---|FREE|R|NORM|00|04|04|M13|Serra Avenger
+--|FREE|R|NORM|01|04|04|M13|Serra Avenger
 --|FREE|C|NORM|01|01|00|GTC|Shambleshark
 --|FREE|R|NORM|01|01|00|SOM|Shape Anew
 --|FREE|U|NORM|02|00|00|SOK|Shape Stealer
