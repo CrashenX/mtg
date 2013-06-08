@@ -1187,7 +1187,7 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|U|NORM|01|00|00|GTC|Dinrova Horror
 --|FREE|C|FOIL|01|00|00|GTC|Disciple of the Old Ways
 --|FREE|C|NORM|03|03|00|TMP|Disenchant
---|FREE|U|NORM|06|04|00|NPH|Dispatch
+--|FREE|U|NORM|04|04|00|NPH|Dispatch
 --|FREE|U|NORM|07|00|00|SOM|Dispense Justice
 --|FREE|U|FOIL|01|00|00|SOM|Dispense Justice
 --|FREE|C|NORM|00|04|00|WTH|Disrupt
@@ -1591,7 +1591,7 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|U|NORM|04|00|00|M10|Megrim
 --|FREE|U|NORM|03|03|00|SOM|Memnite
 --|FREE|U|NORM|01|01|00|ISD|Memory's Journey
---|FREE|U|NORM|02|01|00|NPH|Mental Misstep
+--|FREE|U|NORM|01|01|00|NPH|Mental Misstep
 --|FREE|U|NORM|02|00|00|GTC|Mental Vapors
 --|FREE|R|NORM|04|04|00|ISD|Mentor of the Meek
 --|FREE|R|NORM|01|00|00|GTC|Merciless Eviction
@@ -1685,7 +1685,7 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|U|NORM|01|00|00|DDE|Order of Yawgmoth
 --|FREE|U|NORM|01|04|00|GPT|Order of the Stars
 --|FREE|U|NORM|03|00|00|GTC|Ordruun Veteran
---|FREE|U|NORM|04|00|00|9ED|Ornithopter
+--|FREE|U|NORM|03|00|00|9ED|Ornithopter
 --|FREE|U|NORM|01|01|00|M10|Ornithopter
 --|FREE|U|NORM|01|01|00|M11|Ornithopter
 --|FREE|U|NORM|01|00|00|GTC|Orzhov Charm
@@ -1889,7 +1889,6 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|U|NORM|03|00|00|NPH|Shattered Angel
 --|FREE|U|NORM|01|00|00|DKA|Shattered Perception
 --|FREE|U|NORM|03|00|00|ZEN|Shepherd of the Lost
---|FREE|U|NORM|02|00|00|ALL|Shield Sphere
 --|FREE|C|NORM|01|01|00|DIS|Shielding Plax
 --|FREE|U|NORM|02|00|00|SOK|Shifting Borders
 --|FREE|R|NORM|01|01|00|MBS|Shimmer Myr
