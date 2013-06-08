@@ -288,15 +288,115 @@ my %trade_list = ( 'have' => {}
                              }
                  );
 
-my @cards = read_file('jesse.cards');
-@cards = sort card_sort @cards;
+my @lines = read_file('jesse.cards');
+@lines = sort card_sort @lines;
 
-for my $card (@cards) {
+#for my $card (@cards) {
+#    my @fields    = split(/\|/,$card);
+#    my $use       = $fields[1];
+#    my $rarity    = $fields[2];
+#    my $foil      = $fields[3] =~ m/FOIL|PROM/ ? 1 : 0;
+#    my $promo     = $fields[3] =~ m/PROM/ ? 1 : 0;
+#    my $have      = $fields[4];
+#    my $want      = $fields[5];
+#    my $incoming  = $fields[6];
+#    my $set       = $fields[7];
+#    my $card_name = $fields[8];
+#    chomp($card_name);
+#
+#    my $num_wanted = $want - $have - $incoming;
+#
+#    next if(0 == $num_wanted);
+#
+#    my $c = "";
+#    if($format_motl) {
+#        $c = &motl_format_card( $num_wanted
+#                              , $card_name
+#                              , $rarity
+#                              , $foil
+#                              , $promo
+#                              , $set
+#                              );
+#    }
+#    elsif($format_dbox) {
+#        $c = &dbox_format_card( $num_wanted
+#                              , $card_name
+#                              , $rarity
+#                              , $foil
+#                              , $promo
+#                              , $set
+#                              );
+#    }
+#    elsif($format_puca) {
+#        $c = &puca_format_card( $num_wanted
+#                              , $card_name
+#                              , $rarity
+#                              , $foil
+#                              , $promo
+#                              );
+#    }
+#
+#    next if("" eq $c);
+#
+#    if(0 < $num_wanted) {
+#        my $u = $THIRD_WANTS;
+#        if('MAIN' eq $use) {
+#            $u = $FIRST_WANTS;
+#        }
+#        elsif('SIDE' eq $use) {
+#            $u = $SECOND_WANTS;
+#        }
+#        elsif('CUBE' eq $use) {
+#            $u = $FOURTH_WANTS;
+#        }
+#        push(@{$trade_list{'want'}->{$u}}  , $c);
+#    }
+#    else {
+#        push(@{$trade_list{'have'}->{$set}}, $c);
+#    }
+#}
+#
+#if(!$print_have && !$print_want) {
+#    print "Specify '-h|--have' to print haves, '-w|--want' to print wants\n";
+#}
+#&print_have(\%trade_list) if $print_have;
+#&print_want(\%trade_list) if $print_want;
+#
+
+sub print_dbox_haves()
+{
+    my $cards = shift;
+    print "Count,Tradelist Count,Name,Foil,Textless," .
+          "Promo,Signed,Edition,Condition,Language\n";
+
+    for (sort keys %$cards) {
+        my $foil = $cards->{$_}{foil} ? "foil" : "";
+        my $textless = $cards->{$_}{text} ? "textless" : "";
+        my $promo = $cards->{$_}{promo} ? "promo" : "";
+
+        print  "$cards->{$_}{have}"
+             . "," . "$cards->{$_}{trade}"
+             . "," . "\"$cards->{$_}{name}\""
+             . "," . "$foil"
+             . "," . "$textless"
+             . "," . "$promo"
+             . "," . ""
+             . "," . "$cards->{$_}{set}"
+             . "," . ""
+             . "," . "English"
+             . "\n";
+    }
+}
+
+my %cards = ();
+
+for my $card (@lines) {
     my @fields    = split(/\|/,$card);
     my $use       = $fields[1];
     my $rarity    = $fields[2];
     my $foil      = $fields[3] =~ m/FOIL|PROM/ ? 1 : 0;
     my $promo     = $fields[3] =~ m/PROM/ ? 1 : 0;
+    my $textless  = $fields[3] =~ m/FULL/ ? 1 : 0;
     my $have      = $fields[4];
     my $want      = $fields[5];
     my $incoming  = $fields[6];
@@ -304,61 +404,38 @@ for my $card (@cards) {
     my $card_name = $fields[8];
     chomp($card_name);
 
-    my $num_wanted = $want - $have - $incoming;
+    my $trade = $have + $incoming - $want;
+    $trade = 0 if(0 > $trade);
 
-    next if(0 == $num_wanted);
+    next if(0 == $have);
+    my $set_name = &get_set_name($set);
+    $set_name = "\"$set_name\"" unless("" eq $set_name);
 
-    my $c = "";
-    if($format_motl) {
-        $c = &motl_format_card( $num_wanted
-                              , $card_name
-                              , $rarity
-                              , $foil
-                              , $promo
-                              , $set
-                              );
-    }
-    elsif($format_dbox) {
-        $c = &dbox_format_card( $num_wanted
-                              , $card_name
-                              , $rarity
-                              , $foil
-                              , $promo
-                              , $set
-                              );
-    }
-    elsif($format_puca) {
-        $c = &puca_format_card( $num_wanted
-                              , $card_name
-                              , $rarity
-                              , $foil
-                              , $promo
-                              );
-    }
+    my $key = "$card_name-$set-$foil-$promo";
+    $cards{"$key"}{have} += $have;
+    $cards{"$key"}{trade} += $trade;
+    $cards{"$key"}{name} = $card_name;
+    $cards{"$key"}{foil} = $foil;
+    $cards{"$key"}{text} = $textless;
+    $cards{"$key"}{promo} = $promo;
+    $cards{"$key"}{set} = $set_name;
 
-    next if("" eq $c);
-
-    if(0 < $num_wanted) {
-        my $u = $THIRD_WANTS;
-        if('MAIN' eq $use) {
-            $u = $FIRST_WANTS;
-        }
-        elsif('SIDE' eq $use) {
-            $u = $SECOND_WANTS;
-        }
-        elsif('CUBE' eq $use) {
-            $u = $FOURTH_WANTS;
-        }
-        push(@{$trade_list{'want'}->{$u}}  , $c);
-    }
-    else {
-        push(@{$trade_list{'have'}->{$set}}, $c);
-    }
 }
 
-if(!$print_have && !$print_want) {
-    print "Specify '-h|--have' to print haves, '-w|--want' to print wants\n";
-}
-&print_have(\%trade_list) if $print_have;
-&print_want(\%trade_list) if $print_want;
+&print_dbox_haves(\%cards);
 
+
+#print "Count,Tradelist Count,Name,Foil,Textless," .
+#      "Promo,Signed,Edition,Condition,Language\n";
+#my $c = printf( "%d,%d,\"%s\",%s,%s,%s,%s,%s,%s,%s\n"
+#              , $have
+#              , $trade
+#              , $card_name
+#              , $foil ? "foil" : ""
+#              , ""
+#              , $promo ? "promo" : ""
+#              , ""
+#              , $set_name
+#              , ""
+#              , "English"
+#              );
