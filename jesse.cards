@@ -30,7 +30,7 @@ MF|MAIN|R|NORM|04|04|00|M13|Master of the Pearl Trident
 MF|MAIN|U|NORM|04|04|00|LRW|Merrow Reejerey
 MF|MAIN|R|NORM|02|03|01|M12|Phantasmal Image
 MF|MAIN|U|NORM|04|06|00|LRW|Silvergill Adept
-MF|MAIN|C|NORM|00|03|00|LRW|Spellstutter Sprite
+MF|MAIN|C|NORM|00|03|00|MMA|Spellstutter Sprite
 MF|MAIN|C|NORM|04|04|00|MOR|Stonybrook Banneret
 MF|MAIN|U|NORM|01|01|00|LRW|Surgespanner
 MF|MAIN|R|NORM|00|04|04|AVR|Cavern of Souls
@@ -171,6 +171,7 @@ CC|ALTS|R|NORM|01|01|00|DIS|Voidslime
 GW|MAIN|R|NORM|01|01|00|ARB|Dauntless Escort
 GW|MAIN|R|NORM|02|02|00|M11|Fauna Shaman
 GW|MAIN|M|FOIL|02|02|00|DDG|Knight of the Reliquary
+GW|MAIN|R|NORM|00|02|00|MMA|Knight of the Reliquary
 GW|MAIN|R|NORM|02|02|00|CON|Knight of the Reliquary
 GW|MAIN|U|NORM|04|04|00|CMD|Mother of Runes
 GW|MAIN|R|NORM|04|04|00|CON|Noble Hierarch
@@ -335,12 +336,15 @@ KN|MAIN|M|NORM|01|01|00|SOM|Venser, the Sojourner
 KN|MAIN|R|NORM|01|01|00|10E|Wrath of God
 KN|MAIN|R|NORM|03|03|00|M10|Honor of the Pure
 KN|DECK|U|NORM|01|01|00|DDE|Lightning Greaves
+KN|SIDE|M|NORM|00|01|00|MMA|Elspeth, Knight-Errant
 KN|SIDE|U|NORM|00|01|00|NPH|Dismember
 KN|SIDE|R|NORM|00|02|02|5DN|Engineered Explosives
 KN|SIDE|R|NORM|03|03|00|MBS|Mirran Crusader
 KN|SIDE|U|NORM|02|02|00|M13|Oblivion Ring
 KN|SIDE|R|NORM|01|01|00|RTR|Rest in Peace
 KN|SIDE|R|NORM|02|03|00|NPH|Surgical Extraction
+WS|MAIN|R|NORM|00|04|00|RAV|Dark Confidant
+WS|MAIN|C|NORM|00|02|00|MRD|Vault of Whispers
 WS|MAIN|C|NORM|03|03|00|SOM|Accorder's Shield
 WS|MAIN|M|NORM|01|01|00|NPH|Batterskull
 WS|MAIN|R|NORM|04|04|00|MRD|Chalice of the Void
@@ -366,6 +370,8 @@ WS|MAIN|U|NORM|01|01|00|DST|Surestrike Trident
 WS|SIDE|R|NORM|02|02|00|5DN|Engineered Explosives
 WS|SIDE|R|NORM|00|02|02|NPH|Surgical Extraction
 WS|SIDE|M|NORM|01|01|00|MBS|Sword of Feast and Famine
+WS|SIDE|M|NORM|00|01|00|MMA|Sword of Light and Shadow
+WS|SIDE|M|NORM|00|01|00|MMA|Sword of Fire and Ice
 WS|SIDE|M|NORM|01|01|00|NPH|Sword of War and Peace
 WS|SIDE|U|NORM|03|03|00|M13|Tormod's Crypt
 WS|SIDE|C|NORM|04|04|00|MRD|Welding Jar
@@ -1958,7 +1964,7 @@ PC|CUBE|C|NORM|01|01|00|10E|Youthful Knight
 --|FREE|C|NORM|00|02|02|ZEN|Spell Pierce
 --|FREE|U|NORM|01|01|00|M10|Spellbook
 --|FREE|U|NORM|01|01|00|NPH|Spellskite
---|FREE|C|NORM|00|01|00|LRW|Spellstutter Sprite
+--|FREE|C|NORM|00|01|00|MMA|Spellstutter Sprite
 --|FREE|U|NORM|04|00|00|RTR|Sphere of Safety
 --|FREE|U|NORM|02|00|00|MBS|Sphere of the Suns
 --|FREE|R|NORM|01|00|00|ZEN|Sphinx of Jwar Isle
