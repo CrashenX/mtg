@@ -3385,7 +3385,7 @@
 00|00|00|00|  |ALA|C|Windwright Mage
 00|00|00|00|  |ALA|C|Yoked Plowbeast
 00|00|00|00|  |ALA|M|Ajani Vengeant
-01|00|00|00|  |ALA|M|Elspeth, Knight-Errant
+00|00|00|00|  |ALA|M|Elspeth, Knight-Errant
 00|00|00|00|  |ALA|M|Empyrial Archangel
 00|00|00|00|  |ALA|M|Godsire
 00|00|00|00|  |ALA|M|Hellkite Overlord
@@ -3496,7 +3496,7 @@
 01|00|00|00|  |ALA|U|Rockcaster Platoon
 00|00|00|00|  |ALA|U|Rockslide Elemental
 00|00|00|00|  |ALA|U|Sangrite Surge
-02|00|00|00|  |ALA|U|Savage Lands
+01|00|00|00|  |ALA|U|Savage Lands
 00|00|00|00|  |ALA|U|Scavenger Drake
 00|00|00|00|  |ALA|U|Scourge Devil
 00|00|00|00|  |ALA|U|Seaside Citadel
@@ -15812,7 +15812,7 @@
 00|00|00|00|  |PLS|U|Thornscape Battlemage
 00|00|00|00|  |PLS|U|Thunderscape Battlemage
 00|00|00|00|  |PLS|U|Treva's Charm
-03|00|00|00|  |PLS|U|Treva's Ruins
+02|00|00|00|  |PLS|U|Treva's Ruins
 00|00|00|00|  |PLS|U|Voice of All
 00|00|00|00|  |PLS|U|Warped Devotion
 00|00|00|00|  |POR|C|Angelic Blessing
@@ -16862,7 +16862,7 @@
 01|00|00|00|  |RTR|R|Grove of the Guardian
 01|00|00|00|  |RTR|R|Growing Ranks
 01|00|00|00|  |RTR|R|Guild Feud
-03|00|00|00|  |RTR|R|Hallowed Fountain
+00|00|00|00|  |RTR|R|Hallowed Fountain
 01|00|00|00|  |RTR|R|Havoc Festival
 00|00|00|00|  |RTR|R|Hypersonic Dragon
 01|00|00|00|  |RTR|R|Jarad's Orders
@@ -20049,7 +20049,7 @@
 00|00|00|00|  |WWK|C|Grotag Thrasher
 00|00|00|00|  |WWK|C|Groundswell
 00|00|00|00|  |WWK|C|Guardian Zendikon
-02|00|00|00|  |WWK|C|Halimar Depths
+00|00|00|00|  |WWK|C|Halimar Depths
 00|00|00|00|  |WWK|C|Halimar Excavator
 00|00|00|00|  |WWK|C|Hedron Rover
 00|00|00|00|  |WWK|C|Iona's Judgment
@@ -20120,7 +20120,7 @@
 01|00|00|00|  |WWK|R|Selective Memory
 01|00|00|00|  |WWK|R|Stirring Wildwood
 00|00|00|00|  |WWK|R|Stone Idol Trap
-06|00|00|00|  |WWK|R|Stoneforge Mystic
+05|00|00|00|  |WWK|R|Stoneforge Mystic
 00|00|00|00|  |WWK|R|Strength of the Tajuru
 01|00|00|00|  |WWK|R|Talus Paladin
 02|00|00|00|  |WWK|R|Terastodon
