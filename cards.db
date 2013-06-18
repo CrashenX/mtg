@@ -4515,7 +4515,7 @@
 00|00|00|00|  |AVR|C|Unhallowed Pact
 00|00|00|00|  |AVR|C|Vanguard's Shield
 00|00|00|00|  |AVR|C|Voice of the Provinces
-00|01|00|00|  |AVR|C|Wandering Wolf
+00|02|00|00|  |AVR|C|Wandering Wolf
 00|00|00|00|  |AVR|C|Wildwood Geist
 00|00|00|00|  |AVR|C|Wingcrafter
 00|00|00|00|  |AVR|C|Zealous Strike
@@ -4545,7 +4545,7 @@
 04|00|00|00|  |AVR|R|Cavern of Souls
 00|00|00|00|  |AVR|R|Champion of Lambholt
 01|00|00|00|  |AVR|R|Conjurer's Closet
-00|00|00|00|  |AVR|R|Dark Impostor
+01|00|00|00|  |AVR|R|Dark Impostor
 00|00|00|00|  |AVR|R|Deadeye Navigator
 00|00|00|00|  |AVR|R|Demonic Rising
 00|00|00|00|  |AVR|R|Demonlord of Ashmouth
@@ -4564,7 +4564,7 @@
 00|00|00|00|  |AVR|R|Hound of Griselbrand
 01|00|00|00|  |AVR|R|Infinite Reflection
 00|00|00|00|  |AVR|R|Killing Wave
-00|00|00|00|  |AVR|R|Lone Revenant
+01|00|00|00|  |AVR|R|Lone Revenant
 01|00|00|00|  |AVR|R|Lunar Mystic
 01|00|00|00|  |AVR|R|Moonsilver Spear
 02|00|00|00|  |AVR|R|Otherworld Atlas
@@ -4582,7 +4582,7 @@
 00|00|00|00|  |AVR|R|Terminus
 00|00|00|00|  |AVR|R|Treacherous Pit-Dweller
 00|00|00|00|  |AVR|R|Tyrant of Discord
-01|00|00|00|  |AVR|R|Ulvenwald Tracker
+02|00|00|00|  |AVR|R|Ulvenwald Tracker
 00|00|00|00|  |AVR|R|Vexing Devil
 00|00|00|00|  |AVR|R|Wild Defiance
 00|00|00|00|  |AVR|R|Wolfir Silverheart
@@ -4592,7 +4592,7 @@
 03|00|00|00|  |AVR|U|Angelic Armaments
 00|00|00|00|  |AVR|U|Appetite for Brains
 00|00|00|00|  |AVR|U|Archangel
-01|00|00|00|  |AVR|U|Banishing Stroke
+02|00|00|00|  |AVR|U|Banishing Stroke
 01|00|00|00|  |AVR|U|Barter in Blood
 00|00|00|00|  |AVR|U|Blessings of Nature
 00|00|00|00|  |AVR|U|Blood Artist
@@ -4601,8 +4601,8 @@
 00|00|00|00|  |AVR|U|Commander's Authority
 00|00|00|00|  |AVR|U|Corpse Traders
 00|00|00|00|  |AVR|U|Defy Death
-01|00|00|00|  |AVR|U|Demonic Taskmaster
-01|00|00|00|  |AVR|U|Devout Chaplain
+02|00|00|00|  |AVR|U|Demonic Taskmaster
+02|00|00|00|  |AVR|U|Devout Chaplain
 00|00|00|00|  |AVR|U|Druid's Familiar
 00|00|00|00|  |AVR|U|Eaten by Spiders
 00|00|00|00|  |AVR|U|Emancipation Angel
@@ -4622,20 +4622,20 @@
 01|00|00|00|  |AVR|U|Howlgeist
 01|00|00|00|  |AVR|U|Human Frailty
 00|00|00|00|  |AVR|U|Into the Void
-02|00|00|00|  |AVR|U|Kessig Malcontents
+03|00|00|00|  |AVR|U|Kessig Malcontents
 01|00|00|00|  |AVR|U|Latch Seeker
-06|00|00|00|  |AVR|U|Lightning Mauler
+07|00|00|00|  |AVR|U|Lightning Mauler
 01|00|00|00|  |AVR|U|Lightning Prowess
 00|00|00|00|  |AVR|U|Maalfeld Twins
 00|00|00|00|  |AVR|U|Marrow Bats
 01|00|00|00|  |AVR|U|Mass Appeal
 02|00|00|00|  |AVR|U|Nearheath Pilgrim
 00|00|00|00|  |AVR|U|Nephalia Smuggler
-01|00|00|00|  |AVR|U|Rain of Thorns
+02|00|00|00|  |AVR|U|Rain of Thorns
 01|00|00|00|  |AVR|U|Rush of Blood
 00|00|00|00|  |AVR|U|Second Guess
 02|00|00|00|  |AVR|U|Stern Mentor
-00|01|00|00|  |AVR|U|Stonewright
+01|01|00|00|  |AVR|U|Stonewright
 00|00|00|00|  |AVR|U|Tandem Lookout
 02|00|00|00|  |AVR|U|Thunderous Wrath
 00|00|00|00|  |AVR|U|Tormentor's Trident
@@ -4643,8 +4643,8 @@
 00|00|00|00|  |AVR|U|Triumph of Ferocity
 01|00|00|00|  |AVR|U|Vanishment
 02|00|00|00|  |AVR|U|Vessel of Endless Rest
-01|00|00|00|  |AVR|U|Vigilante Justice
-01|00|00|00|  |AVR|U|Vorstclaw
+02|00|00|00|  |AVR|U|Vigilante Justice
+02|00|00|00|  |AVR|U|Vorstclaw
 01|00|00|00|  |AVR|U|Wolfir Avenger
 00|00|00|00|  |AVR|U|Yew Spirit
 00|00|00|00|  |BOK|C|Akki Blizzard-Herder
