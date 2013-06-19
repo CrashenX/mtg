@@ -5,10 +5,21 @@ use Switch;
 use Getopt::Long;
 use File::Slurp;
 
-my $FIRST_WANTS  = 'Primary';
-my $SECOND_WANTS = 'Secondary';
-my $THIRD_WANTS  = 'Tertiary';
-my $FOURTH_WANTS = 'Cube';
+my $HAVES = "cards.db";
+my $WANTS = "wants";
+
+my $HNORM = 0;
+my $HFOIL = 1;
+my $HPRMO = 2;
+my $HTEXT = 3;
+my $HMCUT = 4;
+my $HEXPN = 5;
+my $HRARE = 6;
+my $HNAME = 7;
+
+my $WNORM = 0;
+my $WEXPN = 1;
+my $WNAME = 2;
 
 GetOptions("h|have" => \(my $print_have)
           ,"w|want" => \(my $print_want)
@@ -16,12 +27,6 @@ GetOptions("h|have" => \(my $print_have)
           ,"d|dbox" => \(my $format_dbox)
           ,"p|puca" => \(my $format_puca)
           );
-
-my %wants_sort_order = ( $FIRST_WANTS   => 0
-                       , $SECOND_WANTS  => 1
-                       , $THIRD_WANTS   => 2
-                       , $FOURTH_WANTS  => 3
-                       );
 
 my %sets = ( "LEA" => 'Limited Edition Alpha'
            , "LEB" => 'Limited Edition Beta'
@@ -77,6 +82,7 @@ my %sets = ( "LEA" => 'Limited Edition Alpha'
            , "RAV" => 'Ravnica: City of Guilds'
            , "GPT" => 'Guildpact'
            , "DIS" => 'Dissension'
+           , "TSB" => 'Time Spiral'
            , "TSP" => 'Time Spiral'
            , "PLC" => 'Planar Chaos'
            , "FUT" => 'Future Sight'
@@ -136,20 +142,6 @@ my %sets = ( "LEA" => 'Limited Edition Alpha'
            , "S99" => 'Starter 1999'
            , "S00" => 'Starter 2000'
            );
-
-sub card_sort()
-{
-    my @fields1 = split(/\|/,$a);
-    my @fields2 = split(/\|/,$b);
-    return $fields1[8] cmp $fields2[8];
-}
-
-sub want_sort()
-{
-    my $x = $wants_sort_order{$a};
-    my $y = $wants_sort_order{$b};
-    return $x cmp $y;
-}
 
 sub get_set_name()
 {
@@ -275,93 +267,28 @@ sub print_want()
     }
 }
 
-unless($format_motl xor ($format_dbox xor $format_puca)) {
-    print "Specify EITHER '-m|--motl', '-d|--dbox', OR '-p|--puca'\n";
-    exit 1;
+sub print_dbox_have()
+{
+    my $have = shift;
+    my $trade = shift;
+    my $name = shift;
+    my $foil = shift;
+    my $promo = shift;
+    my $textless = shift;
+    my $set = shift;
+    my $condition = shift;
+    print "$have"
+        . "," . "$trade"
+        . "," . "\"$name\""
+        . "," . "$foil"
+        . "," . "$textless"
+        . "," . "$promo"
+        . "," . ""
+        . "," . "$set"
+        . "," . "$condition"
+        . "," . "English"
+        . "\n";
 }
-
-my %trade_list = ( 'have' => {}
-                 , 'want' => { $FIRST_WANTS   => []
-                             , $SECOND_WANTS  => []
-                             , $THIRD_WANTS   => []
-                             , $FOURTH_WANTS  => []
-                             }
-                 );
-
-my @lines = read_file('jesse.cards');
-@lines = sort card_sort @lines;
-
-#for my $card (@cards) {
-#    my @fields    = split(/\|/,$card);
-#    my $use       = $fields[1];
-#    my $rarity    = $fields[2];
-#    my $foil      = $fields[3] =~ m/FOIL|PROM/ ? 1 : 0;
-#    my $promo     = $fields[3] =~ m/PROM/ ? 1 : 0;
-#    my $have      = $fields[4];
-#    my $want      = $fields[5];
-#    my $incoming  = $fields[6];
-#    my $set       = $fields[7];
-#    my $card_name = $fields[8];
-#    chomp($card_name);
-#
-#    my $num_wanted = $want - $have - $incoming;
-#
-#    next if(0 == $num_wanted);
-#
-#    my $c = "";
-#    if($format_motl) {
-#        $c = &motl_format_card( $num_wanted
-#                              , $card_name
-#                              , $rarity
-#                              , $foil
-#                              , $promo
-#                              , $set
-#                              );
-#    }
-#    elsif($format_dbox) {
-#        $c = &dbox_format_card( $num_wanted
-#                              , $card_name
-#                              , $rarity
-#                              , $foil
-#                              , $promo
-#                              , $set
-#                              );
-#    }
-#    elsif($format_puca) {
-#        $c = &puca_format_card( $num_wanted
-#                              , $card_name
-#                              , $rarity
-#                              , $foil
-#                              , $promo
-#                              );
-#    }
-#
-#    next if("" eq $c);
-#
-#    if(0 < $num_wanted) {
-#        my $u = $THIRD_WANTS;
-#        if('MAIN' eq $use) {
-#            $u = $FIRST_WANTS;
-#        }
-#        elsif('SIDE' eq $use) {
-#            $u = $SECOND_WANTS;
-#        }
-#        elsif('CUBE' eq $use) {
-#            $u = $FOURTH_WANTS;
-#        }
-#        push(@{$trade_list{'want'}->{$u}}  , $c);
-#    }
-#    else {
-#        push(@{$trade_list{'have'}->{$set}}, $c);
-#    }
-#}
-#
-#if(!$print_have && !$print_want) {
-#    print "Specify '-h|--have' to print haves, '-w|--want' to print wants\n";
-#}
-#&print_have(\%trade_list) if $print_have;
-#&print_want(\%trade_list) if $print_want;
-#
 
 sub print_dbox_haves()
 {
@@ -369,73 +296,103 @@ sub print_dbox_haves()
     print "Count,Tradelist Count,Name,Foil,Textless," .
           "Promo,Signed,Edition,Condition,Language\n";
 
-    for (sort keys %$cards) {
-        my $foil = $cards->{$_}{foil} ? "foil" : "";
-        my $textless = $cards->{$_}{text} ? "textless" : "";
-        my $promo = $cards->{$_}{promo} ? "promo" : "";
-
-        print  "$cards->{$_}{have}"
-             . "," . "$cards->{$_}{trade}"
-             . "," . "\"$cards->{$_}{name}\""
-             . "," . "$foil"
-             . "," . "$textless"
-             . "," . "$promo"
-             . "," . ""
-             . "," . "$cards->{$_}{set}"
-             . "," . ""
-             . "," . "English"
-             . "\n";
+    for my $name (sort keys %$cards) {
+        for my $set (sort keys $cards->{$name}{set}) {
+            for my $type (sort keys $cards->{$name}{set}{$set}) {
+                my $foil = "foil" eq $type ? "foil" : "";
+                my $prmo = "prmo" eq $type ? "promo" : "";
+                my $text = "text" eq $type ? "textless" : "";
+                my $cond = "mcut" eq $type ? "Damaged" : "";
+                my $h = $cards->{$name}{set}{$set}{$type};
+                my $have = $h->{have};
+                my $want = $h->{want};
+                if(0 != $have) {
+                    my $trade = $have - $want;
+                    $trade = 0 > $trade ? 0 : $trade;
+                    &print_dbox_have( $have
+                                    , $trade
+                                    , $name
+                                    , $foil
+                                    , $prmo
+                                    , $text
+                                    , $set
+                                    , $cond
+                                    );
+                }
+            }
+        }
     }
 }
 
-my %cards = ();
 
-for my $card (@lines) {
-    my @fields    = split(/\|/,$card);
-    my $use       = $fields[1];
-    my $rarity    = $fields[2];
-    my $foil      = $fields[3] =~ m/FOIL|PROM/ ? 1 : 0;
-    my $promo     = $fields[3] =~ m/PROM/ ? 1 : 0;
-    my $textless  = $fields[3] =~ m/FULL/ ? 1 : 0;
-    my $have      = $fields[4];
-    my $want      = $fields[5];
-    my $incoming  = $fields[6];
-    my $set       = $fields[7];
-    my $card_name = $fields[8];
-    chomp($card_name);
+sub get_haves()
+{
+    my %cards = ();
 
-    my $trade = $have + $incoming - $want;
-    $trade = 0 if(0 > $trade);
+    my @lines = read_file($HAVES);
+    for my $card (@lines) {
+        next if($card =~ /^#/);
+        my @fields = split(/\|/,$card);
 
-    next if(0 == $have);
-    my $set_name = &get_set_name($set);
-    $set_name = "\"$set_name\"" unless("" eq $set_name);
+        my $norm = $fields[$HNORM];
+        my $foil = $fields[$HFOIL];
+        my $prmo = $fields[$HPRMO];
+        my $text = $fields[$HTEXT];
+        my $mcut = $fields[$HMCUT];
+        my $expn = $fields[$HEXPN];
+        my $rare = $fields[$HRARE];
+        my $name = $fields[$HNAME];
+        chomp($name);
 
-    my $key = "$card_name-$set-$foil-$promo";
-    $cards{"$key"}{have} += $have;
-    $cards{"$key"}{trade} += $trade;
-    $cards{"$key"}{name} = $card_name;
-    $cards{"$key"}{foil} = $foil;
-    $cards{"$key"}{text} = $textless;
-    $cards{"$key"}{promo} = $promo;
-    $cards{"$key"}{set} = $set_name;
+        my $set_name = &get_set_name($expn);
+        $set_name = "\"$set_name\"" unless("" eq $set_name);
 
+        $cards{$name}{count} += 0 + $norm + $foil + $prmo + $text + $mcut;
+        $cards{$name}{set}{$set_name}{norm}{have} = $norm;
+        $cards{$name}{set}{$set_name}{foil}{have} = $foil;
+        $cards{$name}{set}{$set_name}{prmo}{have} = $prmo;
+        $cards{$name}{set}{$set_name}{text}{have} = $text;
+        $cards{$name}{set}{$set_name}{mcut}{have} = $mcut;
+        $cards{$name}{set}{$set_name}{norm}{want} = 0;
+        $cards{$name}{set}{$set_name}{foil}{want} = 0;
+        $cards{$name}{set}{$set_name}{prmo}{want} = 0;
+        $cards{$name}{set}{$set_name}{text}{want} = 0;
+        $cards{$name}{set}{$set_name}{mcut}{want} = 0;
+    }
+    return \%cards;
 }
 
-&print_dbox_haves(\%cards);
+sub set_wants()
+{
+    my $wants = shift;
+
+    my @lines = read_file($WANTS);
+    for my $card (@lines) {
+        next if($card =~ /^#/);
+        my @fields = split(/\|/,$card);
+        my $want = $fields[$WNORM];
+        my $expn = $fields[$WEXPN];
+        my $name = $fields[$WNAME];
+        chomp($name);
+
+        my $set_name = &get_set_name($expn);
+        $set_name = "\"$set_name\"" unless("" eq $set_name);
+
+        $wants->{$name}{set}{$set_name}{norm}{want} = $want;
+    }
+}
 
 
-#print "Count,Tradelist Count,Name,Foil,Textless," .
-#      "Promo,Signed,Edition,Condition,Language\n";
-#my $c = printf( "%d,%d,\"%s\",%s,%s,%s,%s,%s,%s,%s\n"
-#              , $have
-#              , $trade
-#              , $card_name
-#              , $foil ? "foil" : ""
-#              , ""
-#              , $promo ? "promo" : ""
-#              , ""
-#              , $set_name
-#              , ""
-#              , "English"
-#              );
+sub main()
+{
+    unless($format_motl xor ($format_dbox xor $format_puca)) {
+        print "Specify EITHER '-m|--motl', '-d|--dbox', OR '-p|--puca'\n";
+        exit 1;
+    }
+
+    my $cards = &get_haves();
+    &set_wants($cards);
+    &print_dbox_haves($cards)
+}
+
+&main();
