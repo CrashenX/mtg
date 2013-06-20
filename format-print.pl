@@ -28,126 +28,360 @@ GetOptions("h|have" => \(my $print_have)
           ,"p|puca" => \(my $format_puca)
           );
 
-my %sets = ( "LEA" => 'Limited Edition Alpha'
-           , "LEB" => 'Limited Edition Beta'
-           , "2ED" => 'Unlimited Edition'
-           , "3ED" => 'Revised Edition'
-           , "4ED" => 'Fourth Edition'
-           , "5ED" => 'Fifth Edition'
-           , "6ED" => 'Classic (Sixth Edition)'
-           , "7ED" => 'Seventh Edition'
-           , "8ED" => 'Eighth Edition'
-           , "9ED" => 'Ninth Edition'
-           , "10E" => 'Tenth Edition'
-           , "M10" => 'Magic 2010'
-           , "M11" => 'Magic 2011'
-           , "M12" => 'Magic 2012'
-           , "M13" => 'Magic 2013'
-           , "ARN" => 'Arabian Nights'
-           , "ATQ" => 'Antiquities'
-           , "LEG" => 'Legends'
-           , "DRK" => 'The Dark'
-           , "FEM" => 'Fallen Empires'
-           , "HML" => 'Homelands'
-           , "ICE" => 'Ice Age'
-           , "ALL" => 'Alliances'
-           , "CSP" => 'Coldsnap'
-           , "MIR" => 'Mirage'
-           , "VIS" => 'Visions'
-           , "WTH" => 'Weatherlight'
-           , "TMP" => 'Tempest'
-           , "STH" => 'Stronghold'
-           , "EXO" => 'Exodus'
-           , "USG" => 'Urza\'s Saga'
-           , "ULG" => 'Urza\'s Legacy'
-           , "UDS" => 'Urza\'s Destiny'
-           , "MMQ" => 'Mercadian Masques'
-           , "NMS" => 'Nemesis'
-           , "PCY" => 'Prophecy'
-           , "INV" => 'Invasion'
-           , "PLS" => 'Planeshift'
-           , "APC" => 'Apocalypse'
-           , "ODY" => 'Odyssey'
-           , "TOR" => 'Torment'
-           , "JUD" => 'Judgment'
-           , "ONS" => 'Onslaught'
-           , "LGN" => 'Legions'
-           , "SCG" => 'Scourge'
-           , "MRD" => 'Mirrodin'
-           , "DST" => 'Darksteel'
-           , "5DN" => 'Fifth Dawn'
-           , "CHK" => 'Champions of Kamigawa'
-           , "BOK" => 'Betrayers of Kamigawa'
-           , "SOK" => 'Saviors of Kamigawa'
-           , "RAV" => 'Ravnica: City of Guilds'
-           , "GPT" => 'Guildpact'
-           , "DIS" => 'Dissension'
-           , "TSB" => 'Time Spiral'
-           , "TSP" => 'Time Spiral'
-           , "PLC" => 'Planar Chaos'
-           , "FUT" => 'Future Sight'
-           , "LRW" => 'Lorwyn'
-           , "MOR" => 'Morningtide'
-           , "SHM" => 'Shadowmoor'
-           , "EVE" => 'Eventide'
-           , "ALA" => 'Shards of Alara'
-           , "CON" => 'Conflux'
-           , "ARB" => 'Alara Reborn'
-           , "ZEN" => 'Zendikar'
-           , "WWK" => 'Worldwake'
-           , "ROE" => 'Rise of the Eldrazi'
-           , "SOM" => 'Scars of Mirrodin'
-           , "MBS" => 'Mirrodin Besieged'
-           , "NPH" => 'New Phyrexia'
-           , "ISD" => 'Innistrad'
-           , "DKA" => 'Dark Ascension'
-           , "AVR" => 'Avacyn Restored'
-           , "RTR" => 'Return to Ravnica'
-           , "GTC" => 'Gatecrash'
-           , "DGM" => 'Dragon\'s Maze'
-           , "CHR" => 'Chronicles'
-           , "ATH" => 'Anthologies'
-           , "BRB" => 'Battle Royale Box Set'
-           , "BTD" => 'Beatdown Box Set'
-           , "DKM" => 'Deckmasters: Garfield vs. Finkel'
-           , "DPA" => 'Duels of the Planeswalkers'
-           , "ARC" => 'Archenemy'
-           , "MMA" => 'Modern Masters'
-           , "EVG" => 'Duel Decks: Elves vs. Goblins'
-           , "DD2" => 'Duel Decks: Jace vs. Chandra'
-           , "DDC" => 'Duel Decks: Divine vs. Demonic'
-           , "DDD" => 'Duel Decks: Garruk vs. Liliana'
-           , "DDE" => 'Duel Decks: Phyrexia vs. the Coalition'
-           , "DDF" => 'Duel Decks: Elspeth vs. Tezzeret'
-           , "DDG" => 'Duel Decks: Knights vs. Dragons'
-           , "DDH" => 'Duel Decks: Ajani vs. Nicol Bolas'
-           , "DDI" => 'Duel Decks: Venser vs. Koth'
-           , "DDJ" => 'Duel Decks: Izzet vs. Golgari'
-           , "DDK" => 'Duel Decks: Sorin vs. Tibalt'
-           , "DRB" => 'From the Vault: Dragons Wings of a Dragon'
-           , "V09" => 'From the Vault: Exiled'
-           , "V10" => 'From the Vault: Relics'
-           , "V11" => 'From the Vault: Legends'
-           , "V12" => 'From the Vault: Realms'
-           , "HOP" => 'Planechase'
-           , "PC2" => 'Planechase (2012 Edition)'
-           , "H09" => 'Premium Deck Series: Slivers'
-           , "PD2" => 'Premium Deck Series: Fire and Lightning'
-           , "PD3" => 'Premium Deck Series: Graveborn'
-           , "CMD" => 'Commander'
-           , "CMA" => 'Commander\'s Arsenal'
-           , "POR" => 'Portal'
-           , "P02" => 'Portal Second Age'
-           , "PTK" => 'Portal Three Kingdoms'
-           , "S99" => 'Starter 1999'
-           , "S00" => 'Starter 2000'
+my %sets = ( "LEA" => { order => 199308,
+                        name => 'Limited Edition Alpha'
+                      }
+           , "LEB" => { order => 199310,
+                        name => 'Limited Edition Beta'
+                      }
+           , "2ED" => { order => 199312,
+                        name => 'Unlimited Edition'
+                      }
+           , "3ED" => { order => 199404,
+                        name => 'Revised Edition'
+                      }
+           , "4ED" => { order => 199504,
+                        name => 'Fourth Edition'
+                      }
+           , "5ED" => { order => 199703,
+                        name => 'Fifth Edition'
+                      }
+           , "6ED" => { order => 199904,
+                        name => 'Classic (Sixth Edition)'
+                      }
+           , "7ED" => { order => 200104,
+                        name => 'Seventh Edition'
+                      }
+           , "8ED" => { order => 200307,
+                        name => 'Eighth Edition'
+                      }
+           , "9ED" => { order => 200507,
+                        name => 'Ninth Edition'
+                      }
+           , "10E" => { order => 200707,
+                        name => 'Tenth Edition'
+                      }
+           , "M10" => { order => 200907,
+                        name => 'Magic 2010'
+                      }
+           , "M11" => { order => 201007,
+                        name => 'Magic 2011'
+                      }
+           , "M12" => { order => 201107,
+                        name => 'Magic 2012'
+                      }
+           , "M13" => { order => 201207,
+                        name => 'Magic 2013'
+                      }
+           , "M14" => { order => 201307,
+                        name => 'Magic 2014'
+                      }
+           , "ARN" => { order => 199312,
+                        name => 'Arabian Nights'
+                      }
+           , "ATQ" => { order => 199403,
+                        name => 'Antiquities'
+                      }
+           , "LEG" => { order => 199406,
+                        name => 'Legends'
+                      }
+           , "DRK" => { order => 199408,
+                        name => 'The Dark'
+                      }
+           , "FEM" => { order => 199411,
+                        name => 'Fallen Empires'
+                      }
+           , "HML" => { order => 199510,
+                        name => 'Homelands'
+                      }
+           , "ICE" => { order => 199506,
+                        name => 'Ice Age'
+                      }
+           , "ALL" => { order => 199606,
+                        name => 'Alliances'
+                      }
+           , "CSP" => { order => 200607,
+                        name => 'Coldsnap'
+                      }
+           , "MIR" => { order => 199610,
+                        name => 'Mirage'
+                      }
+           , "VIS" => { order => 199702,
+                        name => 'Visions'
+                      }
+           , "WTH" => { order => 199706,
+                        name => 'Weatherlight'
+                      }
+           , "TMP" => { order => 199710,
+                        name => 'Tempest'
+                      }
+           , "STH" => { order => 199803,
+                        name => 'Stronghold'
+                      }
+           , "EXO" => { order => 199806,
+                        name => 'Exodus'
+                      }
+           , "USG" => { order => 199810,
+                        name => 'Urza\'s Saga'
+                      }
+           , "ULG" => { order => 199902,
+                        name => 'Urza\'s Legacy'
+                      }
+           , "UDS" => { order => 199906,
+                        name => 'Urza\'s Destiny'
+                      }
+           , "MMQ" => { order => 199910,
+                        name => 'Mercadian Masques'
+                      }
+           , "NMS" => { order => 200002,
+                        name => 'Nemesis'
+                      }
+           , "PCY" => { order => 200006,
+                        name => 'Prophecy'
+                      }
+           , "INV" => { order => 200010,
+                        name => 'Invasion'
+                      }
+           , "PLS" => { order => 200102,
+                        name => 'Planeshift'
+                      }
+           , "APC" => { order => 200106,
+                        name => 'Apocalypse'
+                      }
+           , "ODY" => { order => 200110,
+                        name => 'Odyssey'
+                      }
+           , "TOR" => { order => 200202,
+                        name => 'Torment'
+                      }
+           , "JUD" => { order => 200205,
+                        name => 'Judgment'
+                      }
+           , "ONS" => { order => 200210,
+                        name => 'Onslaught'
+                      }
+           , "LGN" => { order => 200302,
+                        name => 'Legions'
+                      }
+           , "SCG" => { order => 200305,
+                        name => 'Scourge'
+                      }
+           , "MRD" => { order => 200310,
+                        name => 'Mirrodin'
+                      }
+           , "DST" => { order => 200402,
+                        name => 'Darksteel'
+                      }
+           , "5DN" => { order => 200406,
+                        name => 'Fifth Dawn'
+                      }
+           , "CHK" => { order => 200410,
+                        name => 'Champions of Kamigawa'
+                      }
+           , "BOK" => { order => 200502,
+                        name => 'Betrayers of Kamigawa'
+                      }
+           , "SOK" => { order => 200506,
+                        name => 'Saviors of Kamigawa'
+                      }
+           , "RAV" => { order => 200510,
+                        name => 'Ravnica: City of Guilds'
+                      }
+           , "GPT" => { order => 200602,
+                        name => 'Guildpact'
+                      }
+           , "DIS" => { order => 200605,
+                        name => 'Dissension'
+                      }
+           , "TSB" => { order => 200610,
+                        name => 'Time Spiral'
+                      }
+           , "TSP" => { order => 200610,
+                        name => 'Time Spiral'
+                      }
+           , "PLC" => { order => 200702,
+                        name => 'Planar Chaos'
+                      }
+           , "FUT" => { order => 200705,
+                        name => 'Future Sight'
+                      }
+           , "LRW" => { order => 200710,
+                        name => 'Lorwyn'
+                      }
+           , "MOR" => { order => 200802,
+                        name => 'Morningtide'
+                      }
+           , "SHM" => { order => 200805,
+                        name => 'Shadowmoor'
+                      }
+           , "EVE" => { order => 200807,
+                        name => 'Eventide'
+                      }
+           , "ALA" => { order => 200810,
+                        name => 'Shards of Alara'
+                      }
+           , "CON" => { order => 200902,
+                        name => 'Conflux'
+                      }
+           , "ARB" => { order => 200904,
+                        name => 'Alara Reborn'
+                      }
+           , "ZEN" => { order => 200910,
+                        name => 'Zendikar'
+                      }
+           , "WWK" => { order => 201002,
+                        name => 'Worldwake'
+                      }
+           , "ROE" => { order => 201004,
+                        name => 'Rise of the Eldrazi'
+                      }
+           , "SOM" => { order => 201010,
+                        name => 'Scars of Mirrodin'
+                      }
+           , "MBS" => { order => 201102,
+                        name => 'Mirrodin Besieged'
+                      }
+           , "NPH" => { order => 201105,
+                        name => 'New Phyrexia'
+                      }
+           , "ISD" => { order => 201109,
+                        name => 'Innistrad'
+                      }
+           , "DKA" => { order => 201202,
+                        name => 'Dark Ascension'
+                      }
+           , "AVR" => { order => 201204,
+                        name => 'Avacyn Restored'
+                      }
+           , "RTR" => { order => 201210,
+                        name => 'Return to Ravnica'
+                      }
+           , "GTC" => { order => 201302,
+                        name => 'Gatecrash'
+                      }
+           , "DGM" => { order => 201305,
+                        name => 'Dragon\'s Maze'
+                      }
+           , "CHR" => { order => 199507,
+                        name => 'Chronicles'
+                      }
+           , "ATH" => { order => 199811,
+                        name => 'Anthologies'
+                      }
+           , "BRB" => { order => 199911,
+                        name => 'Battle Royale Box Set'
+                      }
+           , "BTD" => { order => 200012,
+                        name => 'Beatdown Box Set'
+                      }
+           , "DKM" => { order => 200112,
+                        name => 'Deckmasters: Garfield vs. Finkel'
+                      }
+           , "DPA" => { order => 201006,
+                        name => 'Duels of the Planeswalkers'
+                      }
+           , "ARC" => { order => 201006,
+                        name => 'Archenemy'
+                      }
+           , "MMA" => { order => 201306,
+                        name => 'Modern Masters'
+                      }
+           , "EVG" => { order => 200711,
+                        name => 'Duel Decks: Elves vs. Goblins'
+                      }
+           , "DD2" => { order => 200811,
+                        name => 'Duel Decks: Jace vs. Chandra'
+                      }
+           , "DDC" => { order => 200904,
+                        name => 'Duel Decks: Divine vs. Demonic'
+                      }
+           , "DDD" => { order => 200910,
+                        name => 'Duel Decks: Garruk vs. Liliana'
+                      }
+           , "DDE" => { order => 201003,
+                        name => 'Duel Decks: Phyrexia vs. the Coalition'
+                      }
+           , "DDF" => { order => 201009,
+                        name => 'Duel Decks: Elspeth vs. Tezzeret'
+                      }
+           , "DDG" => { order => 201104,
+                        name => 'Duel Decks: Knights vs. Dragons'
+                      }
+           , "DDH" => { order => 201109,
+                        name => 'Duel Decks: Ajani vs. Nicol Bolas'
+                      }
+           , "DDI" => { order => 201203,
+                        name => 'Duel Decks: Venser vs. Koth'
+                      }
+           , "DDJ" => { order => 201209,
+                        name => 'Duel Decks: Izzet vs. Golgari'
+                      }
+           , "DDK" => { order => 201303,
+                        name => 'Duel Decks: Sorin vs. Tibalt'
+                      }
+           , "DRB" => { order => 200808,
+                        name => 'From the Vault: Dragons Wings of a Dragon'
+                      }
+           , "V09" => { order => 200908,
+                        name => 'From the Vault: Exiled'
+                      }
+           , "V10" => { order => 201008,
+                        name => 'From the Vault: Relics'
+                      }
+           , "V11" => { order => 201108,
+                        name => 'From the Vault: Legends'
+                      }
+           , "V12" => { order => 201208,
+                        name => 'From the Vault: Realms'
+                      }
+           , "HOP" => { order => 200909,
+                        name => 'Planechase'
+                      }
+           , "PC2" => { order => 201206,
+                        name => 'Planechase (2012 Edition)'
+                      }
+           , "H09" => { order => 200911,
+                        name => 'Premium Deck Series: Slivers'
+                      }
+           , "PD2" => { order => 201011,
+                        name => 'Premium Deck Series: Fire and Lightning'
+                      }
+           , "PD3" => { order => 201111,
+                        name => 'Premium Deck Series: Graveborn'
+                      }
+           , "CMD" => { order => 201106,
+                        name => 'Commander'
+                      }
+           , "CMA" => { order => 201211,
+                        name => 'Commander\'s Arsenal'
+                      }
+           , "POR" => { order => 199706,
+                        name => 'Portal'
+                      }
+           , "P02" => { order => 199806,
+                        name => 'Portal Second Age'
+                      }
+           , "PTK" => { order => 199905,
+                        name => 'Portal Three Kingdoms'
+                      }
+           , "S99" => { order => 199907,
+                        name => 'Starter 1999'
+                      }
+           , "S00" => { order => 200007,
+                        name => 'Starter 2000'
+                      }
            );
+
+sub set_sort()
+{
+    return $sets{$a}{order} cmp $sets{$b}{order};
+}
 
 sub get_set_name()
 {
     my $set_code = shift;
     if(exists $sets{$set_code}) {
-        return $sets{$set_code};
+        return $sets{$set_code}{name};
     }
     else {
         printf STDERR "Warning: Set code ($set_code) not found.\n";
@@ -277,6 +511,9 @@ sub print_dbox_have()
     my $textless = shift;
     my $set = shift;
     my $condition = shift;
+    my $set_name = &get_set_name($set);
+    $set_name = "\"$set_name\"" unless("" eq $set_name);
+
     print "$have"
         . "," . "$trade"
         . "," . "\"$name\""
@@ -284,7 +521,7 @@ sub print_dbox_have()
         . "," . "$textless"
         . "," . "$promo"
         . "," . ""
-        . "," . "$set"
+        . "," . "$set_name"
         . "," . "$condition"
         . "," . "English"
         . "\n";
@@ -297,7 +534,7 @@ sub print_dbox_haves()
           "Promo,Signed,Edition,Condition,Language\n";
 
     for my $name (sort keys %$cards) {
-        for my $set (sort keys $cards->{$name}{set}) {
+        for my $set (sort set_sort keys $cards->{$name}{set}) {
             for my $type (sort keys $cards->{$name}{set}{$set}) {
                 my $foil = "foil" eq $type ? "foil" : "";
                 my $prmo = "prmo" eq $type ? "promo" : "";
@@ -305,10 +542,8 @@ sub print_dbox_haves()
                 my $cond = "mcut" eq $type ? "Damaged" : "";
                 my $h = $cards->{$name}{set}{$set}{$type};
                 my $have = $h->{have};
-                my $want = $h->{want};
                 if(0 != $have) {
-                    my $trade = $have - $want;
-                    $trade = 0 > $trade ? 0 : $trade;
+                    my $trade = $h->{trade};
                     &print_dbox_have( $have
                                     , $trade
                                     , $name
@@ -334,37 +569,39 @@ sub get_haves()
         next if($card =~ /^#/);
         my @fields = split(/\|/,$card);
 
-        my $norm = $fields[$HNORM];
-        my $foil = $fields[$HFOIL];
-        my $prmo = $fields[$HPRMO];
-        my $text = $fields[$HTEXT];
-        my $mcut = $fields[$HMCUT];
+        my $norm = int($fields[$HNORM]);
+        my $foil = int($fields[$HFOIL]);
+        my $prmo = int($fields[$HPRMO]);
+        my $text = int($fields[$HTEXT]);
+        my $mcut = int($fields[$HMCUT]);
         my $expn = $fields[$HEXPN];
         my $rare = $fields[$HRARE];
         my $name = $fields[$HNAME];
         chomp($name);
 
-        my $set_name = &get_set_name($expn);
-        $set_name = "\"$set_name\"" unless("" eq $set_name);
-
-        $cards{$name}{count} += 0 + $norm + $foil + $prmo + $text + $mcut;
-        $cards{$name}{set}{$set_name}{norm}{have} = $norm;
-        $cards{$name}{set}{$set_name}{foil}{have} = $foil;
-        $cards{$name}{set}{$set_name}{prmo}{have} = $prmo;
-        $cards{$name}{set}{$set_name}{text}{have} = $text;
-        $cards{$name}{set}{$set_name}{mcut}{have} = $mcut;
-        $cards{$name}{set}{$set_name}{norm}{want} = 0;
-        $cards{$name}{set}{$set_name}{foil}{want} = 0;
-        $cards{$name}{set}{$set_name}{prmo}{want} = 0;
-        $cards{$name}{set}{$set_name}{text}{want} = 0;
-        $cards{$name}{set}{$set_name}{mcut}{want} = 0;
+        $cards{$name}{trade} += 0 + $norm + $foil + $prmo + $text + $mcut;
+        $cards{$name}{set}{$expn}{norm}{have} = $norm;
+        $cards{$name}{set}{$expn}{foil}{have} = $foil;
+        $cards{$name}{set}{$expn}{prmo}{have} = $prmo;
+        $cards{$name}{set}{$expn}{text}{have} = $text;
+        $cards{$name}{set}{$expn}{mcut}{have} = $mcut;
+        $cards{$name}{set}{$expn}{norm}{trade} = $norm;
+        $cards{$name}{set}{$expn}{foil}{trade} = $foil;
+        $cards{$name}{set}{$expn}{prmo}{trade} = $prmo;
+        $cards{$name}{set}{$expn}{text}{trade} = $text;
+        $cards{$name}{set}{$expn}{mcut}{trade} = $mcut;
+        $cards{$name}{set}{$expn}{norm}{want} = 0;
+        $cards{$name}{set}{$expn}{foil}{want} = 0;
+        $cards{$name}{set}{$expn}{prmo}{want} = 0;
+        $cards{$name}{set}{$expn}{text}{want} = 0;
+        $cards{$name}{set}{$expn}{mcut}{want} = 0;
     }
     return \%cards;
 }
 
 sub set_wants()
 {
-    my $wants = shift;
+    my $cards = shift;
 
     my @lines = read_file($WANTS);
     for my $card (@lines) {
@@ -375,10 +612,52 @@ sub set_wants()
         my $name = $fields[$WNAME];
         chomp($name);
 
-        my $set_name = &get_set_name($expn);
-        $set_name = "\"$set_name\"" unless("" eq $set_name);
+        $cards->{$name}{trade} -= $want;
+        if(0 > $cards->{$name}{trade}) {
+            $cards->{$name}{trade} = 0;
+        }
+        $cards->{$name}{set}{$expn}{norm}{want} = $want;
+        $cards->{$name}{set}{$expn}{norm}{trade} -= $want;
+        if(0 > $cards->{$name}{set}{$expn}{norm}{trade}) {
+            $cards->{$name}{set}{$expn}{norm}{trade} = 0;
+        }
+    }
+}
 
-        $wants->{$name}{set}{$set_name}{norm}{want} = $want;
+sub set_trade_nums()
+{
+    my $cards = shift;
+    my $name = shift;
+    my $set = shift;
+    my $type = shift;
+    my $trades = shift;
+
+    if($cards->{$name}{set}{$set}{$type}{trade} > $trades) {
+        $cards->{$name}{set}{$set}{$type}{trade} = $trades;
+        $trades = 0;
+    }
+    else {
+        $trades -= $cards->{$name}{set}{$set}{$type}{trade};
+    }
+
+    return $trades;
+}
+sub update_trade_nums()
+{
+    my $cards = shift;
+
+    for my $name (sort keys %$cards) {
+        my $trades = $cards->{$name}{trade};
+        for my $set (sort set_sort keys $cards->{$name}{set}) {
+            $trades = &set_trade_nums($cards, $name, $set, "mcut", $trades);
+            $trades = &set_trade_nums($cards, $name, $set, "foil", $trades);
+            $trades = &set_trade_nums($cards, $name, $set, "prmo", $trades);
+            $trades = &set_trade_nums($cards, $name, $set, "text", $trades);
+        }
+        # Normal prints for all sets take priority for keeping vs trading
+        for my $set (sort set_sort keys $cards->{$name}{set}) {
+            $trades = &set_trade_nums($cards, $name, $set, "norm", $trades);
+        }
     }
 }
 
@@ -392,7 +671,11 @@ sub main()
 
     my $cards = &get_haves();
     &set_wants($cards);
+    &update_trade_nums($cards);
     &print_dbox_haves($cards)
+    #for my $set (sort set_sort keys %sets) {
+    #    print "$sets{$set}{name}\n";
+    #}
 }
 
 &main();
