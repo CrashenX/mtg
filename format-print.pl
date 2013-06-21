@@ -2,11 +2,14 @@
 use strict;
 use warnings FATAL => 'all';
 use Switch;
+use Cwd;
 use Getopt::Long;
 use File::Slurp;
 
 my $HAVES = "cards.db";
 my $WANTS = "wants";
+my $INCOM = "incoming";
+my $DKEXT = ".deck";
 
 my $HNORM = 0;
 my $HFOIL = 1;
@@ -20,6 +23,14 @@ my $HNAME = 7;
 my $WNORM = 0;
 my $WEXPN = 1;
 my $WNAME = 2;
+
+my $INORM = 0;
+my $IEXPN = 1;
+my $INAME = 2;
+
+my $DSHAR = 0;
+my $DDEDI = 1;
+my $DNAME = 2;
 
 GetOptions("h|have" => \(my $print_have)
           ,"w|want" => \(my $print_want)
@@ -374,7 +385,7 @@ my %sets = ( "LEA" => { order => 199308,
 
 sub set_sort()
 {
-    return $sets{$a}{order} cmp $sets{$b}{order};
+    return $sets{$b}{order} cmp $sets{$a}{order};
 }
 
 sub get_set_name()
@@ -386,118 +397,6 @@ sub get_set_name()
     else {
         printf STDERR "Warning: Set code ($set_code) not found.\n";
         return "";
-    }
-}
-
-sub motl_format_card()
-{
-    my $quantity = shift;
-    my $name     = shift;
-    my $rarity   = shift;
-    my $foil     = shift;
-    my $promo    = shift;
-    my $set      = shift;
-    my $output   = $name;
-
-    if(1 == $promo) {
-        $output = "$output (Promo)";
-    }
-
-    switch($rarity) {
-        case 'C' { $output = '[small]' . "$output" . '[/small]' }
-        case ['M','R'] { $output = '[b]' . "$output" . '[/b]' }
-    }
-
-    if(1 == $foil) {
-        $output = sprintf("%02d [FOIL]%s[/FOIL]", abs($quantity), $output);
-    }
-    else {
-        $output = sprintf("%02d %s", abs($quantity), $output);
-    }
-
-    if(0 < $quantity) {
-        $output = sprintf("%s (%s)", $output, $set);
-    }
-
-    return $output;
-}
-
-sub puca_format_card()
-{
-    my $quantity = shift;
-    my $name     = shift;
-    my $rarity   = shift;
-    my $foil     = shift;
-    my $promo    = shift;
-    my $output   = "";
-
-    unless($foil || $promo) {
-        $output = sprintf("%02d %s", abs($quantity), $name);
-    }
-
-    return $output;
-}
-
-sub dbox_format_card()
-{
-    my $quantity = shift;
-    my $name     = shift;
-    my $rarity   = shift;
-    my $foil     = shift;
-    my $promo    = shift;
-    my $set      = shift;
-    my $output   = sprintf("%d", abs($quantity)); #count
-    my $set_name = &get_set_name($set);
-    $set_name = "\"$set_name\"" unless("" eq $set_name);
-
-    if(0 > $quantity) {
-        $output = sprintf("%s,%d", $output, abs($quantity)); # ,trading
-    }
-
-    # ,name,foil,textless,promo,signed,edition,condition,language
-    return sprintf( "%s,\"%s\",%s,%s,%s,%s,%s,%s,%s"
-                  , $output
-                  , $name
-                  , $foil ? "foil" : ""
-                  , ""
-                  , $promo ? "promo" : ""
-                  , ""
-                  , $set_name
-                  , 0 > $quantity ? "" : "Near Mint"
-                  , "English"
-                  );
-}
-
-sub print_have()
-{
-    if($format_dbox) {
-        print "Count,Tradelist Count,Name,Foil,Textless," .
-              "Promo,Signed,Edition,Condition,Language\n";
-    }
-    my $list = shift;
-    foreach(sort(keys $list->{'have'})) {
-        print '[u]' . &get_set_name($_) . '[/u]' . "\n" if($format_motl);
-        print &get_set_name($_) . "\n" if($format_puca);
-        foreach(@{$list->{'have'}->{$_}}) {
-            print "$_\n";
-        }
-        print "\n" if($format_motl || $format_puca);
-    }
-}
-
-sub print_want()
-{
-    if($format_dbox) {
-        print "Count,Name,Foil,Textless," .
-              "Promo,Signed,Edition,Condition,Language\n";
-    }
-    my $list = shift;
-    foreach(sort want_sort (keys $list->{'want'})) {
-        print '[u]' . $_ . ' Wants[/u]' . "\n" if($format_motl);
-        foreach(@{$list->{'want'}->{$_}}) {
-            print "$_\n";
-        }
-        print "\n" if($format_motl);
     }
 }
 
@@ -527,6 +426,30 @@ sub print_dbox_have()
         . "\n";
 }
 
+sub print_dbox_want()
+{
+    my $want = shift;
+    my $name = shift;
+    my $foil = shift;
+    my $promo = shift;
+    my $textless = shift;
+    my $set = shift;
+    my $condition = shift;
+    my $set_name = &get_set_name($set);
+    $set_name = "\"$set_name\"" unless("" eq $set_name);
+
+    print "$want"
+        . "," . "\"$name\""
+        . "," . "$foil"
+        . "," . "$textless"
+        . "," . "$promo"
+        . "," . ""
+        . "," . "$set_name"
+        . "," . "$condition"
+        . "," . "English"
+        . "\n";
+}
+
 sub print_dbox_haves()
 {
     my $cards = shift;
@@ -543,7 +466,8 @@ sub print_dbox_haves()
                 my $h = $cards->{$name}{set}{$set}{$type};
                 my $have = $h->{have};
                 if(0 != $have) {
-                    my $trade = $h->{trade};
+                    my $trade = $h->{have} - $h->{want};
+                    $trade = 0 if(0 > $trade);
                     &print_dbox_have( $have
                                     , $trade
                                     , $name
@@ -560,13 +484,44 @@ sub print_dbox_haves()
 }
 
 
+sub print_dbox_wants()
+{
+    my $cards = shift;
+    print "Count,Name,Foil,Textless," .
+          "Promo,Signed,Edition,Condition,Language\n";
+
+    for my $name (sort keys %$cards) {
+        for my $set (sort set_sort keys $cards->{$name}{set}) {
+            for my $type (sort keys $cards->{$name}{set}{$set}) {
+                my $foil = "foil" eq $type ? "foil" : "";
+                my $prmo = "prmo" eq $type ? "promo" : "";
+                my $text = "text" eq $type ? "textless" : "";
+                my $cond = "mcut" eq $type ? "Damaged" : "";
+                my $w = $cards->{$name}{set}{$set}{$type};
+                my $want = $w->{want} - $w->{have};
+                $want = 0 if(0 > $want);
+                if(0 != $want) {
+                    &print_dbox_want( $want
+                                    , $name
+                                    , $foil
+                                    , $prmo
+                                    , $text
+                                    , $set
+                                    , $cond
+                                    );
+                }
+            }
+        }
+    }
+}
+
 sub get_haves()
 {
     my %cards = ();
 
     my @lines = read_file($HAVES);
     for my $card (@lines) {
-        next if($card =~ /^#/);
+        next if($card =~ /^#/ || $card =~/^\s*\n$/);
         my @fields = split(/\|/,$card);
 
         my $norm = int($fields[$HNORM]);
@@ -579,17 +534,15 @@ sub get_haves()
         my $name = $fields[$HNAME];
         chomp($name);
 
-        $cards{$name}{trade} += 0 + $norm + $foil + $prmo + $text + $mcut;
+        $cards{$name}{inventory} += 0 + $norm + $foil + $prmo + $text + $mcut;
+        $cards{$name}{wishlist} = 0;
+        $cards{$name}{shared} = 0;
+        $cards{$name}{dedicated} = 0;
         $cards{$name}{set}{$expn}{norm}{have} = $norm;
         $cards{$name}{set}{$expn}{foil}{have} = $foil;
         $cards{$name}{set}{$expn}{prmo}{have} = $prmo;
         $cards{$name}{set}{$expn}{text}{have} = $text;
         $cards{$name}{set}{$expn}{mcut}{have} = $mcut;
-        $cards{$name}{set}{$expn}{norm}{trade} = $norm;
-        $cards{$name}{set}{$expn}{foil}{trade} = $foil;
-        $cards{$name}{set}{$expn}{prmo}{trade} = $prmo;
-        $cards{$name}{set}{$expn}{text}{trade} = $text;
-        $cards{$name}{set}{$expn}{mcut}{trade} = $mcut;
         $cards{$name}{set}{$expn}{norm}{want} = 0;
         $cards{$name}{set}{$expn}{foil}{want} = 0;
         $cards{$name}{set}{$expn}{prmo}{want} = 0;
@@ -599,68 +552,160 @@ sub get_haves()
     return \%cards;
 }
 
-sub set_wants()
+# Contract:
+#   Requires: Wants have been updated
+#   Guarantees: Wants are reduced by incoming
+sub get_incoming()
+{
+    my $cards = shift;
+
+    my @lines = read_file($INCOM);
+    for my $card (@lines) {
+        next if($card =~ /^#/ || $card =~ /^\s*\n$/);
+        my @fields = split(/\|/,$card);
+        my $inco = int($fields[$INORM]);
+        my $expn = $fields[$IEXPN];
+        my $name = $fields[$INAME];
+        chomp($name);
+
+        my $want = $cards->{$name}{set}{$expn}{norm}{want};
+        $cards->{$name}{set}{$expn}{norm}{want} -= $inco > $want
+                                                   ? $want
+                                                   : $inco;
+    }
+}
+
+# Contract:
+#   Requires: Haves are loaded
+#   Guarantees: Wants are updated
+sub get_wants()
 {
     my $cards = shift;
 
     my @lines = read_file($WANTS);
     for my $card (@lines) {
-        next if($card =~ /^#/);
+        next if($card =~ /^#/ || $card =~ /^\s*\n$/);
         my @fields = split(/\|/,$card);
-        my $want = $fields[$WNORM];
+        my $want = int($fields[$WNORM]);
         my $expn = $fields[$WEXPN];
         my $name = $fields[$WNAME];
         chomp($name);
 
-        $cards->{$name}{trade} -= $want;
-        if(0 > $cards->{$name}{trade}) {
-            $cards->{$name}{trade} = 0;
+        my $w = $cards->{$name}{set}{$expn}{norm}{want};
+        my $h = $cards->{$name}{set}{$expn}{norm}{have};
+        if($w >= $h) {
+            $cards->{$name}{wishlist} += $want;
         }
-        $cards->{$name}{set}{$expn}{norm}{want} = $want;
-        $cards->{$name}{set}{$expn}{norm}{trade} -= $want;
-        if(0 > $cards->{$name}{set}{$expn}{norm}{trade}) {
-            $cards->{$name}{set}{$expn}{norm}{trade} = 0;
+        elsif($w + $want > $h) {
+            $cards->{$name}{wishlist} += (($w + $want) - $h);
         }
+
+        $cards->{$name}{set}{$expn}{norm}{want} += $want;
     }
 }
 
-sub set_trade_nums()
+sub get_deck()
+{
+    my $cards = shift;
+    my $file = shift;
+    my @lines = read_file($file);
+    for my $card (@lines) {
+        next if($card =~ /^#/ || $card =~ /^\s*\n$/);
+        my @fields = split(/\|/,$card);
+        my $shared = int($fields[$DSHAR]);
+        my $dedicated = int($fields[$DDEDI]);
+        my $name = $fields[$DNAME];
+        chomp($name);
+
+        die("Card $name DNE\n") if(!exists $cards->{$name});
+        if($cards->{$name}{shared} < $shared) {
+            $cards->{$name}{shared} = $shared;
+        }
+        $cards->{$name}{dedicated} += $dedicated;
+    }
+}
+
+# Contract:
+#   Requires: Haves and Wants are loaded
+#   Guarantees: Wants are updated
+sub get_decks()
+{
+    my $cards = shift;
+    my $file;
+
+    opendir(DIR, getcwd) or die "Can't open cwd: $!\n";
+    while($file = readdir(DIR)) {
+        &get_deck($cards, $file) if($file =~ /$DKEXT$/);
+    }
+    closedir(DIR);
+}
+
+
+sub hold_cards()
 {
     my $cards = shift;
     my $name = shift;
     my $set = shift;
     my $type = shift;
-    my $trades = shift;
+    my $hold = shift;
 
-    if($cards->{$name}{set}{$set}{$type}{trade} > $trades) {
-        $cards->{$name}{set}{$set}{$type}{trade} = $trades;
-        $trades = 0;
+    my $have = $cards->{$name}{set}{$set}{$type}{have};
+    my $want = $cards->{$name}{set}{$set}{$type}{want};
+
+    if($have <= $want) { # Already held
+        $hold -= $have > $hold ? $hold : $have;
     }
-    else {
-        $trades -= $cards->{$name}{set}{$set}{$type}{trade};
+    else { # Need to hold
+        my $avail = $have - $want;
+        if($hold >= $avail) {
+            $hold -= $avail;
+            $cards->{$name}{set}{$set}{$type}{want} += $avail;
+        }
+        else {
+            $cards->{$name}{set}{$set}{$type}{want} += $hold;
+            $hold = 0;
+        }
     }
 
-    return $trades;
+    return $hold;
 }
-sub update_trade_nums()
+
+# Contract:
+#   Requires: Haves, Wants, and Decks are loaded
+#   Guarantees: Wants are updated
+sub update_wants()
 {
     my $cards = shift;
-
     for my $name (sort keys %$cards) {
-        my $trades = $cards->{$name}{trade};
+        my $invo = $cards->{$name}{inventory};
+        my $wish = $cards->{$name}{wishlist};
+        my $need = $cards->{$name}{dedicated}
+                 + $cards->{$name}{shared};
+        my $hold = $need <= $invo ? $need : $invo; # hold what you need/have
+
+        # Prefer regular printing of card
         for my $set (sort set_sort keys $cards->{$name}{set}) {
-            $trades = &set_trade_nums($cards, $name, $set, "mcut", $trades);
-            $trades = &set_trade_nums($cards, $name, $set, "foil", $trades);
-            $trades = &set_trade_nums($cards, $name, $set, "prmo", $trades);
-            $trades = &set_trade_nums($cards, $name, $set, "text", $trades);
+            last if(0 == $hold);
+            $hold = &hold_cards($cards, $name, $set, "norm", $hold);
         }
-        # Normal prints for all sets take priority for keeping vs trading
         for my $set (sort set_sort keys $cards->{$name}{set}) {
-            $trades = &set_trade_nums($cards, $name, $set, "norm", $trades);
+            last if(0 == $hold);
+            $hold = &hold_cards($cards, $name, $set, "text", $hold);
+            $hold = &hold_cards($cards, $name, $set, "prmo", $hold);
+            $hold = &hold_cards($cards, $name, $set, "foil", $hold);
+            $hold = &hold_cards($cards, $name, $set, "mcut", $hold);
         }
+        # Need more than current inventory + wishlist; increase wishlist
+        if($need > ($invo + $wish)) {
+            # add needs to first set returned by sort
+            my @set = (sort set_sort keys $cards->{$name}{set});
+            my $n = $need - ($invo + $wish);
+            $cards->{$name}{wishlist} += $n;
+            $cards->{$name}{set}{$set[0]}{norm}{want} += $n;
+        }
+        die("Error updating wants ($name)\n") if(0 != $hold);
     }
 }
-
 
 sub main()
 {
@@ -670,12 +715,12 @@ sub main()
     }
 
     my $cards = &get_haves();
-    &set_wants($cards);
-    &update_trade_nums($cards);
-    &print_dbox_haves($cards)
-    #for my $set (sort set_sort keys %sets) {
-    #    print "$sets{$set}{name}\n";
-    #}
+    &get_wants($cards);
+    &get_decks($cards);
+    &update_wants($cards);
+    &get_incoming($cards);
+    &print_dbox_haves($cards) if $print_have;
+    &print_dbox_wants($cards) if $print_want;
 }
 
 &main();
