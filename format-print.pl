@@ -463,7 +463,7 @@ sub print_dbox_haves()
                 my $foil = "foil" eq $type ? "foil" : "";
                 my $prmo = "prmo" eq $type ? "promo" : "";
                 my $text = "text" eq $type ? "textless" : "";
-                my $cond = "mcut" eq $type ? "Damaged" : "";
+                my $cond = "mcut" eq $type ? "Poor" : "";
                 my $h = $cards->{$name}{set}{$set}{$type};
                 my $have = $h->{have};
                 if(0 != $have) {
