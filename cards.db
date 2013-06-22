@@ -20183,7 +20183,7 @@
 00|00|00|00|00|ZEN|C|Disfigure
 00|00|00|00|00|ZEN|C|Expedition Map
 00|00|00|00|00|ZEN|C|Explorer's Scope
-04|00|00|00|00|ZEN|C|Forest
+00|00|00|07|00|ZEN|C|Forest
 00|00|00|00|00|ZEN|C|Giant Scorpion
 00|00|00|00|00|ZEN|C|Goblin Bushwhacker
 00|00|00|00|00|ZEN|C|Goblin Shortcutter
@@ -20229,7 +20229,7 @@
 00|01|00|00|00|ZEN|C|Paralyzing Grasp
 00|00|00|00|00|ZEN|C|Pillarfield Ox
 01|00|00|00|00|ZEN|C|Piranha Marsh
-00|00|00|00|00|ZEN|C|Plains
+00|00|00|11|00|ZEN|C|Plains
 00|00|00|00|00|ZEN|C|Plated Geopede
 00|00|00|00|00|ZEN|C|Reckless Scholar
 00|00|00|00|00|ZEN|C|Relic Crush
