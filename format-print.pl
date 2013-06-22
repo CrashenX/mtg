@@ -21,8 +21,9 @@ my $HRARE = 6;
 my $HNAME = 7;
 
 my $WNORM = 0;
-my $WEXPN = 1;
-my $WNAME = 2;
+my $WTEXT = 1;
+my $WEXPN = 2;
+my $WNAME = 3;
 
 my $INORM = 0;
 my $IEXPN = 1;
@@ -575,6 +576,26 @@ sub get_incoming()
     }
 }
 
+sub get_want()
+{
+    my $cards = shift;
+    my $name = shift;
+    my $expn = shift;
+    my $type = shift;
+    my $want = shift;
+
+    my $w = $cards->{$name}{set}{$expn}{$type}{want};
+    my $h = $cards->{$name}{set}{$expn}{$type}{have};
+    if($w >= $h) {
+        $cards->{$name}{wishlist} += $want;
+    }
+    elsif($w + $want > $h) {
+        $cards->{$name}{wishlist} += (($w + $want) - $h);
+    }
+
+    $cards->{$name}{set}{$expn}{$type}{want} += $want;
+}
+
 # Contract:
 #   Requires: Haves are loaded
 #   Guarantees: Wants are updated
@@ -586,21 +607,14 @@ sub get_wants()
     for my $card (@lines) {
         next if($card =~ /^#/ || $card =~ /^\s*\n$/);
         my @fields = split(/\|/,$card);
-        my $want = int($fields[$WNORM]);
+        my $norm = int($fields[$WNORM]);
+        my $text = int($fields[$WTEXT]);
         my $expn = $fields[$WEXPN];
         my $name = $fields[$WNAME];
         chomp($name);
 
-        my $w = $cards->{$name}{set}{$expn}{norm}{want};
-        my $h = $cards->{$name}{set}{$expn}{norm}{have};
-        if($w >= $h) {
-            $cards->{$name}{wishlist} += $want;
-        }
-        elsif($w + $want > $h) {
-            $cards->{$name}{wishlist} += (($w + $want) - $h);
-        }
-
-        $cards->{$name}{set}{$expn}{norm}{want} += $want;
+        &get_want($cards, $name, $expn, "norm", $norm);
+        &get_want($cards, $name, $expn, "text", $text);
     }
 }
 
