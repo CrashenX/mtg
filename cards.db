@@ -5152,7 +5152,7 @@
 00|00|00|00|00|CHK|R|Akki Lavarunner
 00|00|00|00|00|CHK|R|Autumn-Tail, Kitsune Sage
 02|00|00|00|00|CHK|R|Azami, Lady of Scrolls
-01|00|00|00|00|CHK|R|Azusa, Lost but Seeking
+00|00|00|00|00|CHK|R|Azusa, Lost but Seeking
 00|00|00|00|00|CHK|R|Ben-Ben, Akki Hermit
 00|00|00|00|00|CHK|R|Boseiju, Who Shelters All
 00|00|00|00|00|CHK|R|Budoka Gardener
@@ -5735,7 +5735,7 @@
 00|00|00|00|00|CMD|U|Sigil Captain
 00|00|00|00|00|CMD|U|Skullclamp
 00|00|00|00|00|CMD|U|Skyscribing
-01|00|00|00|00|CMD|U|Sol Ring
+00|00|00|00|00|CMD|U|Sol Ring
 00|00|00|00|00|CMD|U|Soul Snare
 00|00|00|00|00|CMD|U|Spell Crumple
 00|00|00|00|00|CMD|U|Spike Feeder
@@ -6920,7 +6920,7 @@
 00|00|00|00|00|DGM|R|Ruric Thar, the Unbowed
 00|00|00|00|00|DGM|R|Scion of Vitu-Ghazi
 00|00|00|00|00|DGM|R|Sire of Insanity
-01|00|00|00|00|DGM|R|Skylasher
+00|00|00|00|00|DGM|R|Skylasher
 01|00|00|00|00|DGM|R|Tajic, Blade of the Legion
 00|00|00|00|00|DGM|R|Teysa, Envoy of Ghosts
 01|00|00|00|00|DGM|R|Trait Doctoring
@@ -12003,7 +12003,7 @@
 00|00|00|00|00|M11|R|Royal Assassin
 04|00|00|00|00|M11|R|Serra Ascendant
 00|00|00|00|00|M11|R|Silence
-01|00|00|00|00|M11|R|Steel Overseer
+00|00|00|00|00|M11|R|Steel Overseer
 00|00|00|00|00|M11|R|Stormtide Leviathan
 01|00|00|00|00|M11|R|Sunpetal Grove
 01|00|00|00|00|M11|R|Sword of Vengeance
@@ -12215,10 +12215,10 @@
 00|00|00|00|00|M12|R|Glacial Fortress
 00|00|00|00|00|M12|R|Goblin Chieftain
 00|00|00|00|00|M12|R|Grand Abolisher
-01|00|00|00|00|M12|R|Grim Lavamancer
+00|00|00|00|00|M12|R|Grim Lavamancer
 00|00|00|00|00|M12|R|Honor of the Pure
 00|00|00|00|00|M12|R|Jace's Archivist
-01|00|00|00|00|M12|R|Lord of the Unreal
+00|00|00|00|00|M12|R|Lord of the Unreal
 00|00|00|00|00|M12|R|Manabarbs
 01|00|00|00|00|M12|R|Mesa Enchantress
 00|00|00|00|00|M12|R|Mind Unbound
@@ -12435,7 +12435,7 @@
 00|00|00|00|00|M13|R|Diabolic Revelation
 00|00|00|00|00|M13|R|Disciple of Bolas
 00|00|00|00|00|M13|R|Door to Nothingness
-01|00|00|00|00|M13|R|Dragonskull Summit
+00|00|00|00|00|M13|R|Dragonskull Summit
 00|00|00|00|00|M13|R|Drowned Catacomb
 00|00|00|00|00|M13|R|Elvish Archdruid
 00|00|00|00|00|M13|R|Faith's Reward
@@ -12462,7 +12462,7 @@
 00|00|00|00|00|M13|R|Rhox Faithmender
 01|00|00|00|00|M13|R|Rootbound Crag
 00|00|00|00|00|M13|R|Sands of Delirium
-05|00|00|00|00|M13|R|Serra Avenger
+04|00|00|00|00|M13|R|Serra Avenger
 00|00|00|00|00|M13|R|Shimian Specter
 00|00|00|00|00|M13|R|Silklash Spider
 00|00|00|00|00|M13|R|Slumbering Dragon
@@ -12625,7 +12625,7 @@
 00|00|00|00|00|MBS|R|Decimator Web
 00|00|00|00|00|MBS|R|Distant Memories
 01|00|00|00|00|MBS|R|Galvanoth
-05|00|00|00|00|MBS|R|Green Sun's Zenith
+04|00|00|00|00|MBS|R|Green Sun's Zenith
 00|00|00|00|00|MBS|R|Hellkite Igniter
 01|00|00|00|00|MBS|R|Inkmoth Nexus
 01|00|00|00|00|MBS|R|Knowledge Pool
@@ -12941,7 +12941,7 @@
 00|00|00|00|00|MIR|U|Dread Specter
 00|00|00|00|00|MIR|U|Dwarven Miner
 00|00|00|00|00|MIR|U|Elixir of Vitality
-02|00|00|00|00|MIR|U|Enlightened Tutor
+01|00|00|00|00|MIR|U|Enlightened Tutor
 00|00|00|00|00|MIR|U|Ersatz Gnomes
 00|00|00|00|00|MIR|U|Ether Well
 00|00|00|00|00|MIR|U|Fallow Earth
@@ -13180,7 +13180,7 @@
 00|00|00|00|00|MMA|R|Meloku the Clouded Mirror
 01|00|00|00|00|MMA|R|Molten Disaster
 00|00|00|00|00|MMA|R|Oona, Queen of the Fae
-01|00|00|00|00|MMA|R|Pact of Negation
+00|00|00|00|00|MMA|R|Pact of Negation
 00|00|00|00|00|MMA|R|Pyromancer's Swath
 00|00|00|00|00|MMA|R|Reveillark
 00|00|00|00|00|MMA|R|Rude Awakening
@@ -13775,7 +13775,7 @@
 00|00|00|00|00|MRD|C|Goblin Striker
 00|00|00|00|00|MRD|C|Goblin War Wagon
 00|00|00|00|00|MRD|C|Gold Myr
-01|00|00|00|00|MRD|C|Great Furnace
+00|00|00|00|00|MRD|C|Great Furnace
 00|00|00|00|00|MRD|C|Groffskithur
 00|00|00|00|00|MRD|C|Hematite Golem
 00|00|00|00|00|MRD|C|Incite War
@@ -16882,7 +16882,7 @@
 00|00|00|00|00|RTR|R|Search the City
 00|00|00|00|00|RTR|R|Slaughter Games
 00|00|00|00|00|RTR|R|Sphinx of the Chimes
-01|00|00|00|00|RTR|R|Steam Vents
+00|00|00|00|00|RTR|R|Steam Vents
 00|00|00|00|00|RTR|R|Supreme Verdict
 03|00|00|00|00|RTR|R|Temple Garden
 00|00|00|00|00|RTR|R|Underworld Connections
@@ -19438,7 +19438,7 @@
 00|00|00|00|00|USG|R|Elite Archers
 00|00|00|00|00|USG|R|Endless Wurm
 00|00|00|00|00|USG|R|Energy Field
-02|00|00|00|00|USG|R|Exploration
+01|00|00|00|00|USG|R|Exploration
 00|00|00|00|00|USG|R|Faith Healer
 00|00|00|00|00|USG|R|Fault Line
 00|00|00|00|00|USG|R|Fluctuator
@@ -20100,7 +20100,7 @@
 00|00|00|00|00|WWK|R|Butcher of Malakir
 00|00|00|00|00|WWK|R|Celestial Colonnade
 01|00|00|00|00|WWK|R|Chain Reaction
-01|00|00|00|00|WWK|R|Creeping Tar Pit
+00|00|00|00|00|WWK|R|Creeping Tar Pit
 00|00|00|00|00|WWK|R|Death's Shadow
 00|00|00|00|00|WWK|R|Goliath Sphinx
 00|00|00|00|00|WWK|R|Harabaz Druid
@@ -20119,7 +20119,7 @@
 01|00|00|00|00|WWK|R|Selective Memory
 01|00|00|00|00|WWK|R|Stirring Wildwood
 00|00|00|00|00|WWK|R|Stone Idol Trap
-05|00|00|00|00|WWK|R|Stoneforge Mystic
+04|00|00|00|00|WWK|R|Stoneforge Mystic
 00|00|00|00|00|WWK|R|Strength of the Tajuru
 01|00|00|00|00|WWK|R|Talus Paladin
 02|00|00|00|00|WWK|R|Terastodon
