@@ -652,10 +652,17 @@ sub hold_cards()
     my $have = $cards->{$name}{set}{$set}{$type}{have};
     my $want = $cards->{$name}{set}{$set}{$type}{want};
 
-    if($have <= $want) { # Already held
+
+    # Already held cards
+    if($want >= $have) {
         $hold -= $have > $hold ? $hold : $have;
     }
-    else { # Need to hold
+    else {
+        $hold -= $want > $hold ? $hold : $want;
+    }
+
+    # Need to hold more
+    if($have > $want and 0 < $hold) {
         my $avail = $have - $want;
         if($hold >= $avail) {
             $hold -= $avail;
@@ -682,7 +689,6 @@ sub update_wants()
         my $need = $cards->{$name}{dedicated}
                  + $cards->{$name}{shared};
         my $hold = $need <= $invo ? $need : $invo; # hold what you need/have
-
         # Prefer regular printing of card
         for my $set (sort set_sort keys $cards->{$name}{set}) {
             last if(0 == $hold);
