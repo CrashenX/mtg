@@ -435,7 +435,6 @@ sub print_dbox_want()
     my $promo = shift;
     my $textless = shift;
     my $set = shift;
-    my $condition = shift;
     my $set_name = &get_set_name($set);
     $set_name = "\"$set_name\"" unless("" eq $set_name);
 
@@ -446,7 +445,7 @@ sub print_dbox_want()
         . "," . "$promo"
         . "," . ""
         . "," . "$set_name"
-        . "," . "$condition"
+        . "," . "Near Mint"
         . "," . "English"
         . "\n";
 }
@@ -497,7 +496,6 @@ sub print_dbox_wants()
                 my $foil = "foil" eq $type ? "foil" : "";
                 my $prmo = "prmo" eq $type ? "promo" : "";
                 my $text = "text" eq $type ? "textless" : "";
-                my $cond = "mcut" eq $type ? "Damaged" : "";
                 my $w = $cards->{$name}{set}{$set}{$type};
                 my $want = $w->{want} - $w->{have};
                 $want = 0 if(0 > $want);
@@ -508,7 +506,6 @@ sub print_dbox_wants()
                                     , $prmo
                                     , $text
                                     , $set
-                                    , $cond
                                     );
                 }
             }
