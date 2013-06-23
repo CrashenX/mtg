@@ -4079,7 +4079,7 @@
 01|00|00|00|00|ARC|R|Master Transmuter
 00|00|00|00|00|ARC|R|Memnarch
 01|00|00|00|00|ARC|R|Molimo, Maro-Sorcerer
-01|00|00|00|00|ARC|R|Mosswort Bridge
+00|00|00|00|00|ARC|R|Mosswort Bridge
 00|00|00|00|00|ARC|R|Primal Command
 00|00|00|00|00|ARC|R|Ryusei, the Falling Star
 00|00|00|00|00|ARC|R|Scion of Darkness
@@ -4303,7 +4303,7 @@
 00|00|00|00|00|ATH|S|Slippery Karst
 00|00|00|00|00|ATH|S|Smoldering Crater
 00|00|00|00|00|ATH|S|Spectral Bears
-01|00|00|00|00|ATH|S|Strip Mine
+00|00|00|00|00|ATH|S|Strip Mine
 00|00|00|00|00|ATH|S|Swords to Plowshares
 00|00|00|00|00|ATH|S|Terror
 00|00|00|00|00|ATH|S|Unholy Strength
@@ -5474,7 +5474,7 @@
 00|00|00|00|00|CMD|C|Brainstorm
 00|00|00|00|00|CMD|C|Chartooth Cougar
 00|00|00|00|00|CMD|C|Colossal Might
-01|00|00|00|00|CMD|C|Command Tower
+00|00|00|00|00|CMD|C|Command Tower
 00|00|00|00|00|CMD|C|Congregate
 00|00|00|00|00|CMD|C|Cultivate
 00|00|00|00|00|CMD|C|Darksteel Ingot
@@ -6337,7 +6337,7 @@
 01|00|00|00|00|DDE|R|Rith, the Awakener
 00|00|00|00|00|DDE|R|Treva, the Renewer
 01|00|00|00|00|DDE|U|Allied Strategies
-01|00|00|00|00|DDE|U|Bone Shredder
+00|00|00|00|00|DDE|U|Bone Shredder
 01|00|00|00|00|DDE|U|Charging Troll
 01|00|00|00|00|DDE|U|Darigaaz's Charm
 01|00|00|00|00|DDE|U|Elfhame Palace
@@ -8424,7 +8424,7 @@
 00|00|00|00|00|FUT|U|Street Wraith
 00|00|00|00|00|FUT|U|Stronghold Rats
 00|00|00|00|00|FUT|U|Sword of the Meek
-01|00|00|00|00|FUT|U|Tolaria West
+00|00|00|00|00|FUT|U|Tolaria West
 00|00|00|00|00|FUT|U|Utopia Mycon
 00|00|00|00|00|FUT|U|Witch's Mist
 00|00|00|00|00|FUT|U|Yixlid Jailer
@@ -8771,7 +8771,7 @@
 05|00|00|00|00|GTC|U|Boros Charm
 08|00|00|00|00|GTC|U|Boros Elite
 02|00|00|00|00|GTC|U|Boros Keyrune
-03|00|00|00|00|GTC|U|Burning-Tree Emissary
+01|00|00|00|00|GTC|U|Burning-Tree Emissary
 01|00|00|00|00|GTC|U|Call of the Nightwing
 00|00|00|00|00|GTC|U|Cartel Aristocrat
 01|00|00|00|00|GTC|U|Cinder Elemental
@@ -12259,7 +12259,7 @@
 02|00|00|00|00|M12|U|Celestial Purge
 01|00|00|00|00|M12|U|Circle of Flame
 01|00|00|00|00|M12|U|Combust
-02|00|00|00|00|M12|U|Consume Spirit
+00|00|00|00|00|M12|U|Consume Spirit
 01|00|00|00|00|M12|U|Crimson Mage
 01|00|00|00|00|M12|U|Crown of Empires
 02|00|00|00|00|M12|U|Crumbling Colossus
@@ -14251,7 +14251,7 @@
 00|00|00|00|00|NPH|R|Birthing Pod
 00|00|00|00|00|NPH|R|Blade Splicer
 01|00|00|00|00|NPH|R|Bludgeon Brawl
-01|00|00|00|00|NPH|R|Caged Sun
+00|00|00|00|00|NPH|R|Caged Sun
 01|00|00|00|00|NPH|R|Chancellor of the Annex
 00|00|00|00|00|NPH|R|Chancellor of the Dross
 00|00|00|00|00|NPH|R|Chancellor of the Forge
@@ -14297,7 +14297,7 @@
 03|00|00|00|00|NPH|U|Corrupted Resolve
 02|00|00|00|00|NPH|U|Darksteel Relic
 03|00|00|00|00|NPH|U|Deceiver Exarch
-01|00|00|00|00|NPH|U|Despise
+00|00|00|00|00|NPH|U|Despise
 01|00|00|00|00|NPH|U|Dismember
 04|00|00|00|00|NPH|U|Dispatch
 02|00|00|00|00|NPH|U|Due Respect
@@ -16843,7 +16843,7 @@
 00|00|00|00|00|RTR|R|Blood Crypt
 00|00|00|00|00|RTR|R|Carnival Hellsteed
 00|00|00|00|00|RTR|R|Chaos Imps
-01|00|00|00|00|RTR|R|Chromatic Lantern
+00|00|00|00|00|RTR|R|Chromatic Lantern
 01|00|00|00|00|RTR|R|Collective Blessing
 00|00|00|00|00|RTR|R|Conjured Currency
 01|00|00|00|00|RTR|R|Corpsejack Menace
@@ -17911,13 +17911,13 @@
 01|00|00|00|00|SOM|R|Shape Anew
 01|00|00|00|00|SOM|R|Spikeshot Elder
 00|00|00|00|00|SOM|R|Steel Hellkite
-03|00|00|00|00|SOM|R|Strata Scythe
+00|00|00|00|00|SOM|R|Strata Scythe
 01|02|00|00|00|SOM|R|Sunblast Angel
 02|00|00|00|00|SOM|R|Tempered Steel
 00|00|00|00|00|SOM|R|Tower of Calamities
 02|00|00|00|00|SOM|R|True Conviction
 01|00|00|00|00|SOM|R|Tunnel Ignus
-01|00|00|00|00|SOM|R|Venser's Journal
+00|00|00|00|00|SOM|R|Venser's Journal
 03|00|00|00|00|SOM|U|Abuna Acolyte
 03|00|00|00|00|SOM|U|Acid Web Spider
 00|00|00|00|00|SOM|U|Arc Trail
@@ -19501,7 +19501,7 @@
 00|00|00|00|00|USG|R|Sunder
 00|00|00|00|00|USG|R|Tainted AEther
 00|00|00|00|00|USG|R|Temporal Aperture
-01|00|00|00|00|USG|R|Thran Quarry
+00|00|00|00|00|USG|R|Thran Quarry
 00|00|00|00|00|USG|R|Time Spiral
 00|00|00|00|00|USG|R|Tolarian Academy
 00|00|00|00|00|USG|R|Umbilicus
@@ -19672,7 +19672,7 @@
 00|00|00|00|00|V11|M|Teferi, Mage of Zhalfir
 00|00|00|00|00|V11|M|Ulamog, the Infinite Gyre
 00|00|00|00|00|V11|M|Visara the Dreadful
-01|00|00|00|00|V12|M|Ancient Tomb
+00|00|00|00|00|V12|M|Ancient Tomb
 02|00|00|00|00|V12|M|Boseiju, Who Shelters All
 02|00|00|00|00|V12|M|Cephalid Coliseum
 02|00|00|00|00|V12|M|Desert
@@ -19685,7 +19685,7 @@
 02|00|00|00|00|V12|M|Murmuring Bosk
 01|00|00|00|00|V12|M|Shivan Gorge
 00|00|00|00|00|V12|M|Urborg, Tomb of Yawgmoth
-02|00|00|00|00|V12|M|Vesuva
+00|00|00|00|00|V12|M|Vesuva
 02|00|00|00|00|V12|M|Windbrisk Heights
 00|00|00|00|00|VIS|C|Betrayal
 00|00|00|00|00|VIS|C|Breezekeeper
@@ -20026,7 +20026,7 @@
 00|00|00|00|00|WWK|C|Apex Hawks
 00|00|00|00|00|WWK|C|Arbor Elf
 00|00|00|00|00|WWK|C|Battle Hurda
-04|00|00|00|00|WWK|C|Bojuka Bog
+01|00|00|00|00|WWK|C|Bojuka Bog
 00|00|00|00|00|WWK|C|Bojuka Brigand
 00|00|00|00|00|WWK|C|Brink of Disaster
 00|00|00|00|00|WWK|C|Bull Rush
@@ -20138,7 +20138,7 @@
 02|00|00|00|00|WWK|U|Hammer of Ruin
 02|00|00|00|00|WWK|U|Horizon Drake
 04|00|00|00|00|WWK|U|Kor Firewalker
-03|00|00|00|00|WWK|U|Leatherback Baloth
+00|00|00|00|00|WWK|U|Leatherback Baloth
 03|00|00|00|00|WWK|U|Lightkeeper of Emeria
 00|00|00|00|00|WWK|U|Loam Lion
 02|00|00|00|00|WWK|U|Nemesis Trap
@@ -20306,7 +20306,7 @@
 00|00|00|00|00|ZEN|R|Electropotence
 00|00|00|00|00|ZEN|R|Elemental Appeal
 01|00|00|00|00|ZEN|R|Emeria Angel
-02|00|00|00|00|ZEN|R|Emeria, the Sky Ruin
+00|00|00|00|00|ZEN|R|Emeria, the Sky Ruin
 01|00|00|00|00|ZEN|R|Gigantiform
 00|00|00|00|00|ZEN|R|Goblin Guide
 01|00|00|00|00|ZEN|R|Grappling Hook
@@ -20373,7 +20373,7 @@
 04|00|00|00|00|ZEN|U|Marsh Casualties
 02|00|00|00|00|ZEN|U|Merfolk Seastalkers
 04|00|00|00|00|ZEN|U|Merfolk Wayfinder
-05|00|00|00|00|ZEN|U|Mind Sludge
+01|00|00|00|00|ZEN|U|Mind Sludge
 02|01|00|00|00|ZEN|U|Murasa Pyromancer
 02|00|00|00|00|ZEN|U|Needlebite Trap
 04|00|00|00|00|ZEN|U|Pitfall Trap
