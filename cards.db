@@ -6887,7 +6887,7 @@
 01|00|00|00|00|DGM|M|Legion's Initiative
 00|00|00|00|00|DGM|M|Master of Cruelties
 00|00|00|00|00|DGM|M|Maze's End
-01|00|00|00|00|DGM|M|Progenitor Mimic
+00|00|00|00|00|DGM|M|Progenitor Mimic
 00|00|00|00|00|DGM|M|Ral Zarek
 00|00|00|00|00|DGM|M|Reap Intellect
 00|00|00|00|00|DGM|M|Savageborn Hydra
@@ -8728,7 +8728,7 @@
 01|00|01|00|00|GTC|R|Foundry Champion
 02|00|00|00|00|GTC|R|Frontline Medic
 00|00|00|00|00|GTC|R|Glaring Spotlight
-01|00|00|00|00|GTC|R|Godless Shrine
+00|00|00|00|00|GTC|R|Godless Shrine
 02|00|00|00|00|GTC|R|Gruul Ragebeast
 01|00|00|00|00|GTC|R|Gyre Sage
 00|00|00|00|00|GTC|R|High Priest of Penance
@@ -12941,7 +12941,7 @@
 00|00|00|00|00|MIR|U|Dread Specter
 00|00|00|00|00|MIR|U|Dwarven Miner
 00|00|00|00|00|MIR|U|Elixir of Vitality
-01|00|00|00|00|MIR|U|Enlightened Tutor
+00|00|00|00|00|MIR|U|Enlightened Tutor
 00|00|00|00|00|MIR|U|Ersatz Gnomes
 00|00|00|00|00|MIR|U|Ether Well
 00|00|00|00|00|MIR|U|Fallow Earth
