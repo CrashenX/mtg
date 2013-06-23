@@ -244,7 +244,7 @@
 00|00|00|00|00|10E|R|Voice of All
 00|00|00|00|00|10E|R|Warp World
 00|00|00|00|00|10E|R|Windborn Muse
-02|00|00|00|00|10E|R|Wrath of God
+01|00|00|00|00|10E|R|Wrath of God
 00|00|00|00|00|10E|R|Yavimaya Coast
 00|00|00|00|00|10E|U|Academy Researchers
 00|00|00|00|00|10E|U|Agonizing Memories
@@ -13154,7 +13154,7 @@
 02|00|00|00|00|MMA|R|City of Brass
 00|00|00|00|00|MMA|R|Cold-Eyed Selkie
 01|00|00|00|00|MMA|R|Countryside Crusher
-01|00|00|00|00|MMA|R|Cryptic Command
+00|00|00|00|00|MMA|R|Cryptic Command
 01|00|00|00|00|MMA|R|Death Cloud
 00|00|00|00|00|MMA|R|Demigod of Revenge
 00|00|00|00|00|MMA|R|Divinity of Pride
