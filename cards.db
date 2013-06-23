@@ -6469,7 +6469,7 @@
 00|00|00|00|00|DDG|C|Spitting Earth
 01|00|00|00|00|DDG|C|Steward of Valeron
 00|00|00|00|00|DDG|M|Bogardan Hellkite
-00|03|00|00|00|DDG|M|Knight of the Reliquary
+00|01|00|00|00|DDG|M|Knight of the Reliquary
 00|00|00|00|00|DDG|R|Kilnmouth Dragon
 01|00|00|00|00|DDG|R|Kinsbaile Cavalier
 04|00|00|00|00|DDG|R|Knight Exemplar
@@ -10030,7 +10030,7 @@
 00|00|00|00|00|ISD|R|Endless Ranks of the Dead
 00|00|00|00|00|ISD|R|Evil Twin
 00|00|00|00|00|ISD|R|Falkenrath Marauders
-01|00|00|00|00|ISD|R|Gavony Township
+00|00|00|00|00|ISD|R|Gavony Township
 00|00|00|00|00|ISD|R|Geist-Honored Monk
 00|00|00|00|00|ISD|R|Gutter Grime
 00|00|00|00|00|ISD|R|Heartless Summoning
@@ -13155,7 +13155,7 @@
 00|00|00|00|00|MMA|R|Cold-Eyed Selkie
 01|00|00|00|00|MMA|R|Countryside Crusher
 00|00|00|00|00|MMA|R|Cryptic Command
-01|00|00|00|00|MMA|R|Death Cloud
+00|00|00|00|00|MMA|R|Death Cloud
 00|00|00|00|00|MMA|R|Demigod of Revenge
 00|00|00|00|00|MMA|R|Divinity of Pride
 00|01|00|00|00|MMA|R|Doubling Season
