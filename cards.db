@@ -7713,7 +7713,7 @@
 00|00|00|00|00|DST|R|Viridian Zealot
 00|00|00|00|00|DST|R|Wand of the Elements
 00|00|00|00|00|DST|R|Well of Lost Dreams
-04|00|00|00|00|DST|U|AEther Vial
+03|00|00|00|00|DST|U|AEther Vial
 00|00|00|00|00|DST|U|Angel's Feather
 00|00|00|00|00|DST|U|Arcbound Crusher
 00|00|00|00|00|DST|U|Arcbound Fiend
@@ -8722,7 +8722,7 @@
 00|00|00|00|00|GTC|R|Consuming Aberration
 00|00|00|00|00|GTC|R|Crypt Ghast
 00|00|00|00|00|GTC|R|Diluvian Primordial
-01|00|01|00|00|GTC|R|Fathom Mage
+01|00|00|00|00|GTC|R|Fathom Mage
 00|00|00|00|00|GTC|R|Firemane Avenger
 00|00|00|00|00|GTC|R|Five-Alarm Fire
 01|00|01|00|00|GTC|R|Foundry Champion
@@ -13207,7 +13207,7 @@
 00|00|00|00|00|MMA|U|Eternal Witness
 01|00|00|00|00|MMA|U|Executioner's Capsule
 01|00|00|00|00|MMA|U|Feudkiller's Verdict
-01|00|00|00|00|MMA|U|Flickerwisp
+00|00|00|00|00|MMA|U|Flickerwisp
 02|00|00|00|00|MMA|U|Grinning Ignus
 02|00|00|00|00|MMA|U|Horobi's Whisper
 02|00|00|00|00|MMA|U|Incremental Growth
