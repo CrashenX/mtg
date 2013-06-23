@@ -206,7 +206,7 @@ my %sets = ( "LEA" => { order => 199308,
                         name => 'Dissension'
                       }
            , "TSB" => { order => 200610,
-                        name => 'Time Spiral'
+                        name => 'Time Spiral ""Timeshifted""'
                       }
            , "TSP" => { order => 200610,
                         name => 'Time Spiral'
