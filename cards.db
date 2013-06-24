@@ -17321,7 +17321,7 @@
 00|00|00|00|00|SHM|C|Elvish Hexhunter
 00|00|00|00|00|SHM|C|Ember Gale
 00|00|00|00|00|SHM|C|Emberstrike Duo
-00|00|00|00|00|SHM|C|Faerie Macabre
+01|00|00|00|00|SHM|C|Faerie Macabre
 00|00|00|00|00|SHM|C|Farhaven Elf
 00|00|00|00|00|SHM|C|Fate Transfer
 00|00|00|00|00|SHM|C|Fists of the Demigod
@@ -20244,7 +20244,7 @@
 00|00|00|00|00|ZEN|C|Slaughter Cry
 00|00|00|00|00|ZEN|C|Soaring Seacliff
 00|00|00|00|00|ZEN|C|Soul Stair Expedition
-01|00|00|00|00|ZEN|C|Spell Pierce
+02|00|00|00|00|ZEN|C|Spell Pierce
 00|01|00|00|00|ZEN|C|Spidersilk Net
 00|00|00|00|00|ZEN|C|Spire Barrage
 00|00|00|00|00|ZEN|C|Spreading Seas
