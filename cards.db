@@ -7613,7 +7613,7 @@
 00|00|00|00|00|DST|C|Burden of Greed
 00|00|00|00|00|DST|C|Chittering Rats
 00|00|00|00|00|DST|C|Crazed Goblin
-07|00|00|00|00|DST|C|Darksteel Citadel
+06|00|00|00|00|DST|C|Darksteel Citadel
 00|00|00|00|00|DST|C|Darksteel Ingot
 00|00|00|00|00|DST|C|Darksteel Pendant
 00|00|00|00|00|DST|C|Drill-Skimmer
@@ -11424,7 +11424,7 @@
 00|00|00|00|00|LRW|C|Spiderwig Boggart
 00|00|00|00|00|LRW|C|Spring Cleaning
 00|00|00|00|00|LRW|C|Springjack Knight
-01|00|00|00|00|LRW|C|Springleaf Drum
+00|00|00|00|00|LRW|C|Springleaf Drum
 00|00|00|00|00|LRW|C|Stinkdrinker Daredevil
 00|00|00|00|00|LRW|C|Stonybrook Angler
 00|00|00|00|00|LRW|C|Streambed Aquitects
@@ -17878,7 +17878,7 @@
 00|00|00|00|00|SOM|R|Darksteel Juggernaut
 02|00|00|00|00|SOM|R|Dissipation Field
 00|00|00|00|00|SOM|R|Engulfing Slagwurm
-02|00|00|00|00|SOM|R|Etched Champion
+00|00|00|00|00|SOM|R|Etched Champion
 02|00|00|00|00|SOM|R|Ezuri's Brigade
 01|00|00|00|00|SOM|R|Ezuri, Renegade Leader
 00|00|00|00|00|SOM|R|Genesis Wave
