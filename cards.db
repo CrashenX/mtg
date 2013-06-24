@@ -5896,7 +5896,7 @@
 00|00|00|00|00|CON|U|Manaforce Mace
 00|00|00|00|00|CON|U|Nacatl Hunt-Pride
 00|00|00|00|00|CON|U|Paragon of the Amesha
-05|00|00|00|00|CON|U|Path to Exile
+04|00|00|00|00|CON|U|Path to Exile
 03|00|00|00|00|CON|U|Reliquary Tower
 00|00|00|00|00|CON|U|Sacellum Archers
 00|00|00|00|00|CON|U|Scarland Thrinax
@@ -8466,7 +8466,7 @@
 00|00|00|00|00|GPT|C|Pillory of the Sleepless
 00|00|00|00|00|GPT|C|Poisonbelly Ogre
 00|00|00|00|00|GPT|C|Pyromatics
-04|00|00|00|00|GPT|C|Repeal
+00|00|00|00|00|GPT|C|Repeal
 00|00|00|00|00|GPT|C|Restless Bones
 00|00|00|00|00|GPT|C|Runeboggle
 00|00|00|00|00|GPT|C|Scab-Clan Mauler
@@ -9958,7 +9958,7 @@
 00|00|00|00|00|ISD|C|Selfless Cathar
 00|00|00|00|00|ISD|C|Selhoff Occultist
 00|00|00|00|00|ISD|C|Sensory Deprivation
-01|00|00|00|00|ISD|C|Shimmering Grotto
+00|00|00|00|00|ISD|C|Shimmering Grotto
 00|00|00|00|00|ISD|C|Silent Departure
 00|00|00|00|00|ISD|C|Silverchase Fox
 00|01|00|00|00|ISD|C|Skeletal Grimace
@@ -11414,7 +11414,7 @@
 00|00|00|00|00|LRW|C|Scarred Vinebreeder
 00|00|00|00|00|LRW|C|Sentinels of Glen Elendra
 00|00|00|00|00|LRW|C|Shields of Velis Vel
-03|00|00|00|00|LRW|C|Shimmering Grotto
+00|00|00|00|00|LRW|C|Shimmering Grotto
 00|00|00|00|00|LRW|C|Silvergill Douser
 00|00|00|00|00|LRW|C|Skeletal Changeling
 00|00|00|00|00|LRW|C|Smokebraider
@@ -12054,7 +12054,7 @@
 01|00|00|00|00|M11|U|Ornithopter
 00|00|00|00|00|M11|U|Prized Unicorn
 01|00|00|00|00|M11|U|Prodigal Pyromancer
-01|00|00|00|00|M11|U|Pyroclasm
+00|00|00|00|00|M11|U|Pyroclasm
 07|00|00|00|00|M11|U|Reassembling Skeleton
 00|00|00|00|00|M11|U|Relentless Rats
 08|00|00|00|00|M11|U|Rise from the Grave
@@ -12300,7 +12300,7 @@
 02|00|00|00|00|M12|U|Swiftfoot Boots
 00|00|00|00|00|M12|U|Tectonic Rift
 01|00|00|00|00|M12|U|Thran Golem
-01|00|00|00|00|M12|U|Timely Reinforcements
+00|00|00|00|00|M12|U|Timely Reinforcements
 00|00|00|00|00|M12|U|Turn to Frog
 00|00|00|00|00|M12|U|Vampire Outcasts
 01|00|00|00|00|M12|U|Volcanic Dragon
@@ -12685,7 +12685,7 @@
 02|00|00|00|00|MBS|U|Sphere of the Suns
 01|00|00|00|00|MBS|U|Spiraling Duelist
 02|00|00|00|00|MBS|U|Strandwalker
-01|00|00|00|00|MBS|U|Treasure Mage
+00|00|00|00|00|MBS|U|Treasure Mage
 07|00|00|00|00|MBS|U|Vedalken Anatomist
 03|00|00|00|00|MBS|U|Vedalken Infuser
 03|00|00|00|00|MBS|U|Viridian Claw
@@ -17973,7 +17973,7 @@
 03|00|00|00|00|SOM|U|Trigon of Mending
 02|00|00|00|00|SOM|U|Trigon of Rage
 06|00|00|00|00|SOM|U|Trigon of Thought
-04|00|00|00|00|SOM|U|Trinket Mage
+00|00|00|00|00|SOM|U|Trinket Mage
 05|00|00|00|00|SOM|U|Twisted Image
 06|00|00|00|00|SOM|U|Vigil for the Lost
 05|00|00|00|00|SOM|U|Viridian Revel
