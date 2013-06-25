@@ -513,6 +513,69 @@ sub print_dbox_wants()
     }
 }
 
+sub motl_print_list()
+{
+    my $cards = shift;
+    my $a = shift;
+    my $b = shift;
+    my %list;
+
+    for my $name (sort keys %$cards) {
+        for my $set (sort set_sort keys $cards->{$name}{set}) {
+            for my $type (sort keys $cards->{$name}{set}{$set}) {
+                my $w = $cards->{$name}{set}{$set}{$type};
+                my $count = $w->{$a} - $w->{$b};
+                next if(0 >= $count);
+                my $line = sprintf("%02dx %s", $count, $name);
+                if("foil" eq $type or "prmo" eq $type) {
+                    $line = "[FOIL]" . $line . "[/FOIL]";
+                }
+                if("text" eq $type) {
+                    $line = $line . " (full art)";
+                }
+                if("prmo" eq $type) {
+                    $line = $line . " (promo)";
+                }
+                push(@{$list{$set}}, $line);
+            }
+        }
+    }
+    return \%list;
+}
+
+sub print_motl()
+{
+    my $cards = shift;
+    my $list_type = shift;
+    my $a;
+    my $b;
+    if("have" eq $list_type) {
+        $a = "have";
+        $b = "want";
+    }
+    elsif("want" eq $list_type) {
+        $a = "want";
+        $b = "have";
+    }
+    else {
+        die( "Invalid motl list type:\n"
+           . "   Expected: 'have' or 'want'\n"
+           . "   Received: $list_type\n"
+           );
+    }
+
+    my $list = &motl_print_list($cards, $a, $b);
+
+    for my $set (sort set_sort keys %$list) {
+        my $set_name = &get_set_name($set);
+        print "[u]" . $set_name . "[/u]\n";
+        for my $card (@{$list->{$set}}) {
+            print "$card\n";
+        }
+        print "\n";
+    }
+}
+
 sub get_haves()
 {
     my %cards = ();
@@ -736,8 +799,14 @@ sub main()
     &get_decks($cards);
     &update_wants($cards);
     &get_incoming($cards);
-    &print_dbox_haves($cards) if $print_have;
-    &print_dbox_wants($cards) if $print_want;
+    if($format_dbox) {
+        &print_dbox_haves($cards) if $print_have;
+        &print_dbox_wants($cards) if $print_want;
+    }
+    if($format_motl) {
+        &print_motl($cards, "have") if $print_have;
+        &print_motl($cards, "want") if $print_want;
+    }
 }
 
 &main();
