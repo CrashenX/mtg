@@ -12627,7 +12627,7 @@
 01|00|00|00|00|MBS|R|Galvanoth
 04|00|00|00|00|MBS|R|Green Sun's Zenith
 00|00|00|00|00|MBS|R|Hellkite Igniter
-01|00|00|00|00|MBS|R|Inkmoth Nexus
+00|00|00|00|00|MBS|R|Inkmoth Nexus
 01|00|00|00|00|MBS|R|Knowledge Pool
 00|00|00|00|00|MBS|R|Magnetic Mine
 03|00|00|00|00|MBS|R|Mirran Crusader
@@ -17950,7 +17950,7 @@
 03|00|00|00|00|SOM|U|Infiltration Lens
 04|00|00|00|00|SOM|U|Lifesmith
 04|00|00|00|00|SOM|U|Liquimetal Coating
-03|00|00|00|00|SOM|U|Memnite
+01|00|00|00|00|SOM|U|Memnite
 05|00|00|00|00|SOM|U|Myr Galvanizer
 05|00|00|00|00|SOM|U|Myrsmith
 04|01|00|00|00|SOM|U|Necrogen Scudder
