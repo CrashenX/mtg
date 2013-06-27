@@ -466,7 +466,7 @@ sub print_dbox_haves()
                 my $h = $cards->{$name}{set}{$set}{$type};
                 my $have = $h->{have};
                 if(0 != $have) {
-                    my $trade = $h->{have} - $h->{want};
+                    my $trade = $h->{have} - $h->{want} - $h->{hold};
                     $trade = 0 if(0 > $trade);
                     &print_dbox_have( $have
                                     , $trade
@@ -604,6 +604,11 @@ sub get_haves()
         $cards{$name}{set}{$expn}{prmo}{have} = $prmo;
         $cards{$name}{set}{$expn}{text}{have} = $text;
         $cards{$name}{set}{$expn}{mcut}{have} = $mcut;
+        $cards{$name}{set}{$expn}{norm}{hold} = 0;
+        $cards{$name}{set}{$expn}{foil}{hold} = 0;
+        $cards{$name}{set}{$expn}{prmo}{hold} = 0;
+        $cards{$name}{set}{$expn}{text}{hold} = 0;
+        $cards{$name}{set}{$expn}{mcut}{hold} = 0;
         $cards{$name}{set}{$expn}{norm}{want} = 0;
         $cards{$name}{set}{$expn}{foil}{want} = 0;
         $cards{$name}{set}{$expn}{prmo}{want} = 0;
@@ -740,10 +745,10 @@ sub hold_cards()
         my $avail = $have - $want;
         if($hold >= $avail) {
             $hold -= $avail;
-            $cards->{$name}{set}{$set}{$type}{want} += $avail;
+            $cards->{$name}{set}{$set}{$type}{hold} += $avail;
         }
         else {
-            $cards->{$name}{set}{$set}{$type}{want} += $hold;
+            $cards->{$name}{set}{$set}{$type}{hold} += $hold;
             $hold = 0;
         }
     }
