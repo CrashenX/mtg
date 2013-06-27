@@ -466,7 +466,7 @@ sub print_dbox_haves()
                 my $h = $cards->{$name}{set}{$set}{$type};
                 my $have = $h->{have};
                 if(0 != $have) {
-                    my $trade = $h->{have} - $h->{want} - $h->{hold};
+                    my $trade = $h->{have} - $h->{want};
                     $trade = 0 if(0 > $trade);
                     &print_dbox_have( $have
                                     , $trade
@@ -497,7 +497,7 @@ sub print_dbox_wants()
                 my $prmo = "prmo" eq $type ? "promo" : "";
                 my $text = "text" eq $type ? "textless" : "";
                 my $w = $cards->{$name}{set}{$set}{$type};
-                my $want = $w->{want} - $w->{have};
+                my $want = $w->{want} - ($w->{have} + $w->{inco});
                 $want = 0 if(0 > $want);
                 if(0 != $want) {
                     &print_dbox_want( $want
@@ -518,6 +518,7 @@ sub motl_print_list()
     my $cards = shift;
     my $a = shift;
     my $b = shift;
+    my $c = shift;
     my %list;
 
     for my $name (sort keys %$cards) {
@@ -525,6 +526,7 @@ sub motl_print_list()
             for my $type (sort keys $cards->{$name}{set}{$set}) {
                 my $w = $cards->{$name}{set}{$set}{$type};
                 my $count = $w->{$a} - $w->{$b};
+                $count -= $w->{$c} unless($c eq "");
                 next if(0 >= $count);
                 my $line = sprintf("%02dx %s", $count, $name);
                 if("foil" eq $type or "prmo" eq $type) {
@@ -547,15 +549,16 @@ sub print_motl()
 {
     my $cards = shift;
     my $list_type = shift;
-    my $a;
-    my $b;
+    my ($a, $b, $c);
     if("have" eq $list_type) {
         $a = "have";
         $b = "want";
+        $c = "";
     }
     elsif("want" eq $list_type) {
         $a = "want";
         $b = "have";
+        $c = "inco";
     }
     else {
         die( "Invalid motl list type:\n"
@@ -564,7 +567,7 @@ sub print_motl()
            );
     }
 
-    my $list = &motl_print_list($cards, $a, $b);
+    my $list = &motl_print_list($cards, $a, $b, $c);
 
     for my $set (sort set_sort keys %$list) {
         my $set_name = &get_set_name($set);
@@ -604,11 +607,11 @@ sub get_haves()
         $cards{$name}{set}{$expn}{prmo}{have} = $prmo;
         $cards{$name}{set}{$expn}{text}{have} = $text;
         $cards{$name}{set}{$expn}{mcut}{have} = $mcut;
-        $cards{$name}{set}{$expn}{norm}{hold} = 0;
-        $cards{$name}{set}{$expn}{foil}{hold} = 0;
-        $cards{$name}{set}{$expn}{prmo}{hold} = 0;
-        $cards{$name}{set}{$expn}{text}{hold} = 0;
-        $cards{$name}{set}{$expn}{mcut}{hold} = 0;
+        $cards{$name}{set}{$expn}{norm}{inco} = 0;
+        $cards{$name}{set}{$expn}{foil}{inco} = 0;
+        $cards{$name}{set}{$expn}{prmo}{inco} = 0;
+        $cards{$name}{set}{$expn}{text}{inco} = 0;
+        $cards{$name}{set}{$expn}{mcut}{inco} = 0;
         $cards{$name}{set}{$expn}{norm}{want} = 0;
         $cards{$name}{set}{$expn}{foil}{want} = 0;
         $cards{$name}{set}{$expn}{prmo}{want} = 0;
@@ -619,8 +622,8 @@ sub get_haves()
 }
 
 # Contract:
-#   Requires: Wants have been updated
-#   Guarantees: Wants are reduced by incoming
+#   Requires:
+#   Guarantees: Incoming cards are loaded
 sub get_incoming()
 {
     my $cards = shift;
@@ -634,10 +637,7 @@ sub get_incoming()
         my $name = $fields[$INAME];
         chomp($name);
 
-        my $want = $cards->{$name}{set}{$expn}{norm}{want};
-        $cards->{$name}{set}{$expn}{norm}{want} -= $inco > $want
-                                                   ? $want
-                                                   : $inco;
+        $cards->{$name}{set}{$expn}{norm}{inco} += $inco;
     }
 }
 
@@ -745,10 +745,10 @@ sub hold_cards()
         my $avail = $have - $want;
         if($hold >= $avail) {
             $hold -= $avail;
-            $cards->{$name}{set}{$set}{$type}{hold} += $avail;
+            $cards->{$name}{set}{$set}{$type}{want} += $avail;
         }
         else {
-            $cards->{$name}{set}{$set}{$type}{hold} += $hold;
+            $cards->{$name}{set}{$set}{$type}{want} += $hold;
             $hold = 0;
         }
     }
