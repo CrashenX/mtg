@@ -4015,7 +4015,7 @@
 00|00|00|00|00|ARC|C|Dragon Fodder
 00|00|00|00|00|ARC|C|Dregscape Zombie
 00|00|00|00|00|ARC|C|Ethersworn Shieldmage
-02|00|00|00|00|ARC|C|Fertilid
+01|00|00|00|00|ARC|C|Fertilid
 00|00|00|00|00|ARC|C|Festering Goblin
 00|00|00|00|00|ARC|C|Fieldmist Borderpost
 00|00|00|00|00|ARC|C|Fierce Empath
@@ -4066,7 +4066,7 @@
 00|00|00|00|00|ARC|R|Extractor Demon
 01|00|00|00|00|ARC|R|Feral Hydra
 00|00|00|00|00|ARC|R|Flameblast Dragon
-01|00|00|00|00|ARC|R|Forgotten Ancient
+00|00|00|00|00|ARC|R|Forgotten Ancient
 00|00|00|00|00|ARC|R|Hellkite Charger
 00|00|00|00|00|ARC|R|Imperial Hellkite
 00|00|00|00|00|ARC|R|Kaervek the Merciless
@@ -5197,7 +5197,7 @@
 00|00|00|00|00|CHK|R|Marrow-Gnawer
 00|00|00|00|00|CHK|R|Masako the Humorless
 01|00|00|00|00|CHK|R|Meloku the Clouded Mirror
-02|00|00|00|00|CHK|R|Minamo, School at Water's Edge
+01|00|00|00|00|CHK|R|Minamo, School at Water's Edge
 00|00|00|00|00|CHK|R|Mindblaze
 00|00|00|00|00|CHK|R|Moonring Mirror
 00|00|00|00|00|CHK|R|Myojin of Cleansing Fire
@@ -5897,7 +5897,7 @@
 00|00|00|00|00|CON|U|Nacatl Hunt-Pride
 00|00|00|00|00|CON|U|Paragon of the Amesha
 04|00|00|00|00|CON|U|Path to Exile
-03|00|00|00|00|CON|U|Reliquary Tower
+00|00|00|00|00|CON|U|Reliquary Tower
 00|00|00|00|00|CON|U|Sacellum Archers
 00|00|00|00|00|CON|U|Scarland Thrinax
 00|00|00|00|00|CON|U|Scornful AEther-Lich
@@ -7906,7 +7906,7 @@
 00|00|00|00|00|EVE|U|Duskdale Wurm
 01|00|00|00|00|EVE|U|Endure
 00|00|00|00|00|EVE|U|Flickerwisp
-01|00|00|00|00|EVE|U|Gilder Bairn
+00|00|00|00|00|EVE|U|Gilder Bairn
 00|00|00|00|00|EVE|U|Groundling Pouncer
 00|00|00|00|00|EVE|U|Gwyllion Hedge-Mage
 00|00|00|00|00|EVE|U|Hag Hedge-Mage
@@ -13210,7 +13210,7 @@
 00|00|00|00|00|MMA|U|Flickerwisp
 02|00|00|00|00|MMA|U|Grinning Ignus
 02|00|00|00|00|MMA|U|Horobi's Whisper
-02|00|00|00|00|MMA|U|Incremental Growth
+01|00|00|00|00|MMA|U|Incremental Growth
 00|00|00|00|00|MMA|U|Kitchen Finks
 02|00|00|00|00|MMA|U|Krosan Grip
 00|01|00|00|00|MMA|U|Lightning Helix
@@ -17314,7 +17314,7 @@
 00|00|00|00|00|SHM|C|Crimson Wisps
 00|00|00|00|00|SHM|C|Cultbrand Cinder
 00|00|00|00|00|SHM|C|Curse of Chains
-02|00|00|00|00|SHM|C|Devoted Druid
+01|00|00|00|00|SHM|C|Devoted Druid
 00|00|00|00|00|SHM|C|Disturbing Plot
 00|00|00|00|00|SHM|C|Drowner Initiate
 00|00|00|00|00|SHM|C|Elsewhere Flask
@@ -20326,7 +20326,7 @@
 01|00|00|00|00|ZEN|R|Oran-Rief, the Vastwood
 02|00|00|00|00|ZEN|R|Predatory Urge
 00|00|00|00|00|ZEN|R|Pyromancer Ascension
-01|00|00|00|00|ZEN|R|Rite of Replication
+00|00|00|00|00|ZEN|R|Rite of Replication
 00|00|00|00|00|ZEN|R|Roil Elemental
 00|00|00|00|00|ZEN|R|Sadistic Sacrament
 00|00|00|00|00|ZEN|R|Scalding Tarn
