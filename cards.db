@@ -5151,7 +5151,7 @@
 00|00|00|00|00|CHK|C|Yamabushi's Storm
 00|00|00|00|00|CHK|R|Akki Lavarunner
 00|00|00|00|00|CHK|R|Autumn-Tail, Kitsune Sage
-02|00|00|00|00|CHK|R|Azami, Lady of Scrolls
+03|00|00|00|00|CHK|R|Azami, Lady of Scrolls
 00|00|00|00|00|CHK|R|Azusa, Lost but Seeking
 00|00|00|00|00|CHK|R|Ben-Ben, Akki Hermit
 00|00|00|00|00|CHK|R|Boseiju, Who Shelters All
@@ -7049,7 +7049,7 @@
 00|00|00|00|00|DIS|R|Govern the Guildless
 00|00|00|00|00|DIS|R|Grand Arbiter Augustin IV
 00|00|00|00|00|DIS|R|Haazda Shield Mate
-00|00|00|00|00|DIS|R|Hallowed Fountain
+01|00|00|00|00|DIS|R|Hallowed Fountain
 00|00|00|00|00|DIS|R|Hide // Seek
 00|00|00|00|00|DIS|R|Infernal Tutor
 00|00|00|00|00|DIS|R|Isperia the Inscrutable
@@ -20159,7 +20159,7 @@
 02|00|00|00|00|WWK|U|Smother
 02|00|00|00|00|WWK|U|Spell Contortion
 02|00|00|00|00|WWK|U|Summit Apes
-08|00|00|00|00|WWK|U|Tectonic Edge
+09|00|00|00|00|WWK|U|Tectonic Edge
 01|01|00|00|00|WWK|U|Tideforce Elemental
 01|00|00|00|00|WWK|U|Tuktuk Scrapper
 00|00|00|00|00|WWK|U|Urge to Feed
