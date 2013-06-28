@@ -12471,7 +12471,7 @@
 00|00|00|00|00|M13|R|Staff of Nin
 00|00|00|00|00|M13|R|Stormtide Leviathan
 00|00|00|00|00|M13|R|Stuffy Doll
-00|00|00|00|00|M13|R|Sunpetal Grove
+01|00|00|00|00|M13|R|Sunpetal Grove
 00|00|00|00|00|M13|R|Talrand, Sky Summoner
 00|00|00|00|00|M13|R|Thragtusk
 00|00|00|00|00|M13|R|Touch of the Eternal
@@ -13103,7 +13103,7 @@
 02|00|00|00|00|MMA|C|Sanctum Gargoyle
 02|01|00|00|00|MMA|C|Search for Tomorrow
 01|00|00|00|00|MMA|C|Skyreach Manta
-03|00|00|00|00|MMA|C|Spellstutter Sprite
+05|00|00|00|00|MMA|C|Spellstutter Sprite
 02|00|00|00|00|MMA|C|Sporoloth Ancient
 01|00|00|00|00|MMA|C|Stingscourger
 02|00|00|00|00|MMA|C|Stinkdrinker Daredevil
@@ -13226,7 +13226,7 @@
 02|00|00|00|00|MMA|U|Narcomoeba
 01|00|00|00|00|MMA|U|Paradise Mantle
 01|00|00|00|00|MMA|U|Pardic Dragon
-02|00|00|00|00|MMA|U|Path to Exile
+03|00|00|00|00|MMA|U|Path to Exile
 01|00|00|00|00|MMA|U|Phthisis
 01|00|00|00|00|MMA|U|Plumeveil
 01|00|00|00|00|MMA|U|Reach of Branches
@@ -16861,7 +16861,7 @@
 01|00|00|00|00|RTR|R|Grove of the Guardian
 01|00|00|00|00|RTR|R|Growing Ranks
 01|00|00|00|00|RTR|R|Guild Feud
-02|00|00|00|00|RTR|R|Hallowed Fountain
+03|00|00|00|00|RTR|R|Hallowed Fountain
 01|00|00|00|00|RTR|R|Havoc Festival
 00|00|00|00|00|RTR|R|Hypersonic Dragon
 01|00|00|00|00|RTR|R|Jarad's Orders
