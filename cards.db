@@ -12535,7 +12535,7 @@
 00|00|00|00|00|M13|U|Switcheroo
 00|00|00|00|00|M13|U|Talrand's Invocation
 00|00|00|00|00|M13|U|Torch Fiend
-03|00|00|00|00|M13|U|Tormod's Crypt
+04|00|00|00|00|M13|U|Tormod's Crypt
 00|00|00|00|00|M13|U|Vampire Nighthawk
 00|00|00|00|00|M13|U|Veilborn Ghoul
 01|00|00|00|00|M13|U|Volcanic Geyser
@@ -16861,7 +16861,7 @@
 01|00|00|00|00|RTR|R|Grove of the Guardian
 01|00|00|00|00|RTR|R|Growing Ranks
 01|00|00|00|00|RTR|R|Guild Feud
-01|00|00|00|00|RTR|R|Hallowed Fountain
+02|00|00|00|00|RTR|R|Hallowed Fountain
 01|00|00|00|00|RTR|R|Havoc Festival
 00|00|00|00|00|RTR|R|Hypersonic Dragon
 01|00|00|00|00|RTR|R|Jarad's Orders
@@ -16884,7 +16884,7 @@
 00|00|00|00|00|RTR|R|Sphinx of the Chimes
 00|00|00|00|00|RTR|R|Steam Vents
 00|00|00|00|00|RTR|R|Supreme Verdict
-03|00|00|00|00|RTR|R|Temple Garden
+04|00|00|00|00|RTR|R|Temple Garden
 00|00|00|00|00|RTR|R|Underworld Connections
 00|00|00|00|00|RTR|R|Volatile Rig
 00|00|00|00|00|RTR|R|Wayfaring Temple
