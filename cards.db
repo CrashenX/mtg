@@ -10103,7 +10103,7 @@
 02|00|00|00|00|ISD|U|Inquisitor's Flail
 01|00|00|00|00|ISD|U|Intangible Virtue
 02|00|00|00|00|ISD|U|Into the Maw of Hell
-03|00|00|00|00|ISD|U|Invisible Stalker
+04|00|00|00|00|ISD|U|Invisible Stalker
 00|00|00|00|00|ISD|U|Lantern Spirit
 01|00|00|00|00|ISD|U|Lumberknot
 03|00|00|00|00|ISD|U|Make a Wish
@@ -13103,7 +13103,7 @@
 02|00|00|00|00|MMA|C|Sanctum Gargoyle
 02|01|00|00|00|MMA|C|Search for Tomorrow
 01|00|00|00|00|MMA|C|Skyreach Manta
-05|00|00|00|00|MMA|C|Spellstutter Sprite
+06|00|00|00|00|MMA|C|Spellstutter Sprite
 02|00|00|00|00|MMA|C|Sporoloth Ancient
 01|00|00|00|00|MMA|C|Stingscourger
 02|00|00|00|00|MMA|C|Stinkdrinker Daredevil
@@ -13211,7 +13211,7 @@
 02|00|00|00|00|MMA|U|Grinning Ignus
 02|00|00|00|00|MMA|U|Horobi's Whisper
 01|00|00|00|00|MMA|U|Incremental Growth
-02|00|00|00|00|MMA|U|Kitchen Finks
+03|00|00|00|00|MMA|U|Kitchen Finks
 02|00|00|00|00|MMA|U|Krosan Grip
 00|01|00|00|00|MMA|U|Lightning Helix
 01|00|00|00|00|MMA|U|Mad Auntie
