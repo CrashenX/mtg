@@ -12638,7 +12638,7 @@
 00|00|00|00|00|MBS|R|Phyrexian Crusader
 01|00|00|00|00|MBS|R|Phyrexian Hydra
 00|00|00|00|00|MBS|R|Phyrexian Rebirth
-01|00|00|00|00|MBS|R|Phyrexian Revoker
+02|00|00|00|00|MBS|R|Phyrexian Revoker
 00|00|00|00|00|MBS|R|Phyrexian Vatmother
 01|00|00|00|00|MBS|R|Psychosis Crawler
 00|00|00|00|00|MBS|R|Red Sun's Zenith
@@ -13224,7 +13224,7 @@
 00|00|00|00|00|MMA|U|Murderous Redcap
 01|00|00|00|00|MMA|U|Myr Retriever
 02|00|00|00|00|MMA|U|Narcomoeba
-02|00|00|00|00|MMA|U|Paradise Mantle
+04|00|00|00|00|MMA|U|Paradise Mantle
 01|00|00|00|00|MMA|U|Pardic Dragon
 05|00|00|00|00|MMA|U|Path to Exile
 01|00|00|00|00|MMA|U|Phthisis
