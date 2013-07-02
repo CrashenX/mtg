@@ -13058,7 +13058,7 @@
 02|00|00|00|00|MMA|C|Erratic Mutation
 02|00|00|00|00|MMA|C|Etherium Sculptor
 02|01|00|00|00|MMA|C|Facevaulter
-02|00|00|00|00|MMA|C|Faerie Macabre
+03|00|00|00|00|MMA|C|Faerie Macabre
 01|01|00|00|00|MMA|C|Faerie Mechanist
 02|00|00|00|00|MMA|C|Festering Goblin
 04|01|00|00|00|MMA|C|Fiery Fall
@@ -13141,7 +13141,7 @@
 00|00|00|00|00|MMA|M|Vedalken Shackles
 00|00|00|00|00|MMA|M|Vendilion Clique
 00|00|00|00|00|MMA|M|Yosei, the Morning Star
-01|00|00|00|00|MMA|R|AEther Vial
+02|00|00|00|00|MMA|R|AEther Vial
 01|00|00|00|00|MMA|R|Academy Ruins
 00|00|00|00|00|MMA|R|Adarkar Valkyrie
 01|00|00|00|00|MMA|R|Angel's Grace
@@ -13164,7 +13164,7 @@
 02|00|00|00|00|MMA|R|Engineered Explosives
 02|00|00|00|00|MMA|R|Ethersworn Canonist
 00|00|00|00|00|MMA|R|Extirpate
-01|00|00|00|00|MMA|R|Figure of Destiny
+02|00|00|00|00|MMA|R|Figure of Destiny
 00|00|00|00|00|MMA|R|Gifts Ungiven
 00|00|00|00|00|MMA|R|Glen Elendra Archmage
 01|00|00|00|00|MMA|R|Glimmervoid
@@ -13212,7 +13212,7 @@
 02|00|00|00|00|MMA|U|Horobi's Whisper
 01|00|00|00|00|MMA|U|Incremental Growth
 03|00|00|00|00|MMA|U|Kitchen Finks
-02|00|00|00|00|MMA|U|Krosan Grip
+03|00|00|00|00|MMA|U|Krosan Grip
 00|01|00|00|00|MMA|U|Lightning Helix
 01|00|00|00|00|MMA|U|Mad Auntie
 01|01|00|00|00|MMA|U|Manamorphose
@@ -13224,7 +13224,7 @@
 00|00|00|00|00|MMA|U|Murderous Redcap
 01|00|00|00|00|MMA|U|Myr Retriever
 02|00|00|00|00|MMA|U|Narcomoeba
-01|00|00|00|00|MMA|U|Paradise Mantle
+02|00|00|00|00|MMA|U|Paradise Mantle
 01|00|00|00|00|MMA|U|Pardic Dragon
 05|00|00|00|00|MMA|U|Path to Exile
 01|00|00|00|00|MMA|U|Phthisis
