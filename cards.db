@@ -13135,7 +13135,7 @@
 00|00|00|00|00|MMA|M|Progenitus
 01|00|00|00|00|MMA|M|Ryusei, the Falling Star
 00|00|00|00|00|MMA|M|Sarkhan Vol
-00|00|00|00|00|MMA|M|Sword of Fire and Ice
+01|00|00|00|00|MMA|M|Sword of Fire and Ice
 00|00|00|00|00|MMA|M|Sword of Light and Shadow
 00|00|00|00|00|MMA|M|Tarmogoyf
 00|00|00|00|00|MMA|M|Vedalken Shackles
@@ -13150,7 +13150,7 @@
 00|00|00|00|00|MMA|R|Blinkmoth Nexus
 00|00|00|00|00|MMA|R|Blood Moon
 00|00|00|00|00|MMA|R|Bridge from Below
-03|00|00|00|00|MMA|R|Chalice of the Void
+04|00|00|00|00|MMA|R|Chalice of the Void
 02|00|00|00|00|MMA|R|City of Brass
 00|00|00|00|00|MMA|R|Cold-Eyed Selkie
 01|00|00|00|00|MMA|R|Countryside Crusher
@@ -13161,7 +13161,7 @@
 00|01|00|00|00|MMA|R|Doubling Season
 01|00|00|00|00|MMA|R|Dragonstorm
 00|00|00|00|00|MMA|R|Earwig Squad
-02|00|00|00|00|MMA|R|Engineered Explosives
+03|00|00|00|00|MMA|R|Engineered Explosives
 04|00|00|00|00|MMA|R|Ethersworn Canonist
 00|00|00|00|00|MMA|R|Extirpate
 02|00|00|00|00|MMA|R|Figure of Destiny
@@ -13173,7 +13173,7 @@
 00|00|00|00|00|MMA|R|Jhoira of the Ghitu
 00|00|00|00|00|MMA|R|Kataki, War's Wage
 01|00|00|00|00|MMA|R|Kira, Great Glass-Spinner
-03|00|00|00|00|MMA|R|Knight of the Reliquary
+04|00|00|00|00|MMA|R|Knight of the Reliquary
 01|00|00|00|00|MMA|R|Life from the Loam
 00|00|00|00|00|MMA|R|Lotus Bloom
 00|00|00|00|00|MMA|R|Maelstrom Pulse
@@ -17858,7 +17858,7 @@
 00|00|00|00|00|SOM|M|Lux Cannon
 00|00|00|00|00|SOM|M|Mindslaver
 00|00|00|00|00|SOM|M|Molten-Tail Masticore
-03|00|00|00|00|SOM|M|Mox Opal
+04|00|00|00|00|SOM|M|Mox Opal
 02|00|00|00|00|SOM|M|Platinum Emperion
 02|00|00|00|00|SOM|M|Quicksilver Gargantuan
 00|00|00|00|00|SOM|M|Skithiryx, the Blight Dragon
