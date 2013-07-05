@@ -4076,7 +4076,7 @@
 01|00|00|00|00|ARC|R|Lodestone Golem
 00|00|00|00|00|ARC|R|Magister Sphinx
 00|00|00|00|00|ARC|R|March of the Machines
-01|00|00|00|00|ARC|R|Master Transmuter
+00|00|00|00|00|ARC|R|Master Transmuter
 00|00|00|00|00|ARC|R|Memnarch
 01|00|00|00|00|ARC|R|Molimo, Maro-Sorcerer
 00|00|00|00|00|ARC|R|Mosswort Bridge
@@ -4567,7 +4567,7 @@
 01|00|00|00|00|AVR|R|Lone Revenant
 01|00|00|00|00|AVR|R|Lunar Mystic
 01|00|00|00|00|AVR|R|Moonsilver Spear
-02|00|00|00|00|AVR|R|Otherworld Atlas
+00|00|00|00|00|AVR|R|Otherworld Atlas
 00|00|00|00|00|AVR|R|Reforge the Soul
 00|00|00|00|00|AVR|R|Restoration Angel
 00|00|00|00|00|AVR|R|Revenge of the Hunted
@@ -6914,7 +6914,7 @@
 00|00|00|00|00|DGM|R|Possibility Storm
 00|00|00|00|00|DGM|R|Pyrewild Shaman
 00|00|00|00|00|DGM|R|Ready // Willing
-01|00|00|00|00|DGM|R|Render Silent
+00|00|00|00|00|DGM|R|Render Silent
 00|00|00|00|00|DGM|R|Renegade Krasis
 00|00|00|00|00|DGM|R|Renounce the Guilds
 00|00|00|00|00|DGM|R|Ruric Thar, the Unbowed
@@ -8729,7 +8729,7 @@
 00|00|00|00|00|GTC|R|Frontline Medic
 00|00|00|00|00|GTC|R|Glaring Spotlight
 00|00|00|00|00|GTC|R|Godless Shrine
-02|00|00|00|00|GTC|R|Gruul Ragebeast
+00|00|00|00|00|GTC|R|Gruul Ragebeast
 01|00|00|00|00|GTC|R|Gyre Sage
 00|00|00|00|00|GTC|R|High Priest of Penance
 01|00|00|00|00|GTC|R|Illusionist's Bracers
@@ -8745,7 +8745,7 @@
 00|00|00|00|00|GTC|R|Ooze Flux
 00|00|00|00|00|GTC|R|Realmwright
 00|00|00|00|00|GTC|R|Rubblebelt Raiders
-03|00|00|00|00|GTC|R|Rubblehulk
+00|00|00|00|00|GTC|R|Rubblehulk
 00|00|00|00|00|GTC|R|Sacred Foundry
 00|00|00|00|00|GTC|R|Sepulchral Primordial
 00|00|00|00|00|GTC|R|Signal the Clans
@@ -12187,7 +12187,7 @@
 01|00|00|00|00|M12|M|Gideon Jura
 00|00|00|00|00|M12|M|Grave Titan
 00|00|00|00|00|M12|M|Inferno Titan
-01|00|00|00|00|M12|M|Jace, Memory Adept
+00|00|00|00|00|M12|M|Jace, Memory Adept
 03|00|00|00|00|M12|M|Primeval Titan
 00|00|00|00|00|M12|M|Primordial Hydra
 00|00|00|00|00|M12|M|Sorin Markov
@@ -12460,7 +12460,7 @@
 00|00|00|00|00|M13|R|Redirect
 00|00|00|00|00|M13|R|Reverberate
 00|00|00|00|00|M13|R|Rhox Faithmender
-01|00|00|00|00|M13|R|Rootbound Crag
+00|00|00|00|00|M13|R|Rootbound Crag
 00|00|00|00|00|M13|R|Sands of Delirium
 04|00|00|00|00|M13|R|Serra Avenger
 00|00|00|00|00|M13|R|Shimian Specter
@@ -13161,7 +13161,7 @@
 00|01|00|00|00|MMA|R|Doubling Season
 01|00|00|00|00|MMA|R|Dragonstorm
 00|00|00|00|00|MMA|R|Earwig Squad
-03|00|00|00|00|MMA|R|Engineered Explosives
+02|00|00|00|00|MMA|R|Engineered Explosives
 04|00|00|00|00|MMA|R|Ethersworn Canonist
 00|00|00|00|00|MMA|R|Extirpate
 02|00|00|00|00|MMA|R|Figure of Destiny
@@ -16854,7 +16854,7 @@
 02|00|00|00|00|RTR|R|Death's Presence
 00|00|00|00|00|RTR|R|Deathrite Shaman
 00|00|00|00|00|RTR|R|Desecration Demon
-02|00|00|00|00|RTR|R|Detention Sphere
+00|00|00|00|00|RTR|R|Detention Sphere
 00|00|00|00|00|RTR|R|Dreadbore
 01|00|00|00|00|RTR|R|Firemind's Foresight
 00|00|00|00|00|RTR|R|Grave Betrayal
@@ -19674,7 +19674,7 @@
 00|00|00|00|00|V11|M|Visara the Dreadful
 00|00|00|00|00|V12|M|Ancient Tomb
 02|00|00|00|00|V12|M|Boseiju, Who Shelters All
-02|00|00|00|00|V12|M|Cephalid Coliseum
+00|00|00|00|00|V12|M|Cephalid Coliseum
 02|00|00|00|00|V12|M|Desert
 02|00|00|00|00|V12|M|Dryad Arbor
 02|00|00|00|00|V12|M|Forbidden Orchard
@@ -20329,7 +20329,7 @@
 00|00|00|00|00|ZEN|R|Rite of Replication
 00|00|00|00|00|ZEN|R|Roil Elemental
 00|00|00|00|00|ZEN|R|Sadistic Sacrament
-00|00|00|00|00|ZEN|R|Scalding Tarn
+01|00|00|00|00|ZEN|R|Scalding Tarn
 04|00|00|00|00|ZEN|R|Scute Mob
 01|00|00|00|00|ZEN|R|Sea Gate Loremaster
 01|00|00|00|00|ZEN|R|Sphinx of Jwar Isle
