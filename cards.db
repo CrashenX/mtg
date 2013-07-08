@@ -4582,7 +4582,7 @@
 00|00|00|00|00|AVR|R|Terminus
 00|00|00|00|00|AVR|R|Treacherous Pit-Dweller
 00|00|00|00|00|AVR|R|Tyrant of Discord
-02|00|00|00|00|AVR|R|Ulvenwald Tracker
+01|00|00|00|00|AVR|R|Ulvenwald Tracker
 00|00|00|00|00|AVR|R|Vexing Devil
 00|00|00|00|00|AVR|R|Wild Defiance
 00|00|00|00|00|AVR|R|Wolfir Silverheart
@@ -7422,7 +7422,7 @@
 00|00|00|00|00|DPA|R|Gaea's Herald
 00|00|00|00|00|DPA|R|Immaculate Magistrate
 00|00|00|00|00|DPA|R|Kamahl, Pit Fighter
-01|00|00|00|00|DPA|R|Loxodon Warhammer
+00|00|00|00|00|DPA|R|Loxodon Warhammer
 00|00|00|00|00|DPA|R|Mahamoti Djinn
 00|00|00|00|00|DPA|R|Mind Shatter
 00|00|00|00|00|DPA|R|Mind Spring
@@ -16596,7 +16596,7 @@
 01|00|00|00|00|ROE|M|Khalni Hydra
 00|00|00|00|00|ROE|M|Kozilek, Butcher of Truth
 00|00|00|00|00|ROE|M|Lighthouse Chronologist
-00|00|00|00|00|ROE|M|Linvala, Keeper of Silence
+01|00|00|00|00|ROE|M|Linvala, Keeper of Silence
 00|00|00|00|00|ROE|M|Nirkana Revenant
 00|00|00|00|00|ROE|M|Sarkhan the Mad
 00|00|00|00|00|ROE|M|Transcendent Master
@@ -19795,7 +19795,7 @@
 00|00|00|00|00|VIS|R|Tithe
 00|00|00|00|00|VIS|R|Triangle of War
 01|00|00|00|00|VIS|R|Undiscovered Paradise
-01|00|00|00|00|VIS|R|Vampiric Tutor
+00|00|00|00|00|VIS|R|Vampiric Tutor
 00|00|00|00|00|VIS|R|Viashivan Dragon
 00|00|00|00|00|VIS|R|Wand of Denial
 00|00|00|00|00|VIS|R|Zhalfirin Crusader
