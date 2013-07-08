@@ -13213,13 +13213,13 @@
 01|00|00|00|00|MMA|U|Incremental Growth
 05|00|00|00|00|MMA|U|Kitchen Finks
 03|00|00|00|00|MMA|U|Krosan Grip
-00|01|00|00|00|MMA|U|Lightning Helix
+00|00|00|00|00|MMA|U|Lightning Helix
 01|00|00|00|00|MMA|U|Mad Auntie
 01|01|00|00|00|MMA|U|Manamorphose
 02|00|00|00|00|MMA|U|Marsh Flitter
 01|00|00|00|00|MMA|U|Masked Admirers
 01|00|00|00|00|MMA|U|Meadowboon
-02|00|00|00|00|MMA|U|Mind Funeral
+00|00|00|00|00|MMA|U|Mind Funeral
 01|00|00|00|00|MMA|U|Mulldrifter
 00|00|00|00|00|MMA|U|Murderous Redcap
 01|00|00|00|00|MMA|U|Myr Retriever
@@ -20228,7 +20228,7 @@
 00|00|00|00|00|ZEN|C|Oran-Rief Survivalist
 00|01|00|00|00|ZEN|C|Paralyzing Grasp
 00|00|00|00|00|ZEN|C|Pillarfield Ox
-01|00|00|00|00|ZEN|C|Piranha Marsh
+00|00|00|00|00|ZEN|C|Piranha Marsh
 00|00|00|11|00|ZEN|C|Plains
 00|00|00|00|00|ZEN|C|Plated Geopede
 00|00|00|00|00|ZEN|C|Reckless Scholar
