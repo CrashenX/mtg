@@ -6916,7 +6916,7 @@
 00|00|00|00|00|DGM|R|Ready // Willing
 00|00|00|00|00|DGM|R|Render Silent
 00|00|00|00|00|DGM|R|Renegade Krasis
-00|00|00|00|00|DGM|R|Renounce the Guilds
+01|00|00|00|00|DGM|R|Renounce the Guilds
 00|00|00|00|00|DGM|R|Ruric Thar, the Unbowed
 00|00|00|00|00|DGM|R|Scion of Vitu-Ghazi
 00|00|00|00|00|DGM|R|Sire of Insanity
@@ -6928,7 +6928,7 @@
 00|00|00|00|00|DGM|R|Vorel of the Hull Clade
 00|00|00|00|00|DGM|R|Zhur-Taa Ancient
 00|00|00|00|00|DGM|U|Alive // Well
-00|00|00|00|00|DGM|U|Armed // Dangerous
+01|00|00|00|00|DGM|U|Armed // Dangerous
 00|00|00|00|00|DGM|U|Ascended Lawmage
 00|00|00|00|00|DGM|U|Blast of Genius
 00|00|00|00|00|DGM|U|Blaze Commando
@@ -6951,7 +6951,7 @@
 01|00|00|00|00|DGM|U|Maw of the Obzedat
 00|00|00|00|00|DGM|U|Profit // Loss
 01|00|00|00|00|DGM|U|Protect // Serve
-00|00|00|00|00|DGM|U|Putrefy
+01|00|00|00|00|DGM|U|Putrefy
 01|00|00|00|00|DGM|U|Restore the Peace
 00|00|00|00|00|DGM|U|Rot Farm Skeleton
 01|00|00|00|00|DGM|U|Scab-Clan Giant
@@ -6962,7 +6962,7 @@
 01|00|00|00|00|DGM|U|Toil // Trouble
 00|00|00|00|00|DGM|U|Trostani's Summoner
 01|00|00|00|00|DGM|U|Turn // Burn
-01|00|00|00|00|DGM|U|Unflinching Courage
+02|00|00|00|00|DGM|U|Unflinching Courage
 00|00|00|00|00|DGM|U|Warleader's Helix
 01|00|00|00|00|DGM|U|Warped Physique
 00|00|00|00|00|DGM|U|Wear // Tear
@@ -12471,7 +12471,7 @@
 00|00|00|00|00|M13|R|Staff of Nin
 00|00|00|00|00|M13|R|Stormtide Leviathan
 00|00|00|00|00|M13|R|Stuffy Doll
-01|00|00|00|00|M13|R|Sunpetal Grove
+02|00|00|00|00|M13|R|Sunpetal Grove
 00|00|00|00|00|M13|R|Talrand, Sky Summoner
 00|00|00|00|00|M13|R|Thragtusk
 00|00|00|00|00|M13|R|Touch of the Eternal
@@ -12506,11 +12506,11 @@
 00|00|00|00|00|M13|U|Harbor Bandit
 00|00|00|00|00|M13|U|Healer of the Pride
 00|00|00|00|00|M13|U|Jace's Phantasm
-00|00|00|00|00|M13|U|Jayemdae Tome
+01|00|00|00|00|M13|U|Jayemdae Tome
 00|00|00|00|00|M13|U|Kitesail
 00|00|00|00|00|M13|U|Knight of Glory
 00|00|00|00|00|M13|U|Knight of Infamy
-00|00|00|00|00|M13|U|Mark of Mutiny
+01|00|00|00|00|M13|U|Mark of Mutiny
 00|00|00|00|00|M13|U|Mindclaw Shaman
 01|00|00|00|00|M13|U|Mwonvuli Beast Tracker
 07|00|00|00|00|M13|U|Oblivion Ring
@@ -12522,7 +12522,7 @@
 04|00|00|00|00|M13|U|Rancor
 00|00|00|00|00|M13|U|Reliquary Tower
 00|00|00|00|00|M13|U|Revive
-01|00|00|00|00|M13|U|Rewind
+02|00|00|00|00|M13|U|Rewind
 00|00|00|00|00|M13|U|Ring of Evos Isle
 00|00|00|00|00|M13|U|Ring of Kalonia
 00|00|00|00|00|M13|U|Ring of Thune
