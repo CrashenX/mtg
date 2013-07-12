@@ -11813,7 +11813,7 @@
 05|00|00|00|00|M10|U|Mind Control
 00|00|00|00|00|M10|U|Mold Adder
 00|00|00|00|00|M10|U|Nature's Spiral
-01|00|00|00|00|M10|U|Ornithopter
+00|00|00|00|00|M10|U|Ornithopter
 03|00|00|00|00|M10|U|Overrun
 02|00|00|00|00|M10|U|Phantom Warrior
 01|00|00|00|00|M10|U|Prized Unicorn
@@ -12051,7 +12051,7 @@
 04|00|00|00|00|M11|U|Liliana's Caress
 02|00|00|00|00|M11|U|Mind Control
 03|00|00|00|00|M11|U|Nature's Spiral
-01|00|00|00|00|M11|U|Ornithopter
+00|00|00|00|00|M11|U|Ornithopter
 00|00|00|00|00|M11|U|Prized Unicorn
 01|00|00|00|00|M11|U|Prodigal Pyromancer
 00|00|00|00|00|M11|U|Pyroclasm
@@ -12679,7 +12679,7 @@
 01|00|00|00|00|MBS|U|Plaguemaw Beast
 00|00|00|00|00|MBS|U|Quilled Slagwurm
 01|00|00|00|00|MBS|U|Septic Rats
-03|00|00|00|00|MBS|U|Signal Pest
+00|00|00|00|00|MBS|U|Signal Pest
 00|00|00|00|00|MBS|U|Silverskin Armor
 02|00|00|00|00|MBS|U|Skinwing
 02|00|00|00|00|MBS|U|Sphere of the Suns
@@ -13234,7 +13234,7 @@
 02|00|00|00|00|MMA|U|Riftsweeper
 01|00|00|00|00|MMA|U|Riftwing Cloudskate
 01|00|00|00|00|MMA|U|Sandsower
-00|01|00|00|00|MMA|U|Shrapnel Blast
+00|00|00|00|00|MMA|U|Shrapnel Blast
 00|00|00|00|00|MMA|U|Spell Snare
 02|00|00|00|00|MMA|U|Sporesower Thallid
 02|00|00|00|00|MMA|U|Stir the Pride
@@ -13849,7 +13849,7 @@
 00|00|00|00|00|MRD|C|Vulshok Gauntlets
 00|00|00|00|00|MRD|C|Wail of the Nim
 00|00|00|00|00|MRD|C|Wanderguard Sentry
-04|00|00|00|00|MRD|C|Welding Jar
+00|00|00|00|00|MRD|C|Welding Jar
 00|00|00|00|00|MRD|C|Wizard Replica
 00|00|00|00|00|MRD|C|Wrench Mind
 00|00|00|00|00|MRD|C|Wurmskin Forger
@@ -17950,7 +17950,7 @@
 03|00|00|00|00|SOM|U|Infiltration Lens
 04|00|00|00|00|SOM|U|Lifesmith
 04|00|00|00|00|SOM|U|Liquimetal Coating
-01|00|00|00|00|SOM|U|Memnite
+00|00|00|00|00|SOM|U|Memnite
 05|00|00|00|00|SOM|U|Myr Galvanizer
 05|00|00|00|00|SOM|U|Myrsmith
 04|01|00|00|00|SOM|U|Necrogen Scudder
