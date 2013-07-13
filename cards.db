@@ -6905,7 +6905,7 @@
 00|00|00|00|00|DGM|R|Flesh // Blood
 00|00|00|00|00|DGM|R|Gaze of Granite
 01|00|00|00|00|DGM|R|Lavinia of the Tenth
-00|00|00|00|00|DGM|R|Melek, Izzet Paragon
+01|00|00|00|00|DGM|R|Melek, Izzet Paragon
 00|00|00|00|00|DGM|R|Mirko Vosk, Mind Drinker
 00|00|00|00|00|DGM|R|Notion Thief
 00|00|00|00|00|DGM|R|Obzedat's Aid
@@ -6921,7 +6921,7 @@
 00|00|00|00|00|DGM|R|Scion of Vitu-Ghazi
 00|00|00|00|00|DGM|R|Sire of Insanity
 00|00|00|00|00|DGM|R|Skylasher
-01|00|00|00|00|DGM|R|Tajic, Blade of the Legion
+02|00|00|00|00|DGM|R|Tajic, Blade of the Legion
 00|00|00|00|00|DGM|R|Teysa, Envoy of Ghosts
 01|00|00|00|00|DGM|R|Trait Doctoring
 00|00|00|00|00|DGM|R|Varolz, the Scar-Striped
@@ -7705,7 +7705,7 @@
 00|00|00|00|00|DST|R|Steelshaper Apprentice
 00|00|00|00|00|DST|R|Sundering Titan
 01|00|00|00|00|DST|R|Sword of Fire and Ice
-00|00|00|00|00|DST|R|Sword of Light and Shadow
+01|00|00|00|00|DST|R|Sword of Light and Shadow
 00|00|00|00|00|DST|R|Synod Artificer
 00|00|00|00|00|DST|R|Thought Dissector
 00|00|00|00|00|DST|R|Trinisphere
