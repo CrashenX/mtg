@@ -13126,7 +13126,7 @@
 04|00|00|00|00|MMA|C|War-Spike Changeling
 01|00|00|00|00|MMA|C|Warren Pilferers
 02|00|00|00|00|MMA|C|Warren Weirding
-03|00|00|00|00|MMA|M|Dark Confidant
+04|00|00|00|00|MMA|M|Dark Confidant
 02|00|00|00|00|MMA|M|Elspeth, Knight-Errant
 00|01|00|00|00|MMA|M|Jugan, the Rising Star
 01|00|00|00|00|MMA|M|Keiga, the Tide Star
@@ -14279,7 +14279,7 @@
 00|00|00|00|00|NPH|R|Slag Fiend
 01|00|00|00|00|NPH|R|Soul Conduit
 01|00|00|00|00|NPH|R|Spellskite
-02|00|00|00|00|NPH|R|Surgical Extraction
+05|00|00|00|00|NPH|R|Surgical Extraction
 01|00|00|00|00|NPH|R|Torpor Orb
 02|00|00|00|00|NPH|R|Unwinding Clock
 02|00|00|00|00|NPH|R|Xenograft
