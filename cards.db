@@ -7705,7 +7705,7 @@
 00|00|00|00|00|DST|R|Steelshaper Apprentice
 00|00|00|00|00|DST|R|Sundering Titan
 01|00|00|00|00|DST|R|Sword of Fire and Ice
-01|00|00|00|00|DST|R|Sword of Light and Shadow
+00|00|00|00|00|DST|R|Sword of Light and Shadow
 00|00|00|00|00|DST|R|Synod Artificer
 00|00|00|00|00|DST|R|Thought Dissector
 00|00|00|00|00|DST|R|Trinisphere
@@ -13370,7 +13370,7 @@
 01|00|00|00|00|MMA|M|Ryusei, the Falling Star
 00|00|00|00|00|MMA|M|Sarkhan Vol
 01|00|00|00|00|MMA|M|Sword of Fire and Ice
-00|00|00|00|00|MMA|M|Sword of Light and Shadow
+01|00|00|00|00|MMA|M|Sword of Light and Shadow
 00|00|00|00|00|MMA|M|Tarmogoyf
 00|00|00|00|00|MMA|M|Vedalken Shackles
 00|00|00|00|00|MMA|M|Vendilion Clique
