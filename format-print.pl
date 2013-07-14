@@ -86,7 +86,7 @@ my %sets = ( "LEA" => { order => 199308,
                         name => 'Magic 2013'
                       }
            , "M14" => { order => 201307,
-                        name => 'Magic 2014'
+                        name => 'Magic 2014 Core Set'
                       }
            , "ARN" => { order => 199312,
                         name => 'Arabian Nights'
