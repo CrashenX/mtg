@@ -3412,7 +3412,7 @@
 00|00|00|00|00|ALA|R|Cruel Ultimatum
 00|00|00|00|00|ALA|R|Cunning Lethemancer
 00|00|00|00|00|ALA|R|Death Baron
-02|00|00|00|00|ALA|R|Ethersworn Canonist
+01|00|00|00|00|ALA|R|Ethersworn Canonist
 00|00|00|00|00|ALA|R|Feral Hydra
 00|01|00|00|00|ALA|R|Flameblast Dragon
 00|00|00|00|00|ALA|R|Gather Specimens
@@ -20451,7 +20451,7 @@
 00|00|00|00|00|ZEN|C|Mire Blight
 00|00|00|00|00|ZEN|C|Mold Shambler
 00|00|00|00|00|ZEN|C|Molten Ravager
-00|00|00|10|00|ZEN|C|Mountain
+00|00|00|09|00|ZEN|C|Mountain
 00|00|00|00|00|ZEN|C|Narrow Escape
 00|00|00|00|00|ZEN|C|Nimana Sell-Sword
 00|00|00|00|00|ZEN|C|Nimbus Wings
