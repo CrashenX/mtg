@@ -5843,7 +5843,7 @@
 00|00|00|00|00|CON|R|Charnelhoard Wurm
 00|00|00|00|00|CON|R|Cliffrunner Behemoth
 00|00|00|00|00|CON|R|Cylian Sunsinger
-04|00|00|00|00|CON|R|Exotic Orchard
+03|00|00|00|00|CON|R|Exotic Orchard
 00|00|00|00|00|CON|R|Extractor Demon
 00|00|00|00|00|CON|R|Font of Mythos
 00|00|00|00|00|CON|R|Giltspire Avenger
@@ -14479,7 +14479,7 @@
 00|00|00|00|00|NPH|M|Karn Liberated
 00|00|00|00|00|NPH|M|Phyrexian Obliterator
 00|00|00|00|00|NPH|M|Sheoldred, Whispering One
-02|00|00|00|00|NPH|M|Sword of War and Peace
+01|00|00|00|00|NPH|M|Sword of War and Peace
 00|00|00|00|00|NPH|M|Urabrask the Hidden
 00|00|00|00|00|NPH|M|Vorinclex, Voice of Hunger
 00|00|00|00|00|NPH|R|Birthing Pod
@@ -19672,7 +19672,7 @@
 00|00|00|00|00|USG|R|Elite Archers
 00|00|00|00|00|USG|R|Endless Wurm
 00|00|00|00|00|USG|R|Energy Field
-01|00|00|00|00|USG|R|Exploration
+00|00|00|00|00|USG|R|Exploration
 00|00|00|00|00|USG|R|Faith Healer
 00|00|00|00|00|USG|R|Fault Line
 00|00|00|00|00|USG|R|Fluctuator
@@ -19763,7 +19763,7 @@
 00|00|00|00|00|USG|U|Blanchwood Armor
 00|00|00|00|00|USG|U|Blasted Landscape
 00|00|00|00|00|USG|U|Bull Hippo
-01|00|00|00|00|USG|U|Carpet of Flowers
+00|00|00|00|00|USG|U|Carpet of Flowers
 00|00|00|00|00|USG|U|Cathodion
 00|00|00|00|00|USG|U|Claws of Gix
 00|00|00|00|00|USG|U|Clear
