@@ -14075,7 +14075,7 @@
 00|00|00|00|00|MRD|C|Tooth of Chiss-Goria
 02|00|00|00|00|MRD|C|Tree of Tales
 00|00|00|00|00|MRD|C|Turn to Dust
-03|00|00|00|00|MRD|C|Vault of Whispers
+04|00|00|00|00|MRD|C|Vault of Whispers
 00|00|00|00|00|MRD|C|Viridian Joiner
 00|00|00|00|00|MRD|C|Viridian Longbow
 00|00|00|00|00|MRD|C|Vorrac Battlehorns
@@ -15130,7 +15130,7 @@
 01|00|00|00|00|ONS|R|Weathered Wayfarer
 00|00|00|00|00|ONS|R|Weird Harvest
 00|00|00|00|00|ONS|R|Wheel and Deal
-00|00|00|00|00|ONS|R|Windswept Heath
+02|00|00|00|00|ONS|R|Windswept Heath
 00|00|00|00|00|ONS|R|Wooded Foothills
 00|00|00|00|00|ONS|R|Words of War
 00|00|00|00|00|ONS|R|Words of Waste
@@ -17100,7 +17100,7 @@
 00|00|00|00|00|RTR|R|Hypersonic Dragon
 01|00|00|00|00|RTR|R|Jarad's Orders
 00|00|00|00|00|RTR|R|Lotleth Troll
-02|00|00|00|00|RTR|R|Loxodon Smiter
+04|00|00|00|00|RTR|R|Loxodon Smiter
 00|00|00|00|00|RTR|R|Mana Bloom
 01|00|00|00|00|RTR|R|Martial Law
 00|00|00|00|00|RTR|R|Mercurial Chemister
