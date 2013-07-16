@@ -8707,9 +8707,9 @@
 00|00|00|00|00|GTC|M|Hellkite Tyrant
 01|00|00|00|00|GTC|M|Lazav, Dimir Mastermind
 00|00|00|00|00|GTC|M|Lord of the Void
-01|00|00|00|00|GTC|M|Master Biomancer
+00|00|00|00|00|GTC|M|Master Biomancer
 00|00|00|00|00|GTC|M|Obzedat, Ghost Council
-01|00|00|00|00|GTC|M|Prime Speaker Zegana
+00|00|00|00|00|GTC|M|Prime Speaker Zegana
 01|00|00|00|00|GTC|R|Alms Beast
 00|00|00|00|00|GTC|R|Angelic Skirmisher
 00|00|00|00|00|GTC|R|Assemble the Legion
@@ -17110,7 +17110,7 @@
 00|00|00|00|00|RTR|R|Pack Rat
 00|00|00|00|00|RTR|R|Palisade Giant
 02|00|00|00|00|RTR|R|Pithing Needle
-01|00|00|00|00|RTR|R|Precinct Captain
+00|00|00|00|00|RTR|R|Precinct Captain
 03|00|00|00|00|RTR|R|Rest in Peace
 01|00|00|00|00|RTR|R|Risen Sanctuary
 00|00|00|00|00|RTR|R|Search the City
