@@ -3976,7 +3976,7 @@
 00|00|00|00|00|ARB|U|Illusory Demon
 00|00|00|00|00|ARB|U|Intimidation Bolt
 00|00|00|00|00|ARB|U|Kathari Remnant
-01|00|00|00|00|ARB|U|Lorescale Coatl
+00|00|00|00|00|ARB|U|Lorescale Coatl
 00|00|00|00|00|ARB|U|Mage Slayer
 00|00|00|00|00|ARB|U|Marisi's Twinclaws
 00|00|00|00|00|ARB|U|Marrow Chomper
@@ -18101,7 +18101,7 @@
 00|00|00|00|00|SOM|M|Wurmcoil Engine
 00|00|00|00|00|SOM|R|Argent Sphinx
 01|00|00|00|00|SOM|R|Argentum Armor
-01|00|00|00|00|SOM|R|Asceticism
+00|00|00|00|00|SOM|R|Asceticism
 00|00|00|00|00|SOM|R|Blackcleave Cliffs
 02|00|00|00|00|SOM|R|Carnifex Demon
 02|00|00|00|00|SOM|R|Cerebral Eruption
@@ -18874,7 +18874,7 @@
 00|00|00|00|00|TSB|S|Funeral Charm
 00|00|00|00|00|TSB|S|Gaea's Blessing
 00|00|00|00|00|TSB|S|Gaea's Liege
-01|00|00|00|00|TSB|S|Gemstone Mine
+00|00|00|00|00|TSB|S|Gemstone Mine
 00|00|00|00|00|TSB|S|Ghost Ship
 00|00|00|00|00|TSB|S|Giant Oyster
 00|00|00|00|00|TSB|S|Goblin Snowman
@@ -20632,5 +20632,5 @@
 06|00|00|00|00|ZEN|U|Turntimber Basilisk
 03|00|00|00|00|ZEN|U|Unstable Footing
 00|00|00|00|00|ZEN|U|Vampire Hexmage
-02|00|00|00|00|ZEN|U|Vampire Nighthawk
+01|00|00|00|00|ZEN|U|Vampire Nighthawk
 04|00|00|00|00|ZEN|U|Windborne Charge
