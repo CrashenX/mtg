@@ -5896,7 +5896,7 @@
 00|00|00|00|00|CON|U|Manaforce Mace
 00|00|00|00|00|CON|U|Nacatl Hunt-Pride
 00|00|00|00|00|CON|U|Paragon of the Amesha
-02|00|00|00|00|CON|U|Path to Exile
+00|00|00|00|00|CON|U|Path to Exile
 00|00|00|00|00|CON|U|Reliquary Tower
 00|00|00|00|00|CON|U|Sacellum Archers
 00|00|00|00|00|CON|U|Scarland Thrinax
@@ -13460,7 +13460,7 @@
 02|00|00|00|00|MMA|U|Narcomoeba
 04|00|00|00|00|MMA|U|Paradise Mantle
 01|00|00|00|00|MMA|U|Pardic Dragon
-05|00|00|00|00|MMA|U|Path to Exile
+04|00|00|00|00|MMA|U|Path to Exile
 01|00|00|00|00|MMA|U|Phthisis
 01|00|00|00|00|MMA|U|Plumeveil
 01|00|00|00|00|MMA|U|Reach of Branches
@@ -20513,7 +20513,7 @@
 00|00|00|00|00|ZEN|M|Iona, Shield of Emeria
 00|00|00|00|00|ZEN|M|Kalitas, Bloodchief of Ghet
 00|00|00|00|00|ZEN|M|Lorthos, the Tidemaker
-02|00|00|00|00|ZEN|M|Lotus Cobra
+01|00|00|00|00|ZEN|M|Lotus Cobra
 00|00|00|00|00|ZEN|M|Mindbreak Trap
 00|00|00|00|00|ZEN|M|Nissa Revane
 01|00|00|00|00|ZEN|M|Ob Nixilis, the Fallen
