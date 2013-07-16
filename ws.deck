@@ -1,34 +1,38 @@
 # Shared|Dedicated|Name
 02|00|Accorder's Shield
 04|00|Ancient Den
-01|00|Batterskull
 04|00|Cavern of Souls
 04|00|Chalice of the Void
-02|00|Cranial Plating
+03|00|Cranial Plating
 04|00|Dark Confidant
-01|00|Darksteel Citadel
-03|00|Invisible Stalker
 01|00|Karakas
-02|00|Kor Skyfisher
 04|00|Lotus Petal
-03|00|Meddling Mage
 04|00|Mishra's Bauble
 04|00|Mox Opal
 01|00|Paradise Mantle
-02|00|Puresteel Paladin
+02|00|Phantasmal Image
+03|00|Puresteel Paladin
 03|00|Seat of the Synod
-04|00|Stoneforge Mystic
-01|00|Tidehollow Sculler
-01|00|Umezawa's Jitte
-02|00|Vault Skirge
-03|00|Vault of Whispers
-# Sideboard
-02|00|Engineered Explosives
-01|00|Gaddock Teeg
-02|00|Oblivion Ring
-03|00|Phyrexian Revoker
-01|00|Slaughter Pact
 01|00|Spellskite
-01|00|Surestrike Trident
+04|00|Stoneforge Mystic
+04|00|Tidehollow Sculler
+01|00|Umezawa's Jitte
+04|00|Vault of Whispers
+03|00|Vault Skirge
+# Sideboard
+03|00|Engineered Explosives
+03|00|Meddling Mage
+03|00|Phyrexian Revoker
+01|00|Sword of Feast and Famine
 01|00|Sword of Fire and Ice
+01|00|Sword of Light and Shadow
 03|00|Tormod's Crypt
+# Maybeboard
+01|00|Batterskull
+01|00|Gaddock Teeg
+01|00|Slaughter Pact
+01|00|Surestrike Trident
+01|00|Sword of Body and Mind
+01|00|Sword of War and Peace
+04|00|Thoughtcast
+01|00|Vault Skirge
