@@ -10053,7 +10053,7 @@
 00|00|00|00|00|ISD|R|Moorland Haunt
 00|00|00|00|00|ISD|R|Nephalia Drownyard
 00|00|00|00|00|ISD|R|Nevermore
-01|00|00|00|00|ISD|R|Parallel Lives
+00|00|00|00|00|ISD|R|Parallel Lives
 00|00|00|00|00|ISD|R|Rooftop Storm
 00|00|00|00|00|ISD|R|Runechanter's Pike
 00|00|00|00|00|ISD|R|Sever the Bloodline
@@ -13434,7 +13434,7 @@
 01|00|00|00|00|MMA|U|Dakmor Salvage
 01|00|00|00|00|MMA|U|Death Rattle
 02|00|00|00|00|MMA|U|Desperate Ritual
-01|00|00|00|00|MMA|U|Electrolyze
+00|00|00|00|00|MMA|U|Electrolyze
 01|00|00|00|00|MMA|U|Epochrasite
 01|00|00|00|00|MMA|U|Esperzoa
 01|00|00|00|00|MMA|U|Etched Oracle
