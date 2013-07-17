@@ -883,7 +883,7 @@
 00|00|00|00|00|3ED|U|Crystal Rod
 00|00|00|00|00|3ED|U|Cursed Land
 00|00|00|00|00|3ED|U|Deathgrip
-01|00|00|00|00|3ED|U|Demonic Tutor
+00|00|00|00|00|3ED|U|Demonic Tutor
 00|00|00|00|00|3ED|U|Desert Twister
 00|00|00|00|00|3ED|U|Dragon Whelp
 00|00|00|00|00|3ED|U|Dwarven Weaponsmith
@@ -13385,7 +13385,7 @@
 00|00|00|00|00|MMA|R|Blood Moon
 00|00|00|00|00|MMA|R|Bridge from Below
 04|00|00|00|00|MMA|R|Chalice of the Void
-02|00|00|00|00|MMA|R|City of Brass
+00|00|00|00|00|MMA|R|City of Brass
 00|00|00|00|00|MMA|R|Cold-Eyed Selkie
 01|00|00|00|00|MMA|R|Countryside Crusher
 00|00|00|00|00|MMA|R|Cryptic Command
@@ -13899,7 +13899,7 @@
 00|00|00|00|00|MOR|R|Gilt-Leaf Archdruid
 00|00|00|00|00|MOR|R|Greatbow Doyen
 00|00|00|00|00|MOR|R|Grimoire Thief
-01|00|00|00|00|MOR|R|Idyllic Tutor
+00|00|00|00|00|MOR|R|Idyllic Tutor
 00|00|00|00|00|MOR|R|Indomitable Ancients
 00|00|00|00|00|MOR|R|Kinsbaile Borderguard
 00|00|00|00|00|MOR|R|Kinsbaile Cavalier
@@ -18495,7 +18495,7 @@
 00|00|00|00|00|TMP|R|Dracoplasm
 00|00|00|00|00|TMP|R|Dregs of Sorrow
 00|00|00|00|00|TMP|R|Duplicity
-01|00|00|00|00|TMP|R|Earthcraft
+00|00|00|00|00|TMP|R|Earthcraft
 00|00|00|00|00|TMP|R|Echo Chamber
 00|00|00|00|00|TMP|R|Eladamri's Vineyard
 00|00|00|00|00|TMP|R|Eladamri, Lord of Leaves
