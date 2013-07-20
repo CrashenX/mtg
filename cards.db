@@ -11501,7 +11501,7 @@
 00|00|00|00|00|LRW|R|Profane Command
 00|00|00|00|00|LRW|R|Purity
 00|00|00|00|00|LRW|R|Rings of Brighthearth
-00|00|00|00|00|LRW|R|Scion of Oona
+02|00|00|00|00|LRW|R|Scion of Oona
 00|00|00|00|00|LRW|R|Secluded Glen
 00|00|00|00|00|LRW|R|Shapesharer
 00|00|00|00|00|LRW|R|Shelldock Isle
@@ -13464,7 +13464,7 @@
 01|00|00|00|00|MMA|U|Phthisis
 01|00|00|00|00|MMA|U|Plumeveil
 01|00|00|00|00|MMA|U|Reach of Branches
-01|01|00|00|00|MMA|U|Relic of Progenitus
+02|01|00|00|00|MMA|U|Relic of Progenitus
 02|00|00|00|00|MMA|U|Riftsweeper
 01|00|00|00|00|MMA|U|Riftwing Cloudskate
 01|00|00|00|00|MMA|U|Sandsower
@@ -13478,7 +13478,7 @@
 01|01|00|00|00|MMA|U|Terashi's Grasp
 02|00|00|00|00|MMA|U|Thirst for Knowledge
 01|00|00|00|00|MMA|U|Thundercloud Shaman
-02|00|00|00|00|MMA|U|Tidehollow Sculler
+03|00|00|00|00|MMA|U|Tidehollow Sculler
 01|00|00|00|00|MMA|U|Tribal Flames
 01|00|00|00|00|MMA|U|Tromp the Domains
 02|00|00|00|00|MMA|U|Trygon Predator
