@@ -13337,7 +13337,7 @@
 02|00|00|00|00|MMA|C|Sanctum Gargoyle
 02|01|00|00|00|MMA|C|Search for Tomorrow
 01|00|00|00|00|MMA|C|Skyreach Manta
-06|00|00|00|00|MMA|C|Spellstutter Sprite
+07|00|00|00|00|MMA|C|Spellstutter Sprite
 02|00|00|00|00|MMA|C|Sporoloth Ancient
 01|00|00|00|00|MMA|C|Stingscourger
 02|00|00|00|00|MMA|C|Stinkdrinker Daredevil
@@ -13464,7 +13464,7 @@
 01|00|00|00|00|MMA|U|Phthisis
 01|00|00|00|00|MMA|U|Plumeveil
 01|00|00|00|00|MMA|U|Reach of Branches
-02|01|00|00|00|MMA|U|Relic of Progenitus
+03|01|00|00|00|MMA|U|Relic of Progenitus
 02|00|00|00|00|MMA|U|Riftsweeper
 01|00|00|00|00|MMA|U|Riftwing Cloudskate
 01|00|00|00|00|MMA|U|Sandsower
@@ -13478,7 +13478,7 @@
 01|01|00|00|00|MMA|U|Terashi's Grasp
 02|00|00|00|00|MMA|U|Thirst for Knowledge
 01|00|00|00|00|MMA|U|Thundercloud Shaman
-03|00|00|00|00|MMA|U|Tidehollow Sculler
+05|00|00|00|00|MMA|U|Tidehollow Sculler
 01|00|00|00|00|MMA|U|Tribal Flames
 01|00|00|00|00|MMA|U|Tromp the Domains
 02|00|00|00|00|MMA|U|Trygon Predator
@@ -16828,7 +16828,7 @@
 00|00|00|00|00|ROE|M|Hellcarver Demon
 00|00|00|00|00|ROE|M|Kargan Dragonlord
 00|00|00|00|00|ROE|M|Khalni Hydra
-00|00|00|00|00|ROE|M|Kozilek, Butcher of Truth
+01|00|00|00|00|ROE|M|Kozilek, Butcher of Truth
 00|00|00|00|00|ROE|M|Lighthouse Chronologist
 01|00|00|00|00|ROE|M|Linvala, Keeper of Silence
 00|00|00|00|00|ROE|M|Nirkana Revenant
