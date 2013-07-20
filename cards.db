@@ -6920,7 +6920,7 @@
 00|00|00|00|00|DGM|R|Ruric Thar, the Unbowed
 00|00|00|00|00|DGM|R|Scion of Vitu-Ghazi
 00|00|00|00|00|DGM|R|Sire of Insanity
-00|00|00|00|00|DGM|R|Skylasher
+01|00|00|00|00|DGM|R|Skylasher
 02|00|00|00|00|DGM|R|Tajic, Blade of the Legion
 00|00|00|00|00|DGM|R|Teysa, Envoy of Ghosts
 01|00|00|00|00|DGM|R|Trait Doctoring
@@ -13375,7 +13375,7 @@
 00|00|00|00|00|MMA|M|Vedalken Shackles
 00|00|00|00|00|MMA|M|Vendilion Clique
 00|00|00|00|00|MMA|M|Yosei, the Morning Star
-03|00|00|00|00|MMA|R|AEther Vial
+04|00|00|00|00|MMA|R|AEther Vial
 01|00|00|00|00|MMA|R|Academy Ruins
 00|00|00|00|00|MMA|R|Adarkar Valkyrie
 01|00|00|00|00|MMA|R|Angel's Grace
