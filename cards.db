@@ -13398,7 +13398,7 @@
 04|00|00|00|00|MMA|R|Engineered Explosives
 04|00|00|00|00|MMA|R|Ethersworn Canonist
 00|00|00|00|00|MMA|R|Extirpate
-02|00|00|00|00|MMA|R|Figure of Destiny
+03|00|00|00|00|MMA|R|Figure of Destiny
 00|00|00|00|00|MMA|R|Gifts Ungiven
 00|00|00|00|00|MMA|R|Glen Elendra Archmage
 00|00|00|00|00|MMA|R|Glimmervoid
@@ -13438,7 +13438,7 @@
 01|00|00|00|00|MMA|U|Epochrasite
 01|00|00|00|00|MMA|U|Esperzoa
 01|00|00|00|00|MMA|U|Etched Oracle
-00|00|00|00|00|MMA|U|Eternal Witness
+02|00|00|00|00|MMA|U|Eternal Witness
 01|00|00|00|00|MMA|U|Executioner's Capsule
 01|00|00|00|00|MMA|U|Feudkiller's Verdict
 00|00|00|00|00|MMA|U|Flickerwisp
@@ -14477,7 +14477,7 @@
 02|00|00|00|00|NPH|M|Etched Monstrosity
 00|00|00|00|00|NPH|M|Jin-Gitaxias, Core Augur
 00|00|00|00|00|NPH|M|Karn Liberated
-00|00|00|00|00|NPH|M|Phyrexian Obliterator
+01|00|00|00|00|NPH|M|Phyrexian Obliterator
 00|00|00|00|00|NPH|M|Sheoldred, Whispering One
 01|00|00|00|00|NPH|M|Sword of War and Peace
 00|00|00|00|00|NPH|M|Urabrask the Hidden
@@ -17088,7 +17088,7 @@
 02|00|00|00|00|RTR|R|Death's Presence
 00|00|00|00|00|RTR|R|Deathrite Shaman
 00|00|00|00|00|RTR|R|Desecration Demon
-00|00|00|00|00|RTR|R|Detention Sphere
+01|00|00|00|00|RTR|R|Detention Sphere
 00|00|00|00|00|RTR|R|Dreadbore
 01|00|00|00|00|RTR|R|Firemind's Foresight
 00|00|00|00|00|RTR|R|Grave Betrayal
