@@ -7713,7 +7713,7 @@
 00|00|00|00|00|DST|R|Viridian Zealot
 00|00|00|00|00|DST|R|Wand of the Elements
 00|00|00|00|00|DST|R|Well of Lost Dreams
-03|00|00|00|00|DST|U|AEther Vial
+02|00|00|00|00|DST|U|AEther Vial
 00|00|00|00|00|DST|U|Angel's Feather
 00|00|00|00|00|DST|U|Arcbound Crusher
 00|00|00|00|00|DST|U|Arcbound Fiend
@@ -14461,7 +14461,7 @@
 00|00|00|00|00|NPH|C|Spined Thopter
 00|00|00|00|00|NPH|C|Spire Monitor
 00|01|00|00|00|NPH|C|Suture Priest
-00|01|00|00|00|NPH|C|Swamp
+00|00|00|00|00|NPH|C|Swamp
 00|01|00|00|00|NPH|C|Thundering Tanadon
 00|00|00|00|00|NPH|C|Toxic Nim
 00|00|00|00|00|NPH|C|Trespassing Souleater
@@ -17559,7 +17559,7 @@
 00|00|00|00|00|SHM|C|Farhaven Elf
 00|00|00|00|00|SHM|C|Fate Transfer
 00|00|00|00|00|SHM|C|Fists of the Demigod
-00|01|00|00|00|SHM|C|Forest
+00|00|00|00|00|SHM|C|Forest
 00|00|00|00|00|SHM|C|Foxfire Oak
 00|00|00|00|00|SHM|C|Ghastly Discovery
 00|00|00|00|00|SHM|C|Giantbaiting
