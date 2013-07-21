@@ -7260,7 +7260,7 @@
 00|00|00|00|00|DKA|R|Requiem Angel
 01|00|00|00|00|DKA|R|Seance
 01|00|00|00|00|DKA|R|Sudden Disappearance
-04|00|00|00|00|DKA|R|Thalia, Guardian of Thraben
+05|00|00|00|00|DKA|R|Thalia, Guardian of Thraben
 00|00|00|00|00|DKA|R|Thraben Doomsayer
 00|00|00|00|00|DKA|R|Tovolar's Magehunter
 00|00|00|00|00|DKA|R|Vault of the Archangel
@@ -13378,7 +13378,7 @@
 04|00|00|00|00|MMA|R|AEther Vial
 01|00|00|00|00|MMA|R|Academy Ruins
 00|00|00|00|00|MMA|R|Adarkar Valkyrie
-01|00|00|00|00|MMA|R|Angel's Grace
+02|00|00|00|00|MMA|R|Angel's Grace
 01|00|00|00|00|MMA|R|Arcbound Ravager
 01|00|00|00|00|MMA|R|Auriok Salvagers
 00|00|00|00|00|MMA|R|Blinkmoth Nexus
@@ -13408,7 +13408,7 @@
 00|00|00|00|00|MMA|R|Kataki, War's Wage
 01|00|00|00|00|MMA|R|Kira, Great Glass-Spinner
 04|00|00|00|00|MMA|R|Knight of the Reliquary
-01|00|00|00|00|MMA|R|Life from the Loam
+02|00|00|00|00|MMA|R|Life from the Loam
 00|00|00|00|00|MMA|R|Lotus Bloom
 00|00|00|00|00|MMA|R|Maelstrom Pulse
 00|00|00|00|00|MMA|R|Meloku the Clouded Mirror
@@ -13420,7 +13420,7 @@
 00|00|00|00|00|MMA|R|Rude Awakening
 00|00|00|00|00|MMA|R|Scion of Oona
 00|00|00|00|00|MMA|R|Skeletal Vampire
-01|00|00|00|00|MMA|R|Slaughter Pact
+02|00|00|00|00|MMA|R|Slaughter Pact
 00|00|00|00|00|MMA|R|Squee, Goblin Nabob
 01|00|00|00|00|MMA|R|Stonehewer Giant
 00|00|00|00|00|MMA|R|Summoner's Pact
@@ -13441,7 +13441,7 @@
 02|00|00|00|00|MMA|U|Eternal Witness
 01|00|00|00|00|MMA|U|Executioner's Capsule
 01|00|00|00|00|MMA|U|Feudkiller's Verdict
-00|00|00|00|00|MMA|U|Flickerwisp
+01|00|00|00|00|MMA|U|Flickerwisp
 02|00|00|00|00|MMA|U|Grinning Ignus
 02|00|00|00|00|MMA|U|Horobi's Whisper
 01|00|00|00|00|MMA|U|Incremental Growth
