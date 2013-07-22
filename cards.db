@@ -15572,7 +15572,7 @@
 00|00|00|00|00|PCY|C|Rhystic Deluge
 00|00|00|00|00|PCY|C|Rhystic Lightning
 00|00|00|00|00|PCY|C|Rhystic Shield
-03|00|00|00|00|PCY|C|Rhystic Study
+02|00|00|00|00|PCY|C|Rhystic Study
 00|00|00|00|00|PCY|C|Rib Cage Spider
 00|00|00|00|00|PCY|C|Ribbon Snake
 00|00|00|00|00|PCY|C|Ridgeline Rager
@@ -17889,7 +17889,7 @@
 00|00|00|00|00|SOK|R|Kagemaro, First to Suffer
 00|00|00|00|00|SOK|R|Kaho, Minamo Historian
 00|00|00|00|00|SOK|R|Kami of the Crescent Moon
-01|00|00|00|00|SOK|R|Kataki, War's Wage
+00|00|00|00|00|SOK|R|Kataki, War's Wage
 01|00|00|00|00|SOK|R|Kiyomaro, First to Stand
 00|00|00|00|00|SOK|R|Kuon's Essence
 00|00|00|00|00|SOK|R|Kuon, Ogre Ascendant
@@ -18127,7 +18127,7 @@
 00|00|00|00|00|SOM|R|Leonin Arbiter
 01|00|00|00|00|SOM|R|Livewire Lash
 00|00|00|00|00|SOM|R|Memoricide
-02|00|00|00|00|SOM|R|Mimic Vat
+01|00|00|00|00|SOM|R|Mimic Vat
 01|00|00|00|00|SOM|R|Molten Psyche
 02|00|00|00|00|SOM|R|Myr Battlesphere
 01|00|00|00|00|SOM|R|Myr Propagator
@@ -19910,7 +19910,7 @@
 02|00|00|00|00|V12|M|Boseiju, Who Shelters All
 00|00|00|00|00|V12|M|Cephalid Coliseum
 02|00|00|00|00|V12|M|Desert
-02|00|00|00|00|V12|M|Dryad Arbor
+01|00|00|00|00|V12|M|Dryad Arbor
 02|00|00|00|00|V12|M|Forbidden Orchard
 02|00|00|00|00|V12|M|Glacial Chasm
 01|00|00|00|00|V12|M|Grove of the Burnwillows
