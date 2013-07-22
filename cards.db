@@ -12949,7 +12949,7 @@
 00|00|00|00|00|MIR|C|Dazzling Beauty
 00|00|00|00|00|MIR|C|Dirtwater Wraith
 00|00|00|00|00|MIR|C|Disempower
-00|00|00|00|00|MIR|C|Disenchant
+03|00|00|00|00|MIR|C|Disenchant
 00|00|00|00|00|MIR|C|Divine Offering
 00|00|00|00|00|MIR|C|Drain Life
 00|00|00|00|00|MIR|C|Dream Cache
@@ -13400,7 +13400,7 @@
 00|00|00|00|00|MMA|R|Extirpate
 04|00|00|00|00|MMA|R|Figure of Destiny
 00|00|00|00|00|MMA|R|Gifts Ungiven
-00|00|00|00|00|MMA|R|Glen Elendra Archmage
+01|00|00|00|00|MMA|R|Glen Elendra Archmage
 01|00|00|00|00|MMA|R|Glimmervoid
 00|00|00|00|00|MMA|R|Grand Arbiter Augustin IV
 01|00|00|00|00|MMA|R|Greater Gargadon
@@ -17088,7 +17088,7 @@
 02|00|00|00|00|RTR|R|Death's Presence
 00|00|00|00|00|RTR|R|Deathrite Shaman
 00|00|00|00|00|RTR|R|Desecration Demon
-01|00|00|00|00|RTR|R|Detention Sphere
+02|00|00|00|00|RTR|R|Detention Sphere
 00|00|00|00|00|RTR|R|Dreadbore
 01|00|00|00|00|RTR|R|Firemind's Foresight
 00|00|00|00|00|RTR|R|Grave Betrayal
@@ -18386,7 +18386,7 @@
 00|00|00|00|00|TMP|C|Dauthi Marauder
 00|00|00|00|00|TMP|C|Dauthi Slayer
 00|00|00|00|00|TMP|C|Diabolic Edict
-03|00|00|00|00|TMP|C|Disenchant
+01|00|00|00|00|TMP|C|Disenchant
 00|00|00|00|00|TMP|C|Disturbed Burial
 00|00|00|00|00|TMP|C|Dream Cache
 00|00|00|00|00|TMP|C|Elite Javelineer
