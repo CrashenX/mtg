@@ -6712,7 +6712,7 @@
 00|00|00|00|00|DDJ|U|Dakmor Salvage
 00|00|00|00|00|DDJ|U|Dissipate
 00|00|00|00|00|DDJ|U|Dreg Mangler
-00|00|00|00|00|DDJ|U|Eternal Witness
+01|00|00|00|00|DDJ|U|Eternal Witness
 00|00|00|00|00|DDJ|U|Fire (Fire/Ice)
 00|00|00|00|00|DDJ|U|Gelectrode
 00|00|00|00|00|DDJ|U|Ghoul's Feast
@@ -11501,7 +11501,7 @@
 00|00|00|00|00|LRW|R|Profane Command
 00|00|00|00|00|LRW|R|Purity
 00|00|00|00|00|LRW|R|Rings of Brighthearth
-02|00|00|00|00|LRW|R|Scion of Oona
+00|00|00|00|00|LRW|R|Scion of Oona
 00|00|00|00|00|LRW|R|Secluded Glen
 00|00|00|00|00|LRW|R|Shapesharer
 00|00|00|00|00|LRW|R|Shelldock Isle
@@ -11586,7 +11586,7 @@
 00|00|00|00|00|LRW|U|Seedguide Ash
 00|00|00|00|00|LRW|U|Sentry Oak
 00|00|00|00|00|LRW|U|Shriekmaw
-04|00|00|00|00|LRW|U|Silvergill Adept
+05|00|00|00|00|LRW|U|Silvergill Adept
 00|00|00|00|00|LRW|U|Squeaking Pie Sneak
 00|00|00|00|00|LRW|U|Summon the School
 00|00|00|00|00|LRW|U|Sylvan Echoes
@@ -12872,7 +12872,7 @@
 00|00|00|00|00|MBS|R|Phyrexian Crusader
 01|00|00|00|00|MBS|R|Phyrexian Hydra
 00|00|00|00|00|MBS|R|Phyrexian Rebirth
-03|00|00|00|00|MBS|R|Phyrexian Revoker
+04|00|00|00|00|MBS|R|Phyrexian Revoker
 00|00|00|00|00|MBS|R|Phyrexian Vatmother
 01|00|00|00|00|MBS|R|Psychosis Crawler
 00|00|00|00|00|MBS|R|Red Sun's Zenith
@@ -13337,7 +13337,7 @@
 02|00|00|00|00|MMA|C|Sanctum Gargoyle
 02|01|00|00|00|MMA|C|Search for Tomorrow
 01|00|00|00|00|MMA|C|Skyreach Manta
-07|00|00|00|00|MMA|C|Spellstutter Sprite
+09|00|00|00|00|MMA|C|Spellstutter Sprite
 02|00|00|00|00|MMA|C|Sporoloth Ancient
 01|00|00|00|00|MMA|C|Stingscourger
 02|00|00|00|00|MMA|C|Stinkdrinker Daredevil
@@ -13398,7 +13398,7 @@
 04|00|00|00|00|MMA|R|Engineered Explosives
 04|00|00|00|00|MMA|R|Ethersworn Canonist
 00|00|00|00|00|MMA|R|Extirpate
-04|00|00|00|00|MMA|R|Figure of Destiny
+05|00|00|00|00|MMA|R|Figure of Destiny
 00|00|00|00|00|MMA|R|Gifts Ungiven
 01|00|00|00|00|MMA|R|Glen Elendra Archmage
 01|00|00|00|00|MMA|R|Glimmervoid
@@ -13418,7 +13418,7 @@
 00|00|00|00|00|MMA|R|Pyromancer's Swath
 00|00|00|00|00|MMA|R|Reveillark
 00|00|00|00|00|MMA|R|Rude Awakening
-00|00|00|00|00|MMA|R|Scion of Oona
+03|00|00|00|00|MMA|R|Scion of Oona
 00|00|00|00|00|MMA|R|Skeletal Vampire
 02|00|00|00|00|MMA|R|Slaughter Pact
 00|00|00|00|00|MMA|R|Squee, Goblin Nabob
@@ -13464,7 +13464,7 @@
 01|00|00|00|00|MMA|U|Phthisis
 01|00|00|00|00|MMA|U|Plumeveil
 01|00|00|00|00|MMA|U|Reach of Branches
-03|01|00|00|00|MMA|U|Relic of Progenitus
+05|01|00|00|00|MMA|U|Relic of Progenitus
 02|00|00|00|00|MMA|U|Riftsweeper
 01|00|00|00|00|MMA|U|Riftwing Cloudskate
 01|00|00|00|00|MMA|U|Sandsower
