@@ -4112,7 +4112,7 @@
 00|00|00|00|00|ARC|U|Kazandu Refuge
 00|00|00|00|00|ARC|U|Krosan Verge
 00|00|00|00|00|ARC|U|Lightning Greaves
-01|00|00|00|00|ARC|U|Llanowar Reborn
+00|00|00|00|00|ARC|U|Llanowar Reborn
 00|00|00|00|00|ARC|U|Makeshift Mannequin
 01|00|00|00|00|ARC|U|Metallurgeon
 01|00|00|00|00|ARC|U|Nantuko Monastery
@@ -7121,7 +7121,7 @@
 00|00|00|00|00|DIS|U|Paladin of Prahv
 00|00|00|00|00|DIS|U|Palliation Accord
 00|00|00|00|00|DIS|U|Patagia Viper
-05|00|00|00|00|DIS|U|Plaxcaster Frogling
+04|00|00|00|00|DIS|U|Plaxcaster Frogling
 00|00|00|00|00|DIS|U|Plaxmanta
 00|00|00|00|00|DIS|U|Prahv, Spires of Order
 00|00|00|00|00|DIS|U|Pure // Simple
@@ -9184,7 +9184,7 @@
 00|00|00|00|00|ICE|C|Battle Frenzy
 00|00|00|00|00|ICE|C|Blessed Wine
 00|00|00|00|00|ICE|C|Bone Shaman
-03|00|00|00|00|ICE|C|Brainstorm
+02|00|00|00|00|ICE|C|Brainstorm
 00|00|00|00|00|ICE|C|Brine Shaman
 00|00|00|00|00|ICE|C|Brown Ouphe
 00|00|00|00|00|ICE|C|Burnt Offering
@@ -12845,7 +12845,7 @@
 00|00|00|00|00|MBS|M|Hero of Bladehold
 00|00|00|00|00|MBS|M|Hero of Oxid Ridge
 00|00|00|00|00|MBS|M|Massacre Wurm
-02|00|00|00|00|MBS|M|Praetor's Counsel
+01|00|00|00|00|MBS|M|Praetor's Counsel
 01|00|00|00|00|MBS|M|Sword of Feast and Famine
 00|00|00|00|00|MBS|M|Tezzeret, Agent of Bolas
 00|00|00|00|00|MBS|M|Thrun, the Last Troll
