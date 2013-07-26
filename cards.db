@@ -13335,7 +13335,7 @@
 00|00|00|00|00|MMA|C|Runed Stalactite
 03|00|00|00|00|MMA|C|Saltfield Recluse
 02|00|00|00|00|MMA|C|Sanctum Gargoyle
-02|01|00|00|00|MMA|C|Search for Tomorrow
+00|01|00|00|00|MMA|C|Search for Tomorrow
 01|00|00|00|00|MMA|C|Skyreach Manta
 09|00|00|00|00|MMA|C|Spellstutter Sprite
 02|00|00|00|00|MMA|C|Sporoloth Ancient
@@ -14513,7 +14513,7 @@
 00|00|00|00|00|NPH|R|Slag Fiend
 01|00|00|00|00|NPH|R|Soul Conduit
 01|00|00|00|00|NPH|R|Spellskite
-05|00|00|00|00|NPH|R|Surgical Extraction
+04|00|00|00|00|NPH|R|Surgical Extraction
 01|00|00|00|00|NPH|R|Torpor Orb
 02|00|00|00|00|NPH|R|Unwinding Clock
 02|00|00|00|00|NPH|R|Xenograft
@@ -19907,7 +19907,7 @@
 00|00|00|00|00|V11|M|Ulamog, the Infinite Gyre
 00|00|00|00|00|V11|M|Visara the Dreadful
 00|00|00|00|00|V12|M|Ancient Tomb
-02|00|00|00|00|V12|M|Boseiju, Who Shelters All
+00|00|00|00|00|V12|M|Boseiju, Who Shelters All
 00|00|00|00|00|V12|M|Cephalid Coliseum
 02|00|00|00|00|V12|M|Desert
 01|00|00|00|00|V12|M|Dryad Arbor
