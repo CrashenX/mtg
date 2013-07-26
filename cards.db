@@ -13078,7 +13078,7 @@
 00|00|00|00|00|MIR|R|Forsaken Wastes
 00|00|00|00|00|MIR|R|Frenetic Efreet
 00|00|00|00|00|MIR|R|Grim Feast
-01|00|00|00|00|MIR|R|Grinning Totem
+00|00|00|00|00|MIR|R|Grinning Totem
 00|00|00|00|00|MIR|R|Hakim, Loreweaver
 00|00|00|00|00|MIR|R|Hall of Gemstone
 00|00|00|00|00|MIR|R|Hammer of Bogardan
@@ -13133,7 +13133,7 @@
 00|00|00|00|00|MIR|R|Tainted Specter
 00|00|00|00|00|MIR|R|Taniwha
 00|00|00|00|00|MIR|R|Teeka's Dragon
-01|00|00|00|00|MIR|R|Teferi's Imp
+00|00|00|00|00|MIR|R|Teferi's Imp
 00|00|00|00|00|MIR|R|Teferi's Isle
 00|00|00|00|00|MIR|R|Telim'Tor
 00|00|00|00|00|MIR|R|Telim'Tor's Edict
@@ -13151,7 +13151,7 @@
 00|00|00|00|00|MIR|R|Zuberi, Golden Feather
 00|00|00|00|00|MIR|U|Afterlife
 00|00|00|00|00|MIR|U|Aleatory
-01|00|00|00|00|MIR|U|Bad River
+00|00|00|00|00|MIR|U|Bad River
 00|00|00|00|00|MIR|U|Barbed Foliage
 00|00|00|00|00|MIR|U|Barbed-Back Wurm
 00|00|00|00|00|MIR|U|Basalt Golem
@@ -13175,7 +13175,7 @@
 00|00|00|00|00|MIR|U|Dread Specter
 00|00|00|00|00|MIR|U|Dwarven Miner
 00|00|00|00|00|MIR|U|Elixir of Vitality
-01|00|00|00|00|MIR|U|Enlightened Tutor
+00|00|00|00|00|MIR|U|Enlightened Tutor
 00|00|00|00|00|MIR|U|Ersatz Gnomes
 00|00|00|00|00|MIR|U|Ether Well
 00|00|00|00|00|MIR|U|Fallow Earth
@@ -14477,7 +14477,7 @@
 02|00|00|00|00|NPH|M|Etched Monstrosity
 00|00|00|00|00|NPH|M|Jin-Gitaxias, Core Augur
 00|00|00|00|00|NPH|M|Karn Liberated
-01|00|00|00|00|NPH|M|Phyrexian Obliterator
+00|00|00|00|00|NPH|M|Phyrexian Obliterator
 00|00|00|00|00|NPH|M|Sheoldred, Whispering One
 01|00|00|00|00|NPH|M|Sword of War and Peace
 00|00|00|00|00|NPH|M|Urabrask the Hidden
@@ -16828,7 +16828,7 @@
 00|00|00|00|00|ROE|M|Hellcarver Demon
 00|00|00|00|00|ROE|M|Kargan Dragonlord
 00|00|00|00|00|ROE|M|Khalni Hydra
-01|00|00|00|00|ROE|M|Kozilek, Butcher of Truth
+00|00|00|00|00|ROE|M|Kozilek, Butcher of Truth
 00|00|00|00|00|ROE|M|Lighthouse Chronologist
 01|00|00|00|00|ROE|M|Linvala, Keeper of Silence
 00|00|00|00|00|ROE|M|Nirkana Revenant
@@ -20018,7 +20018,7 @@
 00|00|00|00|00|VIS|R|Relentless Assault
 00|00|00|00|00|VIS|R|Retribution of the Meek
 00|00|00|00|00|VIS|R|Righteous War
-01|00|00|00|00|VIS|R|Rowen
+00|00|00|00|00|VIS|R|Rowen
 00|00|00|00|00|VIS|R|Sands of Time
 00|00|00|00|00|VIS|R|Snake Basket
 00|00|00|00|00|VIS|R|Squandered Resources
