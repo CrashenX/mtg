@@ -5828,7 +5828,7 @@
 00|00|00|00|00|CON|C|Yoke of the Damned
 00|00|00|00|00|CON|C|Zombie Outlander
 00|00|00|00|00|CON|M|Apocalypse Hydra
-01|00|00|00|00|CON|M|Child of Alara
+00|00|00|00|00|CON|M|Child of Alara
 01|00|00|00|00|CON|M|Conflux
 00|00|00|00|00|CON|M|Ethersworn Adjudicator
 00|00|00|00|00|CON|M|Maelstrom Archangel
@@ -7704,7 +7704,7 @@
 00|00|00|00|00|DST|R|Spellbinder
 00|00|00|00|00|DST|R|Steelshaper Apprentice
 00|00|00|00|00|DST|R|Sundering Titan
-01|00|00|00|00|DST|R|Sword of Fire and Ice
+00|00|00|00|00|DST|R|Sword of Fire and Ice
 00|00|00|00|00|DST|R|Sword of Light and Shadow
 00|00|00|00|00|DST|R|Synod Artificer
 00|00|00|00|00|DST|R|Thought Dissector
@@ -10016,7 +10016,7 @@
 01|00|00|00|00|ISD|R|Cackling Counterpart
 04|00|00|00|00|ISD|R|Champion of the Parish
 00|00|00|00|00|ISD|R|Charmbreaker Devils
-01|00|00|00|00|ISD|R|Clifftop Retreat
+00|00|00|00|00|ISD|R|Clifftop Retreat
 01|00|00|00|00|ISD|R|Creeping Renaissance
 01|00|00|00|00|ISD|R|Creepy Doll
 00|00|00|00|00|ISD|R|Curse of Death's Hold
@@ -20526,7 +20526,7 @@
 00|00|00|00|00|ZEN|R|Arid Mesa
 00|00|00|00|00|ZEN|R|Armament Master
 00|00|00|00|00|ZEN|R|Bala Ged Thief
-01|00|00|00|00|ZEN|R|Beastmaster Ascension
+00|00|00|00|00|ZEN|R|Beastmaster Ascension
 01|00|00|00|00|ZEN|R|Blade of the Bloodchief
 00|00|00|00|00|ZEN|R|Blood Tribute
 00|00|00|00|00|ZEN|R|Bloodchief Ascension
