@@ -5829,7 +5829,7 @@
 00|00|00|00|00|CON|C|Zombie Outlander
 00|00|00|00|00|CON|M|Apocalypse Hydra
 00|00|00|00|00|CON|M|Child of Alara
-01|00|00|00|00|CON|M|Conflux
+00|00|00|00|00|CON|M|Conflux
 00|00|00|00|00|CON|M|Ethersworn Adjudicator
 00|00|00|00|00|CON|M|Maelstrom Archangel
 00|00|00|00|00|CON|M|Malfegor
@@ -8096,7 +8096,7 @@
 00|00|00|00|00|EXO|R|Skyshroud War Beast
 00|00|00|00|00|EXO|R|Sphere of Resistance
 00|00|00|00|00|EXO|R|Spike Hatcher
-01|00|00|00|00|EXO|R|Spike Weaver
+00|00|00|00|00|EXO|R|Spike Weaver
 00|00|00|00|00|EXO|R|Survival of the Fittest
 00|00|00|00|00|EXO|R|Thalakos Drifters
 00|00|00|00|00|EXO|R|Thopter Squadron
@@ -19446,7 +19446,7 @@
 00|00|00|00|00|ULG|R|Crawlspace
 00|00|00|00|00|ULG|R|Damping Engine
 00|00|00|00|00|ULG|R|Defense Grid
-01|00|00|00|00|ULG|R|Defense of the Heart
+00|00|00|00|00|ULG|R|Defense of the Heart
 00|00|00|00|00|ULG|R|Delusions of Mediocrity
 00|00|00|00|00|ULG|R|Deranged Hermit
 00|00|00|00|00|ULG|R|Eviscerator
@@ -20341,7 +20341,7 @@
 00|00|00|00|00|WWK|R|Joraga Warcaller
 00|00|00|00|00|WWK|R|Jwari Shapeshifter
 00|00|00|00|00|WWK|R|Kalastria Highborn
-01|00|00|00|00|WWK|R|Kazuul, Tyrant of the Cliffs
+00|00|00|00|00|WWK|R|Kazuul, Tyrant of the Cliffs
 00|00|00|00|00|WWK|R|Lavaclaw Reaches
 02|00|00|00|00|WWK|R|Lodestone Golem
 02|00|00|00|00|WWK|R|Marshal's Anthem
