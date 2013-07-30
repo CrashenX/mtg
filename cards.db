@@ -11470,7 +11470,7 @@
 00|00|00|00|00|LRW|R|Fathom Trawl
 00|00|00|00|00|LRW|R|Favor of the Mighty
 00|00|00|00|00|LRW|R|Forced Fruition
-01|00|00|00|00|LRW|R|Gaddock Teeg
+02|00|00|00|00|LRW|R|Gaddock Teeg
 00|00|00|00|00|LRW|R|Galepowder Mage
 00|00|00|00|00|LRW|R|Garruk Wildspeaker
 00|00|00|00|00|LRW|R|Gilt-Leaf Palace
@@ -14512,7 +14512,7 @@
 04|00|00|00|00|NPH|R|Puresteel Paladin
 00|00|00|00|00|NPH|R|Slag Fiend
 01|00|00|00|00|NPH|R|Soul Conduit
-01|00|00|00|00|NPH|R|Spellskite
+02|00|00|00|00|NPH|R|Spellskite
 04|00|00|00|00|NPH|R|Surgical Extraction
 01|00|00|00|00|NPH|R|Torpor Orb
 02|00|00|00|00|NPH|R|Unwinding Clock
@@ -15130,7 +15130,7 @@
 01|00|00|00|00|ONS|R|Weathered Wayfarer
 00|00|00|00|00|ONS|R|Weird Harvest
 00|00|00|00|00|ONS|R|Wheel and Deal
-03|00|00|00|00|ONS|R|Windswept Heath
+04|00|00|00|00|ONS|R|Windswept Heath
 00|00|00|00|00|ONS|R|Wooded Foothills
 00|00|00|00|00|ONS|R|Words of War
 00|00|00|00|00|ONS|R|Words of Waste
