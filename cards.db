@@ -6488,7 +6488,7 @@
 00|00|00|00|00|DDG|U|Dragon Whelp
 00|00|00|00|00|DDG|U|Dragon's Claw
 00|00|00|00|00|DDG|U|Dragonspeaker Shaman
-01|00|00|00|00|DDG|U|Grasslands
+00|00|00|00|00|DDG|U|Grasslands
 01|00|00|00|00|DDG|U|Griffin Guide
 01|00|00|00|00|DDG|U|Harm's Way
 00|00|00|00|00|DDG|U|Henge Guardian
@@ -7063,7 +7063,7 @@
 00|00|00|00|00|DIS|R|Omnibian
 00|00|00|00|00|DIS|R|Pillar of the Paruns
 00|00|00|00|00|DIS|R|Pride of the Clouds
-04|00|00|00|00|DIS|R|Proclamation of Rebirth
+03|00|00|00|00|DIS|R|Proclamation of Rebirth
 00|00|00|00|00|DIS|R|Proper Burial
 00|00|00|00|00|DIS|R|Protean Hulk
 00|00|00|00|00|DIS|R|Psychic Possession
@@ -7713,7 +7713,7 @@
 00|00|00|00|00|DST|R|Viridian Zealot
 00|00|00|00|00|DST|R|Wand of the Elements
 00|00|00|00|00|DST|R|Well of Lost Dreams
-02|00|00|00|00|DST|U|AEther Vial
+00|00|00|00|00|DST|U|AEther Vial
 00|00|00|00|00|DST|U|Angel's Feather
 00|00|00|00|00|DST|U|Arcbound Crusher
 00|00|00|00|00|DST|U|Arcbound Fiend
@@ -13271,9 +13271,9 @@
 03|00|00|00|00|MMA|C|Blightspeaker
 02|00|00|00|00|MMA|C|Blind-Spot Giant
 02|00|00|00|00|MMA|C|Blinding Beam
-02|00|00|00|00|MMA|C|Bonesplitter
+00|00|00|00|00|MMA|C|Bonesplitter
 02|00|00|00|00|MMA|C|Bound in Silence
-02|00|00|00|00|MMA|C|Brute Force
+00|00|00|00|00|MMA|C|Brute Force
 02|00|00|00|00|MMA|C|Cenn's Enlistment
 03|00|00|00|00|MMA|C|Citanul Woodreaders
 01|00|00|00|00|MMA|C|Court Homunculus
@@ -13323,7 +13323,7 @@
 02|00|00|00|00|MMA|C|Peer Through Depths
 02|00|00|00|00|MMA|C|Penumbra Spider
 03|00|00|00|00|MMA|C|Peppersmoke
-02|00|00|00|00|MMA|C|Perilous Research
+00|00|00|00|00|MMA|C|Perilous Research
 01|00|00|00|00|MMA|C|Pestermite
 02|00|00|00|00|MMA|C|Petals of Insight
 02|00|00|00|00|MMA|C|Pyrite Spellbomb
@@ -13982,7 +13982,7 @@
 00|00|00|00|00|MRD|C|Awe Strike
 00|00|00|00|00|MRD|C|Battlegrowth
 00|00|00|00|00|MRD|C|Blinding Beam
-01|00|00|00|00|MRD|C|Bonesplitter
+00|00|00|00|00|MRD|C|Bonesplitter
 00|00|00|00|00|MRD|C|Chimney Imp
 00|00|00|00|00|MRD|C|Chromatic Sphere
 00|00|00|00|00|MRD|C|Clockwork Beetle
@@ -17910,7 +17910,7 @@
 00|00|00|00|00|SOK|R|Reki, the History of Kamigawa
 00|00|00|00|00|SOK|R|Reverence
 00|00|00|00|00|SOK|R|Rune-Tail's Essence
-01|00|00|00|00|SOK|R|Rune-Tail, Kitsune Ascendant
+00|00|00|00|00|SOK|R|Rune-Tail, Kitsune Ascendant
 00|00|00|00|00|SOK|R|Sakashima the Impostor
 00|00|00|00|00|SOK|R|Sasaya, Orochi Ascendant
 00|00|00|00|00|SOK|R|Scroll of Origins
@@ -19503,7 +19503,7 @@
 00|00|00|00|00|ULG|U|Levitation
 00|00|00|00|00|ULG|U|Lone Wolf
 00|00|00|00|00|ULG|U|Martyr's Cause
-01|00|00|00|00|ULG|U|Mother of Runes
+00|00|00|00|00|ULG|U|Mother of Runes
 00|00|00|00|00|ULG|U|Multani's Presence
 00|00|00|00|00|ULG|U|Opportunity
 00|00|00|00|00|ULG|U|Peace and Quiet
@@ -19913,7 +19913,7 @@
 01|00|00|00|00|V12|M|Dryad Arbor
 02|00|00|00|00|V12|M|Forbidden Orchard
 02|00|00|00|00|V12|M|Glacial Chasm
-01|00|00|00|00|V12|M|Grove of the Burnwillows
+00|00|00|00|00|V12|M|Grove of the Burnwillows
 01|00|00|00|00|V12|M|High Market
 01|00|00|00|00|V12|M|Maze of Ith
 01|00|00|00|00|V12|M|Murmuring Bosk
