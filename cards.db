@@ -13362,12 +13362,12 @@
 02|00|00|00|00|MMA|C|Warren Weirding
 04|00|00|00|00|MMA|M|Dark Confidant
 02|00|00|00|00|MMA|M|Elspeth, Knight-Errant
-00|01|00|00|00|MMA|M|Jugan, the Rising Star
-01|00|00|00|00|MMA|M|Keiga, the Tide Star
+00|00|00|00|00|MMA|M|Jugan, the Rising Star
+00|00|00|00|00|MMA|M|Keiga, the Tide Star
 00|00|00|00|00|MMA|M|Kiki-Jiki, Mirror Breaker
 00|00|00|00|00|MMA|M|Kokusho, the Evening Star
 00|00|00|00|00|MMA|M|Progenitus
-01|00|00|00|00|MMA|M|Ryusei, the Falling Star
+00|00|00|00|00|MMA|M|Ryusei, the Falling Star
 00|00|00|00|00|MMA|M|Sarkhan Vol
 01|00|00|00|00|MMA|M|Sword of Fire and Ice
 01|00|00|00|00|MMA|M|Sword of Light and Shadow
@@ -13392,7 +13392,7 @@
 00|00|00|00|00|MMA|R|Death Cloud
 00|00|00|00|00|MMA|R|Demigod of Revenge
 00|00|00|00|00|MMA|R|Divinity of Pride
-00|01|00|00|00|MMA|R|Doubling Season
+00|00|00|00|00|MMA|R|Doubling Season
 01|00|00|00|00|MMA|R|Dragonstorm
 00|00|00|00|00|MMA|R|Earwig Squad
 04|00|00|00|00|MMA|R|Engineered Explosives
