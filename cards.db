@@ -863,7 +863,7 @@
 00|00|00|00|00|3ED|U|Air Elemental
 00|00|00|00|00|3ED|U|Animate Artifact
 00|00|00|00|00|3ED|U|Animate Dead
-01|00|00|00|00|3ED|U|Basalt Monolith
+00|00|00|00|00|3ED|U|Basalt Monolith
 00|00|00|00|00|3ED|U|Black Knight
 00|00|00|00|00|3ED|U|Black Vise
 00|00|00|00|00|3ED|U|Black Ward
@@ -4111,7 +4111,7 @@
 01|00|00|00|00|ARC|U|Juggernaut
 00|00|00|00|00|ARC|U|Kazandu Refuge
 00|00|00|00|00|ARC|U|Krosan Verge
-00|00|00|00|00|ARC|U|Lightning Greaves
+01|00|00|00|00|ARC|U|Lightning Greaves
 00|00|00|00|00|ARC|U|Llanowar Reborn
 00|00|00|00|00|ARC|U|Makeshift Mannequin
 01|00|00|00|00|ARC|U|Metallurgeon
@@ -6343,7 +6343,7 @@
 01|00|00|00|00|DDE|U|Elfhame Palace
 01|00|00|00|00|DDE|U|Evasive Action
 01|00|00|00|00|DDE|U|Hornet Cannon
-02|00|00|00|00|DDE|U|Lightning Greaves
+00|00|00|00|00|DDE|U|Lightning Greaves
 01|00|00|00|00|DDE|U|Order of Yawgmoth
 01|00|00|00|00|DDE|U|Phyrexian Defiler
 00|00|00|00|00|DDE|U|Phyrexian Gargantua
@@ -7249,7 +7249,7 @@
 00|00|00|00|00|DKA|R|Increasing Ambition
 00|00|00|00|00|DKA|R|Increasing Confusion
 00|00|00|00|00|DKA|R|Increasing Devotion
-01|00|00|00|00|DKA|R|Increasing Savagery
+00|00|00|00|00|DKA|R|Increasing Savagery
 00|00|00|00|00|DKA|R|Increasing Vengeance
 00|00|00|00|00|DKA|R|Jar of Eyeballs
 00|00|00|00|00|DKA|R|Lost in the Woods
@@ -20316,7 +20316,7 @@
 00|00|00|00|00|WWK|C|Walking Atlas
 00|00|00|00|00|WWK|C|Wind Zendikon
 00|00|00|00|00|WWK|M|Abyssal Persecutor
-01|00|00|00|00|WWK|M|Admonition Angel
+00|00|00|00|00|WWK|M|Admonition Angel
 00|00|00|00|00|WWK|M|Avenger of Zendikar
 00|00|02|00|00|WWK|M|Comet Storm
 00|00|00|00|00|WWK|M|Dragonmaster Outcast
