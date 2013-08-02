@@ -8703,7 +8703,7 @@
 00|00|00|00|00|GTC|M|Duskmantle Seer
 00|00|00|00|00|GTC|M|Enter the Infinite
 01|00|00|00|00|GTC|M|Giant Adephage
-00|00|00|00|00|GTC|M|Gideon, Champion of Justice
+01|00|00|00|00|GTC|M|Gideon, Champion of Justice
 00|00|00|00|00|GTC|M|Hellkite Tyrant
 01|00|00|00|00|GTC|M|Lazav, Dimir Mastermind
 00|00|00|00|00|GTC|M|Lord of the Void
@@ -12674,7 +12674,7 @@
 00|00|00|00|00|M14|R|Domestication
 00|00|00|00|00|M14|R|Door of Destinies
 00|00|00|00|00|M14|R|Elite Arcanist
-01|00|00|00|00|M14|R|Fiendslayer Paladin
+02|00|00|00|00|M14|R|Fiendslayer Paladin
 00|00|00|00|00|M14|R|Galerider Sliver
 00|00|00|00|00|M14|R|Garruk's Horde
 00|00|00|00|00|M14|R|Goblin Diplomats
@@ -13378,10 +13378,10 @@
 04|00|00|00|00|MMA|R|AEther Vial
 01|00|00|00|00|MMA|R|Academy Ruins
 00|00|00|00|00|MMA|R|Adarkar Valkyrie
-03|00|00|00|00|MMA|R|Angel's Grace
+04|00|00|00|00|MMA|R|Angel's Grace
 01|00|00|00|00|MMA|R|Arcbound Ravager
 01|00|00|00|00|MMA|R|Auriok Salvagers
-00|00|00|00|00|MMA|R|Blinkmoth Nexus
+02|00|00|00|00|MMA|R|Blinkmoth Nexus
 00|00|00|00|00|MMA|R|Blood Moon
 00|00|00|00|00|MMA|R|Bridge from Below
 04|00|00|00|00|MMA|R|Chalice of the Void
@@ -13400,12 +13400,12 @@
 00|00|00|00|00|MMA|R|Extirpate
 05|00|00|00|00|MMA|R|Figure of Destiny
 00|00|00|00|00|MMA|R|Gifts Ungiven
-01|00|00|00|00|MMA|R|Glen Elendra Archmage
-01|00|00|00|00|MMA|R|Glimmervoid
+02|00|00|00|00|MMA|R|Glen Elendra Archmage
+04|00|00|00|00|MMA|R|Glimmervoid
 00|00|00|00|00|MMA|R|Grand Arbiter Augustin IV
 01|00|00|00|00|MMA|R|Greater Gargadon
 00|00|00|00|00|MMA|R|Jhoira of the Ghitu
-00|00|00|00|00|MMA|R|Kataki, War's Wage
+01|00|00|00|00|MMA|R|Kataki, War's Wage
 01|00|00|00|00|MMA|R|Kira, Great Glass-Spinner
 04|00|00|00|00|MMA|R|Knight of the Reliquary
 02|00|00|00|00|MMA|R|Life from the Loam
@@ -13418,7 +13418,7 @@
 00|00|00|00|00|MMA|R|Pyromancer's Swath
 00|00|00|00|00|MMA|R|Reveillark
 00|00|00|00|00|MMA|R|Rude Awakening
-03|00|00|00|00|MMA|R|Scion of Oona
+04|00|00|00|00|MMA|R|Scion of Oona
 00|00|00|00|00|MMA|R|Skeletal Vampire
 02|00|00|00|00|MMA|R|Slaughter Pact
 00|00|00|00|00|MMA|R|Squee, Goblin Nabob
@@ -13446,7 +13446,7 @@
 02|00|00|00|00|MMA|U|Horobi's Whisper
 01|00|00|00|00|MMA|U|Incremental Growth
 05|00|00|00|00|MMA|U|Kitchen Finks
-03|00|00|00|00|MMA|U|Krosan Grip
+04|00|00|00|00|MMA|U|Krosan Grip
 00|00|00|00|00|MMA|U|Lightning Helix
 01|00|00|00|00|MMA|U|Mad Auntie
 01|01|00|00|00|MMA|U|Manamorphose
@@ -17070,7 +17070,7 @@
 00|00|00|00|00|RTR|M|Utvara Hellkite
 00|00|00|00|00|RTR|M|Vraska the Unseen
 00|00|00|00|00|RTR|M|Worldspine Wurm
-00|00|00|00|00|RTR|R|Abrupt Decay
+01|00|00|00|00|RTR|R|Abrupt Decay
 01|00|00|00|00|RTR|R|Archon of the Triumvirate
 00|00|00|00|00|RTR|R|Ash Zealot
 00|00|00|00|00|RTR|R|Azor's Elocutors
