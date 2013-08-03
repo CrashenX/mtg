@@ -12674,7 +12674,7 @@
 00|00|00|00|00|M14|R|Domestication
 00|00|00|00|00|M14|R|Door of Destinies
 00|00|00|00|00|M14|R|Elite Arcanist
-02|00|00|00|00|M14|R|Fiendslayer Paladin
+03|00|00|00|00|M14|R|Fiendslayer Paladin
 00|00|00|00|00|M14|R|Galerider Sliver
 00|00|00|00|00|M14|R|Garruk's Horde
 00|00|00|00|00|M14|R|Goblin Diplomats
@@ -12689,7 +12689,7 @@
 00|00|00|00|00|M14|R|Liliana's Reaver
 00|00|00|00|00|M14|R|Megantic Sliver
 00|00|00|00|00|M14|R|Mindsparker
-01|00|00|00|00|M14|R|Mutavault
+04|00|00|00|00|M14|R|Mutavault
 00|00|00|00|00|M14|R|Nightmare
 00|00|00|00|00|M14|R|Oath of the Ancient Wood
 00|00|00|00|00|M14|R|Ogre Battledriver
@@ -12872,7 +12872,7 @@
 00|00|00|00|00|MBS|R|Phyrexian Crusader
 01|00|00|00|00|MBS|R|Phyrexian Hydra
 00|00|00|00|00|MBS|R|Phyrexian Rebirth
-04|00|00|00|00|MBS|R|Phyrexian Revoker
+05|00|00|00|00|MBS|R|Phyrexian Revoker
 00|00|00|00|00|MBS|R|Phyrexian Vatmother
 01|00|00|00|00|MBS|R|Psychosis Crawler
 00|00|00|00|00|MBS|R|Red Sun's Zenith
@@ -13401,7 +13401,7 @@
 05|00|00|00|00|MMA|R|Figure of Destiny
 00|00|00|00|00|MMA|R|Gifts Ungiven
 02|00|00|00|00|MMA|R|Glen Elendra Archmage
-04|00|00|00|00|MMA|R|Glimmervoid
+04|01|00|00|00|MMA|R|Glimmervoid
 00|00|00|00|00|MMA|R|Grand Arbiter Augustin IV
 01|00|00|00|00|MMA|R|Greater Gargadon
 00|00|00|00|00|MMA|R|Jhoira of the Ghitu
