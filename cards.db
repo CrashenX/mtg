@@ -12949,7 +12949,7 @@
 00|00|00|00|00|MIR|C|Dazzling Beauty
 00|00|00|00|00|MIR|C|Dirtwater Wraith
 00|00|00|00|00|MIR|C|Disempower
-03|00|00|00|00|MIR|C|Disenchant
+04|00|00|00|00|MIR|C|Disenchant
 00|00|00|00|00|MIR|C|Divine Offering
 00|00|00|00|00|MIR|C|Drain Life
 00|00|00|00|00|MIR|C|Dream Cache
@@ -13438,10 +13438,10 @@
 01|00|00|00|00|MMA|U|Epochrasite
 01|00|00|00|00|MMA|U|Esperzoa
 01|00|00|00|00|MMA|U|Etched Oracle
-02|00|00|00|00|MMA|U|Eternal Witness
+04|00|00|00|00|MMA|U|Eternal Witness
 01|00|00|00|00|MMA|U|Executioner's Capsule
 01|00|00|00|00|MMA|U|Feudkiller's Verdict
-01|00|00|00|00|MMA|U|Flickerwisp
+02|00|00|00|00|MMA|U|Flickerwisp
 02|00|00|00|00|MMA|U|Grinning Ignus
 02|00|00|00|00|MMA|U|Horobi's Whisper
 01|00|00|00|00|MMA|U|Incremental Growth
@@ -13469,7 +13469,7 @@
 01|00|00|00|00|MMA|U|Riftwing Cloudskate
 01|00|00|00|00|MMA|U|Sandsower
 00|00|00|00|00|MMA|U|Shrapnel Blast
-00|00|00|00|00|MMA|U|Spell Snare
+04|00|00|00|00|MMA|U|Spell Snare
 02|00|00|00|00|MMA|U|Sporesower Thallid
 02|00|00|00|00|MMA|U|Stir the Pride
 01|00|00|00|00|MMA|U|Sudden Shock
@@ -20417,7 +20417,7 @@
 00|00|00|00|00|ZEN|C|Disfigure
 00|00|00|00|00|ZEN|C|Expedition Map
 00|00|00|00|00|ZEN|C|Explorer's Scope
-00|00|00|30|00|ZEN|C|Forest
+00|00|00|31|00|ZEN|C|Forest
 00|00|00|00|00|ZEN|C|Giant Scorpion
 00|00|00|00|00|ZEN|C|Goblin Bushwhacker
 00|00|00|00|00|ZEN|C|Goblin Shortcutter
@@ -20433,7 +20433,7 @@
 00|00|00|00|00|ZEN|C|Highland Berserker
 00|00|00|00|00|ZEN|C|Into the Roil
 00|00|00|00|00|ZEN|C|Ior Ruin Expedition
-00|00|00|11|00|ZEN|C|Island
+00|00|00|18|00|ZEN|C|Island
 00|00|00|00|00|ZEN|C|Joraga Bard
 04|00|00|00|00|ZEN|C|Journey to Nowhere
 04|00|00|00|00|ZEN|C|Kabira Crossroads
@@ -20463,7 +20463,7 @@
 00|01|00|00|00|ZEN|C|Paralyzing Grasp
 00|00|00|00|00|ZEN|C|Pillarfield Ox
 00|00|00|00|00|ZEN|C|Piranha Marsh
-00|00|00|30|00|ZEN|C|Plains
+00|00|00|31|00|ZEN|C|Plains
 00|00|00|00|00|ZEN|C|Plated Geopede
 00|00|00|00|00|ZEN|C|Reckless Scholar
 00|00|00|00|00|ZEN|C|Relic Crush
