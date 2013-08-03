@@ -12949,7 +12949,7 @@
 00|00|00|00|00|MIR|C|Dazzling Beauty
 00|00|00|00|00|MIR|C|Dirtwater Wraith
 00|00|00|00|00|MIR|C|Disempower
-04|00|00|00|00|MIR|C|Disenchant
+08|00|00|00|00|MIR|C|Disenchant
 00|00|00|00|00|MIR|C|Divine Offering
 00|00|00|00|00|MIR|C|Drain Life
 00|00|00|00|00|MIR|C|Dream Cache
@@ -13195,7 +13195,7 @@
 00|00|00|00|00|MIR|U|Hazerider Drake
 00|00|00|00|00|MIR|U|Horrible Hordes
 00|00|00|00|00|MIR|U|Igneous Golem
-00|00|00|00|00|MIR|U|Illumination
+01|00|00|00|00|MIR|U|Illumination
 00|00|00|00|00|MIR|U|Iron Tusk Elephant
 00|00|00|00|00|MIR|U|Jungle Troll
 00|00|00|00|00|MIR|U|Kaervek's Hex
@@ -13441,7 +13441,7 @@
 04|00|00|00|00|MMA|U|Eternal Witness
 01|00|00|00|00|MMA|U|Executioner's Capsule
 01|00|00|00|00|MMA|U|Feudkiller's Verdict
-02|00|00|00|00|MMA|U|Flickerwisp
+03|00|00|00|00|MMA|U|Flickerwisp
 02|00|00|00|00|MMA|U|Grinning Ignus
 02|00|00|00|00|MMA|U|Horobi's Whisper
 01|00|00|00|00|MMA|U|Incremental Growth
@@ -13994,7 +13994,7 @@
 00|00|00|00|00|MRD|C|Copper Myr
 00|00|00|00|00|MRD|C|Deconstruct
 00|00|00|00|00|MRD|C|Disarm
-00|00|00|00|00|MRD|C|Disciple of the Vault
+04|00|00|00|00|MRD|C|Disciple of the Vault
 00|00|00|00|00|MRD|C|Dream's Grip
 00|00|00|00|00|MRD|C|Dross Prowler
 00|00|00|00|00|MRD|C|Dross Scorpion
