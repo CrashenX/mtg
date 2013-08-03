@@ -12700,7 +12700,7 @@
 00|00|00|00|00|M14|R|Ratchet Bomb
 00|00|00|00|00|M14|R|Sanguine Bond
 00|00|00|00|00|M14|R|Savage Summoning
-00|00|00|00|00|M14|R|Scavenging Ooze
+02|00|00|00|00|M14|R|Scavenging Ooze
 00|00|00|00|00|M14|R|Seraph of the Sword
 00|00|00|00|00|M14|R|Shivan Dragon
 00|00|00|00|00|M14|R|Silence
@@ -14522,7 +14522,7 @@
 02|00|00|00|00|NPH|U|Argent Mutation
 01|00|00|00|00|NPH|U|Arm with Aether
 01|00|00|00|00|NPH|U|Auriok Survivors
-01|00|00|00|00|NPH|U|Beast Within
+02|00|00|00|00|NPH|U|Beast Within
 03|00|00|00|00|NPH|U|Brutalizer Exarch
 03|00|00|00|00|NPH|U|Caress of Phyrexia
 01|00|00|00|00|NPH|U|Cathedral Membrane
