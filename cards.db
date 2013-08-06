@@ -5868,7 +5868,7 @@
 00|00|00|00|00|CON|R|Sigil of the Empty Throne
 00|00|00|00|00|CON|R|Soul's Majesty
 00|00|00|00|00|CON|R|Sphinx Summoner
-01|00|00|00|00|CON|R|Telemin Performance
+00|00|00|00|00|CON|R|Telemin Performance
 00|00|00|00|00|CON|R|Voracious Dragon
 00|00|00|00|00|CON|R|Wall of Reverence
 00|00|00|00|00|CON|R|Worldheart Phoenix
@@ -16002,7 +16002,7 @@
 00|00|00|00|00|PLS|R|Urza's Guilt
 00|00|00|00|00|PLS|R|Waterspout Elemental
 00|00|00|00|00|PLS|S|Ertai, the Corrupted
-01|00|00|00|00|PLS|S|Skyship Weatherlight
+00|00|00|00|00|PLS|S|Skyship Weatherlight
 00|00|00|00|00|PLS|S|Tahngarth, Talruum Hero
 00|00|00|00|00|PLS|U|Allied Strategies
 00|00|00|00|00|PLS|U|Alpha Kavu
@@ -18127,7 +18127,7 @@
 00|00|00|00|00|SOM|R|Leonin Arbiter
 01|00|00|00|00|SOM|R|Livewire Lash
 00|00|00|00|00|SOM|R|Memoricide
-01|00|00|00|00|SOM|R|Mimic Vat
+00|00|00|00|00|SOM|R|Mimic Vat
 01|00|00|00|00|SOM|R|Molten Psyche
 02|00|00|00|00|SOM|R|Myr Battlesphere
 01|00|00|00|00|SOM|R|Myr Propagator
