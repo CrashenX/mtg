@@ -5851,7 +5851,7 @@
 00|00|00|00|00|CON|R|Gwafa Hazid, Profiteer
 00|00|00|00|00|CON|R|Inkwell Leviathan
 00|00|00|00|00|CON|R|Kederekt Parasite
-02|00|00|00|00|CON|R|Knight of the Reliquary
+01|00|00|00|00|CON|R|Knight of the Reliquary
 00|00|00|00|00|CON|R|Magister Sphinx
 00|00|00|00|00|CON|R|Mark of Asylum
 00|00|00|00|00|CON|R|Martial Coup
@@ -6295,7 +6295,7 @@
 00|00|00|00|00|DDD|U|Overrun
 00|00|00|00|00|DDD|U|Rise from the Grave
 00|00|00|00|00|DDD|U|Stampeding Wildebeests
-01|00|00|00|00|DDD|U|Treetop Village
+00|00|00|00|00|DDD|U|Treetop Village
 00|00|00|00|00|DDD|U|Wall of Bone
 00|00|00|00|00|DDD|U|Windstorm
 00|00|00|00|00|DDE|C|Armadillo Cloak
@@ -6704,7 +6704,7 @@
 00|00|00|00|00|DDJ|R|Gleancrawler
 00|00|00|00|00|DDJ|R|Golgari Grave-Troll
 00|00|00|00|00|DDJ|R|Invoke the Firemind
-01|00|00|00|00|DDJ|R|Life from the Loam
+00|00|00|00|00|DDJ|R|Life from the Loam
 00|00|00|00|00|DDJ|R|Prophetic Bolt
 00|00|00|00|00|DDJ|R|Sphinx-Bone Wand
 00|00|00|00|00|DDJ|R|Twilight's Call
