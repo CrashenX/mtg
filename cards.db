@@ -7260,7 +7260,7 @@
 00|00|00|00|00|DKA|R|Requiem Angel
 01|00|00|00|00|DKA|R|Seance
 01|00|00|00|00|DKA|R|Sudden Disappearance
-05|00|00|00|00|DKA|R|Thalia, Guardian of Thraben
+04|00|00|00|00|DKA|R|Thalia, Guardian of Thraben
 00|00|00|00|00|DKA|R|Thraben Doomsayer
 00|00|00|00|00|DKA|R|Tovolar's Magehunter
 00|00|00|00|00|DKA|R|Vault of the Archangel
@@ -11470,7 +11470,7 @@
 00|00|00|00|00|LRW|R|Fathom Trawl
 00|00|00|00|00|LRW|R|Favor of the Mighty
 00|00|00|00|00|LRW|R|Forced Fruition
-02|00|00|00|00|LRW|R|Gaddock Teeg
+01|00|00|00|00|LRW|R|Gaddock Teeg
 00|00|00|00|00|LRW|R|Galepowder Mage
 00|00|00|00|00|LRW|R|Garruk Wildspeaker
 00|00|00|00|00|LRW|R|Gilt-Leaf Palace
@@ -13464,7 +13464,7 @@
 01|00|00|00|00|MMA|U|Phthisis
 01|00|00|00|00|MMA|U|Plumeveil
 01|00|00|00|00|MMA|U|Reach of Branches
-05|01|00|00|00|MMA|U|Relic of Progenitus
+04|01|00|00|00|MMA|U|Relic of Progenitus
 02|00|00|00|00|MMA|U|Riftsweeper
 01|00|00|00|00|MMA|U|Riftwing Cloudskate
 01|00|00|00|00|MMA|U|Sandsower
@@ -17070,7 +17070,7 @@
 00|00|00|00|00|RTR|M|Utvara Hellkite
 00|00|00|00|00|RTR|M|Vraska the Unseen
 00|00|00|00|00|RTR|M|Worldspine Wurm
-01|00|00|00|00|RTR|R|Abrupt Decay
+00|00|00|00|00|RTR|R|Abrupt Decay
 01|00|00|00|00|RTR|R|Archon of the Triumvirate
 00|00|00|00|00|RTR|R|Ash Zealot
 00|00|00|00|00|RTR|R|Azor's Elocutors
