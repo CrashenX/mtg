@@ -12848,7 +12848,7 @@
 01|00|00|00|00|MBS|M|Praetor's Counsel
 01|00|00|00|00|MBS|M|Sword of Feast and Famine
 00|00|00|00|00|MBS|M|Tezzeret, Agent of Bolas
-00|00|00|00|00|MBS|M|Thrun, the Last Troll
+01|00|00|00|00|MBS|M|Thrun, the Last Troll
 00|00|00|00|00|MBS|R|Black Sun's Zenith
 01|00|00|00|00|MBS|R|Blue Sun's Zenith
 00|00|00|00|00|MBS|R|Bonehoard
@@ -13373,7 +13373,7 @@
 01|00|00|00|00|MMA|M|Sword of Light and Shadow
 00|00|00|00|00|MMA|M|Tarmogoyf
 00|00|00|00|00|MMA|M|Vedalken Shackles
-00|00|00|00|00|MMA|M|Vendilion Clique
+01|00|00|00|00|MMA|M|Vendilion Clique
 00|00|00|00|00|MMA|M|Yosei, the Morning Star
 04|00|00|00|00|MMA|R|AEther Vial
 01|00|00|00|00|MMA|R|Academy Ruins
@@ -13405,7 +13405,7 @@
 00|00|00|00|00|MMA|R|Grand Arbiter Augustin IV
 01|00|00|00|00|MMA|R|Greater Gargadon
 00|00|00|00|00|MMA|R|Jhoira of the Ghitu
-01|00|00|00|00|MMA|R|Kataki, War's Wage
+02|00|00|00|00|MMA|R|Kataki, War's Wage
 01|00|00|00|00|MMA|R|Kira, Great Glass-Spinner
 04|00|00|00|00|MMA|R|Knight of the Reliquary
 02|00|00|00|00|MMA|R|Life from the Loam
@@ -13438,10 +13438,10 @@
 01|00|00|00|00|MMA|U|Epochrasite
 01|00|00|00|00|MMA|U|Esperzoa
 01|00|00|00|00|MMA|U|Etched Oracle
-04|00|00|00|00|MMA|U|Eternal Witness
+05|00|00|00|00|MMA|U|Eternal Witness
 01|00|00|00|00|MMA|U|Executioner's Capsule
 01|00|00|00|00|MMA|U|Feudkiller's Verdict
-03|00|00|00|00|MMA|U|Flickerwisp
+05|00|00|00|00|MMA|U|Flickerwisp
 02|00|00|00|00|MMA|U|Grinning Ignus
 02|00|00|00|00|MMA|U|Horobi's Whisper
 01|00|00|00|00|MMA|U|Incremental Growth
@@ -14512,7 +14512,7 @@
 04|00|00|00|00|NPH|R|Puresteel Paladin
 00|00|00|00|00|NPH|R|Slag Fiend
 01|00|00|00|00|NPH|R|Soul Conduit
-02|00|00|00|00|NPH|R|Spellskite
+04|00|00|00|00|NPH|R|Spellskite
 04|00|00|00|00|NPH|R|Surgical Extraction
 01|00|00|00|00|NPH|R|Torpor Orb
 02|00|00|00|00|NPH|R|Unwinding Clock
