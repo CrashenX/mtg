@@ -5628,7 +5628,7 @@
 00|00|00|00|00|CMD|R|Reiver Demon
 00|00|00|00|00|CMD|R|Riddlekeeper
 00|00|00|00|00|CMD|R|Ruination
-01|00|00|00|00|CMD|R|Scavenging Ooze
+00|00|00|00|00|CMD|R|Scavenging Ooze
 00|00|00|00|00|CMD|R|Scythe Specter
 00|00|00|00|00|CMD|R|Sewer Nemesis
 00|00|00|00|00|CMD|R|Shared Trauma
@@ -6067,7 +6067,7 @@
 00|00|00|00|00|CSP|S|Swamp
 00|00|00|00|00|CSP|S|Swamp
 00|00|00|00|00|CSP|S|Swamp
-01|00|00|00|00|CSP|S|Swords to Plowshares
+00|00|00|00|00|CSP|S|Swords to Plowshares
 00|00|00|00|00|CSP|S|Tinder Wall
 00|00|00|00|00|CSP|S|Viscerid Drone
 00|00|00|00|00|CSP|S|Whalebone Glider
@@ -6475,7 +6475,7 @@
 04|00|00|00|00|DDG|R|Knight Exemplar
 01|00|00|00|00|DDG|R|Knight of the White Orchid
 01|00|00|00|00|DDG|R|Knotvine Paladin
-01|00|00|00|00|DDG|R|Loxodon Warhammer
+00|00|00|00|00|DDG|R|Loxodon Warhammer
 00|00|00|00|00|DDG|R|Mordant Dragon
 00|00|00|00|00|DDG|R|Shivan Hellkite
 00|00|00|00|00|DDG|R|Thunder Dragon
@@ -12421,7 +12421,7 @@
 00|00|00|00|00|M13|M|Liliana of the Dark Realms
 00|00|00|00|00|M13|M|Nicol Bolas, Planeswalker
 00|00|00|00|00|M13|M|Omniscience
-01|00|00|00|00|M13|M|Primordial Hydra
+00|00|00|00|00|M13|M|Primordial Hydra
 00|00|00|00|00|M13|M|Serra Avatar
 00|00|00|00|00|M13|M|Sublime Archangel
 00|00|00|00|00|M13|M|Thundermaw Hellkite
@@ -20535,7 +20535,7 @@
 00|00|00|00|00|ZEN|R|Conqueror's Pledge
 01|00|00|00|00|ZEN|R|Cosi's Trickster
 00|00|00|00|00|ZEN|R|Crypt of Agadeem
-02|00|00|00|00|ZEN|R|Day of Judgment
+01|00|00|00|00|ZEN|R|Day of Judgment
 00|00|00|00|00|ZEN|R|Devout Lightcaster
 00|00|00|00|00|ZEN|R|Electropotence
 00|00|00|00|00|ZEN|R|Elemental Appeal
