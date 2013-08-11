@@ -3414,7 +3414,7 @@
 00|00|00|00|00|ALA|R|Death Baron
 01|00|00|00|00|ALA|R|Ethersworn Canonist
 00|00|00|00|00|ALA|R|Feral Hydra
-00|01|00|00|00|ALA|R|Flameblast Dragon
+00|00|00|00|00|ALA|R|Flameblast Dragon
 00|00|00|00|00|ALA|R|Gather Specimens
 00|00|00|00|00|ALA|R|Goblin Assault
 00|00|00|00|00|ALA|R|Hell's Thunder
@@ -13261,7 +13261,7 @@
 00|00|00|00|00|MIR|U|Zombie Mob
 02|00|00|00|00|MMA|C|AEther Spellbomb
 03|00|00|00|00|MMA|C|AEthersnipe
-02|01|00|00|00|MMA|C|Absorb Vis
+02|00|00|00|00|MMA|C|Absorb Vis
 03|01|00|00|00|MMA|C|Amrou Scout
 02|00|00|00|00|MMA|C|Amrou Seekers
 01|00|00|00|00|MMA|C|Arcbound Stinger
@@ -17200,7 +17200,7 @@
 00|00|00|00|00|RTR|U|Thrill-Kill Assassin
 02|00|00|00|00|RTR|U|Treasured Find
 01|00|00|00|00|RTR|U|Ultimate Price
-01|00|00|00|00|RTR|U|Vandalblast
+00|00|00|00|00|RTR|U|Vandalblast
 01|00|00|00|00|RTR|U|Vitu-Ghazi Guildmage
 01|00|00|00|00|RTR|U|Zanikev Locust
 00|00|00|00|00|S00|S|Angelic Blessing
