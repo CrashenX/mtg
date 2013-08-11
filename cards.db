@@ -12297,7 +12297,7 @@
 01|00|00|00|00|M12|U|Spirit Mantle
 00|00|00|00|00|M12|U|Stingerfling Spider
 00|00|00|00|00|M12|U|Stormblood Berserker
-02|00|00|00|00|M12|U|Swiftfoot Boots
+01|00|00|00|00|M12|U|Swiftfoot Boots
 00|00|00|00|00|M12|U|Tectonic Rift
 01|00|00|00|00|M12|U|Thran Golem
 00|00|00|00|00|M12|U|Timely Reinforcements
@@ -13401,7 +13401,7 @@
 05|00|00|00|00|MMA|R|Figure of Destiny
 00|00|00|00|00|MMA|R|Gifts Ungiven
 03|00|00|00|00|MMA|R|Glen Elendra Archmage
-04|01|00|00|00|MMA|R|Glimmervoid
+04|00|00|00|00|MMA|R|Glimmervoid
 00|00|00|00|00|MMA|R|Grand Arbiter Augustin IV
 01|00|00|00|00|MMA|R|Greater Gargadon
 00|00|00|00|00|MMA|R|Jhoira of the Ghitu
@@ -14512,7 +14512,7 @@
 04|00|00|00|00|NPH|R|Puresteel Paladin
 00|00|00|00|00|NPH|R|Slag Fiend
 01|00|00|00|00|NPH|R|Soul Conduit
-04|00|00|00|00|NPH|R|Spellskite
+03|00|00|00|00|NPH|R|Spellskite
 04|00|00|00|00|NPH|R|Surgical Extraction
 01|00|00|00|00|NPH|R|Torpor Orb
 02|00|00|00|00|NPH|R|Unwinding Clock
@@ -20433,7 +20433,7 @@
 00|00|00|00|00|ZEN|C|Highland Berserker
 00|00|00|00|00|ZEN|C|Into the Roil
 00|00|00|00|00|ZEN|C|Ior Ruin Expedition
-00|00|00|18|00|ZEN|C|Island
+00|00|00|17|00|ZEN|C|Island
 00|00|00|00|00|ZEN|C|Joraga Bard
 04|00|00|00|00|ZEN|C|Journey to Nowhere
 04|00|00|00|00|ZEN|C|Kabira Crossroads
