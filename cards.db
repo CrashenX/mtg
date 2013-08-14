@@ -5851,7 +5851,7 @@
 00|00|00|00|00|CON|R|Gwafa Hazid, Profiteer
 00|00|00|00|00|CON|R|Inkwell Leviathan
 00|00|00|00|00|CON|R|Kederekt Parasite
-01|00|00|00|00|CON|R|Knight of the Reliquary
+00|00|00|00|00|CON|R|Knight of the Reliquary
 00|00|00|00|00|CON|R|Magister Sphinx
 00|00|00|00|00|CON|R|Mark of Asylum
 00|00|00|00|00|CON|R|Martial Coup
@@ -13418,7 +13418,7 @@
 00|00|00|00|00|MMA|R|Pyromancer's Swath
 00|00|00|00|00|MMA|R|Reveillark
 00|00|00|00|00|MMA|R|Rude Awakening
-05|00|00|00|00|MMA|R|Scion of Oona
+04|00|00|00|00|MMA|R|Scion of Oona
 00|00|00|00|00|MMA|R|Skeletal Vampire
 02|00|00|00|00|MMA|R|Slaughter Pact
 00|00|00|00|00|MMA|R|Squee, Goblin Nabob
@@ -17900,7 +17900,7 @@
 00|00|00|00|00|SOK|R|Mikokoro, Center of the Sea
 00|00|00|00|00|SOK|R|Miren, the Moaning Well
 01|00|00|00|00|SOK|R|Neverending Torment
-01|00|00|00|00|SOK|R|Oboro, Palace in the Clouds
+00|00|00|00|00|SOK|R|Oboro, Palace in the Clouds
 00|00|00|00|00|SOK|R|One with Nothing
 00|00|00|00|00|SOK|R|Pain's Reward
 00|00|00|00|00|SOK|R|Pithing Needle
@@ -18146,7 +18146,7 @@
 01|00|00|00|00|SOM|R|Spikeshot Elder
 00|00|00|00|00|SOM|R|Steel Hellkite
 00|00|00|00|00|SOM|R|Strata Scythe
-01|02|00|00|00|SOM|R|Sunblast Angel
+01|01|00|00|00|SOM|R|Sunblast Angel
 02|00|00|00|00|SOM|R|Tempered Steel
 00|00|00|00|00|SOM|R|Tower of Calamities
 02|00|00|00|00|SOM|R|True Conviction
