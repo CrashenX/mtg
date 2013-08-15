@@ -11897,7 +11897,7 @@
 00|00|00|00|00|M11|C|Lightning Bolt
 00|00|00|00|00|M11|C|Liliana's Specter
 01|00|00|00|00|M11|C|Llanowar Elves
-00|00|00|00|00|M11|C|Mana Leak
+04|00|00|00|00|M11|C|Mana Leak
 00|00|00|00|00|M11|C|Manic Vandal
 00|00|00|00|00|M11|C|Maritime Guard
 00|00|00|00|00|M11|C|Merfolk Spy
@@ -20393,7 +20393,7 @@
 02|00|00|00|00|WWK|U|Smother
 02|00|00|00|00|WWK|U|Spell Contortion
 02|00|00|00|00|WWK|U|Summit Apes
-09|00|00|00|00|WWK|U|Tectonic Edge
+10|00|00|00|00|WWK|U|Tectonic Edge
 01|01|00|00|00|WWK|U|Tideforce Elemental
 01|00|00|00|00|WWK|U|Tuktuk Scrapper
 00|00|00|00|00|WWK|U|Urge to Feed
