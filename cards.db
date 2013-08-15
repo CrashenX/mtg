@@ -13372,14 +13372,14 @@
 01|00|00|00|00|MMA|M|Sword of Fire and Ice
 01|00|00|00|00|MMA|M|Sword of Light and Shadow
 00|00|00|00|00|MMA|M|Tarmogoyf
-01|00|00|00|00|MMA|M|Vedalken Shackles
+02|00|00|00|00|MMA|M|Vedalken Shackles
 02|00|00|00|00|MMA|M|Vendilion Clique
 00|00|00|00|00|MMA|M|Yosei, the Morning Star
 04|00|00|00|00|MMA|R|AEther Vial
 01|00|00|00|00|MMA|R|Academy Ruins
 00|00|00|00|00|MMA|R|Adarkar Valkyrie
 04|00|00|00|00|MMA|R|Angel's Grace
-02|00|00|00|00|MMA|R|Arcbound Ravager
+03|00|00|00|00|MMA|R|Arcbound Ravager
 01|00|00|00|00|MMA|R|Auriok Salvagers
 04|00|00|00|00|MMA|R|Blinkmoth Nexus
 00|00|00|00|00|MMA|R|Blood Moon
@@ -13406,7 +13406,7 @@
 01|00|00|00|00|MMA|R|Greater Gargadon
 00|00|00|00|00|MMA|R|Jhoira of the Ghitu
 02|00|00|00|00|MMA|R|Kataki, War's Wage
-01|00|00|00|00|MMA|R|Kira, Great Glass-Spinner
+02|00|00|00|00|MMA|R|Kira, Great Glass-Spinner
 04|00|00|00|00|MMA|R|Knight of the Reliquary
 02|00|00|00|00|MMA|R|Life from the Loam
 00|00|00|00|00|MMA|R|Lotus Bloom
