@@ -12152,7 +12152,7 @@
 00|00|00|00|00|M12|C|Phantasmal Bear
 00|00|00|00|00|M12|C|Plains
 00|00|00|00|00|M12|C|Plummet
-00|00|00|00|00|M12|C|Ponder
+03|00|00|00|00|M12|C|Ponder
 00|00|00|00|00|M12|C|Pride Guardian
 00|00|00|00|00|M12|C|Rampant Growth
 00|00|00|00|00|M12|C|Reclaim
@@ -12774,7 +12774,7 @@
 00|00|00|00|00|M14|U|Windstorm
 00|00|00|00|00|M14|U|Woodborn Behemoth
 00|00|00|00|00|M14|U|Young Pyromancer
-04|00|00|00|00|MBS|C|Ardent Recruit
+07|00|00|00|00|MBS|C|Ardent Recruit
 00|00|00|00|00|MBS|C|Banishment Decree
 00|00|00|00|00|MBS|C|Bladed Sentinel
 00|00|00|00|00|MBS|C|Blightwidow
@@ -20478,7 +20478,7 @@
 00|00|00|00|00|ZEN|C|Slaughter Cry
 00|00|00|00|00|ZEN|C|Soaring Seacliff
 00|00|00|00|00|ZEN|C|Soul Stair Expedition
-02|00|00|00|00|ZEN|C|Spell Pierce
+04|00|00|00|00|ZEN|C|Spell Pierce
 00|01|00|00|00|ZEN|C|Spidersilk Net
 00|00|00|00|00|ZEN|C|Spire Barrage
 00|00|00|00|00|ZEN|C|Spreading Seas
