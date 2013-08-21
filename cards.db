@@ -12680,7 +12680,7 @@
 00|00|00|00|00|M14|R|Goblin Diplomats
 00|00|00|00|00|M14|R|Grim Return
 00|00|00|00|00|M14|R|Guardian of the Ages
-00|00|00|00|00|M14|R|Haunted Plate Mail
+01|00|00|00|00|M14|R|Haunted Plate Mail
 00|00|00|00|00|M14|R|Imposing Sovereign
 00|00|00|00|00|M14|R|Indestructibility
 00|00|00|00|00|M14|R|Into the Wilds
@@ -12700,14 +12700,14 @@
 00|00|00|00|00|M14|R|Ratchet Bomb
 00|00|00|00|00|M14|R|Sanguine Bond
 00|00|00|00|00|M14|R|Savage Summoning
-02|00|00|00|00|M14|R|Scavenging Ooze
+03|00|00|00|00|M14|R|Scavenging Ooze
 00|00|00|00|00|M14|R|Seraph of the Sword
 00|00|00|00|00|M14|R|Shivan Dragon
 00|00|00|00|00|M14|R|Silence
 00|00|00|00|00|M14|R|Strionic Resonator
 00|00|00|00|00|M14|R|Syphon Sliver
 00|00|00|00|00|M14|R|Thorncaster Sliver
-00|00|00|00|00|M14|R|Tidebinder Mage
+01|00|00|00|00|M14|R|Tidebinder Mage
 00|00|00|00|00|M14|R|Trading Post
 00|00|00|00|00|M14|R|Traumatize
 01|00|00|00|00|M14|R|Vastwood Hydra
