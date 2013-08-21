@@ -12710,7 +12710,7 @@
 00|00|00|00|00|M14|R|Tidebinder Mage
 00|00|00|00|00|M14|R|Trading Post
 00|00|00|00|00|M14|R|Traumatize
-00|00|00|00|00|M14|R|Vastwood Hydra
+01|00|00|00|00|M14|R|Vastwood Hydra
 00|00|00|00|00|M14|R|Wild Ricochet
 00|00|00|00|00|M14|R|Witchstalker
 00|00|00|00|00|M14|R|Xathrid Necromancer
@@ -12722,7 +12722,7 @@
 00|00|00|00|00|M14|U|Barrage of Expendables
 00|00|00|00|00|M14|U|Battle Sliver
 00|00|00|00|00|M14|U|Blessing
-00|00|00|00|00|M14|U|Blightcaster
+00|01|00|00|00|M14|U|Blightcaster
 00|00|00|00|00|M14|U|Bramblecrush
 00|00|00|00|00|M14|U|Brave the Elements
 00|00|00|00|00|M14|U|Briarpack Alpha
@@ -12734,7 +12734,7 @@
 00|00|00|00|00|M14|U|Doom Blade
 00|00|00|00|00|M14|U|Dragon Egg
 00|00|00|00|00|M14|U|Elixir of Immortality
-00|00|00|00|00|M14|U|Encroaching Wastes
+01|00|00|00|00|M14|U|Encroaching Wastes
 00|00|00|00|00|M14|U|Enlarge
 00|00|00|00|00|M14|U|Fireshrieker
 00|00|00|00|00|M14|U|Flames of the Firebrand
@@ -12751,7 +12751,7 @@
 00|00|00|00|00|M14|U|Phantom Warrior
 00|00|00|00|00|M14|U|Rod of Ruin
 00|00|00|00|00|M14|U|Sengir Vampire
-00|00|00|00|00|M14|U|Serra Angel
+01|00|00|00|00|M14|U|Serra Angel
 00|00|00|00|00|M14|U|Shimmering Grotto
 00|00|00|00|00|M14|U|Shiv's Embrace
 00|00|00|00|00|M14|U|Spell Blast
@@ -12769,7 +12769,7 @@
 00|00|00|00|00|M14|U|Voracious Wurm
 00|00|00|00|00|M14|U|Wall of Frost
 00|00|00|00|00|M14|U|Wall of Swords
-00|00|00|00|00|M14|U|Warden of Evos Isle
+01|00|00|00|00|M14|U|Warden of Evos Isle
 00|00|00|00|00|M14|U|Water Servant
 00|00|00|00|00|M14|U|Windstorm
 00|00|00|00|00|M14|U|Woodborn Behemoth
