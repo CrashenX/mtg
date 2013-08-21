@@ -3393,7 +3393,7 @@
 00|00|00|00|00|ALA|M|Lich's Mirror
 00|00|00|00|00|ALA|M|Mayael the Anima
 00|00|00|00|00|ALA|M|Prince of Thralls
-00|00|00|00|00|ALA|M|Rafiq of the Many
+01|00|00|00|00|ALA|M|Rafiq of the Many
 00|00|00|00|00|ALA|M|Sarkhan Vol
 00|00|00|00|00|ALA|M|Sedris, the Traitor King
 00|00|00|00|00|ALA|M|Sharuum the Hegemon
@@ -6895,7 +6895,7 @@
 00|00|00|00|00|DGM|R|AEtherling
 00|00|00|00|00|DGM|R|Advent of the Wurm
 00|00|00|00|00|DGM|R|Beck // Call
-01|00|00|00|00|DGM|R|Blood Scrivener
+00|00|00|00|00|DGM|R|Blood Scrivener
 00|00|00|00|00|DGM|R|Boros Battleshaper
 00|00|00|00|00|DGM|R|Breaking // Entering
 00|00|00|00|00|DGM|R|Catch // Release
@@ -6909,21 +6909,21 @@
 00|00|00|00|00|DGM|R|Mirko Vosk, Mind Drinker
 00|00|00|00|00|DGM|R|Notion Thief
 00|00|00|00|00|DGM|R|Obzedat's Aid
-01|00|00|00|00|DGM|R|Plasm Capture
+00|00|00|00|00|DGM|R|Plasm Capture
 00|00|00|00|00|DGM|R|Pontiff of Blight
 00|00|00|00|00|DGM|R|Possibility Storm
 00|00|00|00|00|DGM|R|Pyrewild Shaman
 00|00|00|00|00|DGM|R|Ready // Willing
 00|00|00|00|00|DGM|R|Render Silent
 00|00|00|00|00|DGM|R|Renegade Krasis
-01|00|00|00|00|DGM|R|Renounce the Guilds
+00|00|00|00|00|DGM|R|Renounce the Guilds
 00|00|00|00|00|DGM|R|Ruric Thar, the Unbowed
 00|00|00|00|00|DGM|R|Scion of Vitu-Ghazi
 00|00|00|00|00|DGM|R|Sire of Insanity
 01|00|00|00|00|DGM|R|Skylasher
-02|00|00|00|00|DGM|R|Tajic, Blade of the Legion
+01|00|00|00|00|DGM|R|Tajic, Blade of the Legion
 00|00|00|00|00|DGM|R|Teysa, Envoy of Ghosts
-01|00|00|00|00|DGM|R|Trait Doctoring
+00|00|00|00|00|DGM|R|Trait Doctoring
 00|00|00|00|00|DGM|R|Varolz, the Scar-Striped
 00|00|00|00|00|DGM|R|Vorel of the Hull Clade
 00|00|00|00|00|DGM|R|Zhur-Taa Ancient
@@ -7044,7 +7044,7 @@
 00|00|00|00|00|DIS|R|Dovescape
 00|00|00|00|00|DIS|R|Dread Slag
 00|00|00|00|00|DIS|R|Elemental Resonance
-01|00|00|00|00|DIS|R|Evolution Vat
+00|00|00|00|00|DIS|R|Evolution Vat
 01|00|00|00|00|DIS|R|Experiment Kraj
 00|00|00|00|00|DIS|R|Govern the Guildless
 00|00|00|00|00|DIS|R|Grand Arbiter Augustin IV
@@ -8702,10 +8702,10 @@
 00|00|00|00|00|GTC|M|Domri Rade
 00|00|00|00|00|GTC|M|Duskmantle Seer
 00|00|00|00|00|GTC|M|Enter the Infinite
-01|00|00|00|00|GTC|M|Giant Adephage
-01|00|00|00|00|GTC|M|Gideon, Champion of Justice
+00|00|00|00|00|GTC|M|Giant Adephage
+00|00|00|00|00|GTC|M|Gideon, Champion of Justice
 00|00|00|00|00|GTC|M|Hellkite Tyrant
-01|00|00|00|00|GTC|M|Lazav, Dimir Mastermind
+00|00|00|00|00|GTC|M|Lazav, Dimir Mastermind
 00|00|00|00|00|GTC|M|Lord of the Void
 00|00|00|00|00|GTC|M|Master Biomancer
 00|00|00|00|00|GTC|M|Obzedat, Ghost Council
@@ -11491,7 +11491,7 @@
 00|00|00|00|00|LRW|R|Masked Admirers
 00|00|00|00|00|LRW|R|Militia's Pride
 00|00|00|00|00|LRW|R|Mirror Entity
-00|00|00|00|00|LRW|R|Mistbind Clique
+02|00|00|00|00|LRW|R|Mistbind Clique
 00|00|00|00|00|LRW|R|Mosswort Bridge
 00|00|00|00|00|LRW|R|Nath of the Gilt-Leaf
 00|00|00|00|00|LRW|R|Nettlevine Blight
@@ -12184,7 +12184,7 @@
 00|00|00|00|00|M12|M|Frost Titan
 00|00|00|00|00|M12|M|Furyborn Hellkite
 00|00|00|00|00|M12|M|Garruk, Primal Hunter
-01|00|00|00|00|M12|M|Gideon Jura
+00|00|00|00|00|M12|M|Gideon Jura
 00|00|00|00|00|M12|M|Grave Titan
 00|00|00|00|00|M12|M|Inferno Titan
 00|00|00|00|00|M12|M|Jace, Memory Adept
@@ -12864,12 +12864,12 @@
 00|00|00|00|00|MBS|R|Inkmoth Nexus
 01|00|00|00|00|MBS|R|Knowledge Pool
 00|00|00|00|00|MBS|R|Magnetic Mine
-03|00|00|00|00|MBS|R|Mirran Crusader
+04|00|00|00|00|MBS|R|Mirran Crusader
 02|00|00|00|00|MBS|R|Mirrorworks
 01|00|00|00|00|MBS|R|Mitotic Manipulation
 02|00|00|00|00|MBS|R|Myr Turbine
 01|00|00|00|00|MBS|R|Myr Welder
-00|00|00|00|00|MBS|R|Phyrexian Crusader
+02|00|00|00|00|MBS|R|Phyrexian Crusader
 01|00|00|00|00|MBS|R|Phyrexian Hydra
 00|00|00|00|00|MBS|R|Phyrexian Rebirth
 05|00|00|00|00|MBS|R|Phyrexian Revoker
@@ -14090,7 +14090,7 @@
 00|00|00|00|00|MRD|C|Yotian Soldier
 00|00|00|00|00|MRD|R|Altar of Shadows
 00|00|00|00|00|MRD|R|Arc-Slogger
-03|00|00|00|00|MRD|R|Auriok Steelshaper
+05|00|00|00|00|MRD|R|Auriok Steelshaper
 00|00|00|00|00|MRD|R|Blinkmoth Urn
 00|00|00|00|00|MRD|R|Bosh, Iron Golem
 00|00|00|00|00|MRD|R|Broodstar
@@ -19911,7 +19911,7 @@
 00|00|00|00|00|V12|M|Cephalid Coliseum
 02|00|00|00|00|V12|M|Desert
 01|00|00|00|00|V12|M|Dryad Arbor
-02|00|00|00|00|V12|M|Forbidden Orchard
+01|00|00|00|00|V12|M|Forbidden Orchard
 02|00|00|00|00|V12|M|Glacial Chasm
 00|00|00|00|00|V12|M|Grove of the Burnwillows
 01|00|00|00|00|V12|M|High Market
@@ -20028,7 +20028,7 @@
 00|00|00|00|00|VIS|R|Three Wishes
 00|00|00|00|00|VIS|R|Tithe
 00|00|00|00|00|VIS|R|Triangle of War
-01|00|00|00|00|VIS|R|Undiscovered Paradise
+00|00|00|00|00|VIS|R|Undiscovered Paradise
 00|00|00|00|00|VIS|R|Vampiric Tutor
 00|00|00|00|00|VIS|R|Viashivan Dragon
 00|00|00|00|00|VIS|R|Wand of Denial
@@ -20329,7 +20329,7 @@
 00|00|00|00|00|WWK|R|Amulet of Vigor
 00|00|00|00|00|WWK|R|Anowon, the Ruin Sage
 01|01|00|00|00|WWK|R|Archon of Redemption
-00|00|00|00|00|WWK|R|Basilisk Collar
+01|00|00|00|00|WWK|R|Basilisk Collar
 01|00|00|00|00|WWK|R|Bazaar Trader
 00|00|00|00|00|WWK|R|Butcher of Malakir
 00|00|00|00|00|WWK|R|Celestial Colonnade
@@ -20393,7 +20393,7 @@
 02|00|00|00|00|WWK|U|Smother
 02|00|00|00|00|WWK|U|Spell Contortion
 02|00|00|00|00|WWK|U|Summit Apes
-10|00|00|00|00|WWK|U|Tectonic Edge
+12|00|00|00|00|WWK|U|Tectonic Edge
 01|01|00|00|00|WWK|U|Tideforce Elemental
 01|00|00|00|00|WWK|U|Tuktuk Scrapper
 00|00|00|00|00|WWK|U|Urge to Feed
