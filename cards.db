@@ -13271,7 +13271,7 @@
 03|00|00|00|00|MMA|C|Blightspeaker
 02|00|00|00|00|MMA|C|Blind-Spot Giant
 02|00|00|00|00|MMA|C|Blinding Beam
-01|01|00|00|00|MMA|C|Bonesplitter
+04|01|00|00|00|MMA|C|Bonesplitter
 02|00|00|00|00|MMA|C|Bound in Silence
 00|00|00|00|00|MMA|C|Brute Force
 02|00|00|00|00|MMA|C|Cenn's Enlistment
@@ -13296,7 +13296,7 @@
 01|01|00|00|00|MMA|C|Faerie Mechanist
 02|00|00|00|00|MMA|C|Festering Goblin
 04|01|00|00|00|MMA|C|Fiery Fall
-03|00|00|00|00|MMA|C|Frogmite
+04|00|00|00|00|MMA|C|Frogmite
 02|00|00|00|00|MMA|C|Fury Charm
 03|00|00|00|00|MMA|C|Giant Dustwasp
 03|00|00|00|00|MMA|C|Glacial Ray
@@ -13309,16 +13309,16 @@
 02|00|00|00|00|MMA|C|Imperiosaur
 03|00|00|00|00|MMA|C|Ivory Giant
 02|00|00|00|00|MMA|C|Kithkin Greatheart
-02|00|00|00|00|MMA|C|Kodama's Reach
+04|00|00|00|00|MMA|C|Kodama's Reach
 02|00|00|00|00|MMA|C|Latchkey Faerie
 02|00|00|00|00|MMA|C|Lava Spike
 03|01|00|00|00|MMA|C|Logic Knot
 02|01|00|00|00|MMA|C|Mogg War Marshal
 03|00|00|00|00|MMA|C|Moldervine Cloak
 02|00|00|00|00|MMA|C|Mothdust Changeling
-03|00|00|00|00|MMA|C|Myr Enforcer
+04|00|00|00|00|MMA|C|Myr Enforcer
 03|01|00|00|00|MMA|C|Nantuko Shaman
-02|00|00|00|00|MMA|C|Otherworldly Journey
+03|00|00|00|00|MMA|C|Otherworldly Journey
 02|00|00|00|00|MMA|C|Pallid Mycoderm
 00|00|00|00|00|MMA|C|Peer Through Depths
 02|00|00|00|00|MMA|C|Penumbra Spider
@@ -13355,7 +13355,7 @@
 01|00|00|00|00|MMA|C|Torrent of Stone
 03|01|00|00|00|MMA|C|Traumatic Visions
 03|00|00|00|00|MMA|C|Vedalken Dismisser
-02|01|00|00|00|MMA|C|Veteran Armorer
+04|01|00|00|00|MMA|C|Veteran Armorer
 01|00|00|00|00|MMA|C|Walker of the Grove
 04|00|00|00|00|MMA|C|War-Spike Changeling
 01|00|00|00|00|MMA|C|Warren Pilferers
@@ -13372,7 +13372,7 @@
 01|00|00|00|00|MMA|M|Sword of Fire and Ice
 01|00|00|00|00|MMA|M|Sword of Light and Shadow
 00|00|00|00|00|MMA|M|Tarmogoyf
-02|00|00|00|00|MMA|M|Vedalken Shackles
+03|00|00|00|00|MMA|M|Vedalken Shackles
 04|00|00|00|00|MMA|M|Vendilion Clique
 00|00|00|00|00|MMA|M|Yosei, the Morning Star
 04|00|00|00|00|MMA|R|AEther Vial
