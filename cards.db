@@ -6872,7 +6872,7 @@
 00|00|00|00|00|DGM|C|Smelt-Ward Gatekeepers
 00|00|00|00|00|DGM|C|Steeple Roc
 00|00|00|00|00|DGM|C|Sunspire Gatekeepers
-00|00|00|00|00|DGM|C|Thrashing Mossdog
+00|01|00|00|00|DGM|C|Thrashing Mossdog
 00|00|00|00|00|DGM|C|Tithe Drinker
 00|00|00|00|00|DGM|C|Ubul Sar Gatekeepers
 00|00|00|00|00|DGM|C|Uncovered Clues
@@ -6914,7 +6914,7 @@
 00|00|00|00|00|DGM|R|Possibility Storm
 00|00|00|00|00|DGM|R|Pyrewild Shaman
 00|00|00|00|00|DGM|R|Ready // Willing
-00|00|00|00|00|DGM|R|Render Silent
+01|00|00|00|00|DGM|R|Render Silent
 00|00|00|00|00|DGM|R|Renegade Krasis
 00|00|00|00|00|DGM|R|Renounce the Guilds
 00|00|00|00|00|DGM|R|Ruric Thar, the Unbowed
@@ -6931,7 +6931,7 @@
 01|00|00|00|00|DGM|U|Armed // Dangerous
 00|00|00|00|00|DGM|U|Ascended Lawmage
 00|00|00|00|00|DGM|U|Blast of Genius
-00|00|00|00|00|DGM|U|Blaze Commando
+01|00|00|00|00|DGM|U|Blaze Commando
 02|00|00|00|00|DGM|U|Bred for the Hunt
 01|00|00|00|00|DGM|U|Bronzebeak Moa
 00|00|00|00|00|DGM|U|Carnage Gladiator
@@ -6947,7 +6947,7 @@
 00|00|00|00|00|DGM|U|Haunter of Nightveil
 01|00|00|00|00|DGM|U|Jelenn Sphinx
 00|00|00|00|00|DGM|U|Korozda Gorgon
-00|00|00|00|00|DGM|U|Krasis Incubation
+01|00|00|00|00|DGM|U|Krasis Incubation
 01|00|00|00|00|DGM|U|Maw of the Obzedat
 00|00|00|00|00|DGM|U|Profit // Loss
 01|00|00|00|00|DGM|U|Protect // Serve
@@ -6959,7 +6959,7 @@
 00|00|00|00|00|DGM|U|Sin Collector
 01|01|00|00|00|DGM|U|Species Gorger
 00|00|00|00|00|DGM|U|Spike Jester
-01|00|00|00|00|DGM|U|Toil // Trouble
+02|00|00|00|00|DGM|U|Toil // Trouble
 00|00|00|00|00|DGM|U|Trostani's Summoner
 01|00|00|00|00|DGM|U|Turn // Burn
 02|00|00|00|00|DGM|U|Unflinching Courage
@@ -12643,7 +12643,7 @@
 00|00|00|00|00|M14|C|Undead Minotaur
 00|00|00|00|00|M14|C|Verdant Haven
 00|00|00|00|00|M14|C|Vile Rebirth
-00|00|00|00|00|M14|C|Wild Guess
+00|01|00|00|00|M14|C|Wild Guess
 00|00|00|00|00|M14|C|Wring Flesh
 00|00|00|00|00|M14|C|Zephyr Charge
 00|00|00|00|00|M14|M|Ajani, Caller of the Pride
@@ -12670,7 +12670,7 @@
 00|00|00|00|00|M14|R|Clone
 00|00|00|00|00|M14|R|Colossal Whale
 00|00|00|00|00|M14|R|Dark Prophecy
-00|00|00|00|00|M14|R|Dismiss into Dream
+01|00|00|00|00|M14|R|Dismiss into Dream
 00|00|00|00|00|M14|R|Domestication
 00|00|00|00|00|M14|R|Door of Destinies
 00|00|00|00|00|M14|R|Elite Arcanist
@@ -12688,7 +12688,7 @@
 00|00|00|00|00|M14|R|Lifebane Zombie
 00|00|00|00|00|M14|R|Liliana's Reaver
 00|00|00|00|00|M14|R|Megantic Sliver
-00|00|00|00|00|M14|R|Mindsparker
+02|00|00|00|00|M14|R|Mindsparker
 04|00|00|00|00|M14|R|Mutavault
 00|00|00|00|00|M14|R|Nightmare
 00|00|00|00|00|M14|R|Oath of the Ancient Wood
@@ -12733,12 +12733,12 @@
 00|00|00|00|00|M14|U|Diabolic Tutor
 00|00|00|00|00|M14|U|Doom Blade
 00|00|00|00|00|M14|U|Dragon Egg
-00|00|00|00|00|M14|U|Elixir of Immortality
+01|00|00|00|00|M14|U|Elixir of Immortality
 01|00|00|00|00|M14|U|Encroaching Wastes
 00|00|00|00|00|M14|U|Enlarge
 00|00|00|00|00|M14|U|Fireshrieker
-00|00|00|00|00|M14|U|Flames of the Firebrand
-00|00|00|00|00|M14|U|Fleshpulper Giant
+01|00|00|00|00|M14|U|Flames of the Firebrand
+01|00|00|00|00|M14|U|Fleshpulper Giant
 00|00|00|00|00|M14|U|Glimpse the Future
 00|00|00|00|00|M14|U|Gnawing Zombie
 00|00|00|00|00|M14|U|Howl of the Night Pack
@@ -12749,9 +12749,9 @@
 00|00|00|00|00|M14|U|Molten Birth
 00|00|00|00|00|M14|U|Opportunity
 00|00|00|00|00|M14|U|Phantom Warrior
-00|00|00|00|00|M14|U|Rod of Ruin
+01|00|00|00|00|M14|U|Rod of Ruin
 00|00|00|00|00|M14|U|Sengir Vampire
-01|00|00|00|00|M14|U|Serra Angel
+03|00|00|00|00|M14|U|Serra Angel
 00|00|00|00|00|M14|U|Shimmering Grotto
 00|00|00|00|00|M14|U|Shiv's Embrace
 00|00|00|00|00|M14|U|Spell Blast
@@ -12773,7 +12773,7 @@
 00|00|00|00|00|M14|U|Water Servant
 00|00|00|00|00|M14|U|Windstorm
 00|00|00|00|00|M14|U|Woodborn Behemoth
-00|00|00|00|00|M14|U|Young Pyromancer
+01|00|00|00|00|M14|U|Young Pyromancer
 07|00|00|00|00|MBS|C|Ardent Recruit
 00|00|00|00|00|MBS|C|Banishment Decree
 00|00|00|00|00|MBS|C|Bladed Sentinel
@@ -12783,7 +12783,7 @@
 00|00|00|00|00|MBS|C|Caustic Hound
 00|00|00|00|00|MBS|C|Concussive Bolt
 00|00|00|00|00|MBS|C|Copper Carapace
-00|00|00|00|00|MBS|C|Crush
+00|01|00|00|00|MBS|C|Crush
 00|00|00|00|00|MBS|C|Divine Offering
 00|00|00|00|00|MBS|C|Dross Ripper
 00|00|00|00|00|MBS|C|Fangren Marauder
@@ -12826,7 +12826,7 @@
 00|00|00|00|00|MBS|C|Serum Raker
 00|00|00|00|00|MBS|C|Shriekhorn
 00|00|00|00|00|MBS|C|Spin Engine
-00|00|00|00|00|MBS|C|Spire Serpent
+00|01|00|00|00|MBS|C|Spire Serpent
 00|00|00|00|00|MBS|C|Spread the Sickness
 00|00|00|00|00|MBS|C|Steel Sabotage
 00|00|00|00|00|MBS|C|Swamp
@@ -12851,7 +12851,7 @@
 01|00|00|00|00|MBS|M|Thrun, the Last Troll
 00|00|00|00|00|MBS|R|Black Sun's Zenith
 01|00|00|00|00|MBS|R|Blue Sun's Zenith
-00|00|00|00|00|MBS|R|Bonehoard
+01|00|00|00|00|MBS|R|Bonehoard
 00|00|00|00|00|MBS|R|Contested War Zone
 00|00|00|00|00|MBS|R|Creeping Corrosion
 02|00|00|00|00|MBS|R|Cryptoplasm
@@ -12874,7 +12874,7 @@
 00|00|00|00|00|MBS|R|Phyrexian Rebirth
 05|00|00|00|00|MBS|R|Phyrexian Revoker
 00|00|00|00|00|MBS|R|Phyrexian Vatmother
-01|00|00|00|00|MBS|R|Psychosis Crawler
+02|00|00|00|00|MBS|R|Psychosis Crawler
 00|00|00|00|00|MBS|R|Red Sun's Zenith
 00|00|00|00|00|MBS|R|Sangromancer
 01|00|00|00|00|MBS|R|Shimmer Myr
@@ -12882,11 +12882,11 @@
 00|00|00|00|00|MBS|R|Spine of Ish Sah
 02|00|00|00|00|MBS|R|Thopter Assembly
 01|00|00|00|00|MBS|R|Titan Forge
-00|00|00|00|00|MBS|R|Victory's Herald
+01|00|00|00|00|MBS|R|Victory's Herald
 00|00|00|00|00|MBS|R|White Sun's Zenith
 04|00|00|00|00|MBS|U|Accorder Paladin
-03|00|00|00|00|MBS|U|Brass Squire
-01|00|00|00|00|MBS|U|Choking Fumes
+04|00|00|00|00|MBS|U|Brass Squire
+02|00|00|00|00|MBS|U|Choking Fumes
 03|00|00|00|00|MBS|U|Core Prowler
 02|00|00|00|00|MBS|U|Corrupted Conscience
 01|00|00|00|00|MBS|U|Flesh-Eater Imp
@@ -12898,7 +12898,7 @@
 02|00|00|00|00|MBS|U|Kemba's Legion
 02|00|00|00|00|MBS|U|Kuldotha Flamefiend
 02|00|00|00|00|MBS|U|Lead the Stampede
-05|00|00|00|00|MBS|U|Leonin Relic-Warder
+06|00|00|00|00|MBS|U|Leonin Relic-Warder
 01|01|00|00|00|MBS|U|Lumengrid Gargoyle
 00|00|00|00|00|MBS|U|Melira's Keepers
 00|00|00|00|00|MBS|U|Metallic Mastery
@@ -12908,13 +12908,13 @@
 02|01|00|00|00|MBS|U|Peace Strider
 00|00|00|00|00|MBS|U|Phyrexian Juggernaut
 03|00|00|00|00|MBS|U|Pierce Strider
-02|00|00|00|00|MBS|U|Piston Sledge
+03|00|00|00|00|MBS|U|Piston Sledge
 02|00|00|00|00|MBS|U|Plague Myr
-01|00|00|00|00|MBS|U|Plaguemaw Beast
-00|00|00|00|00|MBS|U|Quilled Slagwurm
-01|00|00|00|00|MBS|U|Septic Rats
+02|00|00|00|00|MBS|U|Plaguemaw Beast
+01|00|00|00|00|MBS|U|Quilled Slagwurm
+02|00|00|00|00|MBS|U|Septic Rats
 00|00|00|00|00|MBS|U|Signal Pest
-00|00|00|00|00|MBS|U|Silverskin Armor
+01|00|00|00|00|MBS|U|Silverskin Armor
 02|00|00|00|00|MBS|U|Skinwing
 02|00|00|00|00|MBS|U|Sphere of the Suns
 01|00|00|00|00|MBS|U|Spiraling Duelist
@@ -12922,8 +12922,8 @@
 00|00|00|00|00|MBS|U|Treasure Mage
 07|00|00|00|00|MBS|U|Vedalken Anatomist
 03|00|00|00|00|MBS|U|Vedalken Infuser
-03|00|00|00|00|MBS|U|Viridian Claw
-01|00|00|00|00|MBS|U|Viridian Corrupter
+04|00|00|00|00|MBS|U|Viridian Claw
+02|00|00|00|00|MBS|U|Viridian Corrupter
 00|00|00|00|00|MIR|C|Agility
 00|00|00|00|00|MIR|C|Alarum
 00|00|00|00|00|MIR|C|Armor of Thorns
