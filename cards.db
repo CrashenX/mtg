@@ -12700,7 +12700,7 @@
 00|00|00|00|00|M14|R|Ratchet Bomb
 00|00|00|00|00|M14|R|Sanguine Bond
 00|00|00|00|00|M14|R|Savage Summoning
-03|00|00|00|00|M14|R|Scavenging Ooze
+04|00|00|00|00|M14|R|Scavenging Ooze
 00|00|00|00|00|M14|R|Seraph of the Sword
 00|00|00|00|00|M14|R|Shivan Dragon
 00|00|00|00|00|M14|R|Silence
@@ -13271,7 +13271,7 @@
 03|00|00|00|00|MMA|C|Blightspeaker
 02|00|00|00|00|MMA|C|Blind-Spot Giant
 02|00|00|00|00|MMA|C|Blinding Beam
-00|00|00|00|00|MMA|C|Bonesplitter
+01|01|00|00|00|MMA|C|Bonesplitter
 02|00|00|00|00|MMA|C|Bound in Silence
 00|00|00|00|00|MMA|C|Brute Force
 02|00|00|00|00|MMA|C|Cenn's Enlistment
@@ -13413,7 +13413,7 @@
 00|00|00|00|00|MMA|R|Maelstrom Pulse
 00|00|00|00|00|MMA|R|Meloku the Clouded Mirror
 01|00|00|00|00|MMA|R|Molten Disaster
-00|00|00|00|00|MMA|R|Oona, Queen of the Fae
+01|00|00|00|00|MMA|R|Oona, Queen of the Fae
 00|00|00|00|00|MMA|R|Pact of Negation
 00|00|00|00|00|MMA|R|Pyromancer's Swath
 00|00|00|00|00|MMA|R|Reveillark
@@ -14493,7 +14493,7 @@
 02|00|00|00|00|NPH|R|Chancellor of the Tangle
 00|00|00|00|00|NPH|R|Fresh Meat
 00|00|00|00|00|NPH|R|Glistening Oil
-02|00|00|00|00|NPH|R|Hex Parasite
+04|00|00|00|00|NPH|R|Hex Parasite
 01|01|00|00|00|NPH|R|Invader Parasite
 01|00|00|00|00|NPH|R|Jor Kadeen, the Prevailer
 01|00|00|00|00|NPH|R|Lashwrithe
@@ -14512,7 +14512,7 @@
 04|00|00|00|00|NPH|R|Puresteel Paladin
 00|00|00|00|00|NPH|R|Slag Fiend
 01|00|00|00|00|NPH|R|Soul Conduit
-03|00|00|00|00|NPH|R|Spellskite
+04|00|00|00|00|NPH|R|Spellskite
 04|00|00|00|00|NPH|R|Surgical Extraction
 01|00|00|00|00|NPH|R|Torpor Orb
 02|00|00|00|00|NPH|R|Unwinding Clock
