@@ -1473,7 +1473,7 @@
 00|00|00|00|00|5DN|U|Night's Whisper
 00|00|00|00|00|5DN|U|Nim Grotesque
 00|00|00|00|00|5DN|U|Ouphe Vandals
-01|00|00|00|00|5DN|U|Paradise Mantle
+00|00|00|00|00|5DN|U|Paradise Mantle
 00|00|00|00|00|5DN|U|Plasma Elemental
 00|00|00|00|00|5DN|U|Qumulox
 00|00|00|00|00|5DN|U|Relentless Rats
@@ -4544,7 +4544,7 @@
 00|00|00|00|00|AVR|R|Cathars' Crusade
 04|00|00|00|00|AVR|R|Cavern of Souls
 00|00|00|00|00|AVR|R|Champion of Lambholt
-01|00|00|00|00|AVR|R|Conjurer's Closet
+00|00|00|00|00|AVR|R|Conjurer's Closet
 01|00|00|00|00|AVR|R|Dark Impostor
 00|00|00|00|00|AVR|R|Deadeye Navigator
 00|00|00|00|00|AVR|R|Demonic Rising
@@ -9184,7 +9184,7 @@
 00|00|00|00|00|ICE|C|Battle Frenzy
 00|00|00|00|00|ICE|C|Blessed Wine
 00|00|00|00|00|ICE|C|Bone Shaman
-02|00|00|00|00|ICE|C|Brainstorm
+00|00|00|00|00|ICE|C|Brainstorm
 00|00|00|00|00|ICE|C|Brine Shaman
 00|00|00|00|00|ICE|C|Brown Ouphe
 00|00|00|00|00|ICE|C|Burnt Offering
@@ -13464,7 +13464,7 @@
 00|00|00|00|00|MMA|U|Phthisis
 00|00|00|00|00|MMA|U|Plumeveil
 01|00|00|00|00|MMA|U|Reach of Branches
-04|01|00|00|00|MMA|U|Relic of Progenitus
+04|00|00|00|00|MMA|U|Relic of Progenitus
 02|00|00|00|00|MMA|U|Riftsweeper
 01|00|00|00|00|MMA|U|Riftwing Cloudskate
 00|00|00|00|00|MMA|U|Sandsower
@@ -14132,7 +14132,7 @@
 00|00|00|00|00|MRD|R|Mass Hysteria
 00|00|00|00|00|MRD|R|Megatog
 00|00|00|00|00|MRD|R|Mesmeric Orb
-01|00|00|00|00|MRD|R|Mind's Eye
+00|00|00|00|00|MRD|R|Mind's Eye
 00|00|00|00|00|MRD|R|Mindslaver
 00|00|00|00|00|MRD|R|Molder Slug
 00|00|00|00|00|MRD|R|Myr Incubator
@@ -19914,7 +19914,7 @@
 01|00|00|00|00|V12|M|Forbidden Orchard
 02|00|00|00|00|V12|M|Glacial Chasm
 00|00|00|00|00|V12|M|Grove of the Burnwillows
-01|00|00|00|00|V12|M|High Market
+00|00|00|00|00|V12|M|High Market
 01|00|00|00|00|V12|M|Maze of Ith
 01|00|00|00|00|V12|M|Murmuring Bosk
 01|00|00|00|00|V12|M|Shivan Gorge
@@ -20395,7 +20395,7 @@
 02|00|00|00|00|WWK|U|Summit Apes
 12|00|00|00|00|WWK|U|Tectonic Edge
 01|01|00|00|00|WWK|U|Tideforce Elemental
-01|00|00|00|00|WWK|U|Tuktuk Scrapper
+00|00|00|00|00|WWK|U|Tuktuk Scrapper
 00|00|00|00|00|WWK|U|Urge to Feed
 03|00|00|00|00|WWK|U|Vapor Snare
 01|00|00|00|00|WWK|U|Vastwood Animist
