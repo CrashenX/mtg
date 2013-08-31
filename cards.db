@@ -13264,9 +13264,9 @@
 02|00|00|00|00|MMA|C|Absorb Vis
 03|01|00|00|00|MMA|C|Amrou Scout
 02|00|00|00|00|MMA|C|Amrou Seekers
-00|00|00|00|00|MMA|C|Arcbound Stinger
+01|00|00|00|00|MMA|C|Arcbound Stinger
 02|00|00|00|00|MMA|C|Arcbound Wanderer
-03|00|00|00|00|MMA|C|Arcbound Worker
+05|00|00|00|00|MMA|C|Arcbound Worker
 02|00|00|00|00|MMA|C|Avian Changeling
 03|00|00|00|00|MMA|C|Blightspeaker
 02|00|00|00|00|MMA|C|Blind-Spot Giant
@@ -13276,7 +13276,7 @@
 00|00|00|00|00|MMA|C|Brute Force
 02|00|00|00|00|MMA|C|Cenn's Enlistment
 03|00|00|00|00|MMA|C|Citanul Woodreaders
-01|00|00|00|00|MMA|C|Court Homunculus
+02|00|00|00|00|MMA|C|Court Homunculus
 02|00|00|00|00|MMA|C|Crush Underfoot
 02|00|00|00|00|MMA|C|Dampen Thought
 03|00|00|00|00|MMA|C|Death Denied
@@ -13286,22 +13286,22 @@
 02|00|00|00|00|MMA|C|Dreamspoiler Witches
 03|00|00|00|00|MMA|C|Durkwood Baloth
 02|00|00|00|00|MMA|C|Echoing Courage
-04|00|00|00|00|MMA|C|Echoing Truth
+06|00|00|00|00|MMA|C|Echoing Truth
 01|00|00|00|00|MMA|C|Empty the Warrens
-02|00|00|00|00|MMA|C|Errant Ephemeron
+05|00|00|00|00|MMA|C|Errant Ephemeron
 00|00|00|00|00|MMA|C|Erratic Mutation
-02|00|00|00|00|MMA|C|Etherium Sculptor
+04|00|00|00|00|MMA|C|Etherium Sculptor
 02|01|00|00|00|MMA|C|Facevaulter
 04|00|00|00|00|MMA|C|Faerie Macabre
 01|01|00|00|00|MMA|C|Faerie Mechanist
 02|00|00|00|00|MMA|C|Festering Goblin
-04|01|00|00|00|MMA|C|Fiery Fall
+05|02|00|00|00|MMA|C|Fiery Fall
 04|00|00|00|00|MMA|C|Frogmite
-02|00|00|00|00|MMA|C|Fury Charm
+03|00|00|00|00|MMA|C|Fury Charm
 03|00|00|00|00|MMA|C|Giant Dustwasp
-03|00|00|00|00|MMA|C|Glacial Ray
+05|01|00|00|00|MMA|C|Glacial Ray
 03|00|00|00|00|MMA|C|Gleam of Resistance
-01|00|00|00|00|MMA|C|Grapeshot
+02|00|00|00|00|MMA|C|Grapeshot
 02|00|00|00|00|MMA|C|Greater Mossdog
 02|00|00|00|00|MMA|C|Hammerheim Deadeye
 03|01|00|00|00|MMA|C|Hana Kami
@@ -13312,38 +13312,38 @@
 04|00|00|00|00|MMA|C|Kodama's Reach
 02|00|00|00|00|MMA|C|Latchkey Faerie
 02|00|00|00|00|MMA|C|Lava Spike
-03|01|00|00|00|MMA|C|Logic Knot
+04|01|00|00|00|MMA|C|Logic Knot
 02|01|00|00|00|MMA|C|Mogg War Marshal
 03|00|00|00|00|MMA|C|Moldervine Cloak
-02|00|00|00|00|MMA|C|Mothdust Changeling
-04|00|00|00|00|MMA|C|Myr Enforcer
+02|01|00|00|00|MMA|C|Mothdust Changeling
+05|00|00|00|00|MMA|C|Myr Enforcer
 03|01|00|00|00|MMA|C|Nantuko Shaman
 03|00|00|00|00|MMA|C|Otherworldly Journey
 02|00|00|00|00|MMA|C|Pallid Mycoderm
 00|00|00|00|00|MMA|C|Peer Through Depths
 02|00|00|00|00|MMA|C|Penumbra Spider
 03|00|00|00|00|MMA|C|Peppersmoke
-00|00|00|00|00|MMA|C|Perilous Research
+02|00|00|00|00|MMA|C|Perilous Research
 01|00|00|00|00|MMA|C|Pestermite
 02|00|00|00|00|MMA|C|Petals of Insight
-02|00|00|00|00|MMA|C|Pyrite Spellbomb
+03|00|00|00|00|MMA|C|Pyrite Spellbomb
 03|00|00|00|00|MMA|C|Rathi Trapper
 01|00|00|00|00|MMA|C|Raven's Crime
 03|00|00|00|00|MMA|C|Reach Through Mists
-01|01|00|00|00|MMA|C|Rift Bolt
-02|01|00|00|00|MMA|C|Rift Elemental
+03|01|00|00|00|MMA|C|Rift Bolt
+04|01|00|00|00|MMA|C|Rift Elemental
 00|00|00|00|00|MMA|C|Runed Stalactite
 03|00|00|00|00|MMA|C|Saltfield Recluse
 02|00|00|00|00|MMA|C|Sanctum Gargoyle
-00|00|00|00|00|MMA|C|Search for Tomorrow
+01|01|00|00|00|MMA|C|Search for Tomorrow
 01|00|00|00|00|MMA|C|Skyreach Manta
-09|00|00|00|00|MMA|C|Spellstutter Sprite
-02|00|00|00|00|MMA|C|Sporoloth Ancient
+10|00|00|00|00|MMA|C|Spellstutter Sprite
+02|01|00|00|00|MMA|C|Sporoloth Ancient
 01|00|00|00|00|MMA|C|Stingscourger
 02|00|00|00|00|MMA|C|Stinkdrinker Daredevil
 01|00|00|00|00|MMA|C|Stinkweed Imp
 03|00|00|00|00|MMA|C|Street Wraith
-02|01|00|00|00|MMA|C|Sylvan Bounty
+03|01|00|00|00|MMA|C|Sylvan Bounty
 02|01|00|00|00|MMA|C|Syphon Life
 02|00|00|00|00|MMA|C|Terramorphic Expanse
 02|00|00|00|00|MMA|C|Test of Faith
@@ -13352,8 +13352,8 @@
 02|00|00|00|00|MMA|C|Thallid Shell-Dweller
 02|00|00|00|00|MMA|C|Thieving Sprite
 03|00|00|00|00|MMA|C|Thundering Giant
-01|00|00|00|00|MMA|C|Torrent of Stone
-03|01|00|00|00|MMA|C|Traumatic Visions
+02|00|00|00|00|MMA|C|Torrent of Stone
+04|01|00|00|00|MMA|C|Traumatic Visions
 03|00|00|00|00|MMA|C|Vedalken Dismisser
 04|01|00|00|00|MMA|C|Veteran Armorer
 01|00|00|00|00|MMA|C|Walker of the Grove
@@ -13436,13 +13436,13 @@
 01|00|00|00|00|MMA|U|Desperate Ritual
 00|00|00|00|00|MMA|U|Electrolyze
 01|00|00|00|00|MMA|U|Epochrasite
-00|00|00|00|00|MMA|U|Esperzoa
+01|00|00|00|00|MMA|U|Esperzoa
 00|00|00|00|00|MMA|U|Etched Oracle
 04|00|00|00|00|MMA|U|Eternal Witness
 00|00|00|00|00|MMA|U|Executioner's Capsule
 00|00|00|00|00|MMA|U|Feudkiller's Verdict
 06|00|00|00|00|MMA|U|Flickerwisp
-01|00|00|00|00|MMA|U|Grinning Ignus
+02|00|00|00|00|MMA|U|Grinning Ignus
 01|00|00|00|00|MMA|U|Horobi's Whisper
 01|00|00|00|00|MMA|U|Incremental Growth
 04|00|00|00|00|MMA|U|Kitchen Finks
@@ -13462,19 +13462,19 @@
 00|00|00|00|00|MMA|U|Pardic Dragon
 04|00|00|00|00|MMA|U|Path to Exile
 00|00|00|00|00|MMA|U|Phthisis
-00|00|00|00|00|MMA|U|Plumeveil
+01|00|00|00|00|MMA|U|Plumeveil
 01|00|00|00|00|MMA|U|Reach of Branches
-04|00|00|00|00|MMA|U|Relic of Progenitus
+05|00|00|00|00|MMA|U|Relic of Progenitus
 02|00|00|00|00|MMA|U|Riftsweeper
 01|00|00|00|00|MMA|U|Riftwing Cloudskate
 00|00|00|00|00|MMA|U|Sandsower
 00|00|00|00|00|MMA|U|Shrapnel Blast
-04|00|00|00|00|MMA|U|Spell Snare
+06|00|00|00|00|MMA|U|Spell Snare
 01|00|00|00|00|MMA|U|Sporesower Thallid
 02|00|00|00|00|MMA|U|Stir the Pride
 01|00|00|00|00|MMA|U|Sudden Shock
 00|00|00|00|00|MMA|U|Take Possession
-00|00|00|00|00|MMA|U|Tar Pitcher
+01|00|00|00|00|MMA|U|Tar Pitcher
 00|01|00|00|00|MMA|U|Terashi's Grasp
 02|00|00|00|00|MMA|U|Thirst for Knowledge
 00|00|00|00|00|MMA|U|Thundercloud Shaman
@@ -13484,7 +13484,7 @@
 01|00|00|00|00|MMA|U|Trygon Predator
 00|00|00|00|00|MMA|U|Vivid Crag
 00|00|00|00|00|MMA|U|Vivid Creek
-01|00|00|00|00|MMA|U|Vivid Grove
+02|00|00|00|00|MMA|U|Vivid Grove
 00|00|00|00|00|MMA|U|Vivid Marsh
 00|00|00|00|00|MMA|U|Vivid Meadow
 01|00|00|00|00|MMA|U|Worm Harvest
