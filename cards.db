@@ -11491,7 +11491,7 @@
 00|00|00|00|00|LRW|R|Masked Admirers
 00|00|00|00|00|LRW|R|Militia's Pride
 00|00|00|00|00|LRW|R|Mirror Entity
-02|00|00|00|00|LRW|R|Mistbind Clique
+04|00|00|00|00|LRW|R|Mistbind Clique
 00|00|00|00|00|LRW|R|Mosswort Bridge
 00|00|00|00|00|LRW|R|Nath of the Gilt-Leaf
 00|00|00|00|00|LRW|R|Nettlevine Blight
@@ -12902,7 +12902,7 @@
 01|01|00|00|00|MBS|U|Lumengrid Gargoyle
 00|00|00|00|00|MBS|U|Melira's Keepers
 00|00|00|00|00|MBS|U|Metallic Mastery
-02|00|00|00|00|MBS|U|Mortarpod
+04|00|00|00|00|MBS|U|Mortarpod
 00|00|00|00|00|MBS|U|Nested Ghoul
 00|00|00|00|00|MBS|U|Neurok Commando
 02|01|00|00|00|MBS|U|Peace Strider
@@ -18207,7 +18207,7 @@
 03|00|00|00|00|SOM|U|Trigon of Mending
 02|00|00|00|00|SOM|U|Trigon of Rage
 06|00|00|00|00|SOM|U|Trigon of Thought
-00|00|00|00|00|SOM|U|Trinket Mage
+04|00|00|00|00|SOM|U|Trinket Mage
 05|00|00|00|00|SOM|U|Twisted Image
 06|00|00|00|00|SOM|U|Vigil for the Lost
 05|00|00|00|00|SOM|U|Viridian Revel
