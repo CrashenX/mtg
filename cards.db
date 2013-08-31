@@ -12712,7 +12712,7 @@
 00|00|00|00|00|M14|R|Traumatize
 01|00|00|00|00|M14|R|Vastwood Hydra
 00|00|00|00|00|M14|R|Wild Ricochet
-00|00|00|00|00|M14|R|Witchstalker
+01|00|00|00|00|M14|R|Witchstalker
 00|00|00|00|00|M14|R|Xathrid Necromancer
 00|00|00|00|00|M14|U|Accorder's Shield
 00|00|00|00|00|M14|U|Air Servant
@@ -16689,7 +16689,7 @@
 00|00|00|00|00|RAV|U|Psychic Drain
 00|00|00|00|00|RAV|U|Putrefy
 00|00|00|00|00|RAV|U|Recollect
-04|00|00|00|00|RAV|U|Remand
+05|00|00|00|00|RAV|U|Remand
 00|00|00|00|00|RAV|U|Reroute
 00|00|00|00|00|RAV|U|Ribbons of Night
 00|00|00|00|00|RAV|U|Rolling Spoil
