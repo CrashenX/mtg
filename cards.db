@@ -12688,7 +12688,7 @@
 00|00|00|00|00|M14|R|Lifebane Zombie
 00|00|00|00|00|M14|R|Liliana's Reaver
 00|00|00|00|00|M14|R|Megantic Sliver
-02|00|00|00|00|M14|R|Mindsparker
+01|00|00|00|00|M14|R|Mindsparker
 04|00|00|00|00|M14|R|Mutavault
 00|00|00|00|00|M14|R|Nightmare
 00|00|00|00|00|M14|R|Oath of the Ancient Wood
@@ -12707,7 +12707,7 @@
 00|00|00|00|00|M14|R|Strionic Resonator
 00|00|00|00|00|M14|R|Syphon Sliver
 00|00|00|00|00|M14|R|Thorncaster Sliver
-01|00|00|00|00|M14|R|Tidebinder Mage
+00|00|00|00|00|M14|R|Tidebinder Mage
 00|00|00|00|00|M14|R|Trading Post
 00|00|00|00|00|M14|R|Traumatize
 01|00|00|00|00|M14|R|Vastwood Hydra
@@ -16689,7 +16689,7 @@
 00|00|00|00|00|RAV|U|Psychic Drain
 00|00|00|00|00|RAV|U|Putrefy
 00|00|00|00|00|RAV|U|Recollect
-05|00|00|00|00|RAV|U|Remand
+04|00|00|00|00|RAV|U|Remand
 00|00|00|00|00|RAV|U|Reroute
 00|00|00|00|00|RAV|U|Ribbons of Night
 00|00|00|00|00|RAV|U|Rolling Spoil
