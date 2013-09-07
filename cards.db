@@ -743,13 +743,13 @@
 00|00|00|00|00|3ED|R|Aladdin's Ring
 00|00|00|00|00|3ED|R|Animate Wall
 00|00|00|00|00|3ED|R|Ankh of Mishra
-00|00|00|00|00|3ED|R|Armageddon
+01|00|00|00|00|3ED|R|Armageddon
 00|00|00|00|00|3ED|R|Armageddon Clock
 00|00|00|00|00|3ED|R|Aspect of Wolf
 00|00|00|00|00|3ED|R|Bad Moon
 00|00|00|00|00|3ED|R|Badlands
 00|00|00|00|00|3ED|R|Balance
-02|00|00|00|00|3ED|R|Bayou
+03|00|00|00|00|3ED|R|Bayou
 00|00|00|00|00|3ED|R|Birds of Paradise
 00|00|00|00|00|3ED|R|Blessing
 00|00|00|00|00|3ED|R|Bottle of Suleiman
@@ -772,7 +772,7 @@
 00|00|00|00|00|3ED|R|Earthquake
 00|00|00|00|00|3ED|R|Ebony Horse
 00|00|00|00|00|3ED|R|El-Hajjâj
-00|00|00|00|00|3ED|R|Elvish Archers
+01|00|00|00|00|3ED|R|Elvish Archers
 00|00|00|00|00|3ED|R|Eye for an Eye
 00|00|00|00|00|3ED|R|Farmstead
 00|00|00|00|00|3ED|R|Fastbond
@@ -780,7 +780,7 @@
 00|00|00|00|00|3ED|R|Force of Nature
 00|00|00|00|00|3ED|R|Fork
 00|00|00|00|00|3ED|R|Fungusaur
-00|00|00|00|00|3ED|R|Gaea's Liege
+01|00|00|00|00|3ED|R|Gaea's Liege
 00|00|00|00|00|3ED|R|Goblin King
 00|00|00|00|00|3ED|R|Granite Gargoyle
 00|00|00|00|00|3ED|R|Helm of Chatzuk
@@ -829,7 +829,7 @@
 00|00|00|00|00|3ED|R|Rock Hydra
 00|00|00|00|00|3ED|R|Rocket Launcher
 00|00|00|00|00|3ED|R|Royal Assassin
-01|00|00|00|00|3ED|R|Savannah
+03|00|00|00|00|3ED|R|Savannah
 00|00|00|00|00|3ED|R|Savannah Lions
 00|00|00|00|00|3ED|R|Scrubland
 00|00|00|00|00|3ED|R|Sedge Troll
@@ -858,7 +858,7 @@
 00|00|00|00|00|3ED|R|Wheel of Fortune
 00|00|00|00|00|3ED|R|Will-O'-The-Wisp
 00|00|00|00|00|3ED|R|Winter Orb
-00|00|00|00|00|3ED|R|Wrath of God
+01|00|00|00|00|3ED|R|Wrath of God
 00|00|00|00|00|3ED|R|Zombie Master
 00|00|00|00|00|3ED|U|Air Elemental
 00|00|00|00|00|3ED|U|Animate Artifact
