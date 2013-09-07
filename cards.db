@@ -10087,7 +10087,7 @@
 00|00|00|00|00|ISD|U|Disciple of Griselbrand
 02|00|00|00|00|ISD|U|Dissipate
 00|00|00|00|00|ISD|U|Falkenrath Noble
-03|00|00|00|00|ISD|U|Fiend Hunter
+04|00|00|00|00|ISD|U|Fiend Hunter
 02|00|00|00|00|ISD|U|Full Moon's Rise
 03|00|00|00|00|ISD|U|Gallows Warden
 00|00|00|00|00|ISD|U|Galvanic Juggernaut
@@ -18184,7 +18184,7 @@
 03|00|00|00|00|SOM|U|Infiltration Lens
 04|00|00|00|00|SOM|U|Lifesmith
 04|00|00|00|00|SOM|U|Liquimetal Coating
-02|00|00|00|00|SOM|U|Memnite
+04|00|00|00|00|SOM|U|Memnite
 05|00|00|00|00|SOM|U|Myr Galvanizer
 05|00|00|00|00|SOM|U|Myrsmith
 04|01|00|00|00|SOM|U|Necrogen Scudder
