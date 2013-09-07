@@ -6920,7 +6920,7 @@
 00|00|00|00|00|DGM|R|Ruric Thar, the Unbowed
 00|00|00|00|00|DGM|R|Scion of Vitu-Ghazi
 00|00|00|00|00|DGM|R|Sire of Insanity
-01|00|00|00|00|DGM|R|Skylasher
+03|00|00|00|00|DGM|R|Skylasher
 01|00|00|00|00|DGM|R|Tajic, Blade of the Legion
 00|00|00|00|00|DGM|R|Teysa, Envoy of Ghosts
 00|00|00|00|00|DGM|R|Trait Doctoring
@@ -17086,7 +17086,7 @@
 00|00|00|00|00|RTR|R|Cyclonic Rift
 01|00|00|00|00|RTR|R|Deadbridge Goliath
 02|00|00|00|00|RTR|R|Death's Presence
-00|00|00|00|00|RTR|R|Deathrite Shaman
+01|00|00|00|00|RTR|R|Deathrite Shaman
 00|00|00|00|00|RTR|R|Desecration Demon
 04|00|00|00|00|RTR|R|Detention Sphere
 00|00|00|00|00|RTR|R|Dreadbore
