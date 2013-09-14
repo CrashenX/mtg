@@ -858,7 +858,7 @@
 00|00|00|00|00|3ED|R|Wheel of Fortune
 00|00|00|00|00|3ED|R|Will-O'-The-Wisp
 00|00|00|00|00|3ED|R|Winter Orb
-01|00|00|00|00|3ED|R|Wrath of God
+00|00|00|00|00|3ED|R|Wrath of God
 00|00|00|00|00|3ED|R|Zombie Master
 00|00|00|00|00|3ED|U|Air Elemental
 00|00|00|00|00|3ED|U|Animate Artifact
@@ -4070,7 +4070,7 @@
 00|00|00|00|00|ARC|R|Hellkite Charger
 00|00|00|00|00|ARC|R|Imperial Hellkite
 00|00|00|00|00|ARC|R|Kaervek the Merciless
-01|00|00|00|00|ARC|R|Kamahl, Fist of Krosa
+00|00|00|00|00|ARC|R|Kamahl, Fist of Krosa
 00|00|00|00|00|ARC|R|Kilnmouth Dragon
 01|00|00|00|00|ARC|R|Leonin Abunas
 01|00|00|00|00|ARC|R|Lodestone Golem
@@ -4723,7 +4723,7 @@
 00|00|00|00|00|BOK|R|Ishi-Ishi, Akki Crackshot
 00|00|00|00|00|BOK|R|Iwamori of the Open Fist
 00|00|00|00|00|BOK|R|Kentaro, the Smiling Cat
-01|00|00|00|00|BOK|R|Kira, Great Glass-Spinner
+00|00|00|00|00|BOK|R|Kira, Great Glass-Spinner
 00|00|00|00|00|BOK|R|Kodama of the Center Tree
 00|00|00|00|00|BOK|R|Kyoki, Sanity's Eclipse
 00|00|00|00|00|BOK|R|Lifegift
@@ -7677,7 +7677,7 @@
 00|00|00|00|00|DST|R|Greater Harvester
 02|00|00|00|00|DST|R|Heartseeker
 00|00|00|00|00|DST|R|Last Word
-04|00|00|00|00|DST|R|Leonin Shikari
+03|00|00|00|00|DST|R|Leonin Shikari
 00|00|00|00|00|DST|R|Lich's Tomb
 00|00|00|00|00|DST|R|Memnarch
 00|00|00|00|00|DST|R|Mephitic Ooze
@@ -13664,7 +13664,7 @@
 00|00|00|00|00|MMQ|R|Lava Runner
 00|00|00|00|00|MMQ|R|Liability
 00|00|00|00|00|MMQ|R|Lithophage
-01|00|00|00|00|MMQ|R|Magistrate's Scepter
+00|00|00|00|00|MMQ|R|Magistrate's Scepter
 00|00|00|00|00|MMQ|R|Megatherium
 00|00|00|00|00|MMQ|R|Mercadian Atlas
 00|00|00|00|00|MMQ|R|Mercadian Lift
@@ -20222,7 +20222,7 @@
 00|00|00|00|00|WTH|U|Festering Evil
 00|00|00|00|00|WTH|U|Foriysian Brigade
 02|00|00|00|00|WTH|U|Gaea's Blessing
-02|00|00|00|00|WTH|U|Gemstone Mine
+01|00|00|00|00|WTH|U|Gemstone Mine
 00|00|00|00|00|WTH|U|Gerrard's Wisdom
 00|00|00|00|00|WTH|U|Goblin Grenadiers
 00|00|00|00|00|WTH|U|Hidden Horror
