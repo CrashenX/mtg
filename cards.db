@@ -5843,7 +5843,7 @@
 00|00|00|00|00|CON|R|Charnelhoard Wurm
 00|00|00|00|00|CON|R|Cliffrunner Behemoth
 00|00|00|00|00|CON|R|Cylian Sunsinger
-03|00|00|00|00|CON|R|Exotic Orchard
+02|00|00|00|00|CON|R|Exotic Orchard
 00|00|00|00|00|CON|R|Extractor Demon
 00|00|00|00|00|CON|R|Font of Mythos
 00|00|00|00|00|CON|R|Giltspire Avenger
@@ -5873,7 +5873,7 @@
 00|00|00|00|00|CON|R|Wall of Reverence
 00|00|00|00|00|CON|R|Worldheart Phoenix
 00|00|00|00|00|CON|U|Aerie Mystics
-01|00|00|00|00|CON|U|Ancient Ziggurat
+00|00|00|00|00|CON|U|Ancient Ziggurat
 00|00|00|00|00|CON|U|Celestial Purge
 00|00|00|00|00|CON|U|Controlled Instincts
 00|00|00|00|00|CON|U|Corrupted Roots
@@ -7741,7 +7741,7 @@
 00|00|00|00|00|DST|U|Karstoderm
 00|00|00|00|00|DST|U|Kraken's Eye
 00|00|00|00|00|DST|U|Leonin Battlemage
-04|00|00|00|00|DST|U|Mirrodin's Core
+03|00|00|00|00|DST|U|Mirrodin's Core
 00|00|00|00|00|DST|U|Murderous Spoils
 00|00|00|00|00|DST|U|Nemesis Mask
 00|00|00|00|00|DST|U|Neurok Transmuter
@@ -16885,7 +16885,7 @@
 00|00|00|00|00|ROE|R|Surrakar Spellblade
 00|00|00|00|00|ROE|R|Tajuru Preserver
 00|00|00|00|00|ROE|R|Thought Gorger
-01|00|00|00|00|ROE|R|Training Grounds
+00|00|00|00|00|ROE|R|Training Grounds
 00|00|00|00|00|ROE|R|Tuktuk the Explorer
 00|00|00|00|00|ROE|R|Umbra Mystic
 00|00|00|00|00|ROE|R|World at War
