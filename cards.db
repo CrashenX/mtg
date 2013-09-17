@@ -278,7 +278,7 @@
 00|00|00|00|00|10E|U|Earth Elemental
 00|00|00|00|00|10E|U|Elven Riders
 00|00|00|00|00|10E|U|Enormous Baloth
-00|00|00|00|00|10E|U|Faerie Conclave
+01|00|00|00|00|10E|U|Faerie Conclave
 00|00|00|00|00|10E|U|Femeref Archers
 00|00|00|00|00|10E|U|Flamewave Invoker
 00|00|00|00|00|10E|U|Flashfreeze
@@ -1482,7 +1482,7 @@
 00|00|00|00|00|5DN|U|Skullcage
 00|00|00|00|00|5DN|U|Skyhunter Skirmisher
 00|00|00|00|00|5DN|U|Spinal Parasite
-01|00|00|00|00|5DN|U|Steelshaper's Gift
+02|00|00|00|00|5DN|U|Steelshaper's Gift
 00|00|00|00|00|5DN|U|Synod Centurion
 00|00|00|00|00|5DN|U|Tel-Jilad Justice
 00|00|00|00|00|5DN|U|Vanquish
@@ -5158,7 +5158,7 @@
 00|00|00|00|00|CHK|R|Budoka Gardener
 00|00|00|00|00|CHK|R|Cranial Extraction
 00|00|00|00|00|CHK|R|Dosan the Falling Leaf
-00|00|00|00|00|CHK|R|Eiganjo Castle
+01|00|00|00|00|CHK|R|Eiganjo Castle
 00|00|00|00|00|CHK|R|Eight-and-a-Half-Tails
 00|00|00|00|00|CHK|R|Forbidden Orchard
 00|00|00|00|00|CHK|R|General's Kabuto
@@ -8728,7 +8728,7 @@
 01|00|01|00|00|GTC|R|Foundry Champion
 00|00|00|00|00|GTC|R|Frontline Medic
 00|00|00|00|00|GTC|R|Glaring Spotlight
-01|00|00|00|00|GTC|R|Godless Shrine
+02|00|00|00|00|GTC|R|Godless Shrine
 00|00|00|00|00|GTC|R|Gruul Ragebeast
 01|00|00|00|00|GTC|R|Gyre Sage
 00|00|00|00|00|GTC|R|High Priest of Penance
@@ -13400,7 +13400,7 @@
 00|00|00|00|00|MMA|R|Extirpate
 05|00|00|00|00|MMA|R|Figure of Destiny
 00|00|00|00|00|MMA|R|Gifts Ungiven
-03|00|00|00|00|MMA|R|Glen Elendra Archmage
+04|00|00|00|00|MMA|R|Glen Elendra Archmage
 05|00|00|00|00|MMA|R|Glimmervoid
 00|00|00|00|00|MMA|R|Grand Arbiter Augustin IV
 01|00|00|00|00|MMA|R|Greater Gargadon
@@ -19116,7 +19116,7 @@
 00|00|00|00|00|TSP|R|Magus of the Jar
 00|00|00|00|00|TSP|R|Magus of the Mirror
 00|00|00|00|00|TSP|R|Magus of the Scroll
-00|00|00|00|00|TSP|R|Mangara of Corondor
+01|00|00|00|00|TSP|R|Mangara of Corondor
 00|00|00|00|00|TSP|R|Mishra, Artificer Prodigy
 00|00|00|00|00|TSP|R|Moonlace
 00|00|00|00|00|TSP|R|Nether Traitor
@@ -20393,7 +20393,7 @@
 02|00|00|00|00|WWK|U|Smother
 02|00|00|00|00|WWK|U|Spell Contortion
 02|00|00|00|00|WWK|U|Summit Apes
-12|00|00|00|00|WWK|U|Tectonic Edge
+13|00|00|00|00|WWK|U|Tectonic Edge
 01|01|00|00|00|WWK|U|Tideforce Elemental
 00|00|00|00|00|WWK|U|Tuktuk Scrapper
 00|00|00|00|00|WWK|U|Urge to Feed
