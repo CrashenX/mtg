@@ -831,7 +831,7 @@
 00|00|00|00|00|3ED|R|Royal Assassin
 02|00|00|00|00|3ED|R|Savannah
 00|00|00|00|00|3ED|R|Savannah Lions
-00|00|00|00|00|3ED|R|Scrubland
+01|00|00|00|00|3ED|R|Scrubland
 00|00|00|00|00|3ED|R|Sedge Troll
 00|00|00|00|00|3ED|R|Serendib Efreet
 00|00|00|00|00|3ED|R|Shivan Dragon
@@ -17070,7 +17070,7 @@
 00|00|00|00|00|RTR|M|Utvara Hellkite
 00|00|00|00|00|RTR|M|Vraska the Unseen
 00|00|00|00|00|RTR|M|Worldspine Wurm
-00|00|00|00|00|RTR|R|Abrupt Decay
+01|00|00|00|00|RTR|R|Abrupt Decay
 01|00|00|00|00|RTR|R|Archon of the Triumvirate
 00|00|00|00|00|RTR|R|Ash Zealot
 00|00|00|00|00|RTR|R|Azor's Elocutors
