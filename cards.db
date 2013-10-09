@@ -9996,7 +9996,7 @@
 00|00|00|00|00|ISD|M|Army of the Damned
 01|00|00|00|00|ISD|M|Balefire Dragon
 00|00|00|00|00|ISD|M|Essence of the Wild
-00|00|00|00|00|ISD|M|Garruk Relentless
+01|00|00|00|00|ISD|M|Garruk Relentless
 00|00|00|00|00|ISD|M|Geist of Saint Traft
 00|00|00|00|00|ISD|M|Grimgrin, Corpse-Born
 00|00|00|00|00|ISD|M|Grimoire of the Dead
@@ -17086,7 +17086,7 @@
 00|00|00|00|00|RTR|R|Cyclonic Rift
 01|00|00|00|00|RTR|R|Deadbridge Goliath
 02|00|00|00|00|RTR|R|Death's Presence
-01|00|00|00|00|RTR|R|Deathrite Shaman
+03|00|00|00|00|RTR|R|Deathrite Shaman
 00|00|00|00|00|RTR|R|Desecration Demon
 04|00|00|00|00|RTR|R|Detention Sphere
 00|00|00|00|00|RTR|R|Dreadbore
@@ -18519,7 +18519,7 @@
 00|00|00|00|00|THS|R|Temple of Mystery
 00|00|00|00|00|THS|R|Temple of Silence
 00|00|00|00|00|THS|R|Temple of Triumph
-00|00|00|00|00|THS|R|Thoughtseize
+02|00|00|00|00|THS|R|Thoughtseize
 00|00|00|00|00|THS|R|Titan of Eternal Fire
 00|00|00|00|00|THS|R|Triad of Fates
 00|00|00|00|00|THS|R|Tymaret, the Murder King
