@@ -749,7 +749,7 @@
 00|00|00|00|00|3ED|R|Bad Moon
 00|00|00|00|00|3ED|R|Badlands
 00|00|00|00|00|3ED|R|Balance
-03|00|00|00|00|3ED|R|Bayou
+02|00|00|00|00|3ED|R|Bayou
 00|00|00|00|00|3ED|R|Birds of Paradise
 00|00|00|00|00|3ED|R|Blessing
 00|00|00|00|00|3ED|R|Bottle of Suleiman
@@ -18468,7 +18468,7 @@
 00|00|00|00|00|THS|M|Polukranos, World Eater
 00|00|00|00|00|THS|M|Purphoros, God of the Forge
 00|00|00|00|00|THS|M|Stormbreath Dragon
-00|00|00|00|00|THS|M|Thassa, God of the Sea
+01|00|00|00|00|THS|M|Thassa, God of the Sea
 00|00|00|00|00|THS|M|Underworld Cerberus
 00|00|00|00|00|THS|M|Xenagos, the Reveler
 00|00|00|00|00|THS|R|Abhorrent Overlord
@@ -18479,7 +18479,7 @@
 00|00|00|00|00|THS|R|Anthousa, Setessan Hero
 00|00|00|00|00|THS|R|Arbor Colossus
 00|00|00|00|00|THS|R|Artisan of Forms
-00|00|00|00|00|THS|R|Bident of Thassa
+01|00|00|00|00|THS|R|Bident of Thassa
 00|00|00|00|00|THS|R|Boon Satyr
 00|00|00|00|00|THS|R|Bow of Nylea
 00|00|00|00|00|THS|R|Celestial Archon
@@ -18488,7 +18488,7 @@
 00|00|00|00|00|THS|R|Curse of the Swine
 00|00|00|00|00|THS|R|Daxos of Meletis
 00|00|00|00|00|THS|R|Ember Swallower
-00|00|00|00|00|THS|R|Fabled Hero
+01|00|00|00|00|THS|R|Fabled Hero
 00|00|00|00|00|THS|R|Firedrinker Satyr
 00|00|00|00|00|THS|R|Fleecemane Lion
 00|00|00|00|00|THS|R|Gift of Immortality
@@ -18509,7 +18509,7 @@
 00|00|00|00|00|THS|R|Reaper of the Wilds
 00|00|00|00|00|THS|R|Reverent Hunter
 00|00|00|00|00|THS|R|Shipbreaker Kraken
-00|00|00|00|00|THS|R|Soldier of the Pantheon
+02|00|00|00|00|THS|R|Soldier of the Pantheon
 00|00|00|00|00|THS|R|Spear of Heliod
 00|00|00|00|00|THS|R|Steam Augury
 00|00|00|00|00|THS|R|Swan Song
@@ -20783,7 +20783,7 @@
 00|00|00|00|00|ZEN|R|Luminarch Ascension
 00|00|00|00|00|ZEN|R|Magosi, the Waterveil
 02|00|00|00|00|ZEN|R|Malakir Bloodwitch
-02|00|00|00|00|ZEN|R|Marsh Flats
+03|00|00|00|00|ZEN|R|Marsh Flats
 00|00|00|00|00|ZEN|R|Misty Rainforest
 00|00|00|00|00|ZEN|R|Oracle of Mul Daya
 01|00|00|00|00|ZEN|R|Oran-Rief, the Vastwood
