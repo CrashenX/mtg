@@ -382,6 +382,9 @@ my %sets = ( "LEA" => { order => 199308,
            , "S00" => { order => 200007,
                         name => 'Starter 2000'
                       }
+           , "THS" => { order => 201309,
+                        name => 'Theros'
+                      }
            );
 
 sub set_sort()
