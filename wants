@@ -66,7 +66,7 @@
 02|00|MMA|Life from the Loam
 04|00|M10|Lightning Bolt
 03|00|ISD|Liliana of the Veil
-04|00|DKA|Lingering Souls
+05|00|DKA|Lingering Souls
 04|00|TMP|Lotus Petal
 04|00|RTR|Loxodon Smiter
 04|00|ZEN|Marsh Flats
@@ -88,7 +88,7 @@
 04|00|M13|Rancor
 04|00|MMA|Relic of Progenitus
 04|00|RTR|Rest in Peace
-04|00|AVR|Restoration Angel
+05|00|AVR|Restoration Angel
 02|00|3ED|Savannah
 04|00|M14|Scavenging Ooze
 01|00|3ED|Scrubland
@@ -124,3 +124,11 @@
 04|00|ONS|Windswept Heath
 04|00|M14|Witchstalker
 04|00|ISD|Woodland Cemetery
+04|00|M13|Drowned Catacomb
+04|00|M13|Dragonskull Summit
+04|00|M13|Rootbound Crag
+04|00|SOM|Blackcleave Cliffs
+04|00|SOM|Copperline Gorge
+04|00|SOM|Darkslick Shores
+04|00|SOM|Razorverge Thicket
+04|00|SOM|Seachrome Coast
