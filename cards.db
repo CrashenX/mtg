@@ -4569,7 +4569,7 @@
 01|00|00|00|00|AVR|R|Moonsilver Spear
 00|00|00|00|00|AVR|R|Otherworld Atlas
 00|00|00|00|00|AVR|R|Reforge the Soul
-04|00|00|00|00|AVR|R|Restoration Angel
+05|00|00|00|00|AVR|R|Restoration Angel
 00|00|00|00|00|AVR|R|Revenge of the Hunted
 00|00|00|00|00|AVR|R|Riders of Gavony
 00|00|00|00|00|AVR|R|Rite of Ruin
@@ -11575,7 +11575,7 @@
 00|00|00|00|00|LRW|U|Lys Alana Scarblade
 00|00|00|00|00|LRW|U|Makeshift Mannequin
 00|00|00|00|00|LRW|U|Marsh Flitter
-02|00|00|00|00|LRW|U|Merrow Commerce
+00|00|00|00|00|LRW|U|Merrow Commerce
 00|00|00|00|00|LRW|U|Merrow Harbinger
 04|00|00|00|00|LRW|U|Merrow Reejerey
 00|00|00|00|00|LRW|U|Nectar Faerie
@@ -20745,7 +20745,7 @@
 00|00|00|00|00|ZEN|M|Lotus Cobra
 00|00|00|00|00|ZEN|M|Mindbreak Trap
 00|00|00|00|00|ZEN|M|Nissa Revane
-01|00|00|00|00|ZEN|M|Ob Nixilis, the Fallen
+00|00|00|00|00|ZEN|M|Ob Nixilis, the Fallen
 00|00|00|00|00|ZEN|M|Obsidian Fireheart
 00|00|00|00|00|ZEN|M|Rampaging Baloths
 00|00|00|00|00|ZEN|M|Sorin Markov
