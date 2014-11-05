@@ -2,9 +2,11 @@
 04|00|MMA|AEther Vial
 04|00|RTR|Abrupt Decay
 04|00|SOM|Accorder's Shield
+04|00|JOU|Aegis of the Gods
 04|00|MRD|Ancient Den
 04|00|MMA|Angel's Grace
 04|00|MMA|Arcbound Ravager
+01|00|V14|Armageddon
 04|00|MRD|Auriok Steelshaper
 02|00|3ED|Bayou
 04|00|NPH|Beast Within
@@ -21,6 +23,7 @@
 02|00|AVR|Craterhoof Behemoth
 04|00|MMA|Dark Confidant
 04|00|SOM|Darkslick Shores
+04|00|M15|Darksteel Citadel
 04|00|RTR|Deathrite Shaman
 04|00|RTR|Detention Sphere
 04|00|MRD|Disciple of the Vault
@@ -34,12 +37,14 @@
 04|00|MMA|Eternal Witness
 04|00|ARB|Ethercaste Knight
 04|00|MMA|Ethersworn Canonist
+01|00|CNS|Exploration
 04|00|MMA|Faerie Macabre
 04|00|ISD|Fiend Hunter
 04|00|M14|Fiendslayer Paladin
 04|00|MMA|Figure of Destiny
 04|00|TSP|Flagstones of Trokair
 04|00|MMA|Flickerwisp
+04|00|KTK|Flooded Strand
 00|99|ZEN|Forest
 02|00|ISD|Garruk Relentless
 01|00|M14|Garruk, Caller of Beasts
@@ -50,6 +55,7 @@
 04|00|MMA|Glen Elendra Archmage
 04|00|MMA|Glimmervoid
 04|00|GTC|Godless Shrine
+01|00|JOU|Godsend
 04|00|DKA|Grafdigger's Cage
 04|00|RTR|Hallowed Fountain
 04|00|NPH|Hex Parasite
@@ -60,6 +66,7 @@
 04|00|ISD|Invisible Stalker
 00|99|ZEN|Island
 04|00|ISD|Isolated Chapel
+04|00|MD1|Isolated Chapel
 04|00|MMA|Kataki, War's Wage
 02|00|MMA|Kira, Great Glass-Spinner
 04|00|MMA|Kitchen Finks
@@ -81,14 +88,12 @@
 00|99|ZEN|Mountain
 04|00|SOM|Mox Opal
 04|00|M14|Mutavault
-01|00|V14|Armageddon
-01|00|JOU|Godsend
-01|00|CNS|Pernicious Deed
-01|00|V14|Wrath of God
 04|00|M13|Oblivion Ring
 04|00|MMA|Paradise Mantle
 04|00|MMA|Path to Exile
+01|00|CNS|Pernicious Deed
 04|00|M12|Phantasmal Image
+04|00|M15|Phyrexian Revoker
 04|00|RTR|Pithing Needle
 00|99|ZEN|Plains
 04|00|NPH|Puresteel Paladin
@@ -98,13 +103,6 @@
 04|00|RTR|Rest in Peace
 05|00|AVR|Restoration Angel
 04|00|M13|Rootbound Crag
-04|00|JOU|Aegis of the Gods
-01|00|CNS|Exploration
-04|00|KTK|Flooded Strand
-04|00|MD1|Isolated Chapel
-04|00|M15|Phyrexian Revoker
-02|00|BNG|Spirit of the Labyrinth
-04|00|KTK|Windswept Heath
 02|00|3ED|Savannah
 04|00|M14|Scavenging Ooze
 01|00|3ED|Scrubland
@@ -117,6 +115,7 @@
 02|00|DKA|Sorin, Lord of Innistrad
 04|00|NPH|Spellskite
 04|00|MMA|Spellstutter Sprite
+02|00|BNG|Spirit of the Labyrinth
 04|00|5DN|Steelshaper's Gift
 04|00|WWK|Stoneforge Mystic
 04|00|ISD|Sulfur Falls
@@ -136,9 +135,9 @@
 04|00|MRD|Thoughtcast
 04|00|MMA|Tidehollow Sculler
 04|00|M13|Tormod's Crypt
-04|00|M15|Ajani's Pridemate
-04|00|M15|Darksteel Citadel
 04|00|NPH|Vault Skirge
 04|00|MRD|Vault of Whispers
+04|00|KTK|Windswept Heath
 04|00|M14|Witchstalker
 04|00|ISD|Woodland Cemetery
+01|00|V14|Wrath of God
