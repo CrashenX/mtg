@@ -4745,7 +4745,7 @@
 00|00|00|00|00|BNG|R|Satyr Firedancer
 00|00|00|00|00|BNG|R|Scourge of Skola Vale
 00|00|00|00|00|BNG|R|Silent Sentinel
-00|00|00|00|00|BNG|R|Spirit of the Labyrinth
+02|00|00|00|00|BNG|R|Spirit of the Labyrinth
 00|00|00|00|00|BNG|R|Temple of Enlightenment
 00|00|00|00|00|BNG|R|Temple of Malice
 00|00|00|00|00|BNG|R|Temple of Plenty
@@ -9445,7 +9445,7 @@
 01|00|01|00|00|GTC|R|Foundry Champion
 00|00|00|00|00|GTC|R|Frontline Medic
 00|00|00|00|00|GTC|R|Glaring Spotlight
-02|00|00|00|00|GTC|R|Godless Shrine
+03|00|00|00|00|GTC|R|Godless Shrine
 00|00|00|00|00|GTC|R|Gruul Ragebeast
 01|00|00|00|00|GTC|R|Gyre Sage
 00|00|00|00|00|GTC|R|High Priest of Penance
@@ -10925,7 +10925,7 @@
 00|00|00|00|00|JOU|M|Prophetic Flamespeaker
 00|00|00|00|00|JOU|M|Sage of Hours
 00|00|00|00|00|JOU|M|Worst Fears
-00|00|00|00|00|JOU|R|Aegis of the Gods
+04|00|00|00|00|JOU|R|Aegis of the Gods
 00|00|00|00|00|JOU|R|Battlefield Thaumaturge
 00|00|00|00|00|JOU|R|Bearer of the Heavens
 00|00|00|00|00|JOU|R|Daring Thief
@@ -11299,7 +11299,7 @@
 00|00|00|00|00|KTK|R|Dragon-Style Twins
 00|00|00|00|00|KTK|R|Duneblast
 00|00|00|00|00|KTK|R|End Hostilities
-00|00|00|00|00|KTK|R|Flooded Strand
+04|00|00|00|00|KTK|R|Flooded Strand
 00|00|00|00|00|KTK|R|Flying Crane Technique
 00|00|00|00|00|KTK|R|Ghostfire Blade
 00|00|00|00|00|KTK|R|Grim Haruspex
@@ -11335,7 +11335,7 @@
 00|00|00|00|00|KTK|R|Trap Essence
 00|00|00|00|00|KTK|R|Utter End
 00|00|00|00|00|KTK|R|Villainous Wealth
-00|00|00|00|00|KTK|R|Windswept Heath
+04|00|00|00|00|KTK|R|Windswept Heath
 00|00|00|00|00|KTK|R|Wooded Foothills
 00|00|00|00|00|KTK|U|Abzan Battle Priest
 00|00|00|00|00|KTK|U|Abzan Charm
@@ -14073,7 +14073,7 @@
 00|00|00|00|00|M15|R|Nightmare
 00|00|00|00|00|M15|R|Ob Nixilis, Unshackled
 00|00|00|00|00|M15|R|Obelisk of Urd
-00|00|00|00|00|M15|R|Phyrexian Revoker
+04|00|00|00|00|M15|R|Phyrexian Revoker
 00|00|00|00|00|M15|R|Phytotitan
 00|00|00|00|00|M15|R|Polymorphist's Jest
 00|00|00|00|00|M15|R|Preeminent Captain
@@ -14096,7 +14096,7 @@
 00|00|00|00|00|M15|R|Yisan, the Wanderer Bard
 00|00|00|00|00|M15|R|Ætherspouts
 00|00|00|00|00|M15|U|Act on Impulse
-00|00|00|00|00|M15|U|Ajani's Pridemate
+04|00|00|00|00|M15|U|Ajani's Pridemate
 00|00|00|00|00|M15|U|Altac Bloodseeker
 00|00|00|00|00|M15|U|Ancient Silverback
 00|00|00|00|00|M15|U|Back to Nature
@@ -14111,7 +14111,7 @@
 00|00|00|00|00|M15|U|Cone of Flame
 00|00|00|00|00|M15|U|Congregate
 00|00|00|00|00|M15|U|Constricting Sliver
-00|00|00|00|00|M15|U|Darksteel Citadel
+04|00|00|00|00|M15|U|Darksteel Citadel
 00|00|00|00|00|M15|U|Dauntless River Marshal
 00|00|00|00|00|M15|U|Devouring Light
 00|00|00|00|00|M15|U|Diffusion Sliver
