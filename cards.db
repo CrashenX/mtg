@@ -6369,7 +6369,7 @@
 00|00|00|00|00|CNS|M|Marchesa, the Black Rose
 00|00|00|00|00|CNS|M|Mirari's Wake
 00|00|00|00|00|CNS|M|Muzzio, Visionary Architect
-00|00|00|00|00|CNS|M|Pernicious Deed
+01|00|00|00|00|CNS|M|Pernicious Deed
 00|00|00|00|00|CNS|M|Phage the Untouchable
 00|00|00|00|00|CNS|M|Pristine Angel
 00|00|00|00|00|CNS|M|Scourge of the Throne
@@ -6389,7 +6389,7 @@
 00|00|00|00|00|CNS|R|Dimir Doppelganger
 00|00|00|00|00|CNS|R|Drakestown Forgotten
 00|00|00|00|00|CNS|R|Edric, Spymaster of Trest
-00|00|00|00|00|CNS|R|Exploration
+01|00|00|00|00|CNS|R|Exploration
 00|00|00|00|00|CNS|R|Grenzo's Rebuttal
 00|00|00|00|00|CNS|R|Grenzo, Dungeon Warden
 00|00|00|00|00|CNS|R|Heartless Hidetsugu
@@ -10917,7 +10917,7 @@
 00|00|00|00|00|JOU|C|War-Wing Siren
 00|00|00|00|00|JOU|M|Ajani, Mentor of Heroes
 00|00|00|00|00|JOU|M|Athreos, God of Passage
-00|00|00|00|00|JOU|M|Godsend
+01|00|00|00|00|JOU|M|Godsend
 00|00|00|00|00|JOU|M|Iroas, God of Victory
 00|00|00|00|00|JOU|M|Keranos, God of Storms
 00|00|00|00|00|JOU|M|Kruphix, God of Horizons
@@ -14329,6 +14329,32 @@
 03|00|00|00|00|MBS|U|Vedalken Infuser
 04|00|00|00|00|MBS|U|Viridian Claw
 02|00|00|00|00|MBS|U|Viridian Corrupter
+00|00|00|00|00|MD1|C|Duress
+00|00|00|00|00|MD1|C|Raise the Alarm
+00|00|00|00|00|MD1|C|Soul Warden
+00|00|00|00|00|MD1|L|Plains
+00|00|00|00|00|MD1|L|Swamp
+00|00|00|00|00|MD1|M|Elspeth, Knight-Errant
+00|00|00|00|00|MD1|M|Sword of Feast and Famine
+00|00|00|00|00|MD1|R|Caves of Koilos
+00|00|00|00|00|MD1|R|City of Brass
+00|00|00|00|00|MD1|R|Honor of the Pure
+04|00|00|00|00|MD1|R|Isolated Chapel
+00|00|00|00|00|MD1|R|Kataki, War's Wage
+00|00|00|00|00|MD1|R|Vault of the Archangel
+00|00|00|00|00|MD1|R|Windbrisk Heights
+00|00|00|00|00|MD1|U|Burrenton Forge-Tender
+00|00|00|00|00|MD1|U|Dismember
+00|00|00|00|00|MD1|U|Ghost Quarter
+00|00|00|00|00|MD1|U|Inquisition of Kozilek
+00|00|00|00|00|MD1|U|Intangible Virtue
+00|00|00|00|00|MD1|U|Lingering Souls
+00|00|00|00|00|MD1|U|Path to Exile
+00|00|00|00|00|MD1|U|Relic of Progenitus
+00|00|00|00|00|MD1|U|Shrine of Loyal Legions
+00|00|00|00|00|MD1|U|Spectral Procession
+00|00|00|00|00|MD1|U|Tidehollow Sculler
+00|00|00|00|00|MD1|U|Zealous Persecution
 00|00|00|00|00|MIR|C|Agility
 00|00|00|00|00|MIR|C|Alarum
 00|00|00|00|00|MIR|C|Armor of Thorns
@@ -21555,6 +21581,41 @@
 00|00|00|00|00|V12|M|Urborg, Tomb of Yawgmoth
 00|00|00|00|00|V12|M|Vesuva
 03|00|00|00|00|V12|M|Windbrisk Heights
+00|00|00|00|00|V13|M|Akroma's Vengeance
+00|00|00|00|00|V13|M|Chainer's Edict
+00|00|00|00|00|V13|M|Chameleon Colossus
+00|00|00|00|00|V13|M|Char
+00|00|00|00|00|V13|M|Cruel Ultimatum
+00|00|00|00|00|V13|M|Dark Ritual
+00|00|00|00|00|V13|M|Fact or Fiction
+00|00|00|00|00|V13|M|Fyndhorn Elves
+00|00|00|00|00|V13|M|Gilded Lotus
+00|00|00|00|00|V13|M|Green Sun's Zenith
+00|00|00|00|00|V13|M|Hymn to Tourach
+00|00|00|00|00|V13|M|Impulse
+00|00|00|00|00|V13|M|Ink-Eyes, Servant of Oni
+00|00|00|00|00|V13|M|Jace, the Mind Sculptor
+00|00|00|00|00|V13|M|Kessig Wolf Run
+00|00|00|00|00|V13|M|Swords to Plowshares
+00|00|00|00|00|V13|M|Tangle Wire
+00|00|00|00|00|V13|M|Thran Dynamo
+00|00|00|00|00|V13|M|Venser, Shaper Savant
+00|00|00|00|00|V13|M|Wall of Blossoms
+01|00|00|00|00|V14|M|Armageddon
+00|00|00|00|00|V14|M|Burning of Xinye
+00|00|00|00|00|V14|M|Cataclysm
+00|00|00|00|00|V14|M|Child of Alara
+00|00|00|00|00|V14|M|Decree of Annihilation
+00|00|00|00|00|V14|M|Firespout
+00|00|00|00|00|V14|M|Fracturing Gust
+00|00|00|00|00|V14|M|Living Death
+00|00|00|00|00|V14|M|Martial Coup
+00|00|00|00|00|V14|M|Rolling Earthquake
+00|00|00|00|00|V14|M|Smokestack
+00|00|00|00|00|V14|M|Terminus
+00|00|00|00|00|V14|M|Upheaval
+00|00|00|00|00|V14|M|Virtue's Ruin
+01|00|00|00|00|V14|M|Wrath of God
 00|00|00|00|00|VIS|C|Betrayal
 00|00|00|00|00|VIS|C|Breezekeeper
 00|00|00|00|00|VIS|C|Bull Elephant
