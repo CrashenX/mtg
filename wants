@@ -9,21 +9,25 @@
 02|00|3ED|Bayou
 04|00|NPH|Beast Within
 04|00|M10|Birds of Paradise
+04|00|SOM|Blackcleave Cliffs
 04|00|MMA|Blinkmoth Nexus
 04|00|MMA|Bonesplitter
 04|00|AVR|Cavern of Souls
 04|00|MMA|Chalice of the Void
 04|00|ISD|Champion of the Parish
 04|00|ISD|Clifftop Retreat
+04|00|SOM|Copperline Gorge
 04|00|5DN|Cranial Plating
 02|00|AVR|Craterhoof Behemoth
 04|00|MMA|Dark Confidant
-04|00|DST|Darksteel Citadel
+04|00|SOM|Darkslick Shores
 04|00|RTR|Deathrite Shaman
 04|00|RTR|Detention Sphere
 04|00|MRD|Disciple of the Vault
 04|00|MIR|Disenchant
 04|00|NPH|Dispatch
+04|00|M13|Dragonskull Summit
+04|00|M13|Drowned Catacomb
 04|00|MMA|Echoing Truth
 02|00|MMA|Elspeth, Knight-Errant
 04|00|MMA|Engineered Explosives
@@ -45,7 +49,7 @@
 04|00|M13|Glacial Fortress
 04|00|MMA|Glen Elendra Archmage
 04|00|MMA|Glimmervoid
-05|00|GTC|Godless Shrine
+04|00|GTC|Godless Shrine
 04|00|DKA|Grafdigger's Cage
 04|00|RTR|Hallowed Fountain
 04|00|NPH|Hex Parasite
@@ -77,21 +81,34 @@
 00|99|ZEN|Mountain
 04|00|SOM|Mox Opal
 04|00|M14|Mutavault
+01|00|V14|Armageddon
+01|00|JOU|Godsend
+01|00|CNS|Pernicious Deed
+01|00|V14|Wrath of God
 04|00|M13|Oblivion Ring
 04|00|MMA|Paradise Mantle
 04|00|MMA|Path to Exile
 04|00|M12|Phantasmal Image
-04|00|MBS|Phyrexian Revoker
 04|00|RTR|Pithing Needle
 00|99|ZEN|Plains
 04|00|NPH|Puresteel Paladin
 04|00|M13|Rancor
+04|00|SOM|Razorverge Thicket
 04|00|MMA|Relic of Progenitus
 04|00|RTR|Rest in Peace
 05|00|AVR|Restoration Angel
+04|00|M13|Rootbound Crag
+04|00|JOU|Aegis of the Gods
+01|00|CNS|Exploration
+04|00|KTK|Flooded Strand
+04|00|MD1|Isolated Chapel
+04|00|M15|Phyrexian Revoker
+02|00|BNG|Spirit of the Labyrinth
+04|00|KTK|Windswept Heath
 02|00|3ED|Savannah
 04|00|M14|Scavenging Ooze
 01|00|3ED|Scrubland
+04|00|SOM|Seachrome Coast
 04|00|MRD|Seat of the Synod
 04|00|M13|Serra Avenger
 05|00|AVR|Silverblade Paladin
@@ -119,16 +136,9 @@
 04|00|MRD|Thoughtcast
 04|00|MMA|Tidehollow Sculler
 04|00|M13|Tormod's Crypt
+04|00|M15|Ajani's Pridemate
+04|00|M15|Darksteel Citadel
 04|00|NPH|Vault Skirge
 04|00|MRD|Vault of Whispers
-04|00|ONS|Windswept Heath
 04|00|M14|Witchstalker
 04|00|ISD|Woodland Cemetery
-04|00|M13|Drowned Catacomb
-04|00|M13|Dragonskull Summit
-04|00|M13|Rootbound Crag
-04|00|SOM|Blackcleave Cliffs
-04|00|SOM|Copperline Gorge
-04|00|SOM|Darkslick Shores
-04|00|SOM|Razorverge Thicket
-04|00|SOM|Seachrome Coast

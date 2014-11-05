@@ -88,6 +88,9 @@ my %sets = ( "LEA" => { order => 199308,
            , "M14" => { order => 201307,
                         name => 'Magic 2014 Core Set'
                       }
+           , "M15" => { order => 201407,
+                        name => 'Magic 2015 Core Set'
+                      }
            , "ARN" => { order => 199312,
                         name => 'Arabian Nights'
                       }
@@ -346,6 +349,12 @@ my %sets = ( "LEA" => { order => 199308,
            , "V12" => { order => 201208,
                         name => 'From the Vault: Realms'
                       }
+           , "V13" => { order => 201308,
+                        name => 'From the Vault: Twenty'
+                      }
+           , "V14" => { order => 201408,
+                        name => 'From the Vault: Annihilation'
+                      }
            , "HOP" => { order => 200909,
                         name => 'Planechase'
                       }
@@ -367,6 +376,12 @@ my %sets = ( "LEA" => { order => 199308,
            , "CMA" => { order => 201211,
                         name => 'Commander\'s Arsenal'
                       }
+           , "C13" => { order => 201311,
+                        name => 'Commander 2013'
+                      }
+           , "CNS" => { order => 201406,
+                        name => 'Conspiracy'
+                      }
            , "POR" => { order => 199706,
                         name => 'Portal'
                       }
@@ -384,6 +399,18 @@ my %sets = ( "LEA" => { order => 199308,
                       }
            , "THS" => { order => 201309,
                         name => 'Theros'
+                      }
+           , "BNG" => { order => 201402,
+                        name => 'Born of the Gods'
+                      }
+           , "JOU" => { order => 201404,
+                        name => 'Journey into Nyx'
+                      }
+           , "KTK" => { order => 201409,
+                        name => 'Khans of Tarkir'
+                      }
+           , "MD1" => { order => 201405,
+                        name => 'Modern Event Deck'
                       }
            );
 
@@ -460,8 +487,8 @@ sub print_dbox_haves()
           "Promo,Signed,Edition,Condition,Language\n";
 
     for my $name (sort keys %$cards) {
-        for my $set (sort set_sort keys $cards->{$name}{set}) {
-            for my $type (sort keys $cards->{$name}{set}{$set}) {
+        for my $set (sort set_sort keys %{$cards->{$name}{set}}) {
+            for my $type (sort keys %{$cards->{$name}{set}{$set}}) {
                 my $foil = "foil" eq $type ? "foil" : "";
                 my $prmo = "prmo" eq $type ? "promo" : "";
                 my $text = "text" eq $type ? "textless" : "";
@@ -494,8 +521,8 @@ sub print_dbox_wants()
           "Promo,Signed,Edition,Condition,Language\n";
 
     for my $name (sort keys %$cards) {
-        for my $set (sort set_sort keys $cards->{$name}{set}) {
-            for my $type (sort keys $cards->{$name}{set}{$set}) {
+        for my $set (sort set_sort keys %{$cards->{$name}{set}}) {
+            for my $type (sort keys %{$cards->{$name}{set}{$set}}) {
                 my $foil = "foil" eq $type ? "foil" : "";
                 my $prmo = "prmo" eq $type ? "promo" : "";
                 my $text = "text" eq $type ? "textless" : "";
@@ -525,8 +552,8 @@ sub motl_print_list()
     my %list;
 
     for my $name (sort keys %$cards) {
-        for my $set (sort set_sort keys $cards->{$name}{set}) {
-            for my $type (sort keys $cards->{$name}{set}{$set}) {
+        for my $set (sort set_sort keys %{$cards->{$name}{set}}) {
+            for my $type (sort keys %{$cards->{$name}{set}{$set}}) {
                 my $w = $cards->{$name}{set}{$set}{$type};
                 my $count = $w->{$a} - $w->{$b};
                 $count -= $w->{$c} unless($c eq "");
@@ -772,11 +799,11 @@ sub update_wants()
                  + $cards->{$name}{shared};
         my $hold = $need <= $invo ? $need : $invo; # hold what you need/have
         # Prefer regular printing of card
-        for my $set (sort set_sort keys $cards->{$name}{set}) {
+        for my $set (sort set_sort keys %{$cards->{$name}{set}}) {
             last if(0 == $hold);
             $hold = &hold_cards($cards, $name, $set, "norm", $hold);
         }
-        for my $set (sort set_sort keys $cards->{$name}{set}) {
+        for my $set (sort set_sort keys %{$cards->{$name}{set}}) {
             last if(0 == $hold);
             $hold = &hold_cards($cards, $name, $set, "text", $hold);
             $hold = &hold_cards($cards, $name, $set, "prmo", $hold);
@@ -786,7 +813,7 @@ sub update_wants()
         # Need more than current inventory + wishlist; increase wishlist
         if($need > ($invo + $wish)) {
             # add needs to first set returned by sort
-            my @set = (sort set_sort keys $cards->{$name}{set});
+            my @set = (sort set_sort keys %{$cards->{$name}{set}});
             my $n = $need - ($invo + $wish);
             $cards->{$name}{wishlist} += $n;
             $cards->{$name}{set}{$set[0]}{norm}{want} += $n;
