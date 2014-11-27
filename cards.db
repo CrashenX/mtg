@@ -831,7 +831,7 @@
 00|00|00|00|00|3ED|R|Royal Assassin
 02|00|00|00|00|3ED|R|Savannah
 00|00|00|00|00|3ED|R|Savannah Lions
-01|00|00|00|00|3ED|R|Scrubland
+02|00|00|00|00|3ED|R|Scrubland
 00|00|00|00|00|3ED|R|Sedge Troll
 00|00|00|00|00|3ED|R|Serendib Efreet
 00|00|00|00|00|3ED|R|Shivan Dragon
@@ -1482,7 +1482,7 @@
 00|00|00|00|00|5DN|U|Skullcage
 00|00|00|00|00|5DN|U|Skyhunter Skirmisher
 00|00|00|00|00|5DN|U|Spinal Parasite
-02|00|00|00|00|5DN|U|Steelshaper's Gift
+03|00|00|00|00|5DN|U|Steelshaper's Gift
 00|00|00|00|00|5DN|U|Synod Centurion
 00|00|00|00|00|5DN|U|Tel-Jilad Justice
 00|00|00|00|00|5DN|U|Vanquish
@@ -4745,7 +4745,7 @@
 00|00|00|00|00|BNG|R|Satyr Firedancer
 00|00|00|00|00|BNG|R|Scourge of Skola Vale
 00|00|00|00|00|BNG|R|Silent Sentinel
-02|00|00|00|00|BNG|R|Spirit of the Labyrinth
+04|00|00|00|00|BNG|R|Spirit of the Labyrinth
 00|00|00|00|00|BNG|R|Temple of Enlightenment
 00|00|00|00|00|BNG|R|Temple of Malice
 00|00|00|00|00|BNG|R|Temple of Plenty
@@ -5645,7 +5645,7 @@
 00|00|00|00|00|C14|R|Chaos Warp
 00|00|00|00|00|C14|R|Collective Unconscious
 00|00|00|00|00|C14|R|Comeuppance
-00|00|00|00|00|C14|R|Containment Priest
+04|00|00|00|00|C14|R|Containment Priest
 00|00|00|00|00|C14|R|Creeperhulk
 00|00|00|00|00|C14|R|Crown of Doom
 00|00|00|00|00|C14|R|Crypt Ghast
@@ -6702,7 +6702,7 @@
 00|00|00|00|00|CNS|R|Brago, King Eternal
 00|00|00|00|00|CNS|R|Canal Dredger
 00|00|00|00|00|CNS|R|Cogwork Grinder
-00|00|00|00|00|CNS|R|Council's Judgment
+04|00|00|00|00|CNS|R|Council's Judgment
 00|00|00|00|00|CNS|R|Custodi Soulbinders
 00|00|00|00|00|CNS|R|Dack's Duplicate
 00|00|00|00|00|CNS|R|Deal Broker
@@ -6812,7 +6812,7 @@
 00|00|00|00|00|CON|C|Aven Squire
 00|00|00|00|00|CON|C|Aven Trailblazer
 00|00|00|00|00|CON|C|Beacon Behemoth
-00|00|00|00|00|CON|C|Bone Saw
+04|00|00|00|00|CON|C|Bone Saw
 00|00|00|00|00|CON|C|Brackwater Elemental
 00|00|00|00|00|CON|C|Canyon Minotaur
 00|00|00|00|00|CON|C|Constricting Tendrils
@@ -8302,7 +8302,7 @@
 04|00|00|00|00|DKA|R|Thalia, Guardian of Thraben
 00|00|00|00|00|DKA|R|Thraben Doomsayer
 00|00|00|00|00|DKA|R|Tovolar's Magehunter
-00|00|00|00|00|DKA|R|Vault of the Archangel
+01|00|00|00|00|DKA|R|Vault of the Archangel
 00|00|00|00|00|DKA|R|Wolfbitten Captive
 00|00|00|00|00|DKA|R|Zombie Apocalypse
 00|00|00|00|00|DKA|U|Afflicted Deserter
@@ -8647,7 +8647,7 @@
 00|00|00|00|00|DST|C|Arcbound Hybrid
 00|00|00|00|00|DST|C|Arcbound Stinger
 00|00|00|00|00|DST|C|Arcbound Worker
-00|00|00|00|00|DST|C|Auriok Glaivemaster
+04|00|00|00|00|DST|C|Auriok Glaivemaster
 00|00|00|00|00|DST|C|Barbed Lightning
 00|00|00|00|00|DST|C|Burden of Greed
 00|00|00|00|00|DST|C|Chittering Rats
@@ -9767,7 +9767,7 @@
 01|00|01|00|00|GTC|R|Foundry Champion
 00|00|00|00|00|GTC|R|Frontline Medic
 00|00|00|00|00|GTC|R|Glaring Spotlight
-03|00|00|00|00|GTC|R|Godless Shrine
+04|00|00|00|00|GTC|R|Godless Shrine
 00|00|00|00|00|GTC|R|Gruul Ragebeast
 01|00|00|00|00|GTC|R|Gyre Sage
 00|00|00|00|00|GTC|R|High Priest of Penance
@@ -14668,7 +14668,7 @@
 00|00|00|00|00|MD1|U|Burrenton Forge-Tender
 00|00|00|00|00|MD1|U|Dismember
 00|00|00|00|00|MD1|U|Ghost Quarter
-00|00|00|00|00|MD1|U|Inquisition of Kozilek
+04|00|00|00|00|MD1|U|Inquisition of Kozilek
 00|00|00|00|00|MD1|U|Intangible Virtue
 00|00|00|00|00|MD1|U|Lingering Souls
 00|00|00|00|00|MD1|U|Path to Exile
@@ -14676,7 +14676,7 @@
 00|00|00|00|00|MD1|U|Shrine of Loyal Legions
 00|00|00|00|00|MD1|U|Spectral Procession
 00|00|00|00|00|MD1|U|Tidehollow Sculler
-00|00|00|00|00|MD1|U|Zealous Persecution
+04|00|00|00|00|MD1|U|Zealous Persecution
 00|00|00|00|00|MIR|C|Agility
 00|00|00|00|00|MIR|C|Alarum
 00|00|00|00|00|MIR|C|Armor of Thorns
@@ -17597,7 +17597,7 @@
 00|00|00|00|00|PLC|R|Teneb, the Harvester
 00|00|00|00|00|PLC|R|Timbermare
 00|00|00|00|00|PLC|R|Torchling
-00|00|00|00|00|PLC|R|Urborg, Tomb of Yawgmoth
+01|00|00|00|00|PLC|R|Urborg, Tomb of Yawgmoth
 00|00|00|00|00|PLC|R|Voidstone Gargoyle
 00|00|00|00|00|PLC|R|Volcano Hellion
 00|00|00|00|00|PLC|R|Vorosh, the Hunter
@@ -18909,7 +18909,7 @@
 00|00|00|00|00|RTR|U|Izzet Charm
 01|00|00|00|00|RTR|U|Izzet Keyrune
 00|00|00|00|00|RTR|U|Izzet Staticaster
-04|00|00|00|00|RTR|U|Judge's Familiar
+06|00|00|00|00|RTR|U|Judge's Familiar
 01|00|00|00|00|RTR|U|Korozda Guildmage
 04|00|00|00|00|RTR|U|Lyev Skyknight
 00|00|00|00|00|RTR|U|Minotaur Aggressor
@@ -22571,7 +22571,7 @@
 00|00|00|00|00|ZEN|R|Luminarch Ascension
 00|00|00|00|00|ZEN|R|Magosi, the Waterveil
 02|00|00|00|00|ZEN|R|Malakir Bloodwitch
-03|00|00|00|00|ZEN|R|Marsh Flats
+04|00|00|00|00|ZEN|R|Marsh Flats
 00|00|00|00|00|ZEN|R|Misty Rainforest
 00|00|00|00|00|ZEN|R|Oracle of Mul Daya
 01|00|00|00|00|ZEN|R|Oran-Rief, the Vastwood
