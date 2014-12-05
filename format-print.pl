@@ -379,6 +379,9 @@ my %sets = ( "LEA" => { order => 199308,
            , "C13" => { order => 201311,
                         name => 'Commander 2013'
                       }
+           , "C14" => { order => 201411,
+                        name => 'Commander 2014'
+                      }
            , "CNS" => { order => 201406,
                         name => 'Conspiracy'
                       }
