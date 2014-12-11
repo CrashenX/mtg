@@ -5701,7 +5701,7 @@
 00|00|00|00|00|C14|R|Marshal's Anthem
 00|00|00|00|00|C14|R|Martial Coup
 00|00|00|00|00|C14|R|Masked Admirers
-00|00|00|00|00|C14|R|Masterwork of Ingenuity
+01|00|00|00|00|C14|R|Masterwork of Ingenuity
 00|00|00|00|00|C14|R|Mentor of the Meek
 00|00|00|00|00|C14|R|Mobilization
 00|00|00|00|00|C14|R|Moonsilver Spear
@@ -9785,7 +9785,7 @@
 00|00|00|00|00|GTC|R|Realmwright
 00|00|00|00|00|GTC|R|Rubblebelt Raiders
 00|00|00|00|00|GTC|R|Rubblehulk
-00|00|00|00|00|GTC|R|Sacred Foundry
+01|00|00|00|00|GTC|R|Sacred Foundry
 00|00|00|00|00|GTC|R|Sepulchral Primordial
 00|00|00|00|00|GTC|R|Signal the Clans
 01|00|00|00|00|GTC|R|Simic Manipulator
@@ -11036,7 +11036,7 @@
 01|00|00|00|00|ISD|M|Balefire Dragon
 00|00|00|00|00|ISD|M|Essence of the Wild
 02|00|00|00|00|ISD|M|Garruk Relentless
-00|00|00|00|00|ISD|M|Geist of Saint Traft
+04|00|00|00|00|ISD|M|Geist of Saint Traft
 00|00|00|00|00|ISD|M|Grimgrin, Corpse-Born
 00|00|00|00|00|ISD|M|Grimoire of the Dead
 00|00|00|00|00|ISD|M|Liliana of the Veil
@@ -11089,7 +11089,7 @@
 04|00|00|00|00|ISD|R|Mentor of the Meek
 00|00|00|00|00|ISD|R|Mindshrieker
 01|00|00|00|00|ISD|R|Moldgraf Monstrosity
-00|00|00|00|00|ISD|R|Moorland Haunt
+01|00|00|00|00|ISD|R|Moorland Haunt
 00|00|00|00|00|ISD|R|Nephalia Drownyard
 00|00|00|00|00|ISD|R|Nevermore
 00|00|00|00|00|ISD|R|Parallel Lives
@@ -11241,7 +11241,7 @@
 00|00|00|00|00|JOU|M|Athreos, God of Passage
 01|00|00|00|00|JOU|M|Godsend
 00|00|00|00|00|JOU|M|Iroas, God of Victory
-00|00|00|00|00|JOU|M|Keranos, God of Storms
+01|00|00|00|00|JOU|M|Keranos, God of Storms
 00|00|00|00|00|JOU|M|Kruphix, God of Horizons
 00|00|00|00|00|JOU|M|Pharika, God of Affliction
 00|00|00|00|00|JOU|M|Prophetic Flamespeaker
@@ -11611,7 +11611,7 @@
 00|00|00|00|00|KTK|R|Ankle Shanker
 00|00|00|00|00|KTK|R|Avalanche Tusker
 00|00|00|00|00|KTK|R|Bloodsoaked Champion
-00|00|00|00|00|KTK|R|Bloodstained Mire
+02|00|00|00|00|KTK|R|Bloodstained Mire
 00|00|00|00|00|KTK|R|Butcher of the Horde
 00|00|00|00|00|KTK|R|Crackling Doom
 00|00|00|00|00|KTK|R|Crater's Claws
@@ -11641,7 +11641,7 @@
 00|00|00|00|00|KTK|R|Meandering Towershell
 00|00|00|00|00|KTK|R|Mindswipe
 00|00|00|00|00|KTK|R|Necropolis Fiend
-00|00|00|00|00|KTK|R|Polluted Delta
+02|00|00|00|00|KTK|R|Polluted Delta
 00|00|00|00|00|KTK|R|Rakshasa Deathdealer
 00|00|00|00|00|KTK|R|Rakshasa Vizier
 00|00|00|00|00|KTK|R|Rattleclaw Mystic
@@ -11658,7 +11658,7 @@
 00|00|00|00|00|KTK|R|Utter End
 00|00|00|00|00|KTK|R|Villainous Wealth
 04|00|00|00|00|KTK|R|Windswept Heath
-00|00|00|00|00|KTK|R|Wooded Foothills
+02|00|00|00|00|KTK|R|Wooded Foothills
 00|00|00|00|00|KTK|U|Abzan Battle Priest
 00|00|00|00|00|KTK|U|Abzan Charm
 00|00|00|00|00|KTK|U|Abzan Falconer
@@ -13882,7 +13882,7 @@
 00|00|00|00|00|M13|M|Primordial Hydra
 00|00|00|00|00|M13|M|Serra Avatar
 00|00|00|00|00|M13|M|Sublime Archangel
-00|00|00|00|00|M13|M|Thundermaw Hellkite
+01|00|00|00|00|M13|M|Thundermaw Hellkite
 00|00|00|00|00|M13|M|Vampire Nocturnus
 00|00|00|00|00|M13|M|Worldfire
 00|00|00|00|00|M13|R|Battle of Wits
@@ -15187,7 +15187,7 @@
 00|00|00|00|00|MMA|U|Dakmor Salvage
 01|00|00|00|00|MMA|U|Death Rattle
 01|00|00|00|00|MMA|U|Desperate Ritual
-00|00|00|00|00|MMA|U|Electrolyze
+03|00|00|00|00|MMA|U|Electrolyze
 01|00|00|00|00|MMA|U|Epochrasite
 01|00|00|00|00|MMA|U|Esperzoa
 00|00|00|00|00|MMA|U|Etched Oracle
@@ -15200,7 +15200,7 @@
 01|00|00|00|00|MMA|U|Incremental Growth
 04|00|00|00|00|MMA|U|Kitchen Finks
 04|00|00|00|00|MMA|U|Krosan Grip
-00|00|00|00|00|MMA|U|Lightning Helix
+04|00|00|00|00|MMA|U|Lightning Helix
 00|00|00|00|00|MMA|U|Mad Auntie
 00|01|00|00|00|MMA|U|Manamorphose
 00|00|00|00|00|MMA|U|Marsh Flitter
@@ -18442,7 +18442,7 @@
 00|00|00|00|00|RAV|U|Psychic Drain
 01|00|00|00|00|RAV|U|Putrefy
 00|00|00|00|00|RAV|U|Recollect
-03|00|00|00|00|RAV|U|Remand
+04|00|00|00|00|RAV|U|Remand
 00|00|00|00|00|RAV|U|Reroute
 00|00|00|00|00|RAV|U|Ribbons of Night
 00|00|00|00|00|RAV|U|Rolling Spoil
@@ -18859,7 +18859,7 @@
 00|00|00|00|00|RTR|R|Mercurial Chemister
 00|00|00|00|00|RTR|R|Mizzium Mortars
 00|00|00|00|00|RTR|R|Nivmagus Elemental
-00|00|00|00|00|RTR|R|Overgrown Tomb
+01|00|00|00|00|RTR|R|Overgrown Tomb
 00|00|00|00|00|RTR|R|Pack Rat
 00|00|00|00|00|RTR|R|Palisade Giant
 04|00|00|00|00|RTR|R|Pithing Needle
@@ -18869,7 +18869,7 @@
 00|00|00|00|00|RTR|R|Search the City
 00|00|00|00|00|RTR|R|Slaughter Games
 00|00|00|00|00|RTR|R|Sphinx of the Chimes
-00|00|00|00|00|RTR|R|Steam Vents
+02|00|00|00|00|RTR|R|Steam Vents
 00|00|00|00|00|RTR|R|Supreme Verdict
 04|00|00|00|00|RTR|R|Temple Garden
 00|00|00|00|00|RTR|R|Underworld Connections
