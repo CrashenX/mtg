@@ -6724,7 +6724,7 @@
 00|00|00|00|00|CNS|R|Paliano, the High City
 00|00|00|00|00|CNS|R|Plea for Power
 00|00|00|00|00|CNS|R|Realm Seekers
-00|00|00|00|00|CNS|R|Reflecting Pool
+04|00|00|00|00|CNS|R|Reflecting Pool
 00|00|00|00|00|CNS|R|Reign of the Pit
 00|00|00|00|00|CNS|R|Reya Dawnbringer
 00|00|00|00|00|CNS|R|Rout
@@ -6912,7 +6912,7 @@
 00|00|00|00|00|CON|R|Wall of Reverence
 00|00|00|00|00|CON|R|Worldheart Phoenix
 00|00|00|00|00|CON|U|Aerie Mystics
-00|00|00|00|00|CON|U|Ancient Ziggurat
+02|00|00|00|00|CON|U|Ancient Ziggurat
 00|00|00|00|00|CON|U|Celestial Purge
 00|00|00|00|00|CON|U|Controlled Instincts
 00|00|00|00|00|CON|U|Corrupted Roots
@@ -7995,7 +7995,7 @@
 01|00|00|00|00|DGM|U|Rot Farm Skeleton
 02|00|00|00|00|DGM|U|Scab-Clan Giant
 01|00|00|00|00|DGM|U|Showstopper
-01|00|00|00|00|DGM|U|Sin Collector
+04|00|00|00|00|DGM|U|Sin Collector
 01|01|00|00|00|DGM|U|Species Gorger
 01|00|00|00|00|DGM|U|Spike Jester
 02|00|00|00|00|DGM|U|Toil // Trouble
@@ -8100,7 +8100,7 @@
 00|00|00|00|00|DIS|R|Novijen Sages
 00|00|00|00|00|DIS|R|Odds // Ends
 00|00|00|00|00|DIS|R|Omnibian
-00|00|00|00|00|DIS|R|Pillar of the Paruns
+02|00|00|00|00|DIS|R|Pillar of the Paruns
 00|00|00|00|00|DIS|R|Pride of the Clouds
 03|00|00|00|00|DIS|R|Proclamation of Rebirth
 00|00|00|00|00|DIS|R|Proper Burial
@@ -8257,7 +8257,7 @@
 00|00|00|00|00|DKA|M|Beguiler of Wills
 00|00|00|00|00|DKA|M|Drogskol Reaver
 01|00|00|00|00|DKA|M|Elbrus, the Binding Blade
-00|00|00|00|00|DKA|M|Falkenrath Aristocrat
+04|00|00|00|00|DKA|M|Falkenrath Aristocrat
 00|00|00|00|00|DKA|M|Havengul Lich
 00|00|00|00|00|DKA|M|Helvault
 00|00|00|00|00|DKA|M|Huntmaster of the Fells
@@ -9824,7 +9824,7 @@
 00|00|00|00|00|GTC|U|Duskmantle Guildmage
 04|00|00|00|00|GTC|U|Dying Wish
 02|00|00|00|00|GTC|U|Elusive Krasis
-00|00|00|00|00|GTC|U|Experiment One
+04|00|00|00|00|GTC|U|Experiment One
 09|00|00|00|00|GTC|U|Firefist Striker
 00|00|00|00|00|GTC|U|Fortress Cyclops
 01|00|00|00|00|GTC|U|Frenzied Tilling
@@ -11591,7 +11591,7 @@
 00|00|00|00|00|KTK|C|Whirlwind Adept
 00|00|00|00|00|KTK|C|Wind-Scarred Crag
 00|00|00|00|00|KTK|C|Woolly Loxodon
-00|00|00|00|00|KTK|M|Anafenza, the Foremost
+03|00|00|00|00|KTK|M|Anafenza, the Foremost
 00|00|00|00|00|KTK|M|Ashcloud Phoenix
 00|00|00|00|00|KTK|M|Clever Impersonator
 00|00|00|00|00|KTK|M|Empty the Pits
@@ -11635,7 +11635,7 @@
 00|00|00|00|00|KTK|R|Jeskai Ascendancy
 00|00|00|00|00|KTK|R|Kheru Lich Lord
 00|00|00|00|00|KTK|R|Kheru Spellsnatcher
-00|00|00|00|00|KTK|R|Mantis Rider
+04|00|00|00|00|KTK|R|Mantis Rider
 00|00|00|00|00|KTK|R|Mardu Ascendancy
 00|00|00|00|00|KTK|R|Master of Pearls
 00|00|00|00|00|KTK|R|Meandering Towershell
@@ -11649,7 +11649,7 @@
 00|00|00|00|00|KTK|R|Sage of the Inward Eye
 00|00|00|00|00|KTK|R|Sagu Mauler
 00|00|00|00|00|KTK|R|Savage Knuckleblade
-00|00|00|00|00|KTK|R|Siege Rhino
+04|00|00|00|00|KTK|R|Siege Rhino
 00|00|00|00|00|KTK|R|Sultai Ascendancy
 00|00|00|00|00|KTK|R|Temur Ascendancy
 00|00|00|00|00|KTK|R|Thousand Winds
@@ -19860,8 +19860,8 @@
 02|00|00|00|00|SOM|R|Cerebral Eruption
 01|00|00|00|00|SOM|R|Chimeric Mass
 03|00|00|00|00|SOM|R|Contagion Engine
-00|00|00|00|00|SOM|R|Copperline Gorge
-00|00|00|00|00|SOM|R|Darkslick Shores
+02|00|00|00|00|SOM|R|Copperline Gorge
+02|00|00|00|00|SOM|R|Darkslick Shores
 00|00|00|00|00|SOM|R|Darksteel Juggernaut
 02|00|00|00|00|SOM|R|Dissipation Field
 00|00|00|00|00|SOM|R|Engulfing Slagwurm
@@ -19892,8 +19892,8 @@
 00|00|00|00|00|SOM|R|Prototype Portal
 00|01|00|00|00|SOM|R|Putrefax
 02|00|00|00|00|SOM|R|Ratchet Bomb
-00|00|00|00|00|SOM|R|Razorverge Thicket
-00|00|00|00|00|SOM|R|Seachrome Coast
+02|00|00|00|00|SOM|R|Razorverge Thicket
+02|00|00|00|00|SOM|R|Seachrome Coast
 03|00|00|00|00|SOM|R|Semblance Anvil
 01|00|00|00|00|SOM|R|Shape Anew
 01|00|00|00|00|SOM|R|Spikeshot Elder
