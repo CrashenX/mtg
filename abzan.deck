@@ -1,50 +1,51 @@
-01|00|Armageddon
-01|00|Cavern of Souls
-02|00|Crop Rotation
-01|00|Dauntless Escort
-01|00|Dryad Arbor
+# Creature (25)
+03|00|Deathrite Shaman
 02|00|Fauna Shaman
-01|00|Flagstones of Trokair
-07|00|Forest
+01|00|Gaddock Teeg
+04|00|Knight of the Reliquary
+04|00|Mother of Runes
+02|00|Noble Hierarch
+01|00|Qasali Pridemage
+01|00|Scavenging Ooze
+01|00|Scryb Ranger
+02|00|Stoneforge Mystic
+03|00|Thalia, Guardian of Thraben
+01|00|Ulvenwald Tracker
+# Artifact (2)
+01|00|Sword of Feast and Famine
+01|00|Umezawa's Jitte
+# Instant (4)
+04|00|Swords to Plowshares
+# Sorcery (4)
 04|00|Green Sun's Zenith
+# Enchantment (1)
+01|00|Sylvan Library
+# Planeswalker (1)
+01|00|Garruk Relentless
+# Land (23)
+02|00|Bayou
+01|00|Cavern of Souls
+01|00|Dryad Arbor
+01|00|Flagstones of Trokair
+01|00|Forest
 01|00|Horizon Canopy
 01|00|Karakas
-04|00|Knight of the Reliquary
+03|00|Marsh Flats
 01|00|Maze of Ith
-04|00|Mother of Runes
-04|00|Noble Hierarch
-01|00|Plains
-02|00|Qasali Pridemage
-02|00|Scavenging Ooze
-01|00|Scryb Ranger
-01|00|Sejiri Steppe
-01|00|Sunpetal Grove
-04|00|Swords to Plowshares
-01|00|Sylvan Library
-01|00|Sylvan Safekeeper
-03|00|Temple Garden
-01|00|Terravore
-03|00|Thalia, Guardian of Thraben
+02|00|Savannah
+01|00|Scrubland
 04|00|Wasteland
-# Sideboard
+04|00|Windswept Heath
+# Sideboard (15)
+02|00|Abrupt Decay
+01|00|Batterskull
 01|00|Bojuka Bog
-01|00|Choke
-01|00|Dauntless Escort
-01|00|Dismember
 02|00|Engineered Explosives
-01|00|Gaddock Teeg
+01|00|Garruk Relentless
 01|00|Life from the Loam
 01|00|Linvala, Keeper of Silence
+01|00|Oblivion Ring
 01|00|Qasali Pridemage
-03|00|Surgical Extraction
-01|00|Thrun, the Last Troll
-01|00|Ulvenwald Tracker
-# Maybeboard
-01|00|Dryad Militant
-01|00|Ghost Quarter
-01|00|Glacial Chasm
-01|00|Limited Resources
-04|00|Loxodon Smiter
-01|00|Mistveil Plains
-01|00|Riftstone Portal
-01|00|Slayers' Stronghold
+01|00|Scavenging Ooze
+01|00|Thalia, Guardian of Thraben
+02|00|Thoughtseize
