@@ -721,6 +721,7 @@ sub get_deck()
     my $cards = shift;
     my $file = shift;
     my @lines = read_file($file);
+    my $deck_shared = ();
     for my $card (@lines) {
         next if($card =~ /^#/ || $card =~ /^\s*\n$/);
         my @fields = split(/\|/,$card);
@@ -730,10 +731,14 @@ sub get_deck()
         chomp($name);
 
         die("Card $name DNE\n") if(!exists $cards->{$name});
-        if($cards->{$name}{shared} < $shared) {
-            $cards->{$name}{shared} = $shared;
-        }
+        $deck_shared->{$name} += $shared;
         $cards->{$name}{dedicated} += $dedicated;
+    }
+
+    for my $name (sort keys %$deck_shared) {
+        if($cards->{$name}{shared} < $deck_shared->{$name}) {
+            $cards->{$name}{shared} = $deck_shared->{$name};
+        }
     }
 }
 
