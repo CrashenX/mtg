@@ -6912,7 +6912,7 @@
 00|00|00|00|00|CON|R|Wall of Reverence
 00|00|00|00|00|CON|R|Worldheart Phoenix
 00|00|00|00|00|CON|U|Aerie Mystics
-02|00|00|00|00|CON|U|Ancient Ziggurat
+04|00|00|00|00|CON|U|Ancient Ziggurat
 00|00|00|00|00|CON|U|Celestial Purge
 00|00|00|00|00|CON|U|Controlled Instincts
 00|00|00|00|00|CON|U|Corrupted Roots
@@ -21111,7 +21111,7 @@
 00|00|00|00|00|TSP|R|Pulmonic Sliver
 00|00|00|00|00|TSP|R|Reiterate
 00|00|00|00|00|TSP|R|Restore Balance
-00|00|00|00|00|TSP|R|Saffi Eriksdotter
+02|00|00|00|00|TSP|R|Saffi Eriksdotter
 00|00|00|00|00|TSP|R|Sarpadian Empires, Vol. VII
 00|00|00|00|00|TSP|R|Scion of the Ur-Dragon
 00|00|00|00|00|TSP|R|Sedge Sliver
