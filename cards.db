@@ -8340,7 +8340,7 @@
 01|00|00|00|00|DKA|U|Shattered Perception
 00|00|00|00|00|DKA|U|Skirsdag Flayer
 00|00|00|00|00|DKA|U|Soul Seizer
-00|00|00|00|00|DKA|U|Strangleroot Geist
+01|00|00|00|00|DKA|U|Strangleroot Geist
 00|00|00|00|00|DKA|U|Stromkirk Captain
 00|00|00|00|00|DKA|U|Thraben Heretic
 00|00|00|00|00|DKA|U|Tower Geist
@@ -8503,7 +8503,7 @@
 02|00|00|00|00|DPA|U|Overrun
 00|00|00|00|00|DPA|U|Phantom Warrior
 00|00|00|00|00|DPA|U|Prodigal Pyromancer
-01|00|00|00|00|DPA|U|River Boa
+00|00|00|00|00|DPA|U|River Boa
 01|00|00|00|00|DPA|U|Roughshod Mentor
 00|00|00|00|00|DPA|U|The Rack
 00|00|00|00|00|DPA|U|Thieving Magpie
@@ -8652,7 +8652,7 @@
 00|00|00|00|00|DST|C|Burden of Greed
 00|00|00|00|00|DST|C|Chittering Rats
 00|00|00|00|00|DST|C|Crazed Goblin
-05|00|00|00|00|DST|C|Darksteel Citadel
+03|00|00|00|00|DST|C|Darksteel Citadel
 00|00|00|00|00|DST|C|Darksteel Ingot
 00|00|00|00|00|DST|C|Darksteel Pendant
 00|00|00|00|00|DST|C|Drill-Skimmer
@@ -9815,7 +9815,7 @@
 00|00|00|00|00|GTC|U|Cartel Aristocrat
 01|00|00|00|00|GTC|U|Cinder Elemental
 00|00|00|00|00|GTC|U|Coerced Confession
-01|00|00|00|00|GTC|U|Crackling Perimeter
+02|00|00|00|00|GTC|U|Crackling Perimeter
 01|00|00|00|00|GTC|U|Crowned Ceratok
 03|00|00|00|00|GTC|U|Debtor's Pulpit
 00|00|00|00|00|GTC|U|Dimir Charm
@@ -15069,14 +15069,14 @@
 02|01|00|00|00|MMA|C|Mogg War Marshal
 03|00|00|00|00|MMA|C|Moldervine Cloak
 02|01|00|00|00|MMA|C|Mothdust Changeling
-05|00|00|00|00|MMA|C|Myr Enforcer
+04|00|00|00|00|MMA|C|Myr Enforcer
 03|01|00|00|00|MMA|C|Nantuko Shaman
 03|00|00|00|00|MMA|C|Otherworldly Journey
 02|00|00|00|00|MMA|C|Pallid Mycoderm
 00|00|00|00|00|MMA|C|Peer Through Depths
 02|00|00|00|00|MMA|C|Penumbra Spider
 03|00|00|00|00|MMA|C|Peppersmoke
-02|00|00|00|00|MMA|C|Perilous Research
+00|00|00|00|00|MMA|C|Perilous Research
 01|00|00|00|00|MMA|C|Pestermite
 02|00|00|00|00|MMA|C|Petals of Insight
 03|00|00|00|00|MMA|C|Pyrite Spellbomb
@@ -20308,7 +20308,7 @@
 00|00|00|00|00|THS|U|Karametra's Acolyte
 01|00|00|00|00|THS|U|Keepsake Gorgon
 00|00|00|00|00|THS|U|Kragma Warcaller
-00|00|00|00|00|THS|U|Magma Jet
+01|00|00|00|00|THS|U|Magma Jet
 00|00|00|00|00|THS|U|Mogis's Marauder
 00|00|00|00|00|THS|U|Nemesis of Mortals
 01|00|00|00|00|THS|U|Nylea's Emissary
@@ -21398,7 +21398,7 @@
 00|00|00|00|00|ULG|C|Plague Beetle
 00|00|00|00|00|ULG|C|Pygmy Pyrosaur
 00|00|00|00|00|ULG|C|Radiant's Judgment
-01|00|00|00|00|ULG|C|Rancor
+00|00|00|00|00|ULG|C|Rancor
 00|00|00|00|00|ULG|C|Repopulate
 00|00|00|00|00|ULG|C|Sick and Tired
 00|00|00|00|00|ULG|C|Silk Net
@@ -22636,7 +22636,7 @@
 00|00|00|00|00|ZEN|U|Quest for the Gravelord
 04|00|00|00|00|ZEN|U|Quest for the Holy Relic
 03|00|00|00|00|ZEN|U|Ravenous Trap
-07|00|00|00|00|ZEN|U|River Boa
+04|00|00|00|00|ZEN|U|River Boa
 04|00|00|00|00|ZEN|U|Runeflare Trap
 03|00|00|00|00|ZEN|U|Seascape Aerialist
 00|00|00|00|00|ZEN|U|Sejiri Refuge
