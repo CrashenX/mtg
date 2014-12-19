@@ -12,9 +12,10 @@
 04|00|Path to Exile
 04|00|Remand
 # Lands (25)
-04|00|Arid Mesa
+02|00|Arid Mesa
 04|00|Celestial Colonnade
 01|00|Eiganjo Castle
+04|00|Flooded Strand
 02|00|Ghost Quarter
 01|00|Hallowed Fountain
 02|00|Island
@@ -22,7 +23,7 @@
 01|00|Mountain
 01|00|Plains
 01|00|Sacred Foundry
-04|00|Scalding Tarn
+02|00|Scalding Tarn
 02|00|Steam Vents
 01|00|Sulfur Falls
 # Sideboard
