@@ -93,7 +93,7 @@
 04|00|M13|Oblivion Ring
 04|00|MMA|Paradise Mantle
 04|00|MMA|Path to Exile
-01|00|CNS|Pernicious Deed
+02|00|CNS|Pernicious Deed
 04|00|M12|Phantasmal Image
 04|00|M15|Phyrexian Revoker
 04|00|RTR|Pithing Needle
@@ -120,7 +120,7 @@
 02|00|DKA|Sorin, Lord of Innistrad
 04|00|NPH|Spellskite
 04|00|MMA|Spellstutter Sprite
-02|00|BNG|Spirit of the Labyrinth
+04|00|BNG|Spirit of the Labyrinth
 04|00|5DN|Steelshaper's Gift
 04|00|WWK|Stoneforge Mystic
 04|00|ISD|Sulfur Falls
@@ -149,7 +149,6 @@
 04|00|ZEN|Verdant Catacombs
 04|00|3ED|Volcanic Island
 04|00|KTK|Windswept Heath
-04|00|M14|Witchstalker
 04|00|KTK|Wooded Foothills
 04|00|ISD|Woodland Cemetery
 01|00|V14|Wrath of God
