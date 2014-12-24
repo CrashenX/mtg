@@ -831,7 +831,7 @@
 00|00|00|00|00|3ED|R|Royal Assassin
 02|00|00|00|00|3ED|R|Savannah
 00|00|00|00|00|3ED|R|Savannah Lions
-02|00|00|00|00|3ED|R|Scrubland
+04|00|00|00|00|3ED|R|Scrubland
 00|00|00|00|00|3ED|R|Sedge Troll
 00|00|00|00|00|3ED|R|Serendib Efreet
 00|00|00|00|00|3ED|R|Shivan Dragon
@@ -3996,7 +3996,7 @@
 00|00|00|00|00|ARB|U|Thopter Foundry
 00|00|00|00|00|ARB|U|Unbender Tine
 00|00|00|00|00|ARB|U|Vengeful Rebirth
-00|00|00|00|00|ARB|U|Vithian Renegades
+01|00|00|00|00|ARB|U|Vithian Renegades
 00|00|00|00|00|ARB|U|Wall of Denial
 00|00|00|00|00|ARB|U|Zealous Persecution
 00|00|00|00|00|ARC|C|AEther Spellbomb
@@ -11580,7 +11580,7 @@
 00|00|00|00|00|KTK|C|Throttle
 00|00|00|00|00|KTK|C|Tormenting Voice
 00|00|00|00|00|KTK|C|Tranquil Cove
-00|00|00|00|00|KTK|C|Treasure Cruise
+04|00|00|00|00|KTK|C|Treasure Cruise
 00|00|00|00|00|KTK|C|Trumpet Blast
 00|00|00|00|00|KTK|C|Tusked Colossodon
 00|00|00|00|00|KTK|C|Unyielding Krumar
@@ -11616,7 +11616,7 @@
 00|00|00|00|00|KTK|R|Crackling Doom
 00|00|00|00|00|KTK|R|Crater's Claws
 00|00|00|00|00|KTK|R|Deflecting Palm
-00|00|00|00|00|KTK|R|Dig Through Time
+01|00|00|00|00|KTK|R|Dig Through Time
 00|00|00|00|00|KTK|R|Dragon Throne of Tarkir
 00|00|00|00|00|KTK|R|Dragon-Style Twins
 00|00|00|00|00|KTK|R|Duneblast
@@ -14105,7 +14105,7 @@
 00|00|00|00|00|M14|C|Wring Flesh
 00|00|00|00|00|M14|C|Zephyr Charge
 00|00|00|00|00|M14|M|Ajani, Caller of the Pride
-00|00|00|00|00|M14|M|Archangel of Thune
+01|00|00|00|00|M14|M|Archangel of Thune
 00|00|00|00|00|M14|M|Chandra, Pyromaster
 00|00|00|00|00|M14|M|Darksteel Forge
 00|00|00|00|00|M14|M|Devout Invocation
@@ -16218,7 +16218,7 @@
 00|01|00|00|00|NPH|C|Thundering Tanadon
 00|00|00|00|00|NPH|C|Toxic Nim
 00|00|00|00|00|NPH|C|Trespassing Souleater
-00|00|00|00|00|NPH|C|Vapor Snag
+04|00|00|00|00|NPH|C|Vapor Snag
 04|00|00|00|00|NPH|C|Vault Skirge
 00|00|00|00|00|NPH|C|Victorious Destruction
 00|00|00|00|00|NPH|C|Viridian Betrayers
@@ -19467,7 +19467,7 @@
 00|00|00|00|00|SHM|R|Spiteful Visions
 00|00|00|00|00|SHM|R|Sunken Ruins
 00|00|00|00|00|SHM|R|Swans of Bryn Argoll
-00|00|00|00|00|SHM|R|Sygg, River Cutthroat
+01|00|00|00|00|SHM|R|Sygg, River Cutthroat
 00|00|00|00|00|SHM|R|Thistledown Liege
 00|00|00|00|00|SHM|R|Thought Reflection
 00|00|00|00|00|SHM|R|Twilight Shepherd
@@ -19877,7 +19877,7 @@
 03|00|00|00|00|SOM|R|Kemba, Kha Regent
 00|00|00|00|00|SOM|R|Kuldotha Forgemaster
 02|00|00|00|00|SOM|R|Kuldotha Phoenix
-00|00|00|00|00|SOM|R|Leonin Arbiter
+04|00|00|00|00|SOM|R|Leonin Arbiter
 01|00|00|00|00|SOM|R|Livewire Lash
 00|00|00|00|00|SOM|R|Memoricide
 00|00|00|00|00|SOM|R|Mimic Vat
@@ -20215,13 +20215,13 @@
 00|00|00|00|00|THS|M|Erebos, God of the Dead
 00|00|00|00|00|THS|M|Heliod, God of the Sun
 00|00|00|00|00|THS|M|Hythonia the Cruel
-00|00|00|00|00|THS|M|Master of Waves
+02|00|00|00|00|THS|M|Master of Waves
 00|00|00|00|00|THS|M|Medomai the Ageless
 00|00|00|00|00|THS|M|Nylea, God of the Hunt
 01|00|00|00|00|THS|M|Polukranos, World Eater
 00|00|00|00|00|THS|M|Purphoros, God of the Forge
 00|00|00|00|00|THS|M|Stormbreath Dragon
-01|00|00|00|00|THS|M|Thassa, God of the Sea
+02|00|00|00|00|THS|M|Thassa, God of the Sea
 01|00|00|00|00|THS|M|Underworld Cerberus
 00|00|00|00|00|THS|M|Xenagos, the Reveler
 00|00|00|00|00|THS|R|Abhorrent Overlord
@@ -20871,7 +20871,7 @@
 00|00|00|00|00|TSB|S|Krosan Cloudscraper
 00|00|00|00|00|TSB|S|Leviathan
 00|00|00|00|00|TSB|S|Lightning Angel
-02|00|00|00|00|TSB|S|Lord of Atlantis
+04|00|00|00|00|TSB|S|Lord of Atlantis
 00|00|00|00|00|TSB|S|Merfolk Assassin
 00|00|00|00|00|TSB|S|Merieke Ri Berit
 00|00|00|00|00|TSB|S|Mindless Automaton
@@ -22498,7 +22498,7 @@
 04|00|00|00|00|ZEN|C|Spell Pierce
 00|01|00|00|00|ZEN|C|Spidersilk Net
 00|00|00|00|00|ZEN|C|Spire Barrage
-00|00|00|00|00|ZEN|C|Spreading Seas
+04|00|00|00|00|ZEN|C|Spreading Seas
 00|00|00|00|00|ZEN|C|Steppe Lynx
 00|00|00|00|00|ZEN|C|Stonework Puma
 00|00|00|00|00|ZEN|C|Sunspring Expedition
