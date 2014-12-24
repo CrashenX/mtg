@@ -1,29 +1,26 @@
 # Shared|Dedicated|Name
-03|00|Cavern of Souls
-04|00|Court Hussar
-01|00|Elspeth, Knight-Errant
-04|00|Flagstones of Trokair
-04|00|Glacial Fortress
-04|00|Hallowed Fountain
-03|00|Honor of the Pure
+# Creatures
+02|00|Court Hussar
 04|00|Judge's Familiar
 04|00|Knight Exemplar
-01|00|Lightning Greaves
 04|00|Lyev Skyknight
-04|00|Path to Exile
 02|00|Phantasmal Image
-06|00|Plains
 02|00|Silverblade Paladin
 04|00|Student of Warfare
 01|00|Sun Titan
-01|00|Venser, the Sojourner
 01|00|Weathered Wayfarer
-02|00|Windbrisk Heights
+# Spells
+02|00|Detention Sphere
+01|00|Elspeth, Knight-Errant
+03|00|Honor of the Pure
+01|00|Lightning Greaves
+04|00|Path to Exile
+01|00|Venser, the Sojourner
 01|00|Wrath of God
-# Sideboard
-01|00|Dismember
-02|00|Engineered Explosives
-03|00|Mirran Crusader
-02|00|Oblivion Ring
-01|00|Rest in Peace
-03|00|Surgical Extraction
+# Land
+03|00|Cavern of Souls
+04|00|Flooded Strand
+02|00|Glacial Fortress
+04|00|Hallowed Fountain
+08|00|Plains
+02|00|Windbrisk Heights
