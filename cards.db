@@ -4661,7 +4661,7 @@
 00|00|00|00|00|BNG|C|Divination
 00|00|00|00|00|BNG|C|Elite Skirmisher
 00|00|00|00|00|BNG|C|Ephara's Radiance
-00|00|00|00|00|BNG|C|Epiphany Storm
+00|01|00|00|00|BNG|C|Epiphany Storm
 00|00|00|00|00|BNG|C|Evanescent Intellect
 00|00|00|00|00|BNG|C|Excoriate
 00|00|00|00|00|BNG|C|Eye Gouge
@@ -4749,7 +4749,7 @@
 00|00|00|00|00|BNG|R|Temple of Enlightenment
 00|00|00|00|00|BNG|R|Temple of Malice
 00|00|00|00|00|BNG|R|Temple of Plenty
-00|00|00|00|00|BNG|R|Tromokratis
+01|00|00|00|00|BNG|R|Tromokratis
 00|00|00|00|00|BNG|R|Whelming Wave
 00|00|00|00|00|BNG|R|Whims of the Fates
 00|00|00|00|00|BNG|U|Acolyte's Reward
@@ -4770,13 +4770,13 @@
 00|00|00|00|00|BNG|U|Eternity Snare
 00|00|00|00|00|BNG|U|Everflame Eidolon
 00|00|00|00|00|BNG|U|Fanatic of Xenagos
-00|00|00|00|00|BNG|U|Flitterstep Eidolon
+01|00|00|00|00|BNG|U|Flitterstep Eidolon
 00|00|00|00|00|BNG|U|Forlorn Pseudamma
 00|00|00|00|00|BNG|U|Ghostblade Eidolon
 00|00|00|00|00|BNG|U|Glimpse the Sun God
 00|00|00|00|00|BNG|U|God-Favored General
 00|00|00|00|00|BNG|U|Gorgon's Head
-00|00|00|00|00|BNG|U|Graverobber Spider
+01|00|00|00|00|BNG|U|Graverobber Spider
 00|00|00|00|00|BNG|U|Kiora's Follower
 00|00|00|00|00|BNG|U|Kraken of the Straits
 00|00|00|00|00|BNG|U|Lightning Volley
@@ -4809,7 +4809,7 @@
 00|00|00|00|00|BNG|U|Thassa's Rebuff
 01|00|00|00|00|BNG|U|Thunder Brute
 00|00|00|00|00|BNG|U|Thunderous Might
-00|00|00|00|00|BNG|U|Unravel the Æther
+01|00|00|00|00|BNG|U|Unravel the Æther
 00|00|00|00|00|BNG|U|Vanguard of Brimaz
 00|00|00|00|00|BNG|U|Vortex Elemental
 00|00|00|00|00|BOK|C|Akki Blizzard-Herder
@@ -11272,7 +11272,7 @@
 00|00|00|00|00|JOU|R|Mana Confluence
 00|00|00|00|00|JOU|R|Master of the Feast
 00|00|00|00|00|JOU|R|Pheres-Band Warchief
-00|00|00|00|00|JOU|R|Polymorphous Rush
+01|00|00|00|00|JOU|R|Polymorphous Rush
 00|00|00|00|00|JOU|R|Revel of the Fallen God
 00|00|00|00|00|JOU|R|Scourge of Fleets
 00|00|00|00|00|JOU|R|Setessan Tactics
@@ -11301,12 +11301,12 @@
 00|00|00|00|00|JOU|U|Eidolon of Rhetoric
 00|00|00|00|00|JOU|U|Felhide Petrifier
 00|00|00|00|00|JOU|U|Fleetfeather Cockatrice
-00|00|00|00|00|JOU|U|Forgeborn Oreads
+01|00|00|00|00|JOU|U|Forgeborn Oreads
 00|00|00|00|00|JOU|U|Gnarled Scarhide
 00|00|00|00|00|JOU|U|Gold-Forged Sentinel
 00|00|00|00|00|JOU|U|Goldenhide Ox
 00|00|00|00|00|JOU|U|Hour of Need
-00|00|00|00|00|JOU|U|Interpret the Signs
+01|00|00|00|00|JOU|U|Interpret the Signs
 00|00|00|00|00|JOU|U|Kiora's Dismissal
 00|00|00|00|00|JOU|U|Knowledge and Power
 00|00|00|00|00|JOU|U|Leonin Iconoclast
@@ -11326,7 +11326,7 @@
 00|00|00|00|00|JOU|U|Rollick of Abandon
 00|00|00|00|00|JOU|U|Sightless Brawler
 00|00|00|00|00|JOU|U|Skyspear Cavalry
-00|00|00|00|00|JOU|U|Solidarity of Heroes
+01|00|00|00|00|JOU|U|Solidarity of Heroes
 00|00|00|00|00|JOU|U|Spirespine
 00|00|00|00|00|JOU|U|Spite of Mogis
 00|00|00|00|00|JOU|U|Spiteful Blow
