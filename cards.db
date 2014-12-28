@@ -6085,7 +6085,7 @@
 00|00|00|00|00|CHK|U|Dance of Shadows
 00|00|00|00|00|CHK|U|Earthshaker
 00|00|00|00|00|CHK|U|Eerie Procession
-00|00|00|00|00|CHK|U|Feast of Worms
+12|00|00|00|00|CHK|U|Feast of Worms
 00|00|00|00|00|CHK|U|Gale Force
 01|00|00|00|00|CHK|U|Ghostly Prison
 02|00|00|00|00|CHK|U|Graceful Adept
@@ -9141,7 +9141,7 @@
 00|00|00|00|00|EXO|R|Thopter Squadron
 00|00|00|00|00|EXO|R|Volrath's Dungeon
 00|00|00|00|00|EXO|R|Wall of Nets
-00|00|00|00|00|EXO|R|Workhorse
+12|00|00|00|00|EXO|R|Workhorse
 00|00|00|00|00|EXO|U|Cartographer
 00|00|00|00|00|EXO|U|Crashing Boars
 00|00|00|00|00|EXO|U|Curiosity
@@ -9831,7 +9831,7 @@
 01|00|00|00|00|GTC|U|Gateway Shade
 00|00|00|00|00|GTC|U|Ghor-Clan Rampager
 01|00|00|00|00|GTC|U|Gift of Orzhova
-00|00|00|00|00|GTC|U|Gridlock
+01|00|00|00|00|GTC|U|Gridlock
 01|00|00|00|00|GTC|U|Ground Assault
 00|00|00|00|00|GTC|U|Gruul Charm
 02|00|00|00|00|GTC|U|Gruul Keyrune
@@ -13284,7 +13284,7 @@
 01|00|00|00|00|M10|U|Rod of Ruin
 04|00|00|00|00|M10|U|Serra Angel
 07|00|00|00|00|M10|U|Sleep
-01|00|00|00|00|M10|U|Spellbook
+13|00|00|00|00|M10|U|Spellbook
 00|00|00|00|00|M10|U|Stone Giant
 02|00|00|00|00|M10|U|Telepathy
 00|00|00|00|00|M10|U|Tempest of Light
@@ -14640,7 +14640,7 @@
 02|00|00|00|00|MBS|U|Plaguemaw Beast
 01|00|00|00|00|MBS|U|Quilled Slagwurm
 02|00|00|00|00|MBS|U|Septic Rats
-00|00|00|00|00|MBS|U|Signal Pest
+01|00|00|00|00|MBS|U|Signal Pest
 01|00|00|00|00|MBS|U|Silverskin Armor
 02|00|00|00|00|MBS|U|Skinwing
 02|00|00|00|00|MBS|U|Sphere of the Suns
@@ -19512,7 +19512,7 @@
 00|00|00|00|00|SHM|U|Guttural Response
 00|00|00|00|00|SHM|U|Heap Doll
 00|00|00|00|00|SHM|U|Hollowsage
-00|00|00|00|00|SHM|U|Horde of Boggarts
+01|00|00|00|00|SHM|U|Horde of Boggarts
 00|00|00|00|00|SHM|U|Howl of the Night Pack
 00|00|00|00|00|SHM|U|Illuminated Folio
 01|00|00|00|00|SHM|U|Incremental Blight
@@ -20297,7 +20297,7 @@
 00|00|00|00|00|THS|U|Fanatic of Mogis
 02|00|00|00|00|THS|U|Favored Hoplite
 03|00|00|00|00|THS|U|Flamecast Wheel
-00|00|00|00|00|THS|U|Flamespeaker Adept
+12|00|00|00|00|THS|U|Flamespeaker Adept
 01|00|00|00|00|THS|U|Gainsay
 02|00|00|00|00|THS|U|Glare of Heresy
 02|00|00|00|00|THS|U|Heliod's Emissary
@@ -21696,7 +21696,7 @@
 00|00|00|00|00|USG|R|Purging Scythe
 00|00|00|00|00|USG|R|Recantation
 00|00|00|00|00|USG|R|Remembrance
-00|00|00|00|00|USG|R|Reprocess
+12|00|00|00|00|USG|R|Reprocess
 00|00|00|00|00|USG|R|Rumbling Crescendo
 00|00|00|00|00|USG|R|Rune of Protection: Lands
 00|00|00|00|00|USG|R|Scoria Wurm
