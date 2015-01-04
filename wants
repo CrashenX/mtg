@@ -15,8 +15,10 @@
 04|00|M10|Birds of Paradise
 04|00|SOM|Blackcleave Cliffs
 04|00|MMA|Blinkmoth Nexus
+04|00|RTR|Blood Crypt
 04|00|KTK|Bloodstained Mire
 04|00|MMA|Bonesplitter
+04|00|GTC|Breeding Pool
 04|00|AVR|Cavern of Souls
 04|00|MMA|Chalice of the Void
 04|00|ISD|Champion of the Parish
@@ -91,6 +93,7 @@
 04|00|M14|Mutavault
 04|00|CON|Noble Hierarch
 04|00|M13|Oblivion Ring
+04|00|RTR|Overgrown Tomb
 04|00|MMA|Paradise Mantle
 04|00|MMA|Path to Exile
 02|00|CNS|Pernicious Deed
@@ -107,6 +110,7 @@
 04|00|RTR|Rest in Peace
 05|00|AVR|Restoration Angel
 04|00|M13|Rootbound Crag
+04|00|GTC|Sacred Foundry
 04|00|3ED|Savannah
 04|00|ZEN|Scalding Tarn
 04|00|M14|Scavenging Ooze
@@ -121,7 +125,9 @@
 04|00|NPH|Spellskite
 04|00|MMA|Spellstutter Sprite
 04|00|BNG|Spirit of the Labyrinth
+04|00|RTR|Steam Vents
 04|00|5DN|Steelshaper's Gift
+04|00|GTC|Stomping Ground
 04|00|WWK|Stoneforge Mystic
 04|00|ISD|Sulfur Falls
 01|00|M10|Sunpetal Grove
@@ -148,6 +154,7 @@
 04|00|MRD|Vault of Whispers
 04|00|ZEN|Verdant Catacombs
 04|00|3ED|Volcanic Island
+04|00|GTC|Watery Grave
 04|00|KTK|Windswept Heath
 04|00|KTK|Wooded Foothills
 04|00|ISD|Woodland Cemetery

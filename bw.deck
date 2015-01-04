@@ -1,30 +1,31 @@
-# Creature (21)
-03|00|Containment Priest
+# Creature
+02|00|Agent of the Fates
+04|00|Blade Splicer
+01|00|Brimaz, King of Oreskos
 04|00|Dark Confidant
-02|00|Flickerwisp
-02|00|Judge's Familiar
-03|00|Spirit of the Labyrinth
-04|00|Stoneforge Mystic
+02|00|Kitchen Finks
+03|00|Restoration Angel
 03|00|Tidehollow Sculler
-# Artifact (2)
-01|00|Batterskull
-01|00|Umezawa's Jitte
-# Sorcery (9)
-02|00|Council's Judgment
-03|00|Inquisition of Kozilek
-04|00|Thoughtseize
-# Instant (6)
-04|00|Swords to Plowshares
-02|00|Zealous Persecution
-# Land (22)
-01|00|Cavern of Souls
-01|00|Karakas
-04|00|Marsh Flats
-04|00|Plains
-04|00|Scrubland
-03|00|Swamp
-01|00|Urborg, Tomb of Yawgmoth
-04|00|Wasteland
+# Instant
+03|00|Cloudshift
+04|00|Path to Exile
 # Sideboard
-01|00|Containment Priest
-01|00|Spirit of the Labyrinth
+02|00|Zealous Persecution
+# Sorcery
+03|00|Inquisition of Kozilek
+03|00|Lingering Souls
+04|00|Thoughtseize
+# Artifact
+01|00|Sword of Light and Shadow
+# Land
+01|00|Cavern of Souls
+01|00|Eiganjo Castle
+04|00|Godless Shrine
+02|00|Isolated Chapel
+04|00|Marsh Flats
+01|00|Plains
+01|00|Swamp
+03|00|Tectonic Edge
+04|00|Temple of Silence
+01|00|Urborg, Tomb of Yawgmoth
+01|00|Vault of the Archangel
