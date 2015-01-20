@@ -9288,6 +9288,186 @@
 00|00|00|00|00|FEM|U|Thrull Wizard
 00|00|00|00|00|FEM|U|Tidal Influence
 00|00|00|00|00|FEM|U|Tourach's Chant
+00|00|00|00|00|FTF|C|Abzan Advantage
+00|00|00|00|00|FTF|C|Abzan Runemark
+00|00|00|00|00|FTF|C|Abzan Skycaptain
+00|00|00|00|00|FTF|C|Ainok Guide
+00|00|00|00|00|FTF|C|Alesha's Vanguard
+00|00|00|00|00|FTF|C|Ambush Krotiq
+00|00|00|00|00|FTF|C|Ancestral Vengeance
+00|00|00|00|00|FTF|C|Arashin Cleric
+00|00|00|00|00|FTF|C|Archers of Qarsi
+00|00|00|00|00|FTF|C|Aven Skirmisher
+00|00|00|00|00|FTF|C|Aven Surveyor
+00|00|00|00|00|FTF|C|Bathe in Dragonfire
+00|00|00|00|00|FTF|C|Bloodfell Caves
+00|00|00|00|00|FTF|C|Blossoming Sands
+00|00|00|00|00|FTF|C|Collateral Damage
+00|00|00|00|00|FTF|C|Cunning Strike
+00|00|00|00|00|FTF|C|Defiant Ogre
+00|00|00|00|00|FTF|C|Dismal Backwater
+00|00|00|00|00|FTF|C|Douse in Gloom
+00|00|00|00|00|FTF|C|Dragon Bell Monk
+00|00|00|00|00|FTF|C|Enhanced Awareness
+00|00|00|00|00|FTF|C|Ethereal Ambush
+00|00|00|00|00|FTF|C|Feral Krushok
+00|00|00|00|00|FTF|C|Fierce Invocation
+00|00|00|00|00|FTF|C|Forest
+00|00|00|00|00|FTF|C|Formless Nurturing
+00|00|00|00|00|FTF|C|Frontier Mastodon
+00|00|00|00|00|FTF|C|Goblin Heelcutter
+00|00|00|00|00|FTF|C|Gore Swine
+00|00|00|00|00|FTF|C|Great-Horn Krushok
+00|00|00|00|00|FTF|C|Grim Contest
+00|00|00|00|00|FTF|C|Gurmag Angler
+00|00|00|00|00|FTF|C|Harsh Sustenance
+00|00|00|00|00|FTF|C|Hooded Assassin
+00|00|00|00|00|FTF|C|Hunt the Weak
+00|00|00|00|00|FTF|C|Island
+00|00|00|00|00|FTF|C|Jeskai Runemark
+00|00|00|00|00|FTF|C|Jeskai Sage
+00|00|00|00|00|FTF|C|Jungle Hollow
+00|00|00|00|00|FTF|C|Lightning Shrieker
+00|00|00|00|00|FTF|C|Lotus Path Djinn
+00|00|00|00|00|FTF|C|Map the Wastes
+00|00|00|00|00|FTF|C|Mardu Runemark
+00|00|00|00|00|FTF|C|Mardu Scout
+00|00|00|00|00|FTF|C|Mountain
+00|00|00|00|00|FTF|C|Plains
+00|00|00|00|00|FTF|C|Pressure Point
+00|00|00|00|00|FTF|C|Rakshasa's Disdain
+00|00|00|00|00|FTF|C|Reach of Shadows
+00|00|00|00|00|FTF|C|Refocus
+00|00|00|00|00|FTF|C|Return to the Earth
+00|00|00|00|00|FTF|C|Rugged Highlands
+00|00|00|00|00|FTF|C|Sandblast
+00|00|00|00|00|FTF|C|Sandsteppe Outcast
+00|00|00|00|00|FTF|C|Scoured Barrens
+00|00|00|00|00|FTF|C|Sibsig Host
+00|00|00|00|00|FTF|C|Smoldering Efreet
+00|00|00|00|00|FTF|C|Soul Summons
+00|00|00|00|00|FTF|C|Sultai Emissary
+00|00|00|00|00|FTF|C|Sultai Runemark
+00|00|00|00|00|FTF|C|Sultai Skullkeeper
+00|00|00|00|00|FTF|C|Swamp
+00|00|00|00|00|FTF|C|Swiftwater Cliffs
+00|00|00|00|00|FTF|C|Tasigur's Cruelty
+00|00|00|00|00|FTF|C|Temur Battle Rage
+00|00|00|00|00|FTF|C|Temur Runemark
+00|00|00|00|00|FTF|C|Thornwood Falls
+00|00|00|00|00|FTF|C|Tranquil Cove
+00|00|00|00|00|FTF|C|Typhoid Rats
+00|00|00|00|00|FTF|C|War Flare
+00|00|00|00|00|FTF|C|Whisk Away
+00|00|00|00|00|FTF|C|Whisperer of the Wilds
+00|00|00|00|00|FTF|C|Will of the Naga
+00|00|00|00|00|FTF|C|Wind-Scarred Crag
+00|00|00|00|00|FTF|C|Write into Being
+01|00|00|00|00|FTF|M|Brutal Hordechief
+00|00|00|00|00|FTF|M|Ghastly Conscription
+00|00|00|00|00|FTF|M|Monastery Mentor
+00|00|00|00|00|FTF|M|Shaman of the Great Hunt
+00|00|00|00|00|FTF|M|Soulfire Grand Master
+00|00|00|00|00|FTF|M|Temporal Trespass
+00|00|00|00|00|FTF|M|Torrent Elemental
+00|00|00|00|00|FTF|M|Ugin, the Spirit Dragon
+00|00|00|00|00|FTF|M|Warden of the First Tree
+00|00|00|00|00|FTF|M|Whisperwood Elemental
+00|00|00|00|00|FTF|R|Alesha, Who Smiles at Death
+00|00|00|00|00|FTF|R|Arcbond
+00|00|00|00|00|FTF|R|Archfiend of Depravity
+01|00|00|00|00|FTF|R|Atarka, World Render
+00|00|00|00|00|FTF|R|Citadel Siege
+00|00|00|00|00|FTF|R|Crucible of the Spirit Dragon
+00|00|00|00|00|FTF|R|Crux of Fate
+00|00|00|00|00|FTF|R|Daghatar the Adamant
+00|00|00|00|00|FTF|R|Dragonscale General
+00|00|00|00|00|FTF|R|Dromoka, the Eternal
+00|00|00|00|00|FTF|R|Flamerush Rider
+00|00|00|00|00|FTF|R|Flamewake Phoenix
+01|00|00|00|00|FTF|R|Frontier Siege
+00|00|00|00|00|FTF|R|Jeskai Infiltrator
+00|00|00|00|00|FTF|R|Kolaghan, the Storm's Fury
+00|00|00|00|00|FTF|R|Mardu Strike Leader
+00|00|00|00|00|FTF|R|Mastery of the Unseen
+01|00|00|00|00|FTF|R|Mob Rule
+00|00|00|00|00|FTF|R|Monastery Siege
+00|00|01|00|00|FTF|R|Ojutai, Soul of Winter
+00|00|00|00|00|FTF|R|Outpost Siege
+00|00|00|00|00|FTF|R|Palace Siege
+00|00|00|00|00|FTF|R|Rally the Ancestors
+00|00|00|00|00|FTF|R|Sage-Eye Avengers
+00|00|00|00|00|FTF|R|Sandsteppe Mastodon
+00|00|00|00|00|FTF|R|Scroll of the Masters
+00|00|00|00|00|FTF|R|Shamanic Revelation
+00|00|00|00|00|FTF|R|Shu Yun, the Silent Tempest
+00|00|00|00|00|FTF|R|Silumgar, the Drifting Death
+00|00|00|00|00|FTF|R|Soulflayer
+00|00|00|00|00|FTF|R|Supplant Form
+00|00|00|00|00|FTF|R|Tasigur, the Golden Fang
+00|00|00|00|00|FTF|R|Temur War Shaman
+01|00|00|00|00|FTF|R|Wildcall
+00|00|00|00|00|FTF|R|Yasova Dragonclaw
+00|00|00|00|00|FTF|U|Abzan Beastmaster
+00|00|00|00|00|FTF|U|Abzan Kin-Guard
+01|00|00|00|00|FTF|U|Arashin War Beast
+00|00|00|00|00|FTF|U|Battle Brawler
+01|00|00|00|00|FTF|U|Battlefront Krushok
+00|00|00|00|00|FTF|U|Bloodfire Enforcers
+00|00|00|00|00|FTF|U|Break Through the Line
+00|00|00|00|00|FTF|U|Cached Defenses
+01|00|00|00|00|FTF|U|Channel Harm
+00|00|00|00|00|FTF|U|Cloudform
+00|00|00|00|00|FTF|U|Dark Deal
+01|00|00|00|00|FTF|U|Destructor Dragon
+00|00|00|00|00|FTF|U|Diplomacy of the Wastes
+00|00|00|00|00|FTF|U|Dragonrage
+00|00|00|00|00|FTF|U|Elite Scaleguard
+01|00|00|00|00|FTF|U|Fascination
+00|00|00|00|00|FTF|U|Fearsome Awakening
+00|00|00|00|00|FTF|U|Friendly Fire
+00|00|00|00|00|FTF|U|Frost Walker
+01|00|00|00|00|FTF|U|Fruit of the First Tree
+01|00|00|00|00|FTF|U|Goblin Boom Keg
+00|00|00|00|00|FTF|U|Grave Strength
+00|00|00|00|00|FTF|U|Hero's Blade
+00|01|00|00|00|FTF|U|Hewed Stone Retainers
+01|00|00|00|00|FTF|U|Honor's Reward
+01|00|00|00|00|FTF|U|Humble Defector
+01|00|00|00|00|FTF|U|Hungering Yeti
+00|00|00|00|00|FTF|U|Jeskai Barricade
+00|00|00|00|00|FTF|U|Lightform
+00|00|00|00|00|FTF|U|Lotus-Eye Mystics
+00|00|00|00|00|FTF|U|Marang River Prowler
+00|00|00|00|00|FTF|U|Mardu Shadowspear
+00|00|00|00|00|FTF|U|Mardu Woe-Reaper
+00|00|00|00|00|FTF|U|Merciless Executioner
+00|00|00|00|00|FTF|U|Mindscour Dragon
+00|00|00|00|00|FTF|U|Mistfire Adept
+00|00|00|00|00|FTF|U|Neutralizing Blast
+01|00|00|00|00|FTF|U|Noxious Dragon
+00|00|00|00|00|FTF|U|Orc Sureshot
+00|00|00|00|00|FTF|U|Pilgrim of the Fires
+01|00|00|00|00|FTF|U|Pyrotechnics
+00|00|00|00|00|FTF|U|Qarsi High Priest
+00|00|00|00|00|FTF|U|Rageform
+00|00|00|00|00|FTF|U|Reality Shift
+01|00|00|00|00|FTF|U|Renowned Weaponsmith
+00|00|00|00|00|FTF|U|Rite of Undoing
+00|00|00|00|00|FTF|U|Ruthless Instincts
+00|00|00|00|00|FTF|U|Sage's Reverie
+01|00|00|00|00|FTF|U|Shifting Loyalties
+00|00|00|00|00|FTF|U|Shockmaw Dragon
+00|00|00|00|00|FTF|U|Sibsig Muckdraggers
+00|00|00|00|00|FTF|U|Sudden Reclamation
+00|00|00|00|00|FTF|U|Temur Sabertooth
+01|00|00|00|00|FTF|U|Ugin's Construct
+00|00|00|00|00|FTF|U|Valorous Stance
+00|00|00|00|00|FTF|U|Vaultbreaker
+01|00|00|00|00|FTF|U|Wandering Champion
+00|00|00|00|00|FTF|U|Wardscale Dragon
+01|00|00|00|00|FTF|U|Wild Slash
+00|00|00|00|00|FTF|U|Winds of Qal Sisma
 00|00|00|00|00|FUT|C|Augur il-Vec
 00|00|00|00|00|FUT|C|Augur of Skulls
 00|00|00|00|00|FUT|C|Aven Augur
@@ -11639,7 +11819,7 @@
 00|00|00|00|00|KTK|R|Mardu Ascendancy
 00|00|00|00|00|KTK|R|Master of Pearls
 00|00|00|00|00|KTK|R|Meandering Towershell
-00|00|00|00|00|KTK|R|Mindswipe
+01|00|00|00|00|KTK|R|Mindswipe
 01|00|00|00|00|KTK|R|Necropolis Fiend
 02|00|00|00|00|KTK|R|Polluted Delta
 00|00|00|00|00|KTK|R|Rakshasa Deathdealer
@@ -11666,7 +11846,7 @@
 00|00|00|00|00|KTK|U|Armament Corps
 00|00|00|00|00|KTK|U|Bear's Companion
 00|00|00|00|00|KTK|U|Become Immense
-00|00|00|00|00|KTK|U|Bellowing Saddlebrute
+01|00|00|00|00|KTK|U|Bellowing Saddlebrute
 00|00|00|00|00|KTK|U|Blinding Spray
 00|00|00|00|00|KTK|U|Brave the Sands
 01|00|00|00|00|KTK|U|Briber's Purse
@@ -11685,9 +11865,9 @@
 00|00|00|00|00|KTK|U|Gurmag Swiftwing
 00|00|00|00|00|KTK|U|Heart-Piercer Bow
 00|00|00|00|00|KTK|U|Heir of the Wilds
-00|00|00|00|00|KTK|U|Highspire Mantis
+01|00|00|00|00|KTK|U|Highspire Mantis
 00|00|00|00|00|KTK|U|Horde Ambusher
-00|00|00|00|00|KTK|U|Hordeling Outburst
+01|00|00|00|00|KTK|U|Hordeling Outburst
 00|00|00|00|00|KTK|U|Icefeather Aven
 00|00|00|00|00|KTK|U|Incremental Growth
 00|00|00|00|00|KTK|U|Jeskai Charm
@@ -11703,7 +11883,7 @@
 01|00|00|00|00|KTK|U|Mistfire Weaver
 01|00|00|00|00|KTK|U|Monastery Swiftspear
 01|00|00|00|00|KTK|U|Murderous Cut
-00|00|00|00|00|KTK|U|Mystic Monastery
+01|00|00|00|00|KTK|U|Mystic Monastery
 00|00|00|00|00|KTK|U|Nomad Outpost
 01|00|00|00|00|KTK|U|Opulent Palace
 01|00|00|00|00|KTK|U|Pine Walker
@@ -11720,7 +11900,7 @@
 01|00|00|00|00|KTK|U|Seeker of the Way
 00|00|00|00|00|KTK|U|Set Adrift
 00|00|00|00|00|KTK|U|Stubborn Denial
-01|00|00|00|00|KTK|U|Sultai Charm
+02|00|00|00|00|KTK|U|Sultai Charm
 01|00|00|00|00|KTK|U|Sultai Flayer
 01|00|00|00|00|KTK|U|Sultai Soothsayer
 01|00|00|00|00|KTK|U|Suspension Field
@@ -11733,7 +11913,7 @@
 00|00|00|00|00|KTK|U|Tuskguard Captain
 01|00|00|00|00|KTK|U|Venerable Lammasu
 00|00|00|00|00|KTK|U|War-Name Aspirant
-01|00|00|00|00|KTK|U|Warden of the Eye
+02|00|00|00|00|KTK|U|Warden of the Eye
 01|00|00|00|00|KTK|U|Watcher of the Roost
 01|00|00|00|00|KTK|U|Waterwhirl
 00|00|00|00|00|KTK|U|Windstorm
