@@ -416,7 +416,7 @@ my %sets = ( "LEA" => { order => 199308,
                         name => 'Fate Reforged'
                       }
            , "MD1" => { order => 201405,
-                        name => 'Modern Event Deck'
+                        name => 'Modern Event Deck 2014'
                       }
            );
 
