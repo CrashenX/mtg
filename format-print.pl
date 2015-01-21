@@ -359,7 +359,7 @@ my %sets = ( "LEA" => { order => 199308,
                         name => 'Planechase'
                       }
            , "PC2" => { order => 201206,
-                        name => 'Planechase (2012 Edition)'
+                        name => 'Planechase 2012'
                       }
            , "H09" => { order => 200911,
                         name => 'Premium Deck Series: Slivers'
