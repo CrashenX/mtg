@@ -4427,7 +4427,7 @@
 00|00|00|00|00|AVR|C|Butcher Ghoul
 00|00|00|00|00|AVR|C|Call to Serve
 00|00|00|00|00|AVR|C|Cathedral Sanctifier
-02|00|00|00|00|AVR|C|Cloudshift
+04|00|00|00|00|AVR|C|Cloudshift
 00|00|00|00|00|AVR|C|Crippling Chill
 00|00|00|00|00|AVR|C|Crypt Creeper
 00|00|00|00|00|AVR|C|Cursebreak
@@ -18576,7 +18576,7 @@
 00|00|00|00|00|RAV|U|Congregation at Dawn
 00|00|00|00|00|RAV|U|Cyclopean Snare
 00|00|00|00|00|RAV|U|Dark Heart of the Wood
-00|00|00|00|00|RAV|U|Darkblast
+02|00|00|00|00|RAV|U|Darkblast
 00|00|00|00|00|RAV|U|Devouring Light
 00|00|00|00|00|RAV|U|Dimir Guildmage
 00|00|00|00|00|RAV|U|Dimir Machinations
@@ -19003,7 +19003,7 @@
 00|00|00|00|00|RTR|M|Utvara Hellkite
 00|00|00|00|00|RTR|M|Vraska the Unseen
 00|00|00|00|00|RTR|M|Worldspine Wurm
-01|00|00|00|00|RTR|R|Abrupt Decay
+03|00|00|00|00|RTR|R|Abrupt Decay
 01|00|00|00|00|RTR|R|Archon of the Triumvirate
 00|00|00|00|00|RTR|R|Ash Zealot
 00|00|00|00|00|RTR|R|Azor's Elocutors
@@ -20405,7 +20405,7 @@
 01|00|00|00|00|THS|M|Underworld Cerberus
 00|00|00|00|00|THS|M|Xenagos, the Reveler
 00|00|00|00|00|THS|R|Abhorrent Overlord
-00|00|00|00|00|THS|R|Agent of the Fates
+04|00|00|00|00|THS|R|Agent of the Fates
 00|00|00|00|00|THS|R|Akroan Horse
 00|00|00|00|00|THS|R|Anax and Cymede
 00|00|00|00|00|THS|R|Anger of the Gods
@@ -22093,7 +22093,7 @@
 00|00|00|00|00|V13|M|Fyndhorn Elves
 00|00|00|00|00|V13|M|Gilded Lotus
 00|00|00|00|00|V13|M|Green Sun's Zenith
-00|00|00|00|00|V13|M|Hymn to Tourach
+01|00|00|00|00|V13|M|Hymn to Tourach
 00|00|00|00|00|V13|M|Impulse
 00|00|00|00|00|V13|M|Ink-Eyes, Servant of Oni
 00|00|00|00|00|V13|M|Jace, the Mind Sculptor
