@@ -412,6 +412,9 @@ my %sets = ( "LEA" => { order => 199308,
            , "KTK" => { order => 201409,
                         name => 'Khans of Tarkir'
                       }
+           , "FTF" => { order => 201501,
+                        name => 'Fate Reforged'
+                      }
            , "MD1" => { order => 201405,
                         name => 'Modern Event Deck'
                       }
