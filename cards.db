@@ -7850,7 +7850,7 @@
 00|00|00|00|00|DDK|U|Vampire Outcasts
 00|00|00|00|00|DDK|U|Wall of Omens
 00|00|00|00|00|DDK|U|Zealous Persecution
-00|00|00|00|00|DGM|C|Armored Wolf-Rider
+00|01|00|00|00|DGM|C|Armored Wolf-Rider
 00|00|00|00|00|DGM|C|Awe for the Guilds
 00|00|00|00|00|DGM|C|Azorius Cluestone
 00|00|00|00|00|DGM|C|Azorius Guildgate
@@ -7891,7 +7891,7 @@
 00|00|00|00|00|DGM|C|Nivix Cyclops
 00|00|00|00|00|DGM|C|Opal Lake Gatekeepers
 00|00|00|00|00|DGM|C|Orzhov Cluestone
-00|00|00|00|00|DGM|C|Orzhov Guildgate
+00|01|00|00|00|DGM|C|Orzhov Guildgate
 00|00|00|00|00|DGM|C|Phytoburst
 00|00|00|00|00|DGM|C|Pilfered Plans
 00|00|00|00|00|DGM|C|Punish the Enemy
@@ -7931,80 +7931,80 @@
 00|00|00|00|00|DGM|M|Reap Intellect
 00|00|00|00|00|DGM|M|Savageborn Hydra
 00|00|00|00|00|DGM|M|Voice of Resurgence
-00|00|00|00|00|DGM|R|AEtherling
+01|00|00|00|00|DGM|R|AEtherling
 00|00|00|00|00|DGM|R|Advent of the Wurm
-00|00|00|00|00|DGM|R|Beck // Call
-00|00|00|00|00|DGM|R|Blood Scrivener
+00|01|00|00|00|DGM|R|Beck // Call
+01|00|00|00|00|DGM|R|Blood Scrivener
 00|00|00|00|00|DGM|R|Boros Battleshaper
 00|00|00|00|00|DGM|R|Breaking // Entering
 00|00|00|00|00|DGM|R|Catch // Release
 00|00|00|00|00|DGM|R|Dragonshift
 00|00|00|00|00|DGM|R|Emmara Tandris
 00|00|00|00|00|DGM|R|Exava, Rakdos Blood Witch
-00|00|00|00|00|DGM|R|Flesh // Blood
+01|00|00|00|00|DGM|R|Flesh // Blood
 01|00|00|00|00|DGM|R|Gaze of Granite
 02|00|00|00|00|DGM|R|Lavinia of the Tenth
 01|00|00|00|00|DGM|R|Melek, Izzet Paragon
-01|00|00|00|00|DGM|R|Mirko Vosk, Mind Drinker
-00|00|00|00|00|DGM|R|Notion Thief
+02|00|00|00|00|DGM|R|Mirko Vosk, Mind Drinker
+00|01|00|00|00|DGM|R|Notion Thief
 00|00|00|00|00|DGM|R|Obzedat's Aid
 00|00|00|00|00|DGM|R|Plasm Capture
 00|00|00|00|00|DGM|R|Pontiff of Blight
-00|00|00|00|00|DGM|R|Possibility Storm
+01|00|00|00|00|DGM|R|Possibility Storm
 00|00|00|00|00|DGM|R|Pyrewild Shaman
 00|00|00|00|00|DGM|R|Ready // Willing
-01|00|00|00|00|DGM|R|Render Silent
+02|00|00|00|00|DGM|R|Render Silent
 00|00|00|00|00|DGM|R|Renegade Krasis
-01|00|00|00|00|DGM|R|Renounce the Guilds
-00|00|00|00|00|DGM|R|Ruric Thar, the Unbowed
+02|00|00|00|00|DGM|R|Renounce the Guilds
+01|00|00|00|00|DGM|R|Ruric Thar, the Unbowed
 00|00|00|00|00|DGM|R|Scion of Vitu-Ghazi
 01|00|00|00|00|DGM|R|Sire of Insanity
 03|00|00|00|00|DGM|R|Skylasher
 01|00|00|00|00|DGM|R|Tajic, Blade of the Legion
 01|00|00|00|00|DGM|R|Teysa, Envoy of Ghosts
-00|00|00|00|00|DGM|R|Trait Doctoring
+01|00|00|00|00|DGM|R|Trait Doctoring
 00|00|00|00|00|DGM|R|Varolz, the Scar-Striped
 00|00|00|00|00|DGM|R|Vorel of the Hull Clade
 00|00|00|00|00|DGM|R|Zhur-Taa Ancient
 01|00|00|00|00|DGM|U|Alive // Well
 01|00|00|00|00|DGM|U|Armed // Dangerous
-00|00|00|00|00|DGM|U|Ascended Lawmage
-01|00|00|00|00|DGM|U|Blast of Genius
-01|00|00|00|00|DGM|U|Blaze Commando
-02|00|00|00|00|DGM|U|Bred for the Hunt
-01|00|00|00|00|DGM|U|Bronzebeak Moa
+02|00|00|00|00|DGM|U|Ascended Lawmage
+02|00|00|00|00|DGM|U|Blast of Genius
+02|00|00|00|00|DGM|U|Blaze Commando
+03|00|00|00|00|DGM|U|Bred for the Hunt
+02|00|00|00|00|DGM|U|Bronzebeak Moa
 02|00|00|00|00|DGM|U|Carnage Gladiator
-02|00|00|00|00|DGM|U|Debt to the Deathless
+04|00|00|00|00|DGM|U|Debt to the Deathless
 01|00|00|00|00|DGM|U|Down // Dirty
 01|00|00|00|00|DGM|U|Far // Away
-00|00|00|00|00|DGM|U|Feral Animist
-01|00|00|00|00|DGM|U|Fluxcharger
+01|00|00|00|00|DGM|U|Feral Animist
+03|00|00|00|00|DGM|U|Fluxcharger
 01|00|00|00|00|DGM|U|Give // Take
 01|00|00|00|00|DGM|U|Gleam of Battle
-00|00|00|00|00|DGM|U|Goblin Test Pilot
-01|00|00|00|00|DGM|U|Gruul War Chant
-01|01|00|00|00|DGM|U|Haunter of Nightveil
-01|00|00|00|00|DGM|U|Jelenn Sphinx
+01|00|00|00|00|DGM|U|Goblin Test Pilot
+02|00|00|00|00|DGM|U|Gruul War Chant
+03|01|00|00|00|DGM|U|Haunter of Nightveil
+03|00|00|00|00|DGM|U|Jelenn Sphinx
 01|00|00|00|00|DGM|U|Korozda Gorgon
 01|00|00|00|00|DGM|U|Krasis Incubation
-02|00|00|00|00|DGM|U|Maw of the Obzedat
+03|00|00|00|00|DGM|U|Maw of the Obzedat
 00|00|00|00|00|DGM|U|Profit // Loss
 01|00|00|00|00|DGM|U|Protect // Serve
-01|00|00|00|00|DGM|U|Putrefy
+02|00|00|00|00|DGM|U|Putrefy
 01|00|00|00|00|DGM|U|Restore the Peace
-01|00|00|00|00|DGM|U|Rot Farm Skeleton
-02|00|00|00|00|DGM|U|Scab-Clan Giant
+02|00|00|00|00|DGM|U|Rot Farm Skeleton
+03|00|00|00|00|DGM|U|Scab-Clan Giant
 01|00|00|00|00|DGM|U|Showstopper
-04|00|00|00|00|DGM|U|Sin Collector
-01|01|00|00|00|DGM|U|Species Gorger
+05|00|00|00|00|DGM|U|Sin Collector
+02|01|00|00|00|DGM|U|Species Gorger
 01|00|00|00|00|DGM|U|Spike Jester
-02|00|00|00|00|DGM|U|Toil // Trouble
+03|00|00|00|00|DGM|U|Toil // Trouble
 00|00|00|00|00|DGM|U|Trostani's Summoner
-01|00|00|00|00|DGM|U|Turn // Burn
-03|00|00|00|00|DGM|U|Unflinching Courage
+02|00|00|00|00|DGM|U|Turn // Burn
+04|00|00|00|00|DGM|U|Unflinching Courage
 00|00|00|00|00|DGM|U|Warleader's Helix
 01|00|00|00|00|DGM|U|Warped Physique
-00|00|00|00|00|DGM|U|Wear // Tear
+01|00|00|00|00|DGM|U|Wear // Tear
 01|00|00|00|00|DGM|U|Woodlot Crawler
 00|00|00|00|00|DIS|C|Aquastrand Spider
 00|00|00|00|00|DIS|C|Assault Zeppelid
