@@ -6882,7 +6882,7 @@
 00|00|00|00|00|CON|R|Charnelhoard Wurm
 00|00|00|00|00|CON|R|Cliffrunner Behemoth
 00|00|00|00|00|CON|R|Cylian Sunsinger
-02|00|00|00|00|CON|R|Exotic Orchard
+01|00|00|00|00|CON|R|Exotic Orchard
 00|00|00|00|00|CON|R|Extractor Demon
 00|00|00|00|00|CON|R|Font of Mythos
 00|00|00|00|00|CON|R|Giltspire Avenger
@@ -8890,7 +8890,7 @@
 00|00|00|00|00|EVE|R|Figure of Destiny
 00|00|00|00|00|EVE|R|Flooded Grove
 00|00|00|00|00|EVE|R|Glamerdye
-02|00|00|00|00|EVE|R|Glen Elendra Archmage
+01|00|00|00|00|EVE|R|Glen Elendra Archmage
 00|00|00|00|00|EVE|R|Hallowed Burial
 00|00|00|00|00|EVE|R|Hateflayer
 00|00|00|00|00|EVE|R|Helix Pinnacle
@@ -9406,7 +9406,7 @@
 00|00|00|00|00|FTF|R|Supplant Form
 00|00|00|00|00|FTF|R|Tasigur, the Golden Fang
 00|00|00|00|00|FTF|R|Temur War Shaman
-01|00|00|00|00|FTF|R|Wildcall
+00|00|00|00|00|FTF|R|Wildcall
 00|00|00|00|00|FTF|R|Yasova Dragonclaw
 00|00|00|00|00|FTF|U|Abzan Beastmaster
 00|00|00|00|00|FTF|U|Abzan Kin-Guard
@@ -9431,7 +9431,7 @@
 01|00|00|00|00|FTF|U|Goblin Boom Keg
 00|00|00|00|00|FTF|U|Grave Strength
 00|00|00|00|00|FTF|U|Hero's Blade
-00|01|00|00|00|FTF|U|Hewed Stone Retainers
+00|00|00|00|00|FTF|U|Hewed Stone Retainers
 01|00|00|00|00|FTF|U|Honor's Reward
 01|00|00|00|00|FTF|U|Humble Defector
 01|00|00|00|00|FTF|U|Hungering Yeti
@@ -11796,7 +11796,7 @@
 00|00|00|00|00|KTK|R|Crackling Doom
 00|00|00|00|00|KTK|R|Crater's Claws
 00|00|00|00|00|KTK|R|Deflecting Palm
-01|00|00|00|00|KTK|R|Dig Through Time
+00|00|00|00|00|KTK|R|Dig Through Time
 01|00|00|00|00|KTK|R|Dragon Throne of Tarkir
 00|00|00|00|00|KTK|R|Dragon-Style Twins
 00|00|00|00|00|KTK|R|Duneblast
@@ -16437,7 +16437,7 @@
 02|00|00|00|00|NPH|R|Norn's Annex
 01|00|00|00|00|NPH|R|Omen Machine
 02|00|00|00|00|NPH|R|Phyrexian Ingester
-02|00|00|00|00|NPH|R|Phyrexian Metamorph
+01|00|00|00|00|NPH|R|Phyrexian Metamorph
 01|00|00|00|00|NPH|R|Phyrexian Swarmlord
 01|00|00|00|00|NPH|R|Phyrexian Unlife
 00|00|00|00|00|NPH|R|Praetor's Grasp
@@ -19587,7 +19587,7 @@
 00|00|00|00|00|SHM|R|Augury Adept
 00|00|00|00|00|SHM|R|Boartusk Liege
 00|00|00|00|00|SHM|R|Boon Reflection
-01|00|00|00|00|SHM|R|Cauldron of Souls
+00|00|00|00|00|SHM|R|Cauldron of Souls
 00|00|00|00|00|SHM|R|Cemetery Puca
 00|00|00|00|00|SHM|R|Counterbore
 00|00|00|00|00|SHM|R|Cragganwick Cremator
@@ -19711,7 +19711,7 @@
 00|00|00|00|00|SHM|U|Merrow Grimeblotter
 00|00|00|00|00|SHM|U|Mistmeadow Skulk
 00|00|00|00|00|SHM|U|Mistmeadow Witch
-01|00|00|00|00|SHM|U|Mistveil Plains
+00|00|00|00|00|SHM|U|Mistveil Plains
 00|00|00|00|00|SHM|U|Moonring Island
 00|00|00|00|00|SHM|U|Murderous Redcap
 00|00|00|00|00|SHM|U|Pale Wayfarer
@@ -19896,7 +19896,7 @@
 00|00|00|00|00|SOK|U|O-Naginata
 04|00|00|00|00|SOK|U|Oboro Envoy
 00|00|00|00|00|SOK|U|Oni of Wild Places
-02|00|00|00|00|SOK|U|Overwhelming Intellect
+01|00|00|00|00|SOK|U|Overwhelming Intellect
 04|00|00|00|00|SOK|U|Presence of the Wise
 02|00|00|00|00|SOK|U|Razorjaw Oni
 00|00|00|00|00|SOK|U|Rushing-Tide Zubera
