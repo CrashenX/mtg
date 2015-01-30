@@ -15263,7 +15263,7 @@
 03|00|00|00|00|MMA|C|Rathi Trapper
 01|00|00|00|00|MMA|C|Raven's Crime
 03|00|00|00|00|MMA|C|Reach Through Mists
-03|00|00|00|00|MMA|C|Rift Bolt
+02|00|00|00|00|MMA|C|Rift Bolt
 04|01|00|00|00|MMA|C|Rift Elemental
 00|00|00|00|00|MMA|C|Runed Stalactite
 03|00|00|00|00|MMA|C|Saltfield Recluse
@@ -15286,7 +15286,7 @@
 02|00|00|00|00|MMA|C|Thieving Sprite
 03|00|00|00|00|MMA|C|Thundering Giant
 02|00|00|00|00|MMA|C|Torrent of Stone
-04|01|00|00|00|MMA|C|Traumatic Visions
+02|01|00|00|00|MMA|C|Traumatic Visions
 03|00|00|00|00|MMA|C|Vedalken Dismisser
 04|01|00|00|00|MMA|C|Veteran Armorer
 01|00|00|00|00|MMA|C|Walker of the Grove
@@ -15328,7 +15328,7 @@
 00|00|00|00|00|MMA|R|Doubling Season
 01|00|00|00|00|MMA|R|Dragonstorm
 00|00|00|00|00|MMA|R|Earwig Squad
-06|00|00|00|00|MMA|R|Engineered Explosives
+05|00|00|00|00|MMA|R|Engineered Explosives
 04|00|00|00|00|MMA|R|Ethersworn Canonist
 00|00|00|00|00|MMA|R|Extirpate
 05|00|00|00|00|MMA|R|Figure of Destiny
@@ -20398,7 +20398,7 @@
 02|00|00|00|00|THS|M|Master of Waves
 00|00|00|00|00|THS|M|Medomai the Ageless
 00|00|00|00|00|THS|M|Nylea, God of the Hunt
-01|00|00|00|00|THS|M|Polukranos, World Eater
+00|00|00|00|00|THS|M|Polukranos, World Eater
 00|00|00|00|00|THS|M|Purphoros, God of the Forge
 00|00|00|00|00|THS|M|Stormbreath Dragon
 02|00|00|00|00|THS|M|Thassa, God of the Sea
@@ -20471,7 +20471,7 @@
 02|00|00|00|00|THS|U|Dauntless Onslaught
 02|00|00|00|00|THS|U|Decorated Griffin
 01|00|00|00|00|THS|U|Destructive Revelry
-01|00|00|00|00|THS|U|Dissolve
+00|00|00|00|00|THS|U|Dissolve
 00|00|00|00|00|THS|U|Erebos's Emissary
 01|00|00|00|00|THS|U|Evangel of Heliod
 00|00|00|00|00|THS|U|Fanatic of Mogis
