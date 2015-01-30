@@ -9365,7 +9365,7 @@
 00|00|00|00|00|FTF|C|Write into Being
 01|00|00|00|00|FTF|M|Brutal Hordechief
 00|00|00|00|00|FTF|M|Ghastly Conscription
-00|00|00|00|00|FTF|M|Monastery Mentor
+02|00|00|00|00|FTF|M|Monastery Mentor
 00|00|00|00|00|FTF|M|Shaman of the Great Hunt
 00|00|00|00|00|FTF|M|Soulfire Grand Master
 00|00|00|00|00|FTF|M|Temporal Trespass
@@ -9373,7 +9373,7 @@
 00|00|00|00|00|FTF|M|Ugin, the Spirit Dragon
 00|00|00|00|00|FTF|M|Warden of the First Tree
 00|00|00|00|00|FTF|M|Whisperwood Elemental
-00|00|00|00|00|FTF|R|Alesha, Who Smiles at Death
+04|00|00|00|00|FTF|R|Alesha, Who Smiles at Death
 00|00|00|00|00|FTF|R|Arcbond
 00|00|00|00|00|FTF|R|Archfiend of Depravity
 01|00|00|00|00|FTF|R|Atarka, World Render
@@ -9388,7 +9388,7 @@
 01|00|00|00|00|FTF|R|Frontier Siege
 00|00|00|00|00|FTF|R|Jeskai Infiltrator
 00|00|00|00|00|FTF|R|Kolaghan, the Storm's Fury
-00|00|00|00|00|FTF|R|Mardu Strike Leader
+04|00|00|00|00|FTF|R|Mardu Strike Leader
 00|00|00|00|00|FTF|R|Mastery of the Unseen
 01|00|00|00|00|FTF|R|Mob Rule
 00|00|00|00|00|FTF|R|Monastery Siege
@@ -9400,14 +9400,14 @@
 00|00|00|00|00|FTF|R|Sandsteppe Mastodon
 00|00|00|00|00|FTF|R|Scroll of the Masters
 00|00|00|00|00|FTF|R|Shamanic Revelation
-00|00|00|00|00|FTF|R|Shu Yun, the Silent Tempest
+04|00|00|00|00|FTF|R|Shu Yun, the Silent Tempest
 00|00|00|00|00|FTF|R|Silumgar, the Drifting Death
 00|00|00|00|00|FTF|R|Soulflayer
 00|00|00|00|00|FTF|R|Supplant Form
-00|00|00|00|00|FTF|R|Tasigur, the Golden Fang
+04|00|00|00|00|FTF|R|Tasigur, the Golden Fang
 00|00|00|00|00|FTF|R|Temur War Shaman
 00|00|00|00|00|FTF|R|Wildcall
-00|00|00|00|00|FTF|R|Yasova Dragonclaw
+04|00|00|00|00|FTF|R|Yasova Dragonclaw
 00|00|00|00|00|FTF|U|Abzan Beastmaster
 00|00|00|00|00|FTF|U|Abzan Kin-Guard
 01|00|00|00|00|FTF|U|Arashin War Beast
