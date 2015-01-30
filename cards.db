@@ -6005,7 +6005,7 @@
 00|00|00|00|00|CHK|R|Imi Statue
 00|00|00|00|00|CHK|R|Iname, Death Aspect
 00|00|00|00|00|CHK|R|Iname, Life Aspect
-01|00|00|00|00|CHK|R|Isamaru, Hound of Konda
+00|00|00|00|00|CHK|R|Isamaru, Hound of Konda
 00|00|00|00|00|CHK|R|Journeyer's Kite
 00|00|00|00|00|CHK|R|Jugan, the Rising Star
 00|00|00|00|00|CHK|R|Junkyo Bell
@@ -17063,7 +17063,7 @@
 01|00|00|00|00|ONS|R|Weathered Wayfarer
 00|00|00|00|00|ONS|R|Weird Harvest
 00|00|00|00|00|ONS|R|Wheel and Deal
-04|00|00|00|00|ONS|R|Windswept Heath
+03|00|00|00|00|ONS|R|Windswept Heath
 00|00|00|00|00|ONS|R|Wooded Foothills
 00|00|00|00|00|ONS|R|Words of War
 00|00|00|00|00|ONS|R|Words of Waste
@@ -22736,7 +22736,7 @@
 00|00|00|00|00|ZEN|R|Devout Lightcaster
 00|00|00|00|00|ZEN|R|Electropotence
 00|00|00|00|00|ZEN|R|Elemental Appeal
-01|00|00|00|00|ZEN|R|Emeria Angel
+00|00|00|00|00|ZEN|R|Emeria Angel
 00|00|00|00|00|ZEN|R|Emeria, the Sky Ruin
 01|00|00|00|00|ZEN|R|Gigantiform
 00|00|00|00|00|ZEN|R|Goblin Guide
