@@ -6882,7 +6882,7 @@
 00|00|00|00|00|CON|R|Charnelhoard Wurm
 00|00|00|00|00|CON|R|Cliffrunner Behemoth
 00|00|00|00|00|CON|R|Cylian Sunsinger
-01|00|00|00|00|CON|R|Exotic Orchard
+00|00|00|00|00|CON|R|Exotic Orchard
 00|00|00|00|00|CON|R|Extractor Demon
 00|00|00|00|00|CON|R|Font of Mythos
 00|00|00|00|00|CON|R|Giltspire Avenger
@@ -8890,7 +8890,7 @@
 00|00|00|00|00|EVE|R|Figure of Destiny
 00|00|00|00|00|EVE|R|Flooded Grove
 00|00|00|00|00|EVE|R|Glamerdye
-01|00|00|00|00|EVE|R|Glen Elendra Archmage
+00|00|00|00|00|EVE|R|Glen Elendra Archmage
 00|00|00|00|00|EVE|R|Hallowed Burial
 00|00|00|00|00|EVE|R|Hateflayer
 00|00|00|00|00|EVE|R|Helix Pinnacle
@@ -15346,7 +15346,7 @@
 00|00|00|00|00|MMA|R|Maelstrom Pulse
 00|00|00|00|00|MMA|R|Meloku the Clouded Mirror
 01|00|00|00|00|MMA|R|Molten Disaster
-01|00|00|00|00|MMA|R|Oona, Queen of the Fae
+00|00|00|00|00|MMA|R|Oona, Queen of the Fae
 00|00|00|00|00|MMA|R|Pact of Negation
 00|00|00|00|00|MMA|R|Pyromancer's Swath
 00|00|00|00|00|MMA|R|Reveillark
@@ -18813,7 +18813,7 @@
 02|01|00|00|00|ROE|R|Spawnsire of Ulamog
 01|00|00|00|00|ROE|R|Sphinx of Magosi
 01|00|00|00|00|ROE|R|Sphinx-Bone Wand
-02|00|00|00|00|ROE|R|Splinter Twin
+00|00|00|00|00|ROE|R|Splinter Twin
 04|00|00|00|00|ROE|R|Student of Warfare
 00|00|00|00|00|ROE|R|Surrakar Spellblade
 00|00|00|00|00|ROE|R|Tajuru Preserver
