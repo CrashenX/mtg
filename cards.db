@@ -4573,7 +4573,7 @@
 00|00|00|00|00|AVR|R|Revenge of the Hunted
 00|00|00|00|00|AVR|R|Riders of Gavony
 00|00|00|00|00|AVR|R|Rite of Ruin
-04|00|00|00|00|AVR|R|Silverblade Paladin
+05|00|00|00|00|AVR|R|Silverblade Paladin
 03|00|00|00|00|AVR|R|Slayers' Stronghold
 00|00|00|00|00|AVR|R|Somberwald Sage
 01|00|00|00|00|AVR|R|Soul of the Harvest
@@ -9365,7 +9365,7 @@
 00|00|00|00|00|FTF|C|Write into Being
 01|00|00|00|00|FTF|M|Brutal Hordechief
 00|00|00|00|00|FTF|M|Ghastly Conscription
-02|00|00|00|00|FTF|M|Monastery Mentor
+03|00|00|00|00|FTF|M|Monastery Mentor
 00|00|00|00|00|FTF|M|Shaman of the Great Hunt
 00|00|00|00|00|FTF|M|Soulfire Grand Master
 00|00|00|00|00|FTF|M|Temporal Trespass
@@ -20450,7 +20450,7 @@
 00|00|00|00|00|THS|R|Temple of Abandon
 00|00|00|00|00|THS|R|Temple of Deceit
 01|00|00|00|00|THS|R|Temple of Mystery
-00|00|00|00|00|THS|R|Temple of Silence
+02|00|00|00|00|THS|R|Temple of Silence
 01|00|00|00|00|THS|R|Temple of Triumph
 04|00|00|00|00|THS|R|Thoughtseize
 00|00|00|00|00|THS|R|Titan of Eternal Fire
