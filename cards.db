@@ -11791,7 +11791,7 @@
 00|00|00|00|00|KTK|R|Ankle Shanker
 00|00|00|00|00|KTK|R|Avalanche Tusker
 00|00|00|00|00|KTK|R|Bloodsoaked Champion
-02|00|00|00|00|KTK|R|Bloodstained Mire
+03|00|00|00|00|KTK|R|Bloodstained Mire
 00|00|00|00|00|KTK|R|Butcher of the Horde
 00|00|00|00|00|KTK|R|Crackling Doom
 00|00|00|00|00|KTK|R|Crater's Claws
@@ -11838,7 +11838,7 @@
 00|00|00|00|00|KTK|R|Utter End
 01|00|00|00|00|KTK|R|Villainous Wealth
 04|00|00|00|00|KTK|R|Windswept Heath
-03|00|00|00|00|KTK|R|Wooded Foothills
+04|00|00|00|00|KTK|R|Wooded Foothills
 00|00|00|00|00|KTK|U|Abzan Battle Priest
 01|00|00|00|00|KTK|U|Abzan Charm
 00|00|00|00|00|KTK|U|Abzan Falconer
@@ -19003,7 +19003,7 @@
 00|00|00|00|00|RTR|M|Utvara Hellkite
 00|00|00|00|00|RTR|M|Vraska the Unseen
 00|00|00|00|00|RTR|M|Worldspine Wurm
-03|00|00|00|00|RTR|R|Abrupt Decay
+04|00|00|00|00|RTR|R|Abrupt Decay
 01|00|00|00|00|RTR|R|Archon of the Triumvirate
 00|00|00|00|00|RTR|R|Ash Zealot
 00|00|00|00|00|RTR|R|Azor's Elocutors
