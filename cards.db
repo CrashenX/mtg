@@ -5527,7 +5527,7 @@
 00|00|00|00|00|C13|U|Tower Gargoyle
 00|00|00|00|00|C13|U|Tumble (Rough/Tumble)
 00|00|00|00|00|C13|U|Urza's Factory
-00|00|00|00|00|C13|U|Vampire Nighthawk
+01|00|00|00|00|C13|U|Vampire Nighthawk
 00|00|00|00|00|C13|U|Vile Requiem
 00|00|00|00|00|C13|U|Viseling
 00|00|00|00|00|C13|U|Vitu-Ghazi, the City-Tree
@@ -6577,7 +6577,7 @@
 00|00|00|00|00|CMD|U|Syphon Flesh
 02|00|00|00|00|CMD|U|Temple of the False God
 00|00|00|00|00|CMD|U|Tribute to the Wild
-00|00|00|00|00|CMD|U|Vampire Nighthawk
+02|00|00|00|00|CMD|U|Vampire Nighthawk
 00|00|00|00|00|CMD|U|Vedalken Plotter
 00|00|00|00|00|CMD|U|Vengeful Rebirth
 00|00|00|00|00|CMD|U|Veteran Explorer
@@ -14074,7 +14074,7 @@
 00|00|00|00|00|M13|R|Disciple of Bolas
 00|00|00|00|00|M13|R|Door to Nothingness
 00|00|00|00|00|M13|R|Dragonskull Summit
-04|00|00|00|00|M13|R|Drowned Catacomb
+05|00|00|00|00|M13|R|Drowned Catacomb
 00|00|00|00|00|M13|R|Elvish Archdruid
 00|00|00|00|00|M13|R|Faith's Reward
 00|00|00|00|00|M13|R|Fervor
@@ -14284,7 +14284,7 @@
 00|01|00|00|00|M14|C|Wild Guess
 00|00|00|00|00|M14|C|Wring Flesh
 00|00|00|00|00|M14|C|Zephyr Charge
-00|00|00|00|00|M14|M|Ajani, Caller of the Pride
+01|00|00|00|00|M14|M|Ajani, Caller of the Pride
 01|00|00|00|00|M14|M|Archangel of Thune
 00|00|00|00|00|M14|M|Chandra, Pyromaster
 00|00|00|00|00|M14|M|Darksteel Forge
@@ -14345,7 +14345,7 @@
 01|00|00|00|00|M14|R|Strionic Resonator
 00|00|00|00|00|M14|R|Syphon Sliver
 00|00|00|00|00|M14|R|Thorncaster Sliver
-00|00|00|00|00|M14|R|Tidebinder Mage
+01|00|00|00|00|M14|R|Tidebinder Mage
 00|00|00|00|00|M14|R|Trading Post
 00|00|00|00|00|M14|R|Traumatize
 01|00|00|00|00|M14|R|Vastwood Hydra
@@ -16027,7 +16027,7 @@
 00|00|00|00|00|MRD|R|Blinkmoth Urn
 00|00|00|00|00|MRD|R|Bosh, Iron Golem
 00|00|00|00|00|MRD|R|Broodstar
-03|00|00|00|00|MRD|R|Chalice of the Void
+02|00|00|00|00|MRD|R|Chalice of the Void
 00|00|00|00|00|MRD|R|Chrome Mox
 00|00|00|00|00|MRD|R|Clockwork Dragon
 00|00|00|00|00|MRD|R|Confusion in the Ranks
@@ -20447,10 +20447,10 @@
 00|00|00|00|00|THS|R|Steam Augury
 00|00|00|00|00|THS|R|Swan Song
 01|00|00|00|00|THS|R|Sylvan Caryatid
-00|00|00|00|00|THS|R|Temple of Abandon
+03|00|00|00|00|THS|R|Temple of Abandon
 00|00|00|00|00|THS|R|Temple of Deceit
-01|00|00|00|00|THS|R|Temple of Mystery
-03|00|00|00|00|THS|R|Temple of Silence
+03|00|00|00|00|THS|R|Temple of Mystery
+04|00|00|00|00|THS|R|Temple of Silence
 01|00|00|00|00|THS|R|Temple of Triumph
 04|00|00|00|00|THS|R|Thoughtseize
 00|00|00|00|00|THS|R|Titan of Eternal Fire
