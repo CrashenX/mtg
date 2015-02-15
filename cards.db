@@ -6592,7 +6592,7 @@
 00|00|00|00|00|CMD|U|Vow of Malice
 00|00|00|00|00|CMD|U|Vow of Wildness
 00|00|00|00|00|CMD|U|Wall of Denial
-01|00|00|00|00|CMD|U|Wall of Omens
+04|00|00|00|00|CMD|U|Wall of Omens
 00|00|00|00|00|CMD|U|Windfall
 00|00|00|00|00|CMD|U|Wonder
 00|00|00|00|00|CMD|U|Zoetic Cavern
@@ -17682,7 +17682,7 @@
 00|00|00|00|00|PLC|C|Citanul Woodreaders
 00|00|00|00|00|PLC|C|Cradle to Grave
 00|00|00|00|00|PLC|C|Dash Hopes
-00|00|00|00|00|PLC|C|Dawn Charm
+04|00|00|00|00|PLC|C|Dawn Charm
 00|00|00|00|00|PLC|C|Dead // Gone
 00|00|00|00|00|PLC|C|Deadly Grub
 00|00|00|00|00|PLC|C|Dreamscape Artist
@@ -18576,7 +18576,7 @@
 00|00|00|00|00|RAV|U|Congregation at Dawn
 00|00|00|00|00|RAV|U|Cyclopean Snare
 00|00|00|00|00|RAV|U|Dark Heart of the Wood
-02|00|00|00|00|RAV|U|Darkblast
+04|00|00|00|00|RAV|U|Darkblast
 00|00|00|00|00|RAV|U|Devouring Light
 00|00|00|00|00|RAV|U|Dimir Guildmage
 00|00|00|00|00|RAV|U|Dimir Machinations
