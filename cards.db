@@ -8004,7 +8004,7 @@
 04|00|00|00|00|DGM|U|Unflinching Courage
 00|00|00|00|00|DGM|U|Warleader's Helix
 01|00|00|00|00|DGM|U|Warped Physique
-01|00|00|00|00|DGM|U|Wear // Tear
+02|00|00|00|00|DGM|U|Wear // Tear
 01|00|00|00|00|DGM|U|Woodlot Crawler
 00|00|00|00|00|DIS|C|Aquastrand Spider
 00|00|00|00|00|DIS|C|Assault Zeppelid
@@ -8329,7 +8329,7 @@
 00|00|00|00|00|DKA|U|Hollowhenge Spirit
 00|00|00|00|00|DKA|U|Immerwolf
 00|00|00|00|00|DKA|U|Lambholt Elder
-04|00|00|00|00|DKA|U|Lingering Souls
+05|00|00|00|00|DKA|U|Lingering Souls
 00|00|00|00|00|DKA|U|Markov Warlord
 00|00|00|00|00|DKA|U|Mystic Retrieval
 00|00|00|00|00|DKA|U|Niblis of the Breath
@@ -20073,7 +20073,7 @@
 00|01|00|00|00|SOM|R|Putrefax
 02|00|00|00|00|SOM|R|Ratchet Bomb
 02|00|00|00|00|SOM|R|Razorverge Thicket
-02|00|00|00|00|SOM|R|Seachrome Coast
+03|00|00|00|00|SOM|R|Seachrome Coast
 03|00|00|00|00|SOM|R|Semblance Anvil
 01|00|00|00|00|SOM|R|Shape Anew
 01|00|00|00|00|SOM|R|Spikeshot Elder
@@ -22529,7 +22529,7 @@
 01|00|00|00|00|WWK|R|Basilisk Collar
 01|00|00|00|00|WWK|R|Bazaar Trader
 00|00|00|00|00|WWK|R|Butcher of Malakir
-00|00|00|00|00|WWK|R|Celestial Colonnade
+02|00|00|00|00|WWK|R|Celestial Colonnade
 01|00|00|00|00|WWK|R|Chain Reaction
 00|00|00|00|00|WWK|R|Creeping Tar Pit
 00|00|00|00|00|WWK|R|Death's Shadow
