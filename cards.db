@@ -6592,7 +6592,7 @@
 00|00|00|00|00|CMD|U|Vow of Malice
 00|00|00|00|00|CMD|U|Vow of Wildness
 00|00|00|00|00|CMD|U|Wall of Denial
-00|00|00|00|00|CMD|U|Wall of Omens
+01|00|00|00|00|CMD|U|Wall of Omens
 00|00|00|00|00|CMD|U|Windfall
 00|00|00|00|00|CMD|U|Wonder
 00|00|00|00|00|CMD|U|Zoetic Cavern
@@ -6691,7 +6691,7 @@
 00|00|00|00|00|CNS|M|Marchesa, the Black Rose
 00|00|00|00|00|CNS|M|Mirari's Wake
 00|00|00|00|00|CNS|M|Muzzio, Visionary Architect
-01|00|00|00|00|CNS|M|Pernicious Deed
+02|00|00|00|00|CNS|M|Pernicious Deed
 00|00|00|00|00|CNS|M|Phage the Untouchable
 00|00|00|00|00|CNS|M|Pristine Angel
 00|00|00|00|00|CNS|M|Scourge of the Throne
@@ -14074,7 +14074,7 @@
 00|00|00|00|00|M13|R|Disciple of Bolas
 00|00|00|00|00|M13|R|Door to Nothingness
 00|00|00|00|00|M13|R|Dragonskull Summit
-01|00|00|00|00|M13|R|Drowned Catacomb
+04|00|00|00|00|M13|R|Drowned Catacomb
 00|00|00|00|00|M13|R|Elvish Archdruid
 00|00|00|00|00|M13|R|Faith's Reward
 00|00|00|00|00|M13|R|Fervor
@@ -15402,7 +15402,7 @@
 01|00|00|00|00|MMA|U|Riftwing Cloudskate
 00|00|00|00|00|MMA|U|Sandsower
 00|00|00|00|00|MMA|U|Shrapnel Blast
-06|00|00|00|00|MMA|U|Spell Snare
+05|00|00|00|00|MMA|U|Spell Snare
 01|00|00|00|00|MMA|U|Sporesower Thallid
 02|00|00|00|00|MMA|U|Stir the Pride
 01|00|00|00|00|MMA|U|Sudden Shock
@@ -22419,7 +22419,7 @@
 00|00|00|00|00|WTH|U|Festering Evil
 00|00|00|00|00|WTH|U|Foriysian Brigade
 02|00|00|00|00|WTH|U|Gaea's Blessing
-01|00|00|00|00|WTH|U|Gemstone Mine
+00|00|00|00|00|WTH|U|Gemstone Mine
 00|00|00|00|00|WTH|U|Gerrard's Wisdom
 00|00|00|00|00|WTH|U|Goblin Grenadiers
 00|00|00|00|00|WTH|U|Hidden Horror
