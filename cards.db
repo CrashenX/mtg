@@ -11791,7 +11791,7 @@
 00|00|00|00|00|KTK|R|Ankle Shanker
 00|00|00|00|00|KTK|R|Avalanche Tusker
 00|00|00|00|00|KTK|R|Bloodsoaked Champion
-03|00|00|00|00|KTK|R|Bloodstained Mire
+04|00|00|00|00|KTK|R|Bloodstained Mire
 00|00|00|00|00|KTK|R|Butcher of the Horde
 00|00|00|00|00|KTK|R|Crackling Doom
 00|00|00|00|00|KTK|R|Crater's Claws
@@ -11801,7 +11801,7 @@
 00|00|00|00|00|KTK|R|Dragon-Style Twins
 00|00|00|00|00|KTK|R|Duneblast
 00|00|00|00|00|KTK|R|End Hostilities
-04|00|00|00|00|KTK|R|Flooded Strand
+05|00|00|00|00|KTK|R|Flooded Strand
 00|00|00|00|00|KTK|R|Flying Crane Technique
 00|00|00|00|00|KTK|R|Ghostfire Blade
 00|00|00|00|00|KTK|R|Grim Haruspex
@@ -11821,7 +11821,7 @@
 00|00|00|00|00|KTK|R|Meandering Towershell
 01|00|00|00|00|KTK|R|Mindswipe
 01|00|00|00|00|KTK|R|Necropolis Fiend
-02|00|00|00|00|KTK|R|Polluted Delta
+03|00|00|00|00|KTK|R|Polluted Delta
 00|00|00|00|00|KTK|R|Rakshasa Deathdealer
 00|00|00|00|00|KTK|R|Rakshasa Vizier
 00|00|00|00|00|KTK|R|Rattleclaw Mystic
@@ -11837,8 +11837,8 @@
 00|00|00|00|00|KTK|R|Trap Essence
 00|00|00|00|00|KTK|R|Utter End
 01|00|00|00|00|KTK|R|Villainous Wealth
-04|00|00|00|00|KTK|R|Windswept Heath
-04|00|00|00|00|KTK|R|Wooded Foothills
+05|00|00|00|00|KTK|R|Windswept Heath
+06|00|00|00|00|KTK|R|Wooded Foothills
 00|00|00|00|00|KTK|U|Abzan Battle Priest
 01|00|00|00|00|KTK|U|Abzan Charm
 00|00|00|00|00|KTK|U|Abzan Falconer
