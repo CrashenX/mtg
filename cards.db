@@ -6592,7 +6592,7 @@
 00|00|00|00|00|CMD|U|Vow of Malice
 00|00|00|00|00|CMD|U|Vow of Wildness
 00|00|00|00|00|CMD|U|Wall of Denial
-04|00|00|00|00|CMD|U|Wall of Omens
+03|00|00|00|00|CMD|U|Wall of Omens
 00|00|00|00|00|CMD|U|Windfall
 00|00|00|00|00|CMD|U|Wonder
 00|00|00|00|00|CMD|U|Zoetic Cavern
@@ -15261,7 +15261,7 @@
 02|00|00|00|00|MMA|C|Petals of Insight
 03|00|00|00|00|MMA|C|Pyrite Spellbomb
 03|00|00|00|00|MMA|C|Rathi Trapper
-01|00|00|00|00|MMA|C|Raven's Crime
+00|00|00|00|00|MMA|C|Raven's Crime
 03|00|00|00|00|MMA|C|Reach Through Mists
 02|00|00|00|00|MMA|C|Rift Bolt
 04|01|00|00|00|MMA|C|Rift Elemental
