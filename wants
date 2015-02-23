@@ -17,7 +17,7 @@
 04|00|SOM|Blackcleave Cliffs
 04|00|MMA|Blinkmoth Nexus
 04|00|RTR|Blood Crypt
-04|00|KTK|Bloodstained Mire
+99|00|KTK|Bloodstained Mire
 04|00|MMA|Bonesplitter
 04|00|GTC|Breeding Pool
 04|00|AVR|Cavern of Souls
@@ -51,7 +51,7 @@
 04|00|MMA|Figure of Destiny
 04|00|TSP|Flagstones of Trokair
 04|00|MMA|Flickerwisp
-04|00|KTK|Flooded Strand
+99|00|KTK|Flooded Strand
 00|99|ZEN|Forest
 02|00|ISD|Garruk Relentless
 01|00|M14|Garruk, Caller of Beasts
@@ -106,7 +106,7 @@
 04|00|RTR|Pithing Needle
 00|99|ZEN|Plains
 04|00|3ED|Plateau
-04|00|KTK|Polluted Delta
+99|00|KTK|Polluted Delta
 04|00|NPH|Puresteel Paladin
 04|00|M13|Rancor
 04|00|SOM|Razorverge Thicket
@@ -127,6 +127,7 @@
 02|00|MMA|Slaughter Pact
 04|00|ISD|Snapcaster Mage
 02|00|DKA|Sorin, Lord of Innistrad
+02|00|KTK|Sorin, Solemn Visitor
 04|00|NPH|Spellskite
 04|00|MMA|Spellstutter Sprite
 04|00|BNG|Spirit of the Labyrinth
@@ -170,8 +171,8 @@
 04|00|ZEN|Verdant Catacombs
 04|00|3ED|Volcanic Island
 04|00|GTC|Watery Grave
-04|00|KTK|Windswept Heath
-04|00|KTK|Wooded Foothills
+99|00|KTK|Windswept Heath
+99|00|KTK|Wooded Foothills
 04|00|ISD|Woodland Cemetery
 01|00|V14|Wrath of God
 04|00|DGM|Voice of Resurgence

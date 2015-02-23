@@ -11714,14 +11714,14 @@
 00|00|00|00|00|KTK|C|Kin-Tree Warden
 00|00|00|00|00|KTK|C|Krumar Bond-Kin
 00|00|00|00|00|KTK|C|Leaping Master
-00|00|00|00|00|KTK|C|Lens of Clarity
+00|01|00|00|00|KTK|C|Lens of Clarity
 00|00|00|00|00|KTK|C|Longshot Squad
 00|00|00|00|00|KTK|C|Mardu Banner
 00|00|00|00|00|KTK|C|Mardu Hateblade
 00|00|00|00|00|KTK|C|Mardu Hordechief
 00|00|00|00|00|KTK|C|Mardu Skullhunter
 00|00|00|00|00|KTK|C|Mardu Warshrieker
-00|00|00|00|00|KTK|C|Molting Snakeskin
+00|01|00|00|00|KTK|C|Molting Snakeskin
 00|00|00|00|00|KTK|C|Monastery Flock
 00|00|00|00|00|KTK|C|Mountain
 00|00|00|00|00|KTK|C|Mystic of the Hidden Way
@@ -11744,7 +11744,7 @@
 00|00|00|00|00|KTK|C|Shatter
 00|00|00|00|00|KTK|C|Sidisi's Pet
 00|00|00|00|00|KTK|C|Siegecraft
-00|00|00|00|00|KTK|C|Singing Bell Strike
+00|01|00|00|00|KTK|C|Singing Bell Strike
 00|00|00|00|00|KTK|C|Smite the Monstrous
 00|00|00|00|00|KTK|C|Smoke Teller
 00|00|00|00|00|KTK|C|Snowhorn Rider
@@ -11769,18 +11769,18 @@
 00|00|00|00|00|KTK|C|Weave Fate
 00|00|00|00|00|KTK|C|Wetland Sambar
 00|00|00|00|00|KTK|C|Whirlwind Adept
-00|00|00|00|00|KTK|C|Wind-Scarred Crag
+00|01|00|00|00|KTK|C|Wind-Scarred Crag
 00|00|00|00|00|KTK|C|Woolly Loxodon
-03|00|00|00|00|KTK|M|Anafenza, the Foremost
+04|00|00|00|00|KTK|M|Anafenza, the Foremost
 00|00|00|00|00|KTK|M|Ashcloud Phoenix
-00|00|00|00|00|KTK|M|Clever Impersonator
-00|00|00|00|00|KTK|M|Empty the Pits
+01|00|00|00|00|KTK|M|Clever Impersonator
+01|00|00|00|00|KTK|M|Empty the Pits
 00|00|00|00|00|KTK|M|Hooded Hydra
 00|00|00|00|00|KTK|M|Narset, Enlightened Master
 00|00|00|00|00|KTK|M|Pearl Lake Ancient
 01|00|00|00|00|KTK|M|Sarkhan, the Dragonspeaker
 00|00|00|00|00|KTK|M|See the Unwritten
-00|00|00|00|00|KTK|M|Sidisi, Brood Tyrant
+01|00|00|00|00|KTK|M|Sidisi, Brood Tyrant
 00|00|00|00|00|KTK|M|Sorin, Solemn Visitor
 00|00|00|00|00|KTK|M|Surrak Dragonclaw
 00|00|00|00|00|KTK|M|Ugin's Nexus
@@ -11788,137 +11788,137 @@
 00|00|00|00|00|KTK|M|Zurgo Helmsmasher
 00|00|00|00|00|KTK|R|Abzan Ascendancy
 00|00|00|00|00|KTK|R|Altar of the Brood
-00|00|00|00|00|KTK|R|Ankle Shanker
-00|00|00|00|00|KTK|R|Avalanche Tusker
+01|00|00|00|00|KTK|R|Ankle Shanker
+01|00|00|00|00|KTK|R|Avalanche Tusker
 00|00|00|00|00|KTK|R|Bloodsoaked Champion
 04|00|00|00|00|KTK|R|Bloodstained Mire
-00|00|00|00|00|KTK|R|Butcher of the Horde
-00|00|00|00|00|KTK|R|Crackling Doom
-00|00|00|00|00|KTK|R|Crater's Claws
+01|00|00|00|00|KTK|R|Butcher of the Horde
+01|00|00|00|00|KTK|R|Crackling Doom
+01|00|00|00|00|KTK|R|Crater's Claws
 00|00|00|00|00|KTK|R|Deflecting Palm
-00|00|00|00|00|KTK|R|Dig Through Time
-01|00|00|00|00|KTK|R|Dragon Throne of Tarkir
+01|00|00|00|00|KTK|R|Dig Through Time
+02|00|00|00|00|KTK|R|Dragon Throne of Tarkir
 00|00|00|00|00|KTK|R|Dragon-Style Twins
-00|00|00|00|00|KTK|R|Duneblast
+01|00|00|00|00|KTK|R|Duneblast
 00|00|00|00|00|KTK|R|End Hostilities
 05|00|00|00|00|KTK|R|Flooded Strand
-00|00|00|00|00|KTK|R|Flying Crane Technique
+01|00|00|00|00|KTK|R|Flying Crane Technique
 00|00|00|00|00|KTK|R|Ghostfire Blade
-00|00|00|00|00|KTK|R|Grim Haruspex
+01|00|00|00|00|KTK|R|Grim Haruspex
 00|00|00|00|00|KTK|R|Hardened Scales
 01|00|00|00|00|KTK|R|Herald of Anafenza
 00|00|00|00|00|KTK|R|High Sentinels of Arashin
 01|00|00|00|00|KTK|R|Howl of the Horde
-00|00|00|00|00|KTK|R|Icy Blast
+01|00|00|00|00|KTK|R|Icy Blast
 00|00|00|00|00|KTK|R|Ivorytusk Fortress
 00|00|00|00|00|KTK|R|Jeering Instigator
-01|00|00|00|00|KTK|R|Jeskai Ascendancy
-00|00|00|00|00|KTK|R|Kheru Lich Lord
-00|00|00|00|00|KTK|R|Kheru Spellsnatcher
+02|00|00|00|00|KTK|R|Jeskai Ascendancy
+01|00|00|00|00|KTK|R|Kheru Lich Lord
+01|00|00|00|00|KTK|R|Kheru Spellsnatcher
 05|00|00|00|00|KTK|R|Mantis Rider
-00|00|00|00|00|KTK|R|Mardu Ascendancy
+01|00|00|00|00|KTK|R|Mardu Ascendancy
 00|00|00|00|00|KTK|R|Master of Pearls
 00|00|00|00|00|KTK|R|Meandering Towershell
-01|00|00|00|00|KTK|R|Mindswipe
-01|00|00|00|00|KTK|R|Necropolis Fiend
+01|01|00|00|00|KTK|R|Mindswipe
+02|00|00|00|00|KTK|R|Necropolis Fiend
 03|00|00|00|00|KTK|R|Polluted Delta
-00|00|00|00|00|KTK|R|Rakshasa Deathdealer
-00|00|00|00|00|KTK|R|Rakshasa Vizier
-00|00|00|00|00|KTK|R|Rattleclaw Mystic
+01|00|00|00|00|KTK|R|Rakshasa Deathdealer
+01|00|00|00|00|KTK|R|Rakshasa Vizier
+01|00|00|00|00|KTK|R|Rattleclaw Mystic
 00|00|00|00|00|KTK|R|Retribution of the Ancients
-00|00|00|00|00|KTK|R|Sage of the Inward Eye
-00|00|00|00|00|KTK|R|Sagu Mauler
+01|00|00|00|00|KTK|R|Sage of the Inward Eye
+01|00|00|00|00|KTK|R|Sagu Mauler
 00|00|00|00|00|KTK|R|Savage Knuckleblade
 04|00|00|00|00|KTK|R|Siege Rhino
-00|00|00|00|00|KTK|R|Sultai Ascendancy
+01|00|00|00|00|KTK|R|Sultai Ascendancy
 00|00|00|00|00|KTK|R|Temur Ascendancy
 00|00|00|00|00|KTK|R|Thousand Winds
-00|00|00|00|00|KTK|R|Trail of Mystery
-00|00|00|00|00|KTK|R|Trap Essence
-00|00|00|00|00|KTK|R|Utter End
-01|00|00|00|00|KTK|R|Villainous Wealth
+01|00|00|00|00|KTK|R|Trail of Mystery
+01|00|00|00|00|KTK|R|Trap Essence
+01|00|00|00|00|KTK|R|Utter End
+02|00|00|00|00|KTK|R|Villainous Wealth
 05|00|00|00|00|KTK|R|Windswept Heath
 06|00|00|00|00|KTK|R|Wooded Foothills
-00|00|00|00|00|KTK|U|Abzan Battle Priest
+01|00|00|00|00|KTK|U|Abzan Battle Priest
 01|00|00|00|00|KTK|U|Abzan Charm
-00|00|00|00|00|KTK|U|Abzan Falconer
-00|00|00|00|00|KTK|U|Arc Lightning
-00|00|00|00|00|KTK|U|Armament Corps
-00|00|00|00|00|KTK|U|Bear's Companion
-00|00|00|00|00|KTK|U|Become Immense
-01|00|00|00|00|KTK|U|Bellowing Saddlebrute
-00|00|00|00|00|KTK|U|Blinding Spray
-00|00|00|00|00|KTK|U|Brave the Sands
-01|00|00|00|00|KTK|U|Briber's Purse
-00|00|00|00|00|KTK|U|Burn Away
-02|00|00|00|00|KTK|U|Chief of the Edge
-00|00|00|00|00|KTK|U|Chief of the Scale
-00|00|00|00|00|KTK|U|Cranial Archive
-00|00|00|00|00|KTK|U|Dazzling Ramparts
-00|00|00|00|00|KTK|U|Dead Drop
-00|00|00|00|00|KTK|U|Death Frenzy
-00|00|00|00|00|KTK|U|Despise
-00|00|00|00|00|KTK|U|Dragon Grip
-01|00|00|00|00|KTK|U|Dragon's Eye Savants
-00|00|00|00|00|KTK|U|Frontier Bivouac
-00|00|00|00|00|KTK|U|Goblinslide
-00|00|00|00|00|KTK|U|Gurmag Swiftwing
-00|00|00|00|00|KTK|U|Heart-Piercer Bow
-00|00|00|00|00|KTK|U|Heir of the Wilds
-01|00|00|00|00|KTK|U|Highspire Mantis
-00|00|00|00|00|KTK|U|Horde Ambusher
-01|00|00|00|00|KTK|U|Hordeling Outburst
-00|00|00|00|00|KTK|U|Icefeather Aven
-00|00|00|00|00|KTK|U|Incremental Growth
-00|00|00|00|00|KTK|U|Jeskai Charm
-00|00|00|00|00|KTK|U|Jeskai Elder
-00|00|00|00|00|KTK|U|Kheru Bloodsucker
-00|00|00|00|00|KTK|U|Kin-Tree Invocation
-01|00|00|00|00|KTK|U|Mardu Blazebringer
-00|00|00|00|00|KTK|U|Mardu Charm
-00|00|00|00|00|KTK|U|Mardu Heart-Piercer
-00|00|00|00|00|KTK|U|Mardu Roughrider
-00|00|00|00|00|KTK|U|Master the Way
+02|00|00|00|00|KTK|U|Abzan Falconer
+02|00|00|00|00|KTK|U|Arc Lightning
+02|00|00|00|00|KTK|U|Armament Corps
+01|00|00|00|00|KTK|U|Bear's Companion
+01|00|00|00|00|KTK|U|Become Immense
+03|00|00|00|00|KTK|U|Bellowing Saddlebrute
+02|00|00|00|00|KTK|U|Blinding Spray
+01|00|00|00|00|KTK|U|Brave the Sands
+03|00|00|00|00|KTK|U|Briber's Purse
+02|00|00|00|00|KTK|U|Burn Away
+03|00|00|00|00|KTK|U|Chief of the Edge
+01|00|00|00|00|KTK|U|Chief of the Scale
+02|00|00|00|00|KTK|U|Cranial Archive
+02|00|00|00|00|KTK|U|Dazzling Ramparts
+01|00|00|00|00|KTK|U|Dead Drop
+01|00|00|00|00|KTK|U|Death Frenzy
+01|00|00|00|00|KTK|U|Despise
+01|00|00|00|00|KTK|U|Dragon Grip
+02|00|00|00|00|KTK|U|Dragon's Eye Savants
+02|00|00|00|00|KTK|U|Frontier Bivouac
+02|00|00|00|00|KTK|U|Goblinslide
+01|00|00|00|00|KTK|U|Gurmag Swiftwing
+01|00|00|00|00|KTK|U|Heart-Piercer Bow
+02|00|00|00|00|KTK|U|Heir of the Wilds
+03|00|00|00|00|KTK|U|Highspire Mantis
+01|00|00|00|00|KTK|U|Horde Ambusher
+02|00|00|00|00|KTK|U|Hordeling Outburst
+01|00|00|00|00|KTK|U|Icefeather Aven
+01|00|00|00|00|KTK|U|Incremental Growth
+01|00|00|00|00|KTK|U|Jeskai Charm
+02|00|00|00|00|KTK|U|Jeskai Elder
+01|00|00|00|00|KTK|U|Kheru Bloodsucker
+01|00|00|00|00|KTK|U|Kin-Tree Invocation
+02|00|00|00|00|KTK|U|Mardu Blazebringer
+02|00|00|00|00|KTK|U|Mardu Charm
+01|00|00|00|00|KTK|U|Mardu Heart-Piercer
+01|00|00|00|00|KTK|U|Mardu Roughrider
+01|00|00|00|00|KTK|U|Master the Way
 00|00|00|00|00|KTK|U|Mer-Ek Nightblade
 01|00|00|00|00|KTK|U|Mistfire Weaver
-03|00|00|00|00|KTK|U|Monastery Swiftspear
-01|00|00|00|00|KTK|U|Murderous Cut
-01|00|00|00|00|KTK|U|Mystic Monastery
-00|00|00|00|00|KTK|U|Nomad Outpost
-01|00|00|00|00|KTK|U|Opulent Palace
-01|00|00|00|00|KTK|U|Pine Walker
-00|00|00|00|00|KTK|U|Quiet Contemplation
-01|00|00|00|00|KTK|U|Raiders' Spoils
-00|00|00|00|00|KTK|U|Ride Down
-00|00|00|00|00|KTK|U|Riverwheel Aerialists
-00|00|00|00|00|KTK|U|Roar of Challenge
-00|00|00|00|00|KTK|U|Ruthless Ripper
-00|00|00|00|00|KTK|U|Sandsteppe Citadel
-01|00|00|00|00|KTK|U|Scion of Glaciers
-01|00|00|00|00|KTK|U|Secret Plans
-00|00|00|00|00|KTK|U|Seek the Horizon
-01|00|00|00|00|KTK|U|Seeker of the Way
-00|00|00|00|00|KTK|U|Set Adrift
-00|00|00|00|00|KTK|U|Stubborn Denial
-02|00|00|00|00|KTK|U|Sultai Charm
-01|00|00|00|00|KTK|U|Sultai Flayer
-01|00|00|00|00|KTK|U|Sultai Soothsayer
-01|00|00|00|00|KTK|U|Suspension Field
-00|00|00|00|00|KTK|U|Swarm of Bloodflies
-00|00|00|00|00|KTK|U|Take Up Arms
-00|00|00|00|00|KTK|U|Temur Charger
-00|00|00|00|00|KTK|U|Temur Charm
-01|00|00|00|00|KTK|U|Timely Hordemate
-02|00|00|00|00|KTK|U|Tomb of the Spirit Dragon
-00|00|00|00|00|KTK|U|Tuskguard Captain
-01|00|00|00|00|KTK|U|Venerable Lammasu
-00|00|00|00|00|KTK|U|War-Name Aspirant
-02|00|00|00|00|KTK|U|Warden of the Eye
-01|00|00|00|00|KTK|U|Watcher of the Roost
-01|00|00|00|00|KTK|U|Waterwhirl
-00|00|00|00|00|KTK|U|Windstorm
-01|00|00|00|00|KTK|U|Winterflame
-00|00|00|00|00|KTK|U|Witness of the Ages
+05|00|00|00|00|KTK|U|Monastery Swiftspear
+02|00|00|00|00|KTK|U|Murderous Cut
+02|00|00|00|00|KTK|U|Mystic Monastery
+01|00|00|00|00|KTK|U|Nomad Outpost
+02|01|00|00|00|KTK|U|Opulent Palace
+03|00|00|00|00|KTK|U|Pine Walker
+02|00|00|00|00|KTK|U|Quiet Contemplation
+03|00|00|00|00|KTK|U|Raiders' Spoils
+01|00|00|00|00|KTK|U|Ride Down
+01|00|00|00|00|KTK|U|Riverwheel Aerialists
+01|00|00|00|00|KTK|U|Roar of Challenge
+01|00|00|00|00|KTK|U|Ruthless Ripper
+02|00|00|00|00|KTK|U|Sandsteppe Citadel
+02|00|00|00|00|KTK|U|Scion of Glaciers
+02|00|00|00|00|KTK|U|Secret Plans
+01|00|00|00|00|KTK|U|Seek the Horizon
+02|00|00|00|00|KTK|U|Seeker of the Way
+01|00|00|00|00|KTK|U|Set Adrift
+03|00|00|00|00|KTK|U|Stubborn Denial
+04|00|00|00|00|KTK|U|Sultai Charm
+03|00|00|00|00|KTK|U|Sultai Flayer
+03|00|00|00|00|KTK|U|Sultai Soothsayer
+02|00|00|00|00|KTK|U|Suspension Field
+02|00|00|00|00|KTK|U|Swarm of Bloodflies
+01|00|00|00|00|KTK|U|Take Up Arms
+01|00|00|00|00|KTK|U|Temur Charger
+01|00|00|00|00|KTK|U|Temur Charm
+03|00|00|00|00|KTK|U|Timely Hordemate
+03|00|00|00|00|KTK|U|Tomb of the Spirit Dragon
+01|00|00|00|00|KTK|U|Tuskguard Captain
+02|00|00|00|00|KTK|U|Venerable Lammasu
+02|00|00|00|00|KTK|U|War-Name Aspirant
+04|00|00|00|00|KTK|U|Warden of the Eye
+02|00|00|00|00|KTK|U|Watcher of the Roost
+03|00|00|00|00|KTK|U|Waterwhirl
+01|00|00|00|00|KTK|U|Windstorm
+02|00|00|00|00|KTK|U|Winterflame
+02|00|00|00|00|KTK|U|Witness of the Ages
 00|00|00|00|00|LEA|C|Benalish Hero
 00|00|00|00|00|LEA|C|Blue Elemental Blast
 00|00|00|00|00|LEA|C|Circle of Protection: Blue
