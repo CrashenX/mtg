@@ -1,31 +1,41 @@
-# Creature
-02|00|Agent of the Fates
-04|00|Blade Splicer
-01|00|Brimaz, King of Oreskos
-04|00|Dark Confidant
-02|00|Kitchen Finks
-03|00|Restoration Angel
-03|00|Tidehollow Sculler
-# Instant
-03|00|Cloudshift
-04|00|Path to Exile
-# Sideboard
-02|00|Zealous Persecution
-# Sorcery
-03|00|Inquisition of Kozilek
-03|00|Lingering Souls
-04|00|Thoughtseize
-# Artifact
-01|00|Sword of Light and Shadow
-# Land
+# Land (24)
 01|00|Cavern of Souls
-01|00|Eiganjo Castle
+02|00|Ghost Quarter
 04|00|Godless Shrine
 02|00|Isolated Chapel
 04|00|Marsh Flats
 01|00|Plains
-01|00|Swamp
-03|00|Tectonic Edge
+04|00|Swamp
 04|00|Temple of Silence
 01|00|Urborg, Tomb of Yawgmoth
 01|00|Vault of the Archangel
+# Planeswalker (5)
+04|00|Liliana of the Veil
+01|00|Sorin, Solemn Visitor
+# Sorcery (10)
+02|00|Inquisition of Kozilek
+04|00|Lingering Souls
+03|00|Thoughtseize
+01|00|Timely Reinforcements
+# Creature (13)
+03|00|Agent of the Fates
+04|00|Dark Confidant
+02|00|Monastery Mentor
+04|00|Wall of Omens
+# Instant (8)
+02|00|Darkblast
+02|00|Dawn Charm
+04|00|Path to Exile
+# Sideboard (15)
+01|00|Damnation
+03|00|Disenchant
+01|00|Duress
+01|00|Engineered Explosives
+01|00|Inquisition of Kozilek
+01|00|Oblivion Ring
+01|00|Rest in Peace
+01|00|Stony Silence
+01|00|Surgical Extraction
+01|00|Thoughtseize
+02|00|Timely Reinforcements
+01|00|Zealous Persecution
