@@ -486,6 +486,25 @@ sub print_dbox_want()
         . "\n";
 }
 
+sub print_puca_have()
+{
+    my $trade = shift;
+    my $name = shift;
+    my $foil = shift;
+    my $set = shift;
+    my $condition = shift;
+    my $set_name = &get_set_name($set);
+    $set_name = "\"$set_name\"" unless("" eq $set_name);
+
+    print "$trade"
+        . "," . "\"$name\""
+        . "," . "$foil"
+        . "," . "$set_name"
+        . "," . "$condition"
+        . "," . "English"
+        . "\n";
+}
+
 sub print_dbox_haves()
 {
     my $cards = shift;
@@ -510,6 +529,32 @@ sub print_dbox_haves()
                                     , $foil
                                     , $prmo
                                     , $text
+                                    , $set
+                                    , $cond
+                                    );
+                }
+            }
+        }
+    }
+}
+
+sub print_puca_haves()
+{
+    my $cards = shift;
+    print "Count,Name,Foil,Edition,Condition,Language\n";
+
+    for my $name (sort keys %$cards) {
+        for my $set (sort set_sort keys %{$cards->{$name}{set}}) {
+            for my $type (sort keys %{$cards->{$name}{set}{$set}}) {
+                my $foil = "foil" eq $type ? "foil" : "";
+                my $cond = "mcut" eq $type ? "Poor" : "";
+                my $h = $cards->{$name}{set}{$set}{$type};
+                my $trade = $h->{have} - $h->{want};
+                $trade = 0 if(0 > $trade);
+                if(0 != $trade) {
+                    &print_puca_have( $trade
+                                    , $name
+                                    , $foil
                                     , $set
                                     , $cond
                                     );
@@ -848,6 +893,10 @@ sub main()
     if($format_dbox) {
         &print_dbox_haves($cards) if $print_have;
         &print_dbox_wants($cards) if $print_want;
+    }
+    if($format_puca) {
+        &print_puca_haves($cards) if $print_have;
+        &print_puca_wants($cards) if $print_want;
     }
     if($format_motl) {
         &print_motl($cards, "have") if $print_have;
