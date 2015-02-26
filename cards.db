@@ -18783,7 +18783,7 @@
 01|00|00|00|00|ROE|R|Dormant Gomazoa
 00|00|00|00|00|ROE|R|Drana, Kalastria Bloodchief
 00|00|00|00|00|ROE|R|Echo Mage
-01|00|00|00|00|ROE|R|Eldrazi Conscription
+00|00|00|00|00|ROE|R|Eldrazi Conscription
 04|00|00|00|00|ROE|R|Eldrazi Temple
 00|01|00|00|00|ROE|R|Gelatinous Genesis
 00|01|00|00|00|ROE|R|Gigantomancer
@@ -18810,7 +18810,7 @@
 01|00|00|00|00|ROE|R|Recurring Insight
 01|00|00|00|00|ROE|R|Renegade Doppelganger
 00|00|00|00|00|ROE|R|Repay in Kind
-02|01|00|00|00|ROE|R|Spawnsire of Ulamog
+02|00|00|00|00|ROE|R|Spawnsire of Ulamog
 01|00|00|00|00|ROE|R|Sphinx of Magosi
 01|00|00|00|00|ROE|R|Sphinx-Bone Wand
 00|00|00|00|00|ROE|R|Splinter Twin
@@ -18830,7 +18830,7 @@
 02|00|00|00|00|ROE|U|Boar Umbra
 01|00|00|00|00|ROE|U|Bramblesnap
 00|00|00|00|00|ROE|U|Brimstone Mage
-02|00|00|00|00|ROE|U|Broodwarden
+00|00|00|00|00|ROE|U|Broodwarden
 01|00|00|00|00|ROE|U|Corpsehatch
 01|00|00|00|00|ROE|U|Crab Umbra
 02|00|00|00|00|ROE|U|Curse of Wizardry
@@ -18856,10 +18856,10 @@
 01|00|00|00|00|ROE|U|Mammoth Umbra
 01|00|00|00|00|ROE|U|Merfolk Skyscout
 00|00|00|00|00|ROE|U|Nirkana Cutthroat
-02|00|00|00|00|ROE|U|Not of This World
+00|00|00|00|00|ROE|U|Not of This World
 01|00|00|00|00|ROE|U|Ogre's Cleaver
 00|00|00|00|00|ROE|U|Oust
-02|00|00|00|00|ROE|U|Pathrazer of Ulamog
+01|00|00|00|00|ROE|U|Pathrazer of Ulamog
 01|00|00|00|00|ROE|U|Pawn of Ulamog
 05|00|00|00|00|ROE|U|Pelakka Wurm
 03|00|00|00|00|ROE|U|Pennon Blade
