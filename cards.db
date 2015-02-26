@@ -4449,7 +4449,7 @@
 00|00|00|00|00|AVR|C|Geist Snatch
 00|00|00|00|00|AVR|C|Geist Trappers
 00|00|00|00|00|AVR|C|Ghostform
-03|00|00|00|00|AVR|C|Ghostly Flicker
+02|00|00|00|00|AVR|C|Ghostly Flicker
 00|00|00|00|00|AVR|C|Ghoulflesh
 00|00|00|00|00|AVR|C|Grave Exchange
 00|00|00|00|00|AVR|C|Grounded
@@ -4515,7 +4515,7 @@
 00|00|00|00|00|AVR|C|Unhallowed Pact
 00|00|00|00|00|AVR|C|Vanguard's Shield
 00|00|00|00|00|AVR|C|Voice of the Provinces
-00|02|00|00|00|AVR|C|Wandering Wolf
+00|01|00|00|00|AVR|C|Wandering Wolf
 00|00|00|00|00|AVR|C|Wildwood Geist
 00|00|00|00|00|AVR|C|Wingcrafter
 00|00|00|00|00|AVR|C|Zealous Strike
@@ -7891,7 +7891,7 @@
 00|00|00|00|00|DGM|C|Nivix Cyclops
 00|00|00|00|00|DGM|C|Opal Lake Gatekeepers
 00|00|00|00|00|DGM|C|Orzhov Cluestone
-00|01|00|00|00|DGM|C|Orzhov Guildgate
+00|00|00|00|00|DGM|C|Orzhov Guildgate
 00|00|00|00|00|DGM|C|Phytoburst
 00|00|00|00|00|DGM|C|Pilfered Plans
 00|00|00|00|00|DGM|C|Punish the Enemy
@@ -7959,7 +7959,7 @@
 01|00|00|00|00|DGM|R|Ruric Thar, the Unbowed
 00|00|00|00|00|DGM|R|Scion of Vitu-Ghazi
 01|00|00|00|00|DGM|R|Sire of Insanity
-03|00|00|00|00|DGM|R|Skylasher
+02|00|00|00|00|DGM|R|Skylasher
 01|00|00|00|00|DGM|R|Tajic, Blade of the Legion
 01|00|00|00|00|DGM|R|Teysa, Envoy of Ghosts
 01|00|00|00|00|DGM|R|Trait Doctoring
@@ -8716,7 +8716,7 @@
 00|00|00|00|00|DST|R|Greater Harvester
 02|00|00|00|00|DST|R|Heartseeker
 00|00|00|00|00|DST|R|Last Word
-03|00|00|00|00|DST|R|Leonin Shikari
+02|00|00|00|00|DST|R|Leonin Shikari
 00|00|00|00|00|DST|R|Lich's Tomb
 00|00|00|00|00|DST|R|Memnarch
 00|00|00|00|00|DST|R|Mephitic Ooze
@@ -9363,7 +9363,7 @@
 00|00|00|00|00|FTF|C|Will of the Naga
 00|00|00|00|00|FTF|C|Wind-Scarred Crag
 00|00|00|00|00|FTF|C|Write into Being
-01|00|00|00|00|FTF|M|Brutal Hordechief
+00|00|00|00|00|FTF|M|Brutal Hordechief
 00|00|00|00|00|FTF|M|Ghastly Conscription
 03|00|00|00|00|FTF|M|Monastery Mentor
 00|00|00|00|00|FTF|M|Shaman of the Great Hunt
@@ -11307,10 +11307,10 @@
 02|00|00|00|00|ISD|U|Dissipate
 00|00|00|00|00|ISD|U|Falkenrath Noble
 04|00|00|00|00|ISD|U|Fiend Hunter
-02|00|00|00|00|ISD|U|Full Moon's Rise
+01|00|00|00|00|ISD|U|Full Moon's Rise
 03|00|00|00|00|ISD|U|Gallows Warden
 00|00|00|00|00|ISD|U|Galvanic Juggernaut
-01|00|00|00|00|ISD|U|Gatstaf Shepherd
+00|00|00|00|00|ISD|U|Gatstaf Shepherd
 00|00|00|00|00|ISD|U|Geistcatcher's Rig
 04|00|00|00|00|ISD|U|Ghost Quarter
 01|00|00|00|00|ISD|U|Grasp of Phantoms
@@ -14160,7 +14160,7 @@
 04|00|00|00|00|M13|U|Rancor
 00|00|00|00|00|M13|U|Reliquary Tower
 00|00|00|00|00|M13|U|Revive
-02|00|00|00|00|M13|U|Rewind
+01|00|00|00|00|M13|U|Rewind
 00|00|00|00|00|M13|U|Ring of Evos Isle
 00|00|00|00|00|M13|U|Ring of Kalonia
 00|00|00|00|00|M13|U|Ring of Thune
@@ -15220,7 +15220,7 @@
 03|00|00|00|00|MMA|C|Durkwood Baloth
 02|00|00|00|00|MMA|C|Echoing Courage
 06|00|00|00|00|MMA|C|Echoing Truth
-01|00|00|00|00|MMA|C|Empty the Warrens
+00|00|00|00|00|MMA|C|Empty the Warrens
 05|00|00|00|00|MMA|C|Errant Ephemeron
 00|00|00|00|00|MMA|C|Erratic Mutation
 04|00|00|00|00|MMA|C|Etherium Sculptor
@@ -15246,7 +15246,7 @@
 02|00|00|00|00|MMA|C|Latchkey Faerie
 02|00|00|00|00|MMA|C|Lava Spike
 04|01|00|00|00|MMA|C|Logic Knot
-02|01|00|00|00|MMA|C|Mogg War Marshal
+02|00|00|00|00|MMA|C|Mogg War Marshal
 03|00|00|00|00|MMA|C|Moldervine Cloak
 02|01|00|00|00|MMA|C|Mothdust Changeling
 04|00|00|00|00|MMA|C|Myr Enforcer
@@ -16027,7 +16027,7 @@
 00|00|00|00|00|MRD|R|Blinkmoth Urn
 00|00|00|00|00|MRD|R|Bosh, Iron Golem
 00|00|00|00|00|MRD|R|Broodstar
-02|00|00|00|00|MRD|R|Chalice of the Void
+00|00|00|00|00|MRD|R|Chalice of the Void
 00|00|00|00|00|MRD|R|Chrome Mox
 00|00|00|00|00|MRD|R|Clockwork Dragon
 00|00|00|00|00|MRD|R|Confusion in the Ranks
@@ -19928,7 +19928,7 @@
 00|00|00|00|00|SOM|C|Carapace Forger
 00|00|00|00|00|SOM|C|Chrome Steed
 00|00|00|00|00|SOM|C|Contagious Nim
-01|01|00|00|00|SOM|C|Copper Myr
+01|00|00|00|00|SOM|C|Copper Myr
 00|00|00|00|00|SOM|C|Copperhorn Scout
 00|00|00|00|00|SOM|C|Corpse Cur
 00|00|00|00|00|SOM|C|Cystbearer
