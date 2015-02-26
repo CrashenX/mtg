@@ -129,7 +129,7 @@
 00|00|00|00|00|10E|R|Adarkar Wastes
 00|00|00|00|00|10E|R|Ambassador Laquatus
 00|00|00|00|00|10E|R|Angelic Chorus
-01|00|00|00|00|10E|R|Arcanis the Omnipotent
+00|00|00|00|00|10E|R|Arcanis the Omnipotent
 00|00|00|00|00|10E|R|Ascendant Evincar
 00|00|00|00|00|10E|R|Avatar of Might
 00|00|00|00|00|10E|R|Battlefield Forge
@@ -9534,7 +9534,7 @@
 00|00|00|00|00|FUT|R|Baru, Fist of Krosa
 00|00|00|00|00|FUT|R|Bitter Ordeal
 00|00|00|00|00|FUT|R|Bridge from Below
-01|00|00|00|00|FUT|R|Cloud Key
+00|00|00|00|00|FUT|R|Cloud Key
 00|00|00|00|00|FUT|R|Coalition Relic
 01|00|00|00|00|FUT|R|Darksteel Garrison
 00|00|00|00|00|FUT|R|Daybreak Coronet
@@ -11072,7 +11072,7 @@
 00|00|00|00|00|INV|U|Spirit Weaver
 00|00|00|00|00|INV|U|Spite // Malice
 00|00|00|00|00|INV|U|Stand // Deliver
-01|00|00|00|00|INV|U|Sterling Grove
+00|00|00|00|00|INV|U|Sterling Grove
 00|00|00|00|00|INV|U|Sulam Djinn
 00|00|00|00|00|INV|U|Sway of Illusion
 00|00|00|00|00|INV|U|Tangle
@@ -14342,7 +14342,7 @@
 00|00|00|00|00|M14|R|Seraph of the Sword
 00|00|00|00|00|M14|R|Shivan Dragon
 00|00|00|00|00|M14|R|Silence
-01|00|00|00|00|M14|R|Strionic Resonator
+00|00|00|00|00|M14|R|Strionic Resonator
 00|00|00|00|00|M14|R|Syphon Sliver
 00|00|00|00|00|M14|R|Thorncaster Sliver
 01|00|00|00|00|M14|R|Tidebinder Mage
@@ -15294,7 +15294,7 @@
 01|00|00|00|00|MMA|C|Warren Pilferers
 02|00|00|00|00|MMA|C|Warren Weirding
 04|00|00|00|00|MMA|M|Dark Confidant
-03|00|00|00|00|MMA|M|Elspeth, Knight-Errant
+02|00|00|00|00|MMA|M|Elspeth, Knight-Errant
 00|00|00|00|00|MMA|M|Jugan, the Rising Star
 00|00|00|00|00|MMA|M|Keiga, the Tide Star
 01|00|00|00|00|MMA|M|Kiki-Jiki, Mirror Breaker
@@ -18755,7 +18755,7 @@
 00|00|00|00|00|ROE|C|Zof Shade
 00|00|00|00|00|ROE|C|Zulaport Enforcer
 00|00|00|00|00|ROE|M|All Is Dust
-01|00|00|00|00|ROE|M|Cast Through Time
+00|00|00|00|00|ROE|M|Cast Through Time
 00|00|01|00|00|ROE|M|Emrakul, the Aeons Torn
 00|00|00|00|00|ROE|M|Gideon Jura
 00|00|00|00|00|ROE|M|Hellcarver Demon
@@ -19134,7 +19134,7 @@
 02|00|00|00|00|RTR|U|Treasured Find
 01|00|00|00|00|RTR|U|Ultimate Price
 00|00|00|00|00|RTR|U|Vandalblast
-01|00|00|00|00|RTR|U|Vitu-Ghazi Guildmage
+00|00|00|00|00|RTR|U|Vitu-Ghazi Guildmage
 01|00|00|00|00|RTR|U|Zanikev Locust
 00|00|00|00|00|S00|S|Angelic Blessing
 00|00|00|00|00|S00|S|Breath of Life
@@ -20805,7 +20805,7 @@
 00|00|00|00|00|TMP|U|Perish
 00|00|00|00|00|TMP|U|Phyrexian Hulk
 00|00|00|00|00|TMP|U|Phyrexian Splicer
-01|00|00|00|00|TMP|U|Propaganda
+00|00|00|00|00|TMP|U|Propaganda
 00|00|00|00|00|TMP|U|Puppet Strings
 00|00|00|00|00|TMP|U|Quickening Licid
 00|00|00|00|00|TMP|U|Rain of Tears
@@ -22526,7 +22526,7 @@
 00|00|00|00|00|WWK|R|Amulet of Vigor
 00|00|00|00|00|WWK|R|Anowon, the Ruin Sage
 01|01|00|00|00|WWK|R|Archon of Redemption
-01|00|00|00|00|WWK|R|Basilisk Collar
+00|00|00|00|00|WWK|R|Basilisk Collar
 01|00|00|00|00|WWK|R|Bazaar Trader
 00|00|00|00|00|WWK|R|Butcher of Malakir
 02|00|00|00|00|WWK|R|Celestial Colonnade
