@@ -14774,7 +14774,7 @@
 04|00|00|00|00|MBS|R|Mirran Crusader
 02|00|00|00|00|MBS|R|Mirrorworks
 01|00|00|00|00|MBS|R|Mitotic Manipulation
-02|00|00|00|00|MBS|R|Myr Turbine
+01|00|00|00|00|MBS|R|Myr Turbine
 01|00|00|00|00|MBS|R|Myr Welder
 02|00|00|00|00|MBS|R|Phyrexian Crusader
 01|00|00|00|00|MBS|R|Phyrexian Hydra
@@ -16448,7 +16448,7 @@
 04|00|00|00|00|NPH|R|Spellskite
 04|00|00|00|00|NPH|R|Surgical Extraction
 01|00|00|00|00|NPH|R|Torpor Orb
-02|00|00|00|00|NPH|R|Unwinding Clock
+00|00|00|00|00|NPH|R|Unwinding Clock
 02|00|00|00|00|NPH|R|Xenograft
 02|02|00|00|00|NPH|U|Act of Aggression
 01|00|00|00|00|NPH|U|Alloy Myr
@@ -20080,7 +20080,7 @@
 00|00|00|00|00|SOM|R|Steel Hellkite
 00|00|00|00|00|SOM|R|Strata Scythe
 01|01|00|00|00|SOM|R|Sunblast Angel
-02|00|00|00|00|SOM|R|Tempered Steel
+00|00|00|00|00|SOM|R|Tempered Steel
 00|00|00|00|00|SOM|R|Tower of Calamities
 02|00|00|00|00|SOM|R|True Conviction
 01|00|00|00|00|SOM|R|Tunnel Ignus
