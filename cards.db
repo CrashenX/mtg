@@ -4747,7 +4747,7 @@
 00|00|00|00|00|BNG|R|Silent Sentinel
 04|00|00|00|00|BNG|R|Spirit of the Labyrinth
 00|00|00|00|00|BNG|R|Temple of Enlightenment
-00|00|00|00|00|BNG|R|Temple of Malice
+04|00|00|00|00|BNG|R|Temple of Malice
 00|00|00|00|00|BNG|R|Temple of Plenty
 01|00|00|00|00|BNG|R|Tromokratis
 00|00|00|00|00|BNG|R|Whelming Wave
@@ -11280,7 +11280,7 @@
 04|00|00|00|00|ISD|R|Snapcaster Mage
 00|00|00|00|00|ISD|R|Splinterfright
 00|00|00|00|00|ISD|R|Stensia Bloodhall
-00|00|00|00|00|ISD|R|Stony Silence
+01|00|00|00|00|ISD|R|Stony Silence
 00|00|00|00|00|ISD|R|Stromkirk Noble
 00|00|00|00|00|ISD|R|Sturmgeist
 00|00|00|00|00|ISD|R|Sulfur Falls
@@ -20447,11 +20447,11 @@
 00|00|00|00|00|THS|R|Steam Augury
 00|00|00|00|00|THS|R|Swan Song
 01|00|00|00|00|THS|R|Sylvan Caryatid
-03|00|00|00|00|THS|R|Temple of Abandon
+04|00|00|00|00|THS|R|Temple of Abandon
 00|00|00|00|00|THS|R|Temple of Deceit
 03|00|00|00|00|THS|R|Temple of Mystery
 04|00|00|00|00|THS|R|Temple of Silence
-01|00|00|00|00|THS|R|Temple of Triumph
+02|00|00|00|00|THS|R|Temple of Triumph
 04|00|00|00|00|THS|R|Thoughtseize
 00|00|00|00|00|THS|R|Titan of Eternal Fire
 01|00|00|00|00|THS|R|Triad of Fates
