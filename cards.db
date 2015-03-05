@@ -4748,7 +4748,7 @@
 04|00|00|00|00|BNG|R|Spirit of the Labyrinth
 00|00|00|00|00|BNG|R|Temple of Enlightenment
 04|00|00|00|00|BNG|R|Temple of Malice
-00|00|00|00|00|BNG|R|Temple of Plenty
+03|00|00|00|00|BNG|R|Temple of Plenty
 01|00|00|00|00|BNG|R|Tromokratis
 00|00|00|00|00|BNG|R|Whelming Wave
 00|00|00|00|00|BNG|R|Whims of the Fates
@@ -6763,7 +6763,7 @@
 00|00|00|00|00|CNS|U|Gamekeeper
 00|00|00|00|00|CNS|U|Glimmerpoint Stag
 00|00|00|00|00|CNS|U|Heckling Fiends
-00|00|00|00|00|CNS|U|Intangible Virtue
+01|00|00|00|00|CNS|U|Intangible Virtue
 00|00|00|00|00|CNS|U|Iterative Analysis
 00|00|00|00|00|CNS|U|Jetting Glasskite
 00|00|00|00|00|CNS|U|Lead the Stampede
@@ -6786,7 +6786,7 @@
 00|00|00|00|00|CNS|U|Selvala's Charge
 00|00|00|00|00|CNS|U|Skeletal Scrying
 00|00|00|00|00|CNS|U|Sky Spirit
-00|00|00|00|00|CNS|U|Smallpox
+01|00|00|00|00|CNS|U|Smallpox
 00|00|00|00|00|CNS|U|Soulcatcher
 00|00|00|00|00|CNS|U|Spectral Searchlight
 00|00|00|00|00|CNS|U|Split Decision
@@ -9365,7 +9365,7 @@
 00|00|00|00|00|FTF|C|Write into Being
 00|00|00|00|00|FTF|M|Brutal Hordechief
 00|00|00|00|00|FTF|M|Ghastly Conscription
-03|00|00|00|00|FTF|M|Monastery Mentor
+04|00|00|00|00|FTF|M|Monastery Mentor
 00|00|00|00|00|FTF|M|Shaman of the Great Hunt
 00|00|00|00|00|FTF|M|Soulfire Grand Master
 00|00|00|00|00|FTF|M|Temporal Trespass
@@ -11122,7 +11122,7 @@
 00|00|00|00|00|ISD|C|Curse of the Pierced Heart
 00|00|00|00|00|ISD|C|Darkthicket Wolf
 00|00|00|00|00|ISD|C|Dead Weight
-00|00|00|00|00|ISD|C|Delver of Secrets
+04|00|00|00|00|ISD|C|Delver of Secrets
 00|00|00|00|00|ISD|C|Deranged Assistant
 04|00|00|00|00|ISD|C|Doomed Traveler
 00|00|00|00|00|ISD|C|Dream Twist
@@ -11791,7 +11791,7 @@
 01|00|00|00|00|KTK|R|Ankle Shanker
 01|00|00|00|00|KTK|R|Avalanche Tusker
 00|00|00|00|00|KTK|R|Bloodsoaked Champion
-04|00|00|00|00|KTK|R|Bloodstained Mire
+05|00|00|00|00|KTK|R|Bloodstained Mire
 01|00|00|00|00|KTK|R|Butcher of the Horde
 01|00|00|00|00|KTK|R|Crackling Doom
 01|00|00|00|00|KTK|R|Crater's Claws
@@ -11821,7 +11821,7 @@
 00|00|00|00|00|KTK|R|Meandering Towershell
 01|01|00|00|00|KTK|R|Mindswipe
 02|00|00|00|00|KTK|R|Necropolis Fiend
-03|00|00|00|00|KTK|R|Polluted Delta
+04|00|00|00|00|KTK|R|Polluted Delta
 01|00|00|00|00|KTK|R|Rakshasa Deathdealer
 01|00|00|00|00|KTK|R|Rakshasa Vizier
 01|00|00|00|00|KTK|R|Rattleclaw Mystic
@@ -11837,7 +11837,7 @@
 01|00|00|00|00|KTK|R|Trap Essence
 01|00|00|00|00|KTK|R|Utter End
 02|00|00|00|00|KTK|R|Villainous Wealth
-05|00|00|00|00|KTK|R|Windswept Heath
+06|00|00|00|00|KTK|R|Windswept Heath
 06|00|00|00|00|KTK|R|Wooded Foothills
 01|00|00|00|00|KTK|U|Abzan Battle Priest
 01|00|00|00|00|KTK|U|Abzan Charm
@@ -13372,7 +13372,7 @@
 00|00|00|00|00|M10|R|Clone
 00|00|00|00|00|M10|R|Coat of Arms
 02|00|00|00|00|M10|R|Djinn of Wishes
-00|00|00|00|00|M10|R|Dragonskull Summit
+02|00|00|00|00|M10|R|Dragonskull Summit
 00|00|00|00|00|M10|R|Drowned Catacomb
 00|00|00|00|00|M10|R|Earthquake
 00|00|00|00|00|M10|R|Elvish Archdruid
@@ -13505,7 +13505,7 @@
 00|00|00|00|00|M11|C|Disentomb
 00|00|00|00|00|M11|C|Doom Blade
 00|00|00|00|00|M11|C|Dryad's Favor
-00|00|00|00|00|M11|C|Duress
+04|00|00|00|00|M11|C|Duress
 00|00|00|00|00|M11|C|Excommunicate
 00|00|00|00|00|M11|C|Fiery Hellhound
 00|00|00|00|00|M11|C|Fling
@@ -13931,7 +13931,7 @@
 00|00|00|00|00|M12|U|Scepter of Empires
 02|00|00|00|00|M12|U|Sengir Vampire
 00|00|00|00|00|M12|U|Serra Angel
-02|00|00|00|00|M12|U|Smallpox
+03|00|00|00|00|M12|U|Smallpox
 01|00|00|00|00|M12|U|Spirit Mantle
 00|00|00|00|00|M12|U|Stingerfling Spider
 00|00|00|00|00|M12|U|Stormblood Berserker
@@ -14050,7 +14050,7 @@
 00|00|00|00|00|M13|C|Wind Drake
 00|00|00|00|00|M13|C|Yeva's Forcemage
 00|00|00|00|00|M13|C|Zombie Goliath
-00|00|00|00|00|M13|M|Ajani, Caller of the Pride
+01|00|00|00|00|M13|M|Ajani, Caller of the Pride
 00|00|00|00|00|M13|M|Akroma's Memorial
 00|00|00|00|00|M13|M|Chandra, the Firebrand
 00|00|00|00|00|M13|M|Elderscale Wurm
@@ -16465,7 +16465,7 @@
 02|00|00|00|00|NPH|U|Darksteel Relic
 03|00|00|00|00|NPH|U|Deceiver Exarch
 00|00|00|00|00|NPH|U|Despise
-01|00|00|00|00|NPH|U|Dismember
+02|00|00|00|00|NPH|U|Dismember
 04|00|00|00|00|NPH|U|Dispatch
 02|00|00|00|00|NPH|U|Due Respect
 02|00|00|00|00|NPH|U|Enslave
@@ -20448,8 +20448,8 @@
 00|00|00|00|00|THS|R|Swan Song
 01|00|00|00|00|THS|R|Sylvan Caryatid
 04|00|00|00|00|THS|R|Temple of Abandon
-00|00|00|00|00|THS|R|Temple of Deceit
-03|00|00|00|00|THS|R|Temple of Mystery
+03|00|00|00|00|THS|R|Temple of Deceit
+04|00|00|00|00|THS|R|Temple of Mystery
 04|00|00|00|00|THS|R|Temple of Silence
 02|00|00|00|00|THS|R|Temple of Triumph
 04|00|00|00|00|THS|R|Thoughtseize
@@ -22782,7 +22782,7 @@
 03|00|00|00|00|ZEN|U|Cobra Trap
 04|00|00|00|00|ZEN|U|Feast of Blood
 04|00|00|00|00|ZEN|U|Frontier Guide
-00|00|00|00|00|ZEN|U|Gatekeeper of Malakir
+02|00|00|00|00|ZEN|U|Gatekeeper of Malakir
 04|00|00|00|00|ZEN|U|Geyser Glider
 03|00|00|00|00|ZEN|U|Goblin Ruinblaster
 01|00|00|00|00|ZEN|U|Gomazoa
