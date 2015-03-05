@@ -244,7 +244,7 @@
 00|00|00|00|00|10E|R|Voice of All
 00|00|00|00|00|10E|R|Warp World
 00|00|00|00|00|10E|R|Windborn Muse
-01|00|00|00|00|10E|R|Wrath of God
+00|00|00|00|00|10E|R|Wrath of God
 00|00|00|00|00|10E|R|Yavimaya Coast
 00|00|00|00|00|10E|U|Academy Researchers
 00|00|00|00|00|10E|U|Agonizing Memories
@@ -3434,7 +3434,7 @@
 00|00|00|00|00|ALA|R|Predator Dragon
 00|00|00|00|00|ALA|R|Punish Ignorance
 00|00|00|00|00|ALA|R|Quietus Spike
-04|00|00|00|00|ALA|R|Ranger of Eos
+03|00|00|00|00|ALA|R|Ranger of Eos
 00|00|00|00|00|ALA|R|Realm Razer
 00|00|00|00|00|ALA|R|Sacellum Godspeaker
 00|00|00|00|00|ALA|R|Salvage Titan
@@ -8102,7 +8102,7 @@
 00|00|00|00|00|DIS|R|Omnibian
 04|00|00|00|00|DIS|R|Pillar of the Paruns
 00|00|00|00|00|DIS|R|Pride of the Clouds
-03|00|00|00|00|DIS|R|Proclamation of Rebirth
+00|00|00|00|00|DIS|R|Proclamation of Rebirth
 00|00|00|00|00|DIS|R|Proper Burial
 00|00|00|00|00|DIS|R|Protean Hulk
 00|00|00|00|00|DIS|R|Psychic Possession
