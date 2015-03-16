@@ -11821,7 +11821,7 @@
 00|00|00|00|00|KTK|R|Meandering Towershell
 01|01|00|00|00|KTK|R|Mindswipe
 02|00|00|00|00|KTK|R|Necropolis Fiend
-04|00|00|00|00|KTK|R|Polluted Delta
+05|00|00|00|00|KTK|R|Polluted Delta
 01|00|00|00|00|KTK|R|Rakshasa Deathdealer
 01|00|00|00|00|KTK|R|Rakshasa Vizier
 01|00|00|00|00|KTK|R|Rattleclaw Mystic
@@ -19039,7 +19039,7 @@
 00|00|00|00|00|RTR|R|Mercurial Chemister
 00|00|00|00|00|RTR|R|Mizzium Mortars
 00|00|00|00|00|RTR|R|Nivmagus Elemental
-01|00|00|00|00|RTR|R|Overgrown Tomb
+02|00|00|00|00|RTR|R|Overgrown Tomb
 00|00|00|00|00|RTR|R|Pack Rat
 00|00|00|00|00|RTR|R|Palisade Giant
 04|00|00|00|00|RTR|R|Pithing Needle
@@ -20040,7 +20040,7 @@
 02|00|00|00|00|SOM|R|Cerebral Eruption
 01|00|00|00|00|SOM|R|Chimeric Mass
 01|00|00|00|00|SOM|R|Contagion Engine
-02|00|00|00|00|SOM|R|Copperline Gorge
+04|00|00|00|00|SOM|R|Copperline Gorge
 02|00|00|00|00|SOM|R|Darkslick Shores
 00|00|00|00|00|SOM|R|Darksteel Juggernaut
 02|00|00|00|00|SOM|R|Dissipation Field
