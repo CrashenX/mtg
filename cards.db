@@ -7943,7 +7943,7 @@
 00|00|00|00|00|DGM|R|Exava, Rakdos Blood Witch
 01|00|00|00|00|DGM|R|Flesh // Blood
 01|00|00|00|00|DGM|R|Gaze of Granite
-02|00|00|00|00|DGM|R|Lavinia of the Tenth
+03|00|00|00|00|DGM|R|Lavinia of the Tenth
 01|00|00|00|00|DGM|R|Melek, Izzet Paragon
 02|00|00|00|00|DGM|R|Mirko Vosk, Mind Drinker
 00|01|00|00|00|DGM|R|Notion Thief
@@ -20448,7 +20448,7 @@
 00|00|00|00|00|THS|R|Swan Song
 00|00|00|00|00|THS|R|Sylvan Caryatid
 04|00|00|00|00|THS|R|Temple of Abandon
-03|00|00|00|00|THS|R|Temple of Deceit
+04|00|00|00|00|THS|R|Temple of Deceit
 04|00|00|00|00|THS|R|Temple of Mystery
 04|00|00|00|00|THS|R|Temple of Silence
 02|00|00|00|00|THS|R|Temple of Triumph
@@ -22752,7 +22752,7 @@
 00|00|00|00|00|ZEN|R|Magosi, the Waterveil
 02|00|00|00|00|ZEN|R|Malakir Bloodwitch
 04|00|00|00|00|ZEN|R|Marsh Flats
-01|00|00|00|00|ZEN|R|Misty Rainforest
+02|00|00|00|00|ZEN|R|Misty Rainforest
 00|00|00|00|00|ZEN|R|Oracle of Mul Daya
 01|00|00|00|00|ZEN|R|Oran-Rief, the Vastwood
 02|00|00|00|00|ZEN|R|Predatory Urge
