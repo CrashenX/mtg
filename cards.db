@@ -3393,7 +3393,7 @@
 00|00|00|00|00|ALA|M|Lich's Mirror
 00|00|00|00|00|ALA|M|Mayael the Anima
 00|00|00|00|00|ALA|M|Prince of Thralls
-01|00|00|00|00|ALA|M|Rafiq of the Many
+00|00|00|00|00|ALA|M|Rafiq of the Many
 00|00|00|00|00|ALA|M|Sarkhan Vol
 00|00|00|00|00|ALA|M|Sedris, the Traitor King
 00|00|00|00|00|ALA|M|Sharuum the Hegemon
@@ -11280,7 +11280,7 @@
 04|00|00|00|00|ISD|R|Snapcaster Mage
 00|00|00|00|00|ISD|R|Splinterfright
 00|00|00|00|00|ISD|R|Stensia Bloodhall
-01|00|00|00|00|ISD|R|Stony Silence
+03|00|00|00|00|ISD|R|Stony Silence
 00|00|00|00|00|ISD|R|Stromkirk Noble
 00|00|00|00|00|ISD|R|Sturmgeist
 00|00|00|00|00|ISD|R|Sulfur Falls
@@ -11837,7 +11837,7 @@
 01|00|00|00|00|KTK|R|Trap Essence
 01|00|00|00|00|KTK|R|Utter End
 02|00|00|00|00|KTK|R|Villainous Wealth
-06|00|00|00|00|KTK|R|Windswept Heath
+07|00|00|00|00|KTK|R|Windswept Heath
 06|00|00|00|00|KTK|R|Wooded Foothills
 01|00|00|00|00|KTK|U|Abzan Battle Priest
 01|00|00|00|00|KTK|U|Abzan Charm
@@ -14411,7 +14411,7 @@
 00|00|00|00|00|M14|U|Water Servant
 00|00|00|00|00|M14|U|Windstorm
 00|00|00|00|00|M14|U|Woodborn Behemoth
-01|00|00|00|00|M14|U|Young Pyromancer
+00|00|00|00|00|M14|U|Young Pyromancer
 00|00|00|00|00|M15|C|Accursed Spirit
 00|00|00|00|00|M15|C|Aeronaut Tinkerer
 00|00|00|00|00|M15|C|Amphin Pathmage
@@ -15328,7 +15328,7 @@
 00|00|00|00|00|MMA|R|Doubling Season
 01|00|00|00|00|MMA|R|Dragonstorm
 00|00|00|00|00|MMA|R|Earwig Squad
-05|00|00|00|00|MMA|R|Engineered Explosives
+04|00|00|00|00|MMA|R|Engineered Explosives
 04|00|00|00|00|MMA|R|Ethersworn Canonist
 00|00|00|00|00|MMA|R|Extirpate
 05|00|00|00|00|MMA|R|Figure of Destiny
@@ -20072,7 +20072,7 @@
 00|00|00|00|00|SOM|R|Prototype Portal
 00|01|00|00|00|SOM|R|Putrefax
 02|00|00|00|00|SOM|R|Ratchet Bomb
-02|00|00|00|00|SOM|R|Razorverge Thicket
+04|00|00|00|00|SOM|R|Razorverge Thicket
 03|00|00|00|00|SOM|R|Seachrome Coast
 03|00|00|00|00|SOM|R|Semblance Anvil
 01|00|00|00|00|SOM|R|Shape Anew
@@ -22706,7 +22706,7 @@
 00|00|00|00|00|ZEN|M|Chandra Ablaze
 00|00|00|00|00|ZEN|M|Eldrazi Monument
 00|00|00|00|00|ZEN|M|Eternity Vessel
-01|00|00|00|00|ZEN|M|Felidar Sovereign
+00|00|00|00|00|ZEN|M|Felidar Sovereign
 00|00|00|00|00|ZEN|M|Iona, Shield of Emeria
 00|00|00|00|00|ZEN|M|Kalitas, Bloodchief of Ghet
 00|00|00|00|00|ZEN|M|Lorthos, the Tidemaker
