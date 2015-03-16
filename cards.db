@@ -7513,7 +7513,7 @@
 01|00|00|00|00|DDG|R|Kinsbaile Cavalier
 04|00|00|00|00|DDG|R|Knight Exemplar
 01|00|00|00|00|DDG|R|Knight of the White Orchid
-01|00|00|00|00|DDG|R|Knotvine Paladin
+00|00|00|00|00|DDG|R|Knotvine Paladin
 00|00|00|00|00|DDG|R|Loxodon Warhammer
 00|00|00|00|00|DDG|R|Mordant Dragon
 00|00|00|00|00|DDG|R|Shivan Hellkite
@@ -8716,7 +8716,7 @@
 00|00|00|00|00|DST|R|Greater Harvester
 02|00|00|00|00|DST|R|Heartseeker
 00|00|00|00|00|DST|R|Last Word
-02|00|00|00|00|DST|R|Leonin Shikari
+01|00|00|00|00|DST|R|Leonin Shikari
 00|00|00|00|00|DST|R|Lich's Tomb
 00|00|00|00|00|DST|R|Memnarch
 00|00|00|00|00|DST|R|Mephitic Ooze
@@ -11773,7 +11773,7 @@
 00|00|00|00|00|KTK|C|Woolly Loxodon
 04|00|00|00|00|KTK|M|Anafenza, the Foremost
 00|00|00|00|00|KTK|M|Ashcloud Phoenix
-01|00|00|00|00|KTK|M|Clever Impersonator
+00|00|00|00|00|KTK|M|Clever Impersonator
 01|00|00|00|00|KTK|M|Empty the Pits
 00|00|00|00|00|KTK|M|Hooded Hydra
 00|00|00|00|00|KTK|M|Narset, Enlightened Master
@@ -11838,7 +11838,7 @@
 01|00|00|00|00|KTK|R|Utter End
 02|00|00|00|00|KTK|R|Villainous Wealth
 07|00|00|00|00|KTK|R|Windswept Heath
-06|00|00|00|00|KTK|R|Wooded Foothills
+07|00|00|00|00|KTK|R|Wooded Foothills
 01|00|00|00|00|KTK|U|Abzan Battle Priest
 01|00|00|00|00|KTK|U|Abzan Charm
 02|00|00|00|00|KTK|U|Abzan Falconer
@@ -13372,7 +13372,7 @@
 00|00|00|00|00|M10|R|Clone
 00|00|00|00|00|M10|R|Coat of Arms
 02|00|00|00|00|M10|R|Djinn of Wishes
-02|00|00|00|00|M10|R|Dragonskull Summit
+04|00|00|00|00|M10|R|Dragonskull Summit
 00|00|00|00|00|M10|R|Drowned Catacomb
 00|00|00|00|00|M10|R|Earthquake
 00|00|00|00|00|M10|R|Elvish Archdruid
@@ -14781,7 +14781,7 @@
 00|00|00|00|00|MBS|R|Phyrexian Rebirth
 05|00|00|00|00|MBS|R|Phyrexian Revoker
 00|00|00|00|00|MBS|R|Phyrexian Vatmother
-02|00|00|00|00|MBS|R|Psychosis Crawler
+01|00|00|00|00|MBS|R|Psychosis Crawler
 00|00|00|00|00|MBS|R|Red Sun's Zenith
 00|00|00|00|00|MBS|R|Sangromancer
 01|00|00|00|00|MBS|R|Shimmer Myr
@@ -20033,7 +20033,7 @@
 01|00|00|00|00|SOM|M|Venser, the Sojourner
 00|00|00|00|00|SOM|M|Wurmcoil Engine
 00|00|00|00|00|SOM|R|Argent Sphinx
-01|00|00|00|00|SOM|R|Argentum Armor
+00|00|00|00|00|SOM|R|Argentum Armor
 00|00|00|00|00|SOM|R|Asceticism
 00|00|00|00|00|SOM|R|Blackcleave Cliffs
 02|00|00|00|00|SOM|R|Carnifex Demon
@@ -20070,7 +20070,7 @@
 01|00|00|00|00|SOM|R|Painful Quandary
 00|00|00|00|00|SOM|R|Precursor Golem
 00|00|00|00|00|SOM|R|Prototype Portal
-00|01|00|00|00|SOM|R|Putrefax
+00|00|00|00|00|SOM|R|Putrefax
 02|00|00|00|00|SOM|R|Ratchet Bomb
 04|00|00|00|00|SOM|R|Razorverge Thicket
 03|00|00|00|00|SOM|R|Seachrome Coast
