@@ -4881,7 +4881,7 @@
 00|00|00|00|00|BOK|R|Heartless Hidetsugu
 00|00|00|00|00|BOK|R|Hero's Demise
 00|00|00|00|00|BOK|R|Higure, the Still Wind
-02|00|00|00|00|BOK|R|Hokori, Dust Drinker
+01|00|00|00|00|BOK|R|Hokori, Dust Drinker
 00|00|00|00|00|BOK|R|In the Web of War
 00|00|00|00|00|BOK|R|Ink-Eyes, Servant of Oni
 00|00|00|00|00|BOK|R|Isao, Enlightened Bushi
@@ -8317,7 +8317,7 @@
 01|00|00|00|00|DKA|U|Curse of Thirst
 00|00|00|00|00|DKA|U|Deadly Allure
 00|00|00|00|00|DKA|U|Diregraf Captain
-01|00|00|00|00|DKA|U|Drogskol Captain
+00|00|00|00|00|DKA|U|Drogskol Captain
 04|00|00|00|00|DKA|U|Faith's Shield
 00|00|00|00|00|DKA|U|Farbog Boneflinger
 03|00|00|00|00|DKA|U|Gavony Ironwright
@@ -14838,7 +14838,7 @@
 00|00|00|00|00|MD1|L|Swamp
 00|00|00|00|00|MD1|M|Elspeth, Knight-Errant
 00|00|00|00|00|MD1|M|Sword of Feast and Famine
-00|00|00|00|00|MD1|R|Caves of Koilos
+03|00|00|00|00|MD1|R|Caves of Koilos
 00|00|00|00|00|MD1|R|City of Brass
 00|00|00|00|00|MD1|R|Honor of the Pure
 04|00|00|00|00|MD1|R|Isolated Chapel
@@ -14854,7 +14854,7 @@
 00|00|00|00|00|MD1|U|Path to Exile
 00|00|00|00|00|MD1|U|Relic of Progenitus
 00|00|00|00|00|MD1|U|Shrine of Loyal Legions
-00|00|00|00|00|MD1|U|Spectral Procession
+04|00|00|00|00|MD1|U|Spectral Procession
 00|00|00|00|00|MD1|U|Tidehollow Sculler
 04|00|00|00|00|MD1|U|Zealous Persecution
 00|00|00|00|00|MIR|C|Agility
@@ -17260,7 +17260,7 @@
 00|00|00|00|00|P02|R|Ancient Craving
 00|00|00|00|00|P02|R|Angel of Fury
 00|00|00|00|00|P02|R|Archangel
-01|00|00|00|00|P02|R|Armageddon
+00|00|00|00|00|P02|R|Armageddon
 00|00|00|00|00|P02|R|Brimstone Dragon
 00|00|00|00|00|P02|R|Coastal Wizard
 00|00|00|00|00|P02|R|Cunning Giant
@@ -22764,7 +22764,7 @@
 04|00|00|00|00|ZEN|R|Scute Mob
 01|00|00|00|00|ZEN|R|Sea Gate Loremaster
 01|00|00|00|00|ZEN|R|Sphinx of Jwar Isle
-02|00|00|00|00|ZEN|R|Sphinx of Lost Truths
+01|00|00|00|00|ZEN|R|Sphinx of Lost Truths
 04|00|00|00|00|ZEN|R|Summoning Trap
 01|00|00|00|00|ZEN|R|Terra Stomper
 01|00|00|00|00|ZEN|R|Turntimber Ranger
