@@ -418,6 +418,9 @@ my %sets = ( "LEA" => { order => 199308,
            , "MD1" => { order => 201405,
                         name => 'Modern Event Deck 2014'
                       }
+           , "DTK" => { order => 201403,
+                        name => 'Dragons of Tarkir'
+                      }
            );
 
 sub set_sort()

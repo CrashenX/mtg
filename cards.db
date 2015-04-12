@@ -3306,7 +3306,7 @@
 00|00|00|00|00|ALA|C|Dreg Reaver
 00|00|00|00|00|ALA|C|Dregscape Zombie
 00|00|00|00|00|ALA|C|Druid of the Anima
-00|00|00|00|00|ALA|C|Elvish Visionary
+04|00|00|00|00|ALA|C|Elvish Visionary
 00|00|00|00|00|ALA|C|Esper Panorama
 00|00|00|00|00|ALA|C|Etherium Sculptor
 00|00|00|00|00|ALA|C|Excommunicate
@@ -5666,7 +5666,7 @@
 00|00|00|00|00|C14|R|Emerald Medallion
 01|00|00|00|00|C14|R|Emeria, the Sky Ruin
 00|00|00|00|00|C14|R|Epochrasite
-00|00|00|00|00|C14|R|Ezuri, Renegade Leader
+02|00|00|00|00|C14|R|Ezuri, Renegade Leader
 01|00|00|00|00|C14|R|Fell the Mighty
 00|00|00|00|00|C14|R|Flamekin Village
 00|00|00|00|00|C14|R|Flesh Carver
@@ -8807,6 +8807,270 @@
 00|00|00|00|00|DST|U|Vulshok War Boar
 00|00|00|00|00|DST|U|Wirefly Hive
 00|00|00|00|00|DST|U|Wurm's Tooth
+00|00|00|00|00|DTK|C|Aerie Bowmasters
+00|00|00|00|00|DTK|C|Ainok Artillerist
+00|00|00|00|00|DTK|C|Ancestral Statue
+00|00|00|00|00|DTK|C|Ancient Carp
+00|00|00|00|00|DTK|C|Anticipate
+00|00|00|00|00|DTK|C|Artful Maneuver
+00|00|00|00|00|DTK|C|Atarka Beastbreaker
+00|00|00|00|00|DTK|C|Atarka Efreet
+00|00|00|00|00|DTK|C|Aven Tactician
+00|00|00|00|00|DTK|C|Butcher's Glee
+00|00|00|00|00|DTK|C|Center Soul
+00|00|00|00|00|DTK|C|Champion of Arashin
+00|00|00|00|00|DTK|C|Coat with Venom
+00|00|00|00|00|DTK|C|Colossodon Yearling
+00|00|00|00|00|DTK|C|Conifer Strider
+00|00|00|00|00|DTK|C|Contradict
+00|00|00|00|00|DTK|C|Custodian of the Trove
+00|00|00|00|00|DTK|C|Defeat
+00|00|00|00|00|DTK|C|Dirgur Nemesis
+00|00|00|00|00|DTK|C|Dragon Fodder
+00|00|00|00|00|DTK|C|Dragon's Eye Sentry
+00|00|00|00|00|DTK|C|Dragon-Scarred Bear
+00|00|00|00|00|DTK|C|Dromoka Dunecaster
+00|00|00|00|00|DTK|C|Dromoka Warrior
+00|00|00|00|00|DTK|C|Duress
+00|00|00|00|00|DTK|C|Dutiful Attendant
+00|00|00|00|00|DTK|C|Elusive Spellfist
+00|00|00|00|00|DTK|C|Enduring Victory
+00|00|00|00|00|DTK|C|Epic Confrontation
+00|00|00|00|00|DTK|C|Evolving Wilds
+00|00|00|00|00|DTK|C|Fate Forgotten
+00|00|00|00|00|DTK|C|Flatten
+00|00|00|00|00|DTK|C|Forest
+00|00|00|00|00|DTK|C|Forest
+00|00|00|00|00|DTK|C|Forest
+00|00|00|00|00|DTK|C|Foul-Tongue Shriek
+00|00|00|00|00|DTK|C|Glade Watcher
+00|00|00|00|00|DTK|C|Glaring Aegis
+00|00|00|00|00|DTK|C|Glint
+00|00|00|00|00|DTK|C|Gravepurge
+00|00|00|00|00|DTK|C|Guardian Shield-Bearer
+00|00|00|00|00|DTK|C|Gurmag Drowner
+00|00|00|00|00|DTK|C|Hand of Silumgar
+00|00|00|00|00|DTK|C|Hardened Berserker
+00|00|00|00|00|DTK|C|Herald of Dromoka
+00|00|00|00|00|DTK|C|Impact Tremors
+00|00|00|00|00|DTK|C|Island
+00|00|00|00|00|DTK|C|Island
+00|00|00|00|00|DTK|C|Island
+00|00|00|00|00|DTK|C|Keeper of the Lens
+00|00|00|00|00|DTK|C|Kindled Fury
+00|00|00|00|00|DTK|C|Kolaghan Aspirant
+00|00|00|00|00|DTK|C|Kolaghan Skirmisher
+00|00|00|00|00|DTK|C|Kolaghan Stormsinger
+00|00|00|00|00|DTK|C|Lightwalker
+00|00|00|00|00|DTK|C|Lose Calm
+00|00|00|00|00|DTK|C|Magmatic Chasm
+00|00|00|00|00|DTK|C|Marsh Hulk
+00|00|00|00|00|DTK|C|Mind Rot
+00|00|00|00|00|DTK|C|Misthoof Kirin
+00|00|00|00|00|DTK|C|Monastery Loremaster
+00|00|00|00|00|DTK|C|Mountain
+00|00|00|00|00|DTK|C|Mountain
+00|00|00|00|00|DTK|C|Mountain
+00|00|00|00|00|DTK|C|Mystic Meditation
+00|00|00|00|00|DTK|C|Naturalize
+00|00|00|00|00|DTK|C|Negate
+00|00|00|00|00|DTK|C|Ojutai Interceptor
+00|00|00|00|00|DTK|C|Ojutai's Breath
+00|00|00|00|00|DTK|C|Ojutai's Summons
+00|00|00|00|00|DTK|C|Pacifism
+00|00|00|00|00|DTK|C|Palace Familiar
+00|00|00|00|00|DTK|C|Pinion Feast
+00|00|00|00|00|DTK|C|Plains
+00|00|00|00|00|DTK|C|Plains
+00|00|00|00|00|DTK|C|Plains
+00|00|00|00|00|DTK|C|Qarsi Sadist
+00|00|00|00|00|DTK|C|Reckless Imp
+00|00|00|00|00|DTK|C|Reduce in Stature
+00|00|00|00|00|DTK|C|Resupply
+00|00|00|00|00|DTK|C|Revealing Wind
+00|00|00|00|00|DTK|C|Sabertooth Outrider
+00|00|00|00|00|DTK|C|Sandcrafter Mage
+00|00|00|00|00|DTK|C|Sandsteppe Scavenger
+00|00|00|00|00|DTK|C|Sandstorm Charger
+00|00|00|00|00|DTK|C|Sarkhan's Rage
+00|00|00|00|00|DTK|C|Screamreach Brawler
+00|00|00|00|00|DTK|C|Segmented Krotiq
+00|00|00|00|00|DTK|C|Servant of the Scale
+00|00|00|00|00|DTK|C|Shambling Goblin
+00|00|00|00|00|DTK|C|Shape the Sands
+00|00|00|00|00|DTK|C|Sheltered Aerie
+00|00|00|00|00|DTK|C|Sibsig Icebreakers
+00|00|00|00|00|DTK|C|Sidisi's Faithful
+00|00|00|00|00|DTK|C|Silumgar Butcher
+00|00|00|00|00|DTK|C|Spidersilk Net
+00|00|00|00|00|DTK|C|Sprinting Warbrute
+00|00|00|00|00|DTK|C|Stampeding Elk Herd
+00|00|00|00|00|DTK|C|Student of Ojutai
+00|00|00|00|00|DTK|C|Summit Prowler
+00|00|00|00|00|DTK|C|Swamp
+00|00|00|00|00|DTK|C|Swamp
+00|00|00|00|00|DTK|C|Swamp
+00|00|00|00|00|DTK|C|Taigam's Strike
+00|00|00|00|00|DTK|C|Tail Slash
+00|00|00|00|00|DTK|C|Territorial Roc
+00|00|00|00|00|DTK|C|Tormenting Voice
+00|00|00|00|00|DTK|C|Tread Upon
+00|00|00|00|00|DTK|C|Twin Bolt
+00|00|00|00|00|DTK|C|Updraft Elemental
+00|00|00|00|00|DTK|C|Vandalize
+00|00|00|00|00|DTK|C|Vial of Dragonfire
+00|00|00|00|00|DTK|C|Volcanic Rush
+00|00|00|00|00|DTK|C|Vulturous Aven
+00|00|00|00|00|DTK|C|Wandering Tombshell
+00|00|00|00|00|DTK|C|Zephyr Scribe
+00|00|00|00|00|DTK|M|Clone Legion
+00|00|00|00|00|DTK|M|Deathmist Raptor
+00|00|00|00|00|DTK|M|Descent of the Dragons
+00|00|00|00|00|DTK|M|Dragon Whisperer
+00|00|00|00|00|DTK|M|Dragonlord Atarka
+00|00|00|00|00|DTK|M|Dragonlord Dromoka
+00|00|00|00|00|DTK|M|Dragonlord Kolaghan
+00|00|00|00|00|DTK|M|Dragonlord Ojutai
+00|00|00|00|00|DTK|M|Dragonlord Silumgar
+00|00|00|00|00|DTK|M|Narset Transcendent
+00|00|00|00|00|DTK|M|Ojutai Exemplars
+00|00|00|00|00|DTK|M|Risen Executioner
+00|00|00|00|00|DTK|M|Sarkhan Unbroken
+00|00|00|00|00|DTK|M|Shaman of Forgotten Ways
+00|00|00|00|00|DTK|M|Shorecrasher Elemental
+00|00|00|00|00|DTK|R|Anafenza, Kin-Tree Spirit
+00|00|00|00|00|DTK|R|Arashin Foremost
+00|00|00|00|00|DTK|R|Arashin Sovereign
+00|00|00|00|00|DTK|R|Assault Formation
+00|00|00|00|00|DTK|R|Atarka's Command
+00|00|00|00|00|DTK|R|Avatar of the Resolute
+00|00|00|00|00|DTK|R|Berserkers' Onslaught
+00|00|00|00|00|DTK|R|Blessed Reincarnation
+00|00|00|00|00|DTK|R|Blood-Chin Fanatic
+00|00|00|00|00|DTK|R|Boltwing Marauder
+04|00|00|00|00|DTK|R|Collected Company
+00|00|00|00|00|DTK|R|Commune with Lava
+00|00|00|00|00|DTK|R|Corpseweft
+00|00|00|00|00|DTK|R|Crater Elemental
+00|00|00|00|00|DTK|R|Damnable Pact
+00|00|00|00|00|DTK|R|Deathbringer Regent
+00|00|00|00|00|DTK|R|Den Protector
+00|00|00|00|00|DTK|R|Dragon Tempest
+00|00|00|00|00|DTK|R|Dragonlord's Prerogative
+00|00|00|00|00|DTK|R|Dromoka's Command
+00|00|00|00|00|DTK|R|Foe-Razer Regent
+00|00|00|00|00|DTK|R|Foul Renewal
+00|00|00|00|00|DTK|R|Gleam of Authority
+00|00|00|00|00|DTK|R|Harbinger of the Hunt
+00|00|00|00|00|DTK|R|Haven of the Spirit Dragon
+00|00|00|00|00|DTK|R|Hedonist's Trove
+00|00|00|00|00|DTK|R|Hidden Dragonslayer
+00|00|00|00|00|DTK|R|Icefall Regent
+00|00|00|00|00|DTK|R|Illusory Gains
+00|00|00|00|00|DTK|R|Ire Shaman
+00|00|00|00|00|DTK|R|Kolaghan's Command
+00|00|00|00|00|DTK|R|Living Lore
+00|00|00|00|00|DTK|R|Mirror Mockery
+00|00|00|00|00|DTK|R|Myth Realized
+00|00|00|00|00|DTK|R|Necromaster Dragon
+00|00|00|00|00|DTK|R|Obscuring Æther
+00|00|00|00|00|DTK|R|Ojutai's Command
+00|00|00|00|00|DTK|R|Pitiless Horde
+00|00|00|00|00|DTK|R|Pristine Skywise
+00|00|00|00|00|DTK|R|Profaner of the Dead
+00|00|00|00|00|DTK|R|Profound Journey
+00|00|00|00|00|DTK|R|Radiant Purge
+00|00|00|00|00|DTK|R|Secure the Wastes
+00|00|00|00|00|DTK|R|Sidisi, Undead Vizier
+00|00|00|00|00|DTK|R|Silumgar Assassin
+00|00|00|00|00|DTK|R|Silumgar's Command
+00|00|00|00|00|DTK|R|Stratus Dancer
+00|00|00|00|00|DTK|R|Sunbringer's Touch
+00|00|00|00|00|DTK|R|Sunscorch Regent
+00|00|00|00|00|DTK|R|Surrak, the Hunt Caller
+00|00|00|00|00|DTK|R|Thunderbreak Regent
+00|00|00|00|00|DTK|R|Volcanic Vision
+00|00|00|00|00|DTK|R|Zurgo Bellstriker
+00|00|00|00|00|DTK|U|Acid-Spewer Dragon
+00|00|00|00|00|DTK|U|Ainok Survivalist
+00|00|00|00|00|DTK|U|Ambuscade Shaman
+00|00|00|00|00|DTK|U|Atarka Monument
+00|00|00|00|00|DTK|U|Atarka Pummeler
+00|00|00|00|00|DTK|U|Aven Sunstriker
+00|00|00|00|00|DTK|U|Battle Mastery
+00|00|00|00|00|DTK|U|Belltoll Dragon
+00|00|00|00|00|DTK|U|Blood-Chin Rager
+00|00|00|00|00|DTK|U|Circle of Elders
+00|00|00|00|00|DTK|U|Cunning Breezedancer
+00|00|00|00|00|DTK|U|Dance of the Skywise
+00|00|00|00|00|DTK|U|Deadly Wanderings
+00|00|00|00|00|DTK|U|Death Wind
+00|00|00|00|00|DTK|U|Display of Dominance
+00|00|00|00|00|DTK|U|Draconic Roar
+00|00|00|00|00|DTK|U|Dragon Hunter
+00|00|00|00|00|DTK|U|Dragonloft Idol
+00|00|00|00|00|DTK|U|Dragonlord's Servant
+00|00|00|00|00|DTK|U|Dromoka Captain
+00|00|00|00|00|DTK|U|Dromoka Monument
+00|00|00|00|00|DTK|U|Dromoka's Gift
+00|00|00|00|00|DTK|U|Echoes of the Kin Tree
+00|00|00|00|00|DTK|U|Encase in Ice
+00|00|00|00|00|DTK|U|Enduring Scalelord
+00|00|00|00|00|DTK|U|Explosive Vegetation
+00|00|00|00|00|DTK|U|Foul-Tongue Invocation
+00|00|00|00|00|DTK|U|Gate Smasher
+00|00|00|00|00|DTK|U|Graceblade Artisan
+00|00|00|00|00|DTK|U|Great Teacher's Decree
+00|00|00|00|00|DTK|U|Gudul Lurker
+00|00|00|00|00|DTK|U|Herdchaser Dragon
+00|00|00|00|00|DTK|U|Inspiring Call
+00|00|00|00|00|DTK|U|Kolaghan Forerunners
+00|00|00|00|00|DTK|U|Kolaghan Monument
+00|00|00|00|00|DTK|U|Learn from the Past
+00|00|00|00|00|DTK|U|Lightning Berserker
+00|00|00|00|00|DTK|U|Lurking Arynx
+00|00|00|00|00|DTK|U|Marang River Skeleton
+00|00|00|00|00|DTK|U|Minister of Pain
+00|00|00|00|00|DTK|U|Ojutai Monument
+00|00|00|00|00|DTK|U|Orator of Ojutai
+00|00|00|00|00|DTK|U|Press the Advantage
+00|00|00|00|00|DTK|U|Qal Sisma Behemoth
+00|00|00|00|00|DTK|U|Qarsi Deceiver
+00|00|00|00|00|DTK|U|Rakshasa Gravecaller
+00|00|00|00|00|DTK|U|Rending Volley
+00|00|00|00|00|DTK|U|Roast
+00|00|00|00|00|DTK|U|Ruthless Deathfang
+00|00|00|00|00|DTK|U|Salt Road Ambushers
+00|00|00|00|00|DTK|U|Salt Road Quartermasters
+00|00|00|00|00|DTK|U|Sarkhan's Triumph
+00|00|00|00|00|DTK|U|Savage Ventmaw
+00|00|00|00|00|DTK|U|Scale Blessing
+00|00|00|00|00|DTK|U|Scaleguard Sentinels
+00|00|00|00|00|DTK|U|Scion of Ugin
+00|00|00|00|00|DTK|U|Seismic Rupture
+00|00|00|00|00|DTK|U|Self-Inflicted Wound
+00|00|00|00|00|DTK|U|Shieldhide Dragon
+00|00|00|00|00|DTK|U|Sight Beyond Sight
+00|00|00|00|00|DTK|U|Sight of the Scalelords
+00|00|00|00|00|DTK|U|Silkwrap
+00|00|00|00|00|DTK|U|Silumgar Monument
+00|00|00|00|00|DTK|U|Silumgar Sorcerer
+00|00|00|00|00|DTK|U|Silumgar Spell-Eater
+00|00|00|00|00|DTK|U|Silumgar's Scorn
+00|00|00|00|00|DTK|U|Skywise Teachings
+00|00|00|00|00|DTK|U|Stormcrag Elemental
+00|00|00|00|00|DTK|U|Stormrider Rig
+00|00|00|00|00|DTK|U|Stormwing Dragon
+00|00|00|00|00|DTK|U|Strongarm Monk
+00|00|00|00|00|DTK|U|Surge of Righteousness
+00|00|00|00|00|DTK|U|Swift Warkite
+00|00|00|00|00|DTK|U|Tapestry of the Ages
+00|00|00|00|00|DTK|U|Ukud Cobra
+00|00|00|00|00|DTK|U|Ultimate Price
+00|00|00|00|00|DTK|U|Virulent Plague
+00|00|00|00|00|DTK|U|Void Squall
+00|00|00|00|00|DTK|U|Warbringer
+00|00|00|00|00|DTK|U|Youthful Scholar
 00|00|00|00|00|EVE|C|Aerie Ouphes
 00|00|00|00|00|EVE|C|Antler Skulkin
 00|00|00|00|00|EVE|C|Ballynock Trapper
@@ -8840,7 +9104,7 @@
 00|00|00|00|00|EVE|C|Merrow Bonegnawer
 00|00|00|00|00|EVE|C|Merrow Levitator
 00|00|00|00|00|EVE|C|Monstrify
-00|00|00|00|00|EVE|C|Nettle Sentinel
+04|00|00|00|00|EVE|C|Nettle Sentinel
 00|00|00|00|00|EVE|C|Nightsky Mimic
 00|00|00|00|00|EVE|C|Nip Gwyllion
 00|00|00|00|00|EVE|C|Noggle Bandit
@@ -13534,7 +13798,7 @@
 00|00|00|00|00|M11|C|Lava Axe
 00|00|00|00|00|M11|C|Lightning Bolt
 00|00|00|00|00|M11|C|Liliana's Specter
-01|00|00|00|00|M11|C|Llanowar Elves
+04|00|00|00|00|M11|C|Llanowar Elves
 04|00|00|00|00|M11|C|Mana Leak
 00|00|00|00|00|M11|C|Manic Vandal
 00|00|00|00|00|M11|C|Maritime Guard
@@ -13610,7 +13874,7 @@
 00|00|00|00|00|M11|R|Destructive Force
 00|00|00|00|00|M11|R|Dragonskull Summit
 00|00|00|00|00|M11|R|Drowned Catacomb
-00|00|00|00|00|M11|R|Elvish Archdruid
+04|00|00|00|00|M11|R|Elvish Archdruid
 02|00|00|00|00|M11|R|Fauna Shaman
 00|00|00|00|00|M11|R|Glacial Fortress
 00|00|00|00|00|M11|R|Goblin Chieftain
@@ -14434,7 +14698,7 @@
 00|00|00|00|00|M15|C|Divination
 00|00|00|00|00|M15|C|Divine Favor
 00|00|00|00|00|M15|C|Divine Verdict
-00|00|00|00|00|M15|C|Elvish Mystic
+04|00|00|00|00|M15|C|Elvish Mystic
 00|00|00|00|00|M15|C|Encrust
 00|00|00|00|00|M15|C|Ephemeral Shields
 00|00|00|00|00|M15|C|Eternal Thirst
@@ -14654,7 +14918,7 @@
 00|00|00|00|00|M15|U|Paragon of Open Graves
 00|00|00|00|00|M15|U|Profane Memento
 00|00|00|00|00|M15|U|Quickling
-00|00|00|00|00|M15|U|Reclamation Sage
+01|00|00|00|00|M15|U|Reclamation Sage
 00|00|00|00|00|M15|U|Restock
 00|00|00|00|00|M15|U|Roaring Primadox
 00|00|00|00|00|M15|U|Rogue's Gloves
@@ -15873,7 +16137,7 @@
 00|00|00|00|00|MOR|U|Daily Regimen
 00|00|00|00|00|MOR|U|Diviner's Wand
 00|00|00|00|00|MOR|U|Graceful Reprieve
-00|00|00|00|00|MOR|U|Heritage Druid
+03|00|00|00|00|MOR|U|Heritage Druid
 00|00|00|00|00|MOR|U|Hunting Triad
 00|00|00|00|00|MOR|U|Inspired Sprite
 00|00|00|00|00|MOR|U|Meadowboon
@@ -20432,7 +20696,7 @@
 00|00|00|00|00|THS|R|Meletis Charlatan
 01|00|00|00|00|THS|R|Mistcutter Hydra
 00|00|00|00|00|THS|R|Nighthowler
-01|00|00|00|00|THS|R|Nykthos, Shrine to Nyx
+03|00|00|00|00|THS|R|Nykthos, Shrine to Nyx
 00|00|00|00|00|THS|R|Polis Crusher
 00|00|00|00|00|THS|R|Prognostic Sphinx
 01|00|00|00|00|THS|R|Prophet of Kruphix
@@ -22697,7 +22961,7 @@
 00|00|00|00|00|ZEN|C|Vampire Lacerator
 00|00|00|00|00|ZEN|C|Vampire's Bite
 00|00|00|00|00|ZEN|C|Vastwood Gorger
-00|00|00|00|00|ZEN|C|Vines of Vastwood
+02|00|00|00|00|ZEN|C|Vines of Vastwood
 00|00|00|00|00|ZEN|C|Welkin Tern
 00|00|00|00|00|ZEN|C|Whiplash Trap
 00|00|00|00|00|ZEN|C|Windrider Eel
