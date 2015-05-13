@@ -4746,9 +4746,9 @@
 00|00|00|00|00|BNG|R|Scourge of Skola Vale
 00|00|00|00|00|BNG|R|Silent Sentinel
 04|00|00|00|00|BNG|R|Spirit of the Labyrinth
-00|00|00|00|00|BNG|R|Temple of Enlightenment
+01|00|00|00|00|BNG|R|Temple of Enlightenment
 04|00|00|00|00|BNG|R|Temple of Malice
-03|00|00|00|00|BNG|R|Temple of Plenty
+04|00|00|00|00|BNG|R|Temple of Plenty
 01|00|00|00|00|BNG|R|Tromokratis
 00|00|00|00|00|BNG|R|Whelming Wave
 00|00|00|00|00|BNG|R|Whims of the Fates
@@ -10244,7 +10244,7 @@
 01|00|00|00|00|GTC|R|Undercity Plague
 01|00|00|00|00|GTC|R|Unexpected Results
 00|00|00|00|00|GTC|R|Watery Grave
-01|00|00|00|00|GTC|R|Whispering Madness
+00|00|00|00|00|GTC|R|Whispering Madness
 01|00|00|00|00|GTC|R|Wrecking Ogre
 02|00|00|00|00|GTC|U|AEtherize
 01|00|00|00|00|GTC|U|Agoraphobia
@@ -11499,7 +11499,7 @@
 01|00|00|00|00|ISD|R|Cackling Counterpart
 04|00|00|00|00|ISD|R|Champion of the Parish
 00|00|00|00|00|ISD|R|Charmbreaker Devils
-00|00|00|00|00|ISD|R|Clifftop Retreat
+02|02|00|00|00|ISD|R|Clifftop Retreat
 01|00|00|00|00|ISD|R|Creeping Renaissance
 01|00|00|00|00|ISD|R|Creepy Doll
 00|00|00|00|00|ISD|R|Curse of Death's Hold
@@ -11653,7 +11653,7 @@
 00|00|00|00|00|JOU|C|Kruphix's Insight
 00|00|00|00|00|JOU|C|Lagonna-Band Trailblazer
 00|00|00|00|00|JOU|C|Lightning Diadem
-00|00|00|00|00|JOU|C|Magma Spray
+01|00|00|00|00|JOU|C|Magma Spray
 00|00|00|00|00|JOU|C|Market Festival
 00|00|00|00|00|JOU|C|Mortal Obstinacy
 00|00|00|00|00|JOU|C|Nature's Panoply
@@ -11724,7 +11724,7 @@
 00|00|00|00|00|JOU|R|Skybind
 00|00|00|00|00|JOU|R|Spawn of Thraxes
 00|00|00|00|00|JOU|R|Temple of Epiphany
-00|00|00|00|00|JOU|R|Temple of Malady
+04|00|00|00|00|JOU|R|Temple of Malady
 00|00|00|00|00|JOU|R|Twinflame
 00|00|00|00|00|JOU|U|Agent of Erebos
 00|00|00|00|00|JOU|U|Akroan Line Breaker
@@ -12057,7 +12057,7 @@
 00|00|00|00|00|KTK|R|Bloodsoaked Champion
 05|00|00|00|00|KTK|R|Bloodstained Mire
 01|00|00|00|00|KTK|R|Butcher of the Horde
-01|00|00|00|00|KTK|R|Crackling Doom
+02|00|00|00|00|KTK|R|Crackling Doom
 01|00|00|00|00|KTK|R|Crater's Claws
 00|00|00|00|00|KTK|R|Deflecting Palm
 01|00|00|00|00|KTK|R|Dig Through Time
@@ -12065,7 +12065,7 @@
 00|00|00|00|00|KTK|R|Dragon-Style Twins
 01|00|00|00|00|KTK|R|Duneblast
 00|00|00|00|00|KTK|R|End Hostilities
-05|00|00|00|00|KTK|R|Flooded Strand
+09|00|00|00|00|KTK|R|Flooded Strand
 01|00|00|00|00|KTK|R|Flying Crane Technique
 00|00|00|00|00|KTK|R|Ghostfire Blade
 01|00|00|00|00|KTK|R|Grim Haruspex
@@ -12088,7 +12088,7 @@
 05|00|00|00|00|KTK|R|Polluted Delta
 01|00|00|00|00|KTK|R|Rakshasa Deathdealer
 01|00|00|00|00|KTK|R|Rakshasa Vizier
-01|00|00|00|00|KTK|R|Rattleclaw Mystic
+03|00|00|00|00|KTK|R|Rattleclaw Mystic
 00|00|00|00|00|KTK|R|Retribution of the Ancients
 01|00|00|00|00|KTK|R|Sage of the Inward Eye
 01|00|00|00|00|KTK|R|Sagu Mauler
@@ -12101,7 +12101,7 @@
 01|00|00|00|00|KTK|R|Trap Essence
 01|00|00|00|00|KTK|R|Utter End
 02|00|00|00|00|KTK|R|Villainous Wealth
-07|00|00|00|00|KTK|R|Windswept Heath
+08|00|00|00|00|KTK|R|Windswept Heath
 07|00|00|00|00|KTK|R|Wooded Foothills
 01|00|00|00|00|KTK|U|Abzan Battle Priest
 01|00|00|00|00|KTK|U|Abzan Charm
@@ -13636,7 +13636,7 @@
 00|00|00|00|00|M10|R|Clone
 00|00|00|00|00|M10|R|Coat of Arms
 02|00|00|00|00|M10|R|Djinn of Wishes
-04|00|00|00|00|M10|R|Dragonskull Summit
+00|00|00|00|00|M10|R|Dragonskull Summit
 00|00|00|00|00|M10|R|Drowned Catacomb
 00|00|00|00|00|M10|R|Earthquake
 00|00|00|00|00|M10|R|Elvish Archdruid
@@ -14106,8 +14106,8 @@
 00|00|00|00|00|M12|R|Day of Judgment
 00|00|00|00|00|M12|R|Djinn of Wishes
 00|00|00|00|00|M12|R|Doubling Chant
-00|00|00|00|00|M12|R|Dragonskull Summit
-01|00|00|00|00|M12|R|Drowned Catacomb
+01|00|00|00|00|M12|R|Dragonskull Summit
+00|00|00|00|00|M12|R|Drowned Catacomb
 00|00|00|00|00|M12|R|Druidic Satchel
 00|00|00|00|00|M12|R|Dungrove Elder
 00|00|00|00|00|M12|R|Elvish Archdruid
@@ -14132,7 +14132,7 @@
 00|00|00|00|00|M12|R|Redirect
 00|00|00|00|00|M12|R|Reverberate
 01|00|00|00|00|M12|R|Rites of Flourishing
-00|00|00|00|00|M12|R|Rootbound Crag
+03|00|00|00|00|M12|R|Rootbound Crag
 00|00|00|00|00|M12|R|Royal Assassin
 00|00|00|00|00|M12|R|Rune-Scarred Demon
 00|00|00|00|00|M12|R|Scrambleverse
@@ -14337,7 +14337,7 @@
 00|00|00|00|00|M13|R|Diabolic Revelation
 00|00|00|00|00|M13|R|Disciple of Bolas
 00|00|00|00|00|M13|R|Door to Nothingness
-00|00|00|00|00|M13|R|Dragonskull Summit
+04|00|00|00|00|M13|R|Dragonskull Summit
 05|00|00|00|00|M13|R|Drowned Catacomb
 00|00|00|00|00|M13|R|Elvish Archdruid
 00|00|00|00|00|M13|R|Faith's Reward
@@ -14362,7 +14362,7 @@
 00|00|00|00|00|M13|R|Redirect
 00|00|00|00|00|M13|R|Reverberate
 00|00|00|00|00|M13|R|Rhox Faithmender
-00|00|00|00|00|M13|R|Rootbound Crag
+01|00|00|00|00|M13|R|Rootbound Crag
 00|00|00|00|00|M13|R|Sands of Delirium
 04|00|00|00|00|M13|R|Serra Avenger
 00|00|00|00|00|M13|R|Shimian Specter
@@ -14738,7 +14738,7 @@
 00|00|00|00|00|M15|C|Naturalize
 00|00|00|00|00|M15|C|Necrobite
 00|00|00|00|00|M15|C|Necromancer's Assistant
-00|00|00|00|00|M15|C|Negate
+01|00|00|00|00|M15|C|Negate
 00|00|00|00|00|M15|C|Netcaster Spider
 00|00|00|00|00|M15|C|Nimbus of the Isles
 00|00|00|00|00|M15|C|Oppressive Rays
@@ -14830,7 +14830,7 @@
 00|00|00|00|00|M15|R|Kalonian Twingrove
 00|00|00|00|00|M15|R|Kurkesh, Onakke Ancient
 00|00|00|00|00|M15|R|Life's Legacy
-00|00|00|00|00|M15|R|Llanowar Wastes
+01|00|00|00|00|M15|R|Llanowar Wastes
 00|00|00|00|00|M15|R|Mahamoti Djinn
 00|00|00|00|00|M15|R|Mass Calcify
 00|00|00|00|00|M15|R|Master of Predicaments
@@ -15102,7 +15102,7 @@
 00|00|00|00|00|MD1|L|Swamp
 00|00|00|00|00|MD1|M|Elspeth, Knight-Errant
 00|00|00|00|00|MD1|M|Sword of Feast and Famine
-03|00|00|00|00|MD1|R|Caves of Koilos
+04|00|00|00|00|MD1|R|Caves of Koilos
 00|00|00|00|00|MD1|R|City of Brass
 00|00|00|00|00|MD1|R|Honor of the Pure
 04|00|00|00|00|MD1|R|Isolated Chapel
@@ -15654,7 +15654,7 @@
 01|00|00|00|00|MMA|U|Mulldrifter
 00|00|00|00|00|MMA|U|Murderous Redcap
 00|00|00|00|00|MMA|U|Myr Retriever
-01|00|00|00|00|MMA|U|Narcomoeba
+00|00|00|00|00|MMA|U|Narcomoeba
 04|00|00|00|00|MMA|U|Paradise Mantle
 00|00|00|00|00|MMA|U|Pardic Dragon
 04|00|00|00|00|MMA|U|Path to Exile
@@ -17327,7 +17327,7 @@
 01|00|00|00|00|ONS|R|Weathered Wayfarer
 00|00|00|00|00|ONS|R|Weird Harvest
 00|00|00|00|00|ONS|R|Wheel and Deal
-02|00|00|00|00|ONS|R|Windswept Heath
+00|00|00|00|00|ONS|R|Windswept Heath
 00|00|00|00|00|ONS|R|Wooded Foothills
 00|00|00|00|00|ONS|R|Words of War
 00|00|00|00|00|ONS|R|Words of Waste
@@ -18000,7 +18000,7 @@
 00|00|00|00|00|PLC|R|Akroma, Angel of Fury
 00|00|00|00|00|PLC|R|Benalish Commander
 00|00|00|00|00|PLC|R|Body Double
-03|00|00|00|00|PLC|R|Boom // Bust
+00|00|00|00|00|PLC|R|Boom // Bust
 00|00|00|00|00|PLC|R|Braids, Conjurer Adept
 00|00|00|00|00|PLC|R|Chronozoa
 00|00|00|00|00|PLC|R|Crovax, Ascendant Hero
@@ -19234,7 +19234,7 @@
 00|00|00|00|00|RTR|C|Stab Wound
 00|00|00|00|00|RTR|C|Stealer of Secrets
 00|00|00|00|00|RTR|C|Stonefare Crocodile
-00|00|00|00|00|RTR|C|Sundering Growth
+01|00|00|00|00|RTR|C|Sundering Growth
 00|01|00|00|00|RTR|C|Sunspire Griffin
 00|00|00|00|00|RTR|C|Survey the Wreckage
 00|00|00|00|00|RTR|C|Swamp
@@ -19278,7 +19278,7 @@
 01|00|00|00|00|RTR|R|Collective Blessing
 00|00|00|00|00|RTR|R|Conjured Currency
 01|00|00|00|00|RTR|R|Corpsejack Menace
-01|00|00|00|00|RTR|R|Counterflux
+02|00|00|00|00|RTR|R|Counterflux
 00|00|00|00|00|RTR|R|Cryptborn Horror
 00|00|00|00|00|RTR|R|Cyclonic Rift
 01|00|00|00|00|RTR|R|Deadbridge Goliath
@@ -19352,7 +19352,7 @@
 01|00|00|00|00|RTR|U|Hover Barrier
 00|00|00|00|00|RTR|U|Izzet Charm
 01|00|00|00|00|RTR|U|Izzet Keyrune
-00|00|00|00|00|RTR|U|Izzet Staticaster
+02|00|00|00|00|RTR|U|Izzet Staticaster
 06|00|00|00|00|RTR|U|Judge's Familiar
 02|00|00|00|00|RTR|U|Korozda Guildmage
 04|00|00|00|00|RTR|U|Lyev Skyknight
@@ -20554,7 +20554,7 @@
 00|00|00|00|00|STH|U|Warrior en-Kor
 00|00|00|00|00|THS|C|Agent of Horizons
 00|00|00|00|00|THS|C|Akroan Crusader
-00|00|00|00|00|THS|C|Annul
+02|00|00|00|00|THS|C|Annul
 00|00|00|00|00|THS|C|Aqueous Form
 00|00|00|00|00|THS|C|Asphodel Wanderer
 00|00|00|00|00|THS|C|Baleful Eidolon
@@ -20715,7 +20715,7 @@
 04|00|00|00|00|THS|R|Temple of Deceit
 04|00|00|00|00|THS|R|Temple of Mystery
 04|00|00|00|00|THS|R|Temple of Silence
-02|00|00|00|00|THS|R|Temple of Triumph
+03|00|00|00|00|THS|R|Temple of Triumph
 04|00|00|00|00|THS|R|Thoughtseize
 00|00|00|00|00|THS|R|Titan of Eternal Fire
 01|00|00|00|00|THS|R|Triad of Fates
@@ -22854,7 +22854,7 @@
 02|00|00|00|00|WWK|U|Smother
 02|00|00|00|00|WWK|U|Spell Contortion
 02|00|00|00|00|WWK|U|Summit Apes
-13|00|00|00|00|WWK|U|Tectonic Edge
+09|00|00|00|00|WWK|U|Tectonic Edge
 01|01|00|00|00|WWK|U|Tideforce Elemental
 00|00|00|00|00|WWK|U|Tuktuk Scrapper
 00|00|00|00|00|WWK|U|Urge to Feed
@@ -22996,7 +22996,7 @@
 00|00|00|00|00|ZEN|R|Conqueror's Pledge
 01|00|00|00|00|ZEN|R|Cosi's Trickster
 00|00|00|00|00|ZEN|R|Crypt of Agadeem
-01|00|00|00|00|ZEN|R|Day of Judgment
+00|00|00|00|00|ZEN|R|Day of Judgment
 00|00|00|00|00|ZEN|R|Devout Lightcaster
 00|00|00|00|00|ZEN|R|Electropotence
 00|00|00|00|00|ZEN|R|Elemental Appeal
@@ -23016,7 +23016,7 @@
 00|00|00|00|00|ZEN|R|Magosi, the Waterveil
 02|00|00|00|00|ZEN|R|Malakir Bloodwitch
 04|00|00|00|00|ZEN|R|Marsh Flats
-02|00|00|00|00|ZEN|R|Misty Rainforest
+01|00|00|00|00|ZEN|R|Misty Rainforest
 00|00|00|00|00|ZEN|R|Oracle of Mul Daya
 01|00|00|00|00|ZEN|R|Oran-Rief, the Vastwood
 02|00|00|00|00|ZEN|R|Predatory Urge
