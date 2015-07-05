@@ -15557,73 +15557,73 @@
 00|00|00|00|00|MM2|C|Wings of Velis Vel
 00|00|00|00|00|MM2|C|Wrap in Flames
 00|00|00|00|00|MM2|C|Æthersnipe
-00|00|00|00|00|MM2|M|Bitterblossom
+01|00|00|00|00|MM2|M|Bitterblossom
 00|00|00|00|00|MM2|M|Comet Storm
-00|00|00|00|00|MM2|M|Dark Confidant
-00|00|00|00|00|MM2|M|Elesh Norn, Grand Cenobite
+01|00|00|00|00|MM2|M|Dark Confidant
+02|00|00|00|00|MM2|M|Elesh Norn, Grand Cenobite
 00|00|00|00|00|MM2|M|Emrakul, the Aeons Torn
-00|00|00|00|00|MM2|M|Iona, Shield of Emeria
-00|00|00|00|00|MM2|M|Karn Liberated
-00|00|00|00|00|MM2|M|Kiki-Jiki, Mirror Breaker
-00|00|00|00|00|MM2|M|Kozilek, Butcher of Truth
+01|00|00|00|00|MM2|M|Iona, Shield of Emeria
+01|00|00|00|00|MM2|M|Karn Liberated
+01|00|00|00|00|MM2|M|Kiki-Jiki, Mirror Breaker
+01|00|00|00|00|MM2|M|Kozilek, Butcher of Truth
 00|00|00|00|00|MM2|M|Mox Opal
 00|00|00|00|00|MM2|M|Primeval Titan
-00|00|00|00|00|MM2|M|Tarmogoyf
-00|00|00|00|00|MM2|M|Tezzeret the Seeker
-00|00|00|00|00|MM2|M|Ulamog, the Infinite Gyre
-00|00|00|00|00|MM2|M|Vendilion Clique
-00|00|00|00|00|MM2|R|All Is Dust
-00|00|00|00|00|MM2|R|All Suns' Dawn
+01|00|00|00|00|MM2|M|Tarmogoyf
+01|01|00|00|00|MM2|M|Tezzeret the Seeker
+01|00|00|00|00|MM2|M|Ulamog, the Infinite Gyre
+01|00|00|00|00|MM2|M|Vendilion Clique
+01|00|00|00|00|MM2|R|All Is Dust
+01|00|00|00|00|MM2|R|All Suns' Dawn
 00|00|00|00|00|MM2|R|Ant Queen
 00|00|00|00|00|MM2|R|Apocalypse Hydra
 00|00|00|00|00|MM2|R|Argent Sphinx
 00|00|00|00|00|MM2|R|Banefire
 00|00|00|00|00|MM2|R|Battlegrace Angel
-00|00|00|00|00|MM2|R|Blinkmoth Nexus
+01|00|00|00|00|MM2|R|Blinkmoth Nexus
 00|00|00|00|00|MM2|R|Chimeric Mass
-00|00|00|00|00|MM2|R|Creakwood Liege
-00|00|00|00|00|MM2|R|Cryptic Command
-00|00|00|00|00|MM2|R|Daybreak Coronet
+01|00|00|00|00|MM2|R|Creakwood Liege
+01|00|00|00|00|MM2|R|Cryptic Command
+02|00|00|00|00|MM2|R|Daybreak Coronet
 00|00|00|00|00|MM2|R|Endrek Sahr, Master Breeder
-00|00|00|00|00|MM2|R|Etched Champion
+04|00|00|00|00|MM2|R|Etched Champion
 00|00|00|00|00|MM2|R|Etched Monstrosity
-00|00|00|00|00|MM2|R|Eye of Ugin
-00|00|00|00|00|MM2|R|Fulminator Mage
-00|00|00|00|00|MM2|R|Ghost Council of Orzhova
+02|00|00|00|00|MM2|R|Eye of Ugin
+01|00|00|00|00|MM2|R|Fulminator Mage
+01|00|00|00|00|MM2|R|Ghost Council of Orzhova
 00|00|00|00|00|MM2|R|Guile
 00|00|00|00|00|MM2|R|Hellkite Charger
 00|00|00|00|00|MM2|R|Horde of Notions
-00|00|00|00|00|MM2|R|Hurkyl's Recall
+01|00|00|00|00|MM2|R|Hurkyl's Recall
 00|00|00|00|00|MM2|R|Indomitable Archangel
 00|00|00|00|00|MM2|R|Inexorable Tide
-00|00|00|00|00|MM2|R|Leyline of Sanctity
+01|00|00|00|00|MM2|R|Leyline of Sanctity
 00|00|00|00|00|MM2|R|Lodestone Golem
 00|00|00|00|00|MM2|R|Lodestone Myr
 00|00|00|00|00|MM2|R|Long-Forgotten Gohei
 00|00|00|00|00|MM2|R|Midnight Banshee
-00|00|00|00|00|MM2|R|Mirran Crusader
+02|00|00|00|00|MM2|R|Mirran Crusader
 00|00|00|00|00|MM2|R|Mirror Entity
 00|00|00|00|00|MM2|R|Mystic Snake
 00|00|00|00|00|MM2|R|Necroskitter
 00|00|00|00|00|MM2|R|Niv-Mizzet, the Firemind
 00|00|00|00|00|MM2|R|Nobilis of War
-00|00|00|00|00|MM2|R|Noble Hierarch
+01|00|00|00|00|MM2|R|Noble Hierarch
 00|00|00|00|00|MM2|R|Overwhelming Stampede
 00|00|00|00|00|MM2|R|Precursor Golem
 00|00|00|00|00|MM2|R|Profane Command
 00|00|00|00|00|MM2|R|Puppeteer Clique
 00|00|00|00|00|MM2|R|Scute Mob
 00|00|00|00|00|MM2|R|Shadowmage Infiltrator
-00|00|00|00|00|MM2|R|Spellskite
+01|00|00|00|00|MM2|R|Spellskite
 00|00|00|00|00|MM2|R|Spikeshot Elder
-00|00|00|00|00|MM2|R|Splinter Twin
+02|00|00|00|00|MM2|R|Splinter Twin
 00|00|00|00|00|MM2|R|Sunforger
-00|00|00|00|00|MM2|R|Surgical Extraction
+01|00|00|00|00|MM2|R|Surgical Extraction
 00|00|00|00|00|MM2|R|Surrakar Spellblade
 00|00|00|00|00|MM2|R|Swans of Bryn Argoll
 00|00|00|00|00|MM2|R|Thunderblust
 00|00|00|00|00|MM2|R|Wildfire
-00|00|00|00|00|MM2|R|Wilt-Leaf Liege
+01|00|00|00|00|MM2|R|Wilt-Leaf Liege
 00|00|00|00|00|MM2|R|Wolfbriar Elemental
 00|00|00|00|00|MM2|U|Agony Warp
 00|00|00|00|00|MM2|U|Air Servant
@@ -15649,7 +15649,7 @@
 00|00|00|00|00|MM2|U|Dismember
 00|00|00|00|00|MM2|U|Dispatch
 00|00|00|00|00|MM2|U|Drooling Groodion
-00|00|00|00|00|MM2|U|Eldrazi Temple
+04|00|00|00|00|MM2|U|Eldrazi Temple
 00|00|00|00|00|MM2|U|Electrolyze
 00|00|00|00|00|MM2|U|Etched Oracle
 00|00|00|00|00|MM2|U|Ethercaste Knight
@@ -15682,7 +15682,7 @@
 00|00|00|00|00|MM2|U|Qumulox
 00|00|00|00|00|MM2|U|Rakdos Carnarium
 00|00|00|00|00|MM2|U|Reassembling Skeleton
-00|00|00|00|00|MM2|U|Remand
+03|00|00|00|00|MM2|U|Remand
 00|00|00|00|00|MM2|U|Restless Apparition
 00|00|00|00|00|MM2|U|Root-Kin Ally
 00|00|00|00|00|MM2|U|Savage Twister
