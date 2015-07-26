@@ -7850,6 +7850,64 @@
 00|00|00|00|00|DDK|U|Vampire Outcasts
 00|00|00|00|00|DDK|U|Wall of Omens
 00|00|00|00|00|DDK|U|Zealous Persecution
+00|00|00|00|00|DDO|C|Accumulated Knowledge
+00|00|00|00|00|DDO|C|Celestial Flare
+00|00|00|00|00|DDO|C|Coiling Oracle
+00|00|00|00|00|DDO|C|Court Street Denizen
+00|00|00|00|00|DDO|C|Evolving Wilds|Land
+00|00|00|00|00|DDO|C|Explore
+00|00|00|00|00|DDO|C|Forest
+00|00|00|00|00|DDO|C|Gempalm Avenger
+00|00|00|00|00|DDO|C|Grazing Gladehart
+00|00|00|00|00|DDO|C|Gustcloak Harrier
+00|00|00|00|00|DDO|C|Icatian Javelineers
+00|00|00|00|00|DDO|C|Island
+00|00|00|00|00|DDO|C|Kinsbaile Skirmisher
+00|00|00|00|00|DDO|C|Kor Skyfisher
+00|00|00|00|00|DDO|C|Loxodon Partisan
+00|00|00|00|00|DDO|C|Man-o'-War
+00|00|00|00|00|DDO|C|Mighty Leap
+00|00|00|00|00|DDO|C|Mortal's Ardor
+00|00|00|00|00|DDO|C|Nessian Asp
+00|00|00|00|00|DDO|C|Netcaster Spider
+00|00|00|00|00|DDO|C|Noble Templar
+00|00|00|00|00|DDO|C|Omenspeaker
+00|00|00|00|00|DDO|C|Peel from Reality
+00|00|00|00|00|DDO|C|Plains
+00|00|00|00|00|DDO|C|Raise the Alarm
+00|00|00|00|00|DDO|C|Secluded Steppe
+00|00|00|00|00|DDO|C|Soul Parry
+00|00|00|00|00|DDO|C|Standing Troops
+00|00|00|00|00|DDO|C|Sunlance
+00|00|00|00|00|DDO|C|Surrakar Banisher
+00|00|00|00|00|DDO|C|Temple of the False God
+00|00|00|00|00|DDO|C|Time to Feed
+00|00|00|00|00|DDO|C|Veteran Armorsmith
+00|00|00|00|00|DDO|C|Veteran Swordsmith
+00|00|00|00|00|DDO|M|Elspeth, Sun's Champion
+00|00|00|00|00|DDO|M|Kiora, the Crashing Wave
+00|00|00|00|00|DDO|R|Captain of the Watch
+00|00|00|00|00|DDO|R|Decree of Justice
+00|00|00|00|00|DDO|R|Dictate of Heliod
+00|00|00|00|00|DDO|R|Gustcloak Savior
+00|00|00|00|00|DDO|R|Inkwell Leviathan
+00|00|00|00|00|DDO|R|Plasm Capture
+00|00|00|00|00|DDO|R|Precinct Captain
+00|00|00|00|00|DDO|R|Scourge of Fleets
+00|00|00|00|00|DDO|R|Simic Sky Swallower
+00|00|00|00|00|DDO|R|Whelming Wave
+00|00|00|00|00|DDO|U|Aetherize
+00|00|00|00|00|DDO|U|Banisher Priest
+00|00|00|00|00|DDO|U|Dauntless Onslaught
+00|00|00|00|00|DDO|U|Explosive Vegetation
+00|00|00|00|00|DDO|U|Gustcloak Sentinel
+00|00|00|00|00|DDO|U|Gustcloak Skirmisher
+00|00|00|00|00|DDO|U|Kiora's Follower
+00|00|00|00|00|DDO|U|Lorescale Coatl
+04|00|00|00|00|DDO|U|Mother of Runes
+00|00|00|00|00|DDO|U|Nimbus Swimmer
+00|00|00|00|00|DDO|U|Sealock Monster
+00|00|00|00|00|DDO|U|Urban Evolution
 00|01|00|00|00|DGM|C|Armored Wolf-Rider
 00|00|00|00|00|DGM|C|Awe for the Guilds
 00|00|00|00|00|DGM|C|Azorius Cluestone
@@ -8302,7 +8360,7 @@
 04|00|00|00|00|DKA|R|Thalia, Guardian of Thraben
 00|00|00|00|00|DKA|R|Thraben Doomsayer
 00|00|00|00|00|DKA|R|Tovolar's Magehunter
-01|00|00|00|00|DKA|R|Vault of the Archangel
+02|00|00|00|00|DKA|R|Vault of the Archangel
 00|00|00|00|00|DKA|R|Wolfbitten Captive
 00|00|00|00|00|DKA|R|Zombie Apocalypse
 00|00|00|00|00|DKA|U|Afflicted Deserter
@@ -14812,7 +14870,7 @@
 00|00|00|00|00|M15|R|Caves of Koilos
 00|00|00|00|00|M15|R|Chasm Skulker
 00|00|00|00|00|M15|R|Chief Engineer
-00|00|00|00|00|M15|R|Chord of Calling
+04|00|00|00|00|M15|R|Chord of Calling
 00|00|00|00|00|M15|R|Crucible of Fire
 00|00|00|00|00|M15|R|Cruel Sadist
 00|00|00|00|00|M15|R|Genesis Hydra
@@ -20037,7 +20095,7 @@
 00|00|00|00|00|SHM|C|Mountain
 00|00|00|00|00|SHM|C|Mudbrawler Cohort
 00|00|00|00|00|SHM|C|Mudbrawler Raiders
-00|00|00|00|00|SHM|C|Niveous Wisps
+04|00|00|00|00|SHM|C|Niveous Wisps
 00|00|00|00|00|SHM|C|Nurturer Initiate
 00|00|00|00|00|SHM|C|Old Ghastbark
 00|00|00|00|00|SHM|C|Oona's Gatewarden
