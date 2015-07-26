@@ -334,6 +334,9 @@ my %sets = ( "LEA" => { order => 199308,
            , "DDK" => { order => 201303,
                         name => 'Duel Decks: Sorin vs. Tibalt'
                       }
+           , "DDO" => { order => 201502,
+                        name => 'Duel Decks: Elspeth vs. Kiora'
+                      }
            , "DRB" => { order => 200808,
                         name => 'From the Vault: Dragons Wings of a Dragon'
                       }
