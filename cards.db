@@ -1449,7 +1449,7 @@
 00|00|00|00|00|5DN|U|Energy Chamber
 00|00|00|00|00|5DN|U|Ensouled Scimitar
 00|00|00|00|00|5DN|U|Etched Oracle
-00|00|00|00|00|5DN|U|Eternal Witness
+01|00|00|00|00|5DN|U|Eternal Witness
 00|00|00|00|00|5DN|U|Eyes of the Watcher
 00|00|00|00|00|5DN|U|Fangren Pathcutter
 00|00|00|00|00|5DN|U|Feedback Bolt
@@ -3269,7 +3269,7 @@
 00|00|00|00|00|9ED|U|Urza's Tower
 00|00|00|00|00|9ED|U|Vengeance
 00|00|00|00|00|9ED|U|Viashino Sandstalker
-00|00|00|00|00|9ED|U|Viridian Shaman
+02|00|00|00|00|9ED|U|Viridian Shaman
 00|00|00|00|00|9ED|U|Vulshok Morningstar
 00|00|00|00|00|9ED|U|Web
 00|00|00|00|00|9ED|U|Whip Sergeant
@@ -9229,7 +9229,7 @@
 00|00|00|00|00|EVE|R|Overbeing of Myth
 00|00|00|00|00|EVE|R|Primalcrux
 00|00|00|00|00|EVE|R|Pyrrhic Revival
-00|00|00|00|00|EVE|R|Regal Force
+01|00|00|00|00|EVE|R|Regal Force
 00|00|00|00|00|EVE|R|Rekindled Flame
 00|00|00|00|00|EVE|R|Rise of the Hobgoblins
 00|00|00|00|00|EVE|R|Rugged Prairie
@@ -9363,7 +9363,7 @@
 00|00|00|00|00|EVG|U|Sylvan Messenger
 00|00|00|00|00|EVG|U|Tar Pitcher
 00|00|00|00|00|EVG|U|Wirewood Lodge
-00|00|00|00|00|EVG|U|Wirewood Symbiote
+02|00|00|00|00|EVG|U|Wirewood Symbiote
 00|00|00|00|00|EVG|U|Wren's Run Vanquisher
 00|00|00|00|00|EXO|C|AEther Tide
 00|00|00|00|00|EXO|C|Allay
@@ -12017,6 +12017,7 @@
 00|00|00|00|00|KTK|C|Dutiful Return
 00|00|00|00|00|KTK|C|Efreet Weaponmaster
 00|00|00|00|00|KTK|C|Embodiment of Spring
+01|00|00|00|00|KTK|C|Emblem: Sarkhan, the Dragonspeaker
 00|00|00|00|00|KTK|C|Erase
 00|00|00|00|00|KTK|C|Feat of Resistance
 00|00|00|00|00|KTK|C|Feed the Clan
@@ -13675,7 +13676,7 @@
 00|00|00|00|00|M10|M|Bogardan Hellkite
 00|00|00|00|00|M10|M|Chandra Nalaar
 00|00|00|00|00|M10|M|Darksteel Colossus
-00|00|00|00|00|M10|M|Garruk Wildspeaker
+01|00|00|00|00|M10|M|Garruk Wildspeaker
 00|00|00|00|00|M10|M|Jace Beleren
 00|00|00|00|00|M10|M|Liliana Vess
 00|00|00|00|00|M10|M|Master of the Wild Hunt
@@ -13944,7 +13945,7 @@
 00|00|00|00|00|M11|R|Leyline of Anticipation
 00|00|00|00|00|M11|R|Leyline of Punishment
 00|00|00|00|00|M11|R|Leyline of Sanctity
-04|00|00|00|00|M11|R|Leyline of Vitality
+05|00|00|00|00|M11|R|Leyline of Vitality
 00|00|00|00|00|M11|R|Leyline of the Void
 01|00|00|00|00|M11|R|Magma Phoenix
 00|00|00|00|00|M11|R|Mass Polymorph
@@ -17744,7 +17745,7 @@
 00|00|00|00|00|ONS|U|Threaten
 00|00|00|00|00|ONS|U|Thunder of Hooves
 00|00|00|00|00|ONS|U|Towering Baloth
-00|00|00|00|00|ONS|U|Tribal Unity
+02|00|00|00|00|ONS|U|Tribal Unity
 00|00|00|00|00|ONS|U|Venomspout Brackus
 00|00|00|00|00|ONS|U|Walking Desecration
 00|00|00|00|00|ONS|U|Wall of Mulch
@@ -17979,7 +17980,7 @@
 00|00|00|00|00|PC2|R|Last Stand
 00|00|00|00|00|PC2|R|Mass Mutiny
 00|00|00|00|00|PC2|R|Mitotic Slime
-00|00|00|00|00|PC2|R|Mycoloth
+01|00|00|00|00|PC2|R|Mycoloth
 00|00|00|00|00|PC2|R|Predatory Urge
 00|00|00|00|00|PC2|R|Preyseizer Dragon
 00|00|00|00|00|PC2|R|Quietus Spike
@@ -19184,7 +19185,7 @@
 00|00|00|00|00|RAV|U|Moroii
 00|00|00|00|00|RAV|U|Netherborn Phalanx
 00|00|00|00|00|RAV|U|Nightmare Void
-00|00|00|00|00|RAV|U|Nullmage Shepherd
+01|00|00|00|00|RAV|U|Nullmage Shepherd
 00|00|00|00|00|RAV|U|Oathsworn Giant
 00|00|00|00|00|RAV|U|Overwhelm
 00|00|00|00|00|RAV|U|Peregrine Mask
@@ -19984,7 +19985,7 @@
 00|00|00|00|00|SCG|R|Trap Digger
 00|00|00|00|00|SCG|R|Upwelling
 00|00|00|00|00|SCG|R|Xantid Swarm
-00|00|00|00|00|SCG|U|Alpha Status
+02|00|00|00|00|SCG|U|Alpha Status
 00|00|00|00|00|SCG|U|Aphetto Runecaster
 00|00|00|00|00|SCG|U|Ark of Blight
 00|00|00|00|00|SCG|U|Bladewing's Thrall
@@ -20027,7 +20028,7 @@
 00|00|00|00|00|SCG|U|Undead Warchief
 00|00|00|00|00|SCG|U|Unspeakable Symbol
 00|00|00|00|00|SCG|U|Wing Shards
-00|00|00|00|00|SCG|U|Wirewood Symbiote
+02|00|00|00|00|SCG|U|Wirewood Symbiote
 00|00|00|00|00|SHM|C|AEthertow
 00|00|00|00|00|SHM|C|Aphotic Wisps
 00|00|00|00|00|SHM|C|Apothecary Initiate
@@ -23106,7 +23107,7 @@
 00|00|00|00|00|WWK|R|Death's Shadow
 00|00|00|00|00|WWK|R|Goliath Sphinx
 00|00|00|00|00|WWK|R|Harabaz Druid
-00|00|00|00|00|WWK|R|Joraga Warcaller
+02|00|00|00|00|WWK|R|Joraga Warcaller
 00|00|00|00|00|WWK|R|Jwari Shapeshifter
 00|00|00|00|00|WWK|R|Kalastria Highborn
 00|00|00|00|00|WWK|R|Kazuul, Tyrant of the Cliffs
@@ -23283,7 +23284,7 @@
 00|00|00|00|00|ZEN|M|Lorthos, the Tidemaker
 00|00|00|00|00|ZEN|M|Lotus Cobra
 00|00|00|00|00|ZEN|M|Mindbreak Trap
-00|00|00|00|00|ZEN|M|Nissa Revane
+01|00|00|00|00|ZEN|M|Nissa Revane
 00|00|00|00|00|ZEN|M|Ob Nixilis, the Fallen
 00|00|00|00|00|ZEN|M|Obsidian Fireheart
 00|00|00|00|00|ZEN|M|Rampaging Baloths
