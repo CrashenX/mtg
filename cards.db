@@ -4550,7 +4550,7 @@
 00|00|00|00|00|AVR|R|Demonic Rising
 00|00|00|00|00|AVR|R|Demonlord of Ashmouth
 00|00|00|00|00|AVR|R|Descendants' Path
-01|00|00|00|00|AVR|R|Desolate Lighthouse
+00|00|00|00|00|AVR|R|Desolate Lighthouse
 00|00|00|00|00|AVR|R|Devastation Tide
 00|00|00|00|00|AVR|R|Divine Deflection
 00|00|00|00|00|AVR|R|Dread Slaver
@@ -10200,7 +10200,7 @@
 00|00|00|00|00|GTC|R|Biovisionary
 00|00|00|00|00|GTC|R|Blind Obedience
 00|00|00|00|00|GTC|R|Boros Reckoner
-00|00|00|00|00|GTC|R|Breeding Pool
+01|00|00|00|00|GTC|R|Breeding Pool
 00|00|00|00|00|GTC|R|Clan Defiance
 00|00|00|00|00|GTC|R|Consuming Aberration
 00|00|00|00|00|GTC|R|Crypt Ghast
@@ -15596,7 +15596,7 @@
 01|00|00|00|00|MM2|R|Hurkyl's Recall
 00|00|00|00|00|MM2|R|Indomitable Archangel
 00|00|00|00|00|MM2|R|Inexorable Tide
-01|00|00|00|00|MM2|R|Leyline of Sanctity
+02|00|00|00|00|MM2|R|Leyline of Sanctity
 00|00|00|00|00|MM2|R|Lodestone Golem
 00|00|00|00|00|MM2|R|Lodestone Myr
 00|00|00|00|00|MM2|R|Long-Forgotten Gohei
@@ -15616,7 +15616,7 @@
 00|00|00|00|00|MM2|R|Shadowmage Infiltrator
 01|00|00|00|00|MM2|R|Spellskite
 00|00|00|00|00|MM2|R|Spikeshot Elder
-02|00|00|00|00|MM2|R|Splinter Twin
+01|00|00|00|00|MM2|R|Splinter Twin
 00|00|00|00|00|MM2|R|Sunforger
 01|00|00|00|00|MM2|R|Surgical Extraction
 00|00|00|00|00|MM2|R|Surrakar Spellblade
@@ -15915,7 +15915,7 @@
 01|00|00|00|00|MMA|U|Riftwing Cloudskate
 00|00|00|00|00|MMA|U|Sandsower
 00|00|00|00|00|MMA|U|Shrapnel Blast
-05|00|00|00|00|MMA|U|Spell Snare
+04|00|00|00|00|MMA|U|Spell Snare
 01|00|00|00|00|MMA|U|Sporesower Thallid
 02|00|00|00|00|MMA|U|Stir the Pride
 01|00|00|00|00|MMA|U|Sudden Shock
