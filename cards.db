@@ -4574,7 +4574,7 @@
 00|00|00|00|00|AVR|R|Riders of Gavony
 00|00|00|00|00|AVR|R|Rite of Ruin
 05|00|00|00|00|AVR|R|Silverblade Paladin
-03|00|00|00|00|AVR|R|Slayers' Stronghold
+02|00|00|00|00|AVR|R|Slayers' Stronghold
 00|00|00|00|00|AVR|R|Somberwald Sage
 01|00|00|00|00|AVR|R|Soul of the Harvest
 00|00|00|00|00|AVR|R|Spirit Away
@@ -7988,7 +7988,7 @@
 00|00|00|00|00|DGM|M|Ral Zarek
 00|00|00|00|00|DGM|M|Reap Intellect
 00|00|00|00|00|DGM|M|Savageborn Hydra
-00|00|00|00|00|DGM|M|Voice of Resurgence
+01|00|00|00|00|DGM|M|Voice of Resurgence
 01|00|00|00|00|DGM|R|AEtherling
 00|00|00|00|00|DGM|R|Advent of the Wurm
 00|01|00|00|00|DGM|R|Beck // Call
@@ -11602,7 +11602,7 @@
 04|00|00|00|00|ISD|R|Snapcaster Mage
 00|00|00|00|00|ISD|R|Splinterfright
 00|00|00|00|00|ISD|R|Stensia Bloodhall
-03|00|00|00|00|ISD|R|Stony Silence
+02|00|00|00|00|ISD|R|Stony Silence
 00|00|00|00|00|ISD|R|Stromkirk Noble
 00|00|00|00|00|ISD|R|Sturmgeist
 00|00|00|00|00|ISD|R|Sulfur Falls
@@ -15709,7 +15709,7 @@
 00|00|00|00|00|MM2|U|Dispatch
 00|00|00|00|00|MM2|U|Drooling Groodion
 04|00|00|00|00|MM2|U|Eldrazi Temple
-00|00|00|00|00|MM2|U|Electrolyze
+03|00|00|00|00|MM2|U|Electrolyze
 00|00|00|00|00|MM2|U|Etched Oracle
 00|00|00|00|00|MM2|U|Ethercaste Knight
 00|00|00|00|00|MM2|U|Everflowing Chalice
@@ -15969,7 +15969,7 @@
 00|00|00|00|00|MMA|U|Phthisis
 01|00|00|00|00|MMA|U|Plumeveil
 01|00|00|00|00|MMA|U|Reach of Branches
-05|00|00|00|00|MMA|U|Relic of Progenitus
+04|00|00|00|00|MMA|U|Relic of Progenitus
 02|00|00|00|00|MMA|U|Riftsweeper
 01|00|00|00|00|MMA|U|Riftwing Cloudskate
 00|00|00|00|00|MMA|U|Sandsower
@@ -17037,7 +17037,7 @@
 02|00|00|00|00|NPH|U|Darksteel Relic
 03|00|00|00|00|NPH|U|Deceiver Exarch
 00|00|00|00|00|NPH|U|Despise
-01|00|00|00|00|NPH|U|Dismember
+00|00|00|00|00|NPH|U|Dismember
 04|00|00|00|00|NPH|U|Dispatch
 02|00|00|00|00|NPH|U|Due Respect
 02|00|00|00|00|NPH|U|Enslave
@@ -19194,7 +19194,7 @@
 00|00|00|00|00|RAV|U|Psychic Drain
 01|00|00|00|00|RAV|U|Putrefy
 00|00|00|00|00|RAV|U|Recollect
-04|00|00|00|00|RAV|U|Remand
+03|00|00|00|00|RAV|U|Remand
 00|00|00|00|00|RAV|U|Reroute
 00|00|00|00|00|RAV|U|Ribbons of Night
 00|00|00|00|00|RAV|U|Rolling Spoil
@@ -23162,7 +23162,7 @@
 02|00|00|00|00|WWK|U|Smother
 02|00|00|00|00|WWK|U|Spell Contortion
 02|00|00|00|00|WWK|U|Summit Apes
-09|00|00|00|00|WWK|U|Tectonic Edge
+08|00|00|00|00|WWK|U|Tectonic Edge
 01|01|00|00|00|WWK|U|Tideforce Elemental
 00|00|00|00|00|WWK|U|Tuktuk Scrapper
 00|00|00|00|00|WWK|U|Urge to Feed
