@@ -15705,7 +15705,7 @@
 00|00|00|00|00|MM2|U|Devouring Greed
 00|00|00|00|00|MM2|U|Dimir Aqueduct
 00|00|00|00|00|MM2|U|Dimir Guildmage
-00|00|00|00|00|MM2|U|Dismember
+05|00|00|00|00|MM2|U|Dismember
 00|00|00|00|00|MM2|U|Dispatch
 00|00|00|00|00|MM2|U|Drooling Groodion
 04|00|00|00|00|MM2|U|Eldrazi Temple
@@ -15723,8 +15723,8 @@
 00|00|00|00|00|MM2|U|Incandescent Soulstoke
 00|00|00|00|00|MM2|U|Izzet Boilerworks
 00|00|00|00|00|MM2|U|Karplusan Strider
-00|00|00|00|00|MM2|U|Kor Duelist
-00|00|00|00|00|MM2|U|Lightning Bolt
+04|00|00|00|00|MM2|U|Kor Duelist
+04|00|00|00|00|MM2|U|Lightning Bolt
 00|00|00|00|00|MM2|U|Lorescale Coatl
 00|00|00|00|00|MM2|U|Mortarpod
 00|00|00|00|00|MM2|U|Mulldrifter
@@ -15752,7 +15752,7 @@
 00|00|00|00|00|MM2|U|Sigil Blessing
 00|00|00|00|00|MM2|U|Simic Growth Chamber
 00|00|00|00|00|MM2|U|Skarrgan Firebird
-00|00|00|00|00|MM2|U|Spectral Procession
+04|00|00|00|00|MM2|U|Spectral Procession
 00|00|00|00|00|MM2|U|Spitebellows
 00|00|00|00|00|MM2|U|Spread the Sickness
 00|00|00|00|00|MM2|U|Stormblood Berserker
