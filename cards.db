@@ -15517,104 +15517,104 @@
 00|00|00|00|00|MIR|U|Zombie Mob
 00|00|00|00|00|MM2|C|Alloy Myr
 00|00|00|00|00|MM2|C|Apostle's Blessing
-00|00|00|00|00|MM2|C|Aquastrand Spider
-00|00|00|00|00|MM2|C|Arrest
-00|00|00|00|00|MM2|C|Blades of Velis Vel
-00|00|00|00|00|MM2|C|Blinding Souleater
-00|00|00|00|00|MM2|C|Blood Ogre
-00|00|00|00|00|MM2|C|Bloodthrone Vampire
-00|00|00|00|00|MM2|C|Bone Splinters
-00|00|00|00|00|MM2|C|Brute Force
+00|01|00|00|00|MM2|C|Aquastrand Spider
+00|01|00|00|00|MM2|C|Arrest
+00|01|00|00|00|MM2|C|Blades of Velis Vel
+00|01|00|00|00|MM2|C|Blinding Souleater
+00|01|00|00|00|MM2|C|Blood Ogre
+00|01|00|00|00|MM2|C|Bloodthrone Vampire
+00|01|00|00|00|MM2|C|Bone Splinters
+00|01|00|00|00|MM2|C|Brute Force
 00|00|00|00|00|MM2|C|Burst Lightning
-00|00|00|00|00|MM2|C|Cathodion
-00|00|00|00|00|MM2|C|Cloud Elemental
-00|00|00|00|00|MM2|C|Commune with Nature
-00|00|00|00|00|MM2|C|Conclave Phalanx
+00|01|00|00|00|MM2|C|Cathodion
+00|01|00|00|00|MM2|C|Cloud Elemental
+00|01|00|00|00|MM2|C|Commune with Nature
+00|01|00|00|00|MM2|C|Conclave Phalanx
 00|00|00|00|00|MM2|C|Copper Carapace
-00|00|00|00|00|MM2|C|Court Homunculus
-00|00|00|00|00|MM2|C|Darksteel Citadel
-00|00|00|00|00|MM2|C|Death Denied
-00|00|00|00|00|MM2|C|Dragonsoul Knight
-00|00|00|00|00|MM2|C|Dread Drone
+00|01|00|00|00|MM2|C|Court Homunculus
+00|02|00|00|00|MM2|C|Darksteel Citadel
+00|01|00|00|00|MM2|C|Death Denied
+00|01|00|00|00|MM2|C|Dragonsoul Knight
+00|01|00|00|00|MM2|C|Dread Drone
 00|00|00|00|00|MM2|C|Duskhunter Bat
-00|00|00|00|00|MM2|C|Evolving Wilds
-00|00|00|00|00|MM2|C|Faerie Mechanist
+00|01|00|00|00|MM2|C|Evolving Wilds
+00|01|00|00|00|MM2|C|Faerie Mechanist
 00|00|00|00|00|MM2|C|Fiery Fall
-00|00|00|00|00|MM2|C|Flayer Husk
+00|01|00|00|00|MM2|C|Flayer Husk
 00|00|00|00|00|MM2|C|Fortify
-00|00|00|00|00|MM2|C|Frogmite
-00|00|00|00|00|MM2|C|Ghostly Changeling
-00|00|00|00|00|MM2|C|Glint Hawk Idol
+00|01|00|00|00|MM2|C|Frogmite
+00|01|00|00|00|MM2|C|Ghostly Changeling
+00|01|00|00|00|MM2|C|Glint Hawk Idol
 00|00|00|00|00|MM2|C|Gnarlid Pack
 00|00|00|00|00|MM2|C|Goblin Fireslinger
-00|00|00|00|00|MM2|C|Goblin War Paint
+00|01|00|00|00|MM2|C|Goblin War Paint
 00|00|00|00|00|MM2|C|Gorehorn Minotaurs
-00|00|00|00|00|MM2|C|Grim Affliction
+00|01|00|00|00|MM2|C|Grim Affliction
 00|00|00|00|00|MM2|C|Gust-Skimmer
-00|00|00|00|00|MM2|C|Gut Shot
+00|01|00|00|00|MM2|C|Gut Shot
 00|00|00|00|00|MM2|C|Helium Squirter
 00|00|00|00|00|MM2|C|Inner-Flame Igniter
 00|00|00|00|00|MM2|C|Instill Infection
 00|00|00|00|00|MM2|C|Kami of Ancient Law
 00|00|00|00|00|MM2|C|Kavu Primarch
 00|00|00|00|00|MM2|C|Kitesail
-00|00|00|00|00|MM2|C|Kozilek's Predator
-00|00|00|00|00|MM2|C|Mana Leak
+00|01|00|00|00|MM2|C|Kozilek's Predator
+00|01|00|00|00|MM2|C|Mana Leak
 00|00|00|00|00|MM2|C|Matca Rioters
-00|00|00|00|00|MM2|C|Mighty Leap
-00|00|00|00|00|MM2|C|Moonlit Strider
+00|01|00|00|00|MM2|C|Mighty Leap
+00|01|00|00|00|MM2|C|Moonlit Strider
 00|00|00|00|00|MM2|C|Myr Enforcer
-00|00|00|00|00|MM2|C|Nameless Inversion
-00|00|00|00|00|MM2|C|Narcolepsy
-00|00|00|00|00|MM2|C|Nest Invader
-00|00|00|00|00|MM2|C|Otherworldly Journey
+00|01|00|00|00|MM2|C|Nameless Inversion
+00|01|00|00|00|MM2|C|Narcolepsy
+00|01|00|00|00|MM2|C|Nest Invader
+00|01|00|00|00|MM2|C|Otherworldly Journey
 00|00|00|00|00|MM2|C|Plagued Rusalka
-00|00|00|00|00|MM2|C|Plummet
+00|01|00|00|00|MM2|C|Plummet
 00|00|00|00|00|MM2|C|Raise the Alarm
 00|00|00|00|00|MM2|C|Rampant Growth
-00|00|00|00|00|MM2|C|Repeal
-00|00|00|00|00|MM2|C|Runed Servitor
-00|00|00|00|00|MM2|C|Rusted Relic
+00|01|00|00|00|MM2|C|Repeal
+00|01|00|00|00|MM2|C|Runed Servitor
+00|02|00|00|00|MM2|C|Rusted Relic
 00|00|00|00|00|MM2|C|Scatter the Seeds
-00|00|00|00|00|MM2|C|Scion of the Wild
-00|00|00|00|00|MM2|C|Scuttling Death
-00|00|00|00|00|MM2|C|Shrivel
+00|01|00|00|00|MM2|C|Scion of the Wild
+00|01|00|00|00|MM2|C|Scuttling Death
+00|01|00|00|00|MM2|C|Shrivel
 00|00|00|00|00|MM2|C|Sickle Ripper
-00|00|00|00|00|MM2|C|Sickleslicer
-00|00|00|00|00|MM2|C|Sign in Blood
-00|00|00|00|00|MM2|C|Simic Initiate
-00|00|00|00|00|MM2|C|Skyhunter Skirmisher
-00|00|00|00|00|MM2|C|Skyreach Manta
-00|00|00|00|00|MM2|C|Smash to Smithereens
-00|00|00|00|00|MM2|C|Smokebraider
-00|00|00|00|00|MM2|C|Somber Hoverguard
+00|01|00|00|00|MM2|C|Sickleslicer
+00|01|00|00|00|MM2|C|Sign in Blood
+00|01|00|00|00|MM2|C|Simic Initiate
+00|01|00|00|00|MM2|C|Skyhunter Skirmisher
+00|02|00|00|00|MM2|C|Skyreach Manta
+00|01|00|00|00|MM2|C|Smash to Smithereens
+00|01|00|00|00|MM2|C|Smokebraider
+00|02|00|00|00|MM2|C|Somber Hoverguard
 00|00|00|00|00|MM2|C|Soulbright Flamekin
 00|00|00|00|00|MM2|C|Sphere of the Suns
 00|00|00|00|00|MM2|C|Steady Progress
-00|00|00|00|00|MM2|C|Stoic Rebuttal
-00|00|00|00|00|MM2|C|Sundering Vitae
-00|00|00|00|00|MM2|C|Sunlance
+00|01|00|00|00|MM2|C|Stoic Rebuttal
+00|01|00|00|00|MM2|C|Sundering Vitae
+00|01|00|00|00|MM2|C|Sunlance
 00|00|00|00|00|MM2|C|Sunspear Shikari
-00|00|00|00|00|MM2|C|Sylvan Bounty
-00|00|00|00|00|MM2|C|Telling Time
-00|00|00|00|00|MM2|C|Terashi's Grasp
+00|01|00|00|00|MM2|C|Sylvan Bounty
+00|01|00|00|00|MM2|C|Telling Time
+00|01|00|00|00|MM2|C|Terashi's Grasp
 00|00|00|00|00|MM2|C|Thief of Hope
-00|00|00|00|00|MM2|C|Thoughtcast
-00|00|00|00|00|MM2|C|Thrive
+00|01|00|00|00|MM2|C|Thoughtcast
+00|01|00|00|00|MM2|C|Thrive
 00|00|00|00|00|MM2|C|Thrummingbird
-00|00|00|00|00|MM2|C|Tribal Flames
-00|00|00|00|00|MM2|C|Tukatongue Thallid
+00|01|00|00|00|MM2|C|Tribal Flames
+00|01|00|00|00|MM2|C|Tukatongue Thallid
 00|00|00|00|00|MM2|C|Ulamog's Crusher
 00|00|00|00|00|MM2|C|Vampire Lacerator
-00|00|00|00|00|MM2|C|Vapor Snag
-00|00|00|00|00|MM2|C|Viashino Slaughtermaster
-00|00|00|00|00|MM2|C|Vigean Graftmage
+00|01|00|00|00|MM2|C|Vapor Snag
+00|01|00|00|00|MM2|C|Viashino Slaughtermaster
+00|01|00|00|00|MM2|C|Vigean Graftmage
 00|00|00|00|00|MM2|C|Vines of Vastwood
-00|00|00|00|00|MM2|C|Waking Nightmare
+00|01|00|00|00|MM2|C|Waking Nightmare
 00|00|00|00|00|MM2|C|Waxmane Baku
-00|00|00|00|00|MM2|C|Wayfarer's Bauble
+00|01|00|00|00|MM2|C|Wayfarer's Bauble
 00|00|00|00|00|MM2|C|Wings of Velis Vel
-00|00|00|00|00|MM2|C|Wrap in Flames
+00|01|00|00|00|MM2|C|Wrap in Flames
 00|00|00|00|00|MM2|C|Æthersnipe
 01|00|00|00|00|MM2|M|Bitterblossom
 00|00|00|00|00|MM2|M|Comet Storm
@@ -15685,9 +15685,9 @@
 04|00|00|00|00|MM2|R|Wilt-Leaf Liege
 00|00|00|00|00|MM2|R|Wolfbriar Elemental
 00|00|00|00|00|MM2|U|Agony Warp
-00|00|00|00|00|MM2|U|Air Servant
+00|01|00|00|00|MM2|U|Air Servant
 00|00|00|00|00|MM2|U|Algae Gharial
-00|00|00|00|00|MM2|U|Artisan of Kozilek
+00|01|00|00|00|MM2|U|Artisan of Kozilek
 00|00|00|00|00|MM2|U|Ashenmoor Gouger
 00|00|00|00|00|MM2|U|Azorius Chancery
 00|00|00|00|00|MM2|U|Bestial Menace
@@ -15696,31 +15696,31 @@
 00|00|00|00|00|MM2|U|Boros Swiftblade
 00|00|00|00|00|MM2|U|Celestial Purge
 00|00|00|00|00|MM2|U|Combust
-00|00|00|00|00|MM2|U|Cranial Plating
-00|00|00|00|00|MM2|U|Culling Dais
+00|01|00|00|00|MM2|U|Cranial Plating
+00|01|00|00|00|MM2|U|Culling Dais
 00|00|00|00|00|MM2|U|Cytoplast Root-Kin
 00|00|00|00|00|MM2|U|Daggerclaw Imp
 00|00|00|00|00|MM2|U|Darksteel Axe
 00|00|00|00|00|MM2|U|Deathmark
-00|00|00|00|00|MM2|U|Devouring Greed
-00|00|00|00|00|MM2|U|Dimir Aqueduct
+00|01|00|00|00|MM2|U|Devouring Greed
+00|02|00|00|00|MM2|U|Dimir Aqueduct
 00|00|00|00|00|MM2|U|Dimir Guildmage
 05|00|00|00|00|MM2|U|Dismember
 00|00|00|00|00|MM2|U|Dispatch
-00|00|00|00|00|MM2|U|Drooling Groodion
+00|01|00|00|00|MM2|U|Drooling Groodion
 04|00|00|00|00|MM2|U|Eldrazi Temple
 03|00|00|00|00|MM2|U|Electrolyze
 00|00|00|00|00|MM2|U|Etched Oracle
 00|00|00|00|00|MM2|U|Ethercaste Knight
-00|00|00|00|00|MM2|U|Everflowing Chalice
+00|01|00|00|00|MM2|U|Everflowing Chalice
 00|00|00|00|00|MM2|U|Expedition Map
 00|00|00|00|00|MM2|U|Flashfreeze
 00|00|00|00|00|MM2|U|Glassdust Hulk
-00|00|00|00|00|MM2|U|Golgari Rot Farm
+00|01|00|00|00|MM2|U|Golgari Rot Farm
 00|00|00|00|00|MM2|U|Gruul Turf
 00|00|00|00|00|MM2|U|Hearthfire Hobgoblin
 00|00|00|00|00|MM2|U|Hikari, Twilight Guardian
-00|00|00|00|00|MM2|U|Incandescent Soulstoke
+00|01|00|00|00|MM2|U|Incandescent Soulstoke
 00|00|00|00|00|MM2|U|Izzet Boilerworks
 00|00|00|00|00|MM2|U|Karplusan Strider
 04|00|00|00|00|MM2|U|Kor Duelist
@@ -15730,11 +15730,11 @@
 00|00|00|00|00|MM2|U|Mulldrifter
 00|00|00|00|00|MM2|U|Mutagenic Growth
 00|00|00|00|00|MM2|U|Myrsmith
-00|00|00|00|00|MM2|U|Necrogenesis
-00|00|00|00|00|MM2|U|Novijen Sages
+00|01|00|00|00|MM2|U|Necrogenesis
+00|01|00|00|00|MM2|U|Novijen Sages
 00|00|00|00|00|MM2|U|Oblivion Ring
 00|00|00|00|00|MM2|U|Orzhov Basilica
-00|00|00|00|00|MM2|U|Overwhelm
+00|01|00|00|00|MM2|U|Overwhelm
 00|00|00|00|00|MM2|U|Pelakka Wurm
 00|00|00|00|00|MM2|U|Pillory of the Sleepless
 00|00|00|00|00|MM2|U|Plaxcaster Frogling
@@ -15746,23 +15746,23 @@
 00|00|00|00|00|MM2|U|Root-Kin Ally
 00|00|00|00|00|MM2|U|Savage Twister
 00|00|00|00|00|MM2|U|Scavenger Drake
-00|00|00|00|00|MM2|U|Selesnya Guildmage
+00|01|00|00|00|MM2|U|Selesnya Guildmage
 00|00|00|00|00|MM2|U|Selesnya Sanctuary
 00|00|00|00|00|MM2|U|Shrewd Hatchling
-00|00|00|00|00|MM2|U|Sigil Blessing
+00|01|00|00|00|MM2|U|Sigil Blessing
 00|00|00|00|00|MM2|U|Simic Growth Chamber
 00|00|00|00|00|MM2|U|Skarrgan Firebird
-04|00|00|00|00|MM2|U|Spectral Procession
+04|02|00|00|00|MM2|U|Spectral Procession
 00|00|00|00|00|MM2|U|Spitebellows
 00|00|00|00|00|MM2|U|Spread the Sickness
 00|00|00|00|00|MM2|U|Stormblood Berserker
 00|00|00|00|00|MM2|U|Taj-Nar Swordsmith
 00|00|00|00|00|MM2|U|Tezzeret's Gambit
-00|00|00|00|00|MM2|U|Tumble Magnet
+00|01|00|00|00|MM2|U|Tumble Magnet
 00|00|00|00|00|MM2|U|Vampire Outcasts
-00|00|00|00|00|MM2|U|Vengeful Rebirth
+00|01|00|00|00|MM2|U|Vengeful Rebirth
 00|00|00|00|00|MM2|U|Water Servant
-00|00|00|00|00|MM2|U|Worldheart Phoenix
+00|01|00|00|00|MM2|U|Worldheart Phoenix
 00|00|00|00|00|MM2|U|Wrecking Ball
 02|00|00|00|00|MMA|C|AEther Spellbomb
 03|00|00|00|00|MMA|C|AEthersnipe
