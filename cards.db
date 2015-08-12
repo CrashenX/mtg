@@ -12016,8 +12016,8 @@
 00|00|00|00|00|KTK|C|Dragonscale Boon
 00|00|00|00|00|KTK|C|Dutiful Return
 00|00|00|00|00|KTK|C|Efreet Weaponmaster
-00|00|00|00|00|KTK|C|Embodiment of Spring
 01|00|00|00|00|KTK|C|Emblem: Sarkhan, the Dragonspeaker
+00|00|00|00|00|KTK|C|Embodiment of Spring
 00|00|00|00|00|KTK|C|Erase
 00|00|00|00|00|KTK|C|Feat of Resistance
 00|00|00|00|00|KTK|C|Feed the Clan
@@ -17752,6 +17752,263 @@
 00|00|00|00|00|ONS|U|Whipcorder
 00|00|00|00|00|ONS|U|Wirewood Lodge
 00|00|00|00|00|ONS|U|Withering Hex
+00|00|00|00|00|ORI|C|Act of Treason
+00|00|00|00|00|ORI|C|Aerial Volley
+00|00|00|00|00|ORI|C|Akroan Jailer
+00|00|00|00|00|ORI|C|Akroan Sergeant
+00|00|00|00|00|ORI|C|Alchemist's Vial
+00|00|00|00|00|ORI|C|Ampryn Tactician
+00|00|00|00|00|ORI|C|Artificer's Epiphany
+00|00|00|00|00|ORI|C|Aspiring Aeronaut
+00|00|00|00|00|ORI|C|Auramancer
+00|00|00|00|00|ORI|C|Aven Battle Priest
+00|00|00|00|00|ORI|C|Bellows Lizard
+00|00|00|00|00|ORI|C|Boggart Brute
+00|00|00|00|00|ORI|C|Bonded Construct
+00|00|00|00|00|ORI|C|Bone to Ash
+00|00|00|00|00|ORI|C|Calculated Dismissal
+00|00|00|00|00|ORI|C|Catacomb Slug
+00|00|00|00|00|ORI|C|Caustic Caterpillar
+00|00|00|00|00|ORI|C|Celestial Flare
+00|00|00|00|00|ORI|C|Chandra's Fury
+00|00|00|00|00|ORI|C|Charging Griffin
+00|00|00|00|00|ORI|C|Claustrophobia
+00|00|00|00|00|ORI|C|Cleric of the Forward Order
+00|00|00|00|00|ORI|C|Cobblebrute
+00|00|00|00|00|ORI|C|Dark Dabbling
+00|00|00|00|00|ORI|C|Deadbridge Shaman
+00|00|00|00|00|ORI|C|Deep-Sea Terror
+00|00|00|00|00|ORI|C|Demolish
+00|00|00|00|00|ORI|C|Disperse
+00|00|00|00|00|ORI|C|Dragon Fodder
+00|00|00|00|00|ORI|C|Dreadwaters
+00|00|00|00|00|ORI|C|Elvish Visionary
+00|00|00|00|00|ORI|C|Enlightened Ascetic
+00|00|00|00|00|ORI|C|Enshrouding Mist
+00|00|00|00|00|ORI|C|Evolving Wilds
+00|00|00|00|00|ORI|C|Eyeblight Assassin
+00|00|00|00|00|ORI|C|Faerie Miscreant
+00|00|00|00|00|ORI|C|Fetid Imp
+00|00|00|00|00|ORI|C|Fiery Impulse
+00|00|00|00|00|ORI|C|Firefiend Elemental
+00|00|00|00|00|ORI|C|Forest
+00|00|00|00|00|ORI|C|Ghirapur Gearcrafter
+00|00|00|00|00|ORI|C|Grasp of the Hieromancer
+00|00|00|00|00|ORI|C|Guardian Automaton
+00|00|00|00|00|ORI|C|Guardians of Meletis
+00|00|00|00|00|ORI|C|Healing Hands
+00|00|00|00|00|ORI|C|Heavy Infantry
+00|00|00|00|00|ORI|C|Hitchclaw Recluse
+00|00|00|00|00|ORI|C|Infectious Bloodlust
+00|00|00|00|00|ORI|C|Infernal Scarring
+00|00|00|00|00|ORI|C|Island
+00|00|00|00|00|ORI|C|Knight of the Pilgrim's Road
+00|00|00|00|00|ORI|C|Kytheon's Tactics
+00|00|00|00|00|ORI|C|Leaf Gilder
+00|00|00|00|00|ORI|C|Lightning Javelin
+00|00|00|00|00|ORI|C|Llanowar Empath
+00|00|00|00|00|ORI|C|Macabre Waltz
+00|00|00|00|00|ORI|C|Mage-Ring Bully
+00|00|00|00|00|ORI|C|Mantle of Webs
+00|00|00|00|00|ORI|C|Maritime Guard
+00|00|00|00|00|ORI|C|Might of the Masses
+00|00|00|00|00|ORI|C|Mighty Leap
+00|00|00|00|00|ORI|C|Mountain
+00|00|00|00|00|ORI|C|Nantuko Husk
+00|00|00|00|00|ORI|C|Negate
+00|00|00|00|00|ORI|C|Nightsnare
+00|00|00|00|00|ORI|C|Nissa's Pilgrimage
+00|00|00|00|00|ORI|C|Nivix Barrier
+00|00|00|00|00|ORI|C|Orchard Spirit
+00|00|00|00|00|ORI|C|Pharika's Disciple
+00|00|00|00|00|ORI|C|Plains
+00|00|00|00|00|ORI|C|Prickleboar
+00|00|00|00|00|ORI|C|Rabid Bloodsucker
+00|00|00|00|00|ORI|C|Read the Bones
+00|00|00|00|00|ORI|C|Reave Soul
+00|00|00|00|00|ORI|C|Reclaim
+00|00|00|00|00|ORI|C|Returned Centaur
+00|00|00|00|00|ORI|C|Rhox Maulers
+00|00|00|00|00|ORI|C|Ringwarden Owl
+00|00|00|00|00|ORI|C|Scrapskin Drake
+00|00|00|00|00|ORI|C|Screeching Skaab
+00|00|00|00|00|ORI|C|Send to Sleep
+00|00|00|00|00|ORI|C|Separatist Voidmage
+00|00|00|00|00|ORI|C|Shambling Ghoul
+00|00|00|00|00|ORI|C|Smash to Smithereens
+00|00|00|00|00|ORI|C|Stalwart Aven
+00|00|00|00|00|ORI|C|Stratus Walk
+00|00|00|00|00|ORI|C|Subterranean Scout
+00|00|00|00|00|ORI|C|Suppression Bonds
+00|00|00|00|00|ORI|C|Swamp
+00|00|00|00|00|ORI|C|Thornbow Archer
+00|00|00|00|00|ORI|C|Timberpack Wolf
+00|00|00|00|00|ORI|C|Titan's Strength
+00|00|00|00|00|ORI|C|Titanic Growth
+00|00|00|00|00|ORI|C|Topan Freeblade
+00|00|00|00|00|ORI|C|Touch of Moonglove
+00|00|00|00|00|ORI|C|Undead Servant
+00|00|00|00|00|ORI|C|Unholy Hunger
+00|00|00|00|00|ORI|C|Vastwood Gorger
+00|00|00|00|00|ORI|C|Veteran's Sidearm
+00|00|00|00|00|ORI|C|Vine Snare
+00|00|00|00|00|ORI|C|Volcanic Rambler
+00|00|00|00|00|ORI|C|Watercourser
+00|00|00|00|00|ORI|C|Weight of the Underworld
+00|00|00|00|00|ORI|C|Wild Instincts
+00|00|00|00|00|ORI|C|Yeva's Forcemage
+00|00|00|00|00|ORI|C|Yoked Ox
+00|00|00|00|00|ORI|M|Alhammarret's Archive
+00|00|00|00|00|ORI|M|Archangel of Tithes
+00|00|00|00|00|ORI|M|Avaricious Dragon
+00|00|00|00|00|ORI|M|Chandra, Fire of Kaladesh
+00|00|00|00|00|ORI|M|Day's Undoing
+00|00|00|00|00|ORI|M|Demonic Pact
+00|00|00|00|00|ORI|M|Disciple of the Ring
+00|00|00|00|00|ORI|M|Erebos's Titan
+00|00|00|00|00|ORI|M|Jace, Vryn's Prodigy
+00|00|00|00|00|ORI|M|Kytheon, Hero of Akros
+00|00|00|00|00|ORI|M|Liliana, Heretical Healer
+00|00|00|00|00|ORI|M|Nissa, Vastwood Seer
+00|00|00|00|00|ORI|M|Pyromancer's Goggles
+00|00|00|00|00|ORI|M|Starfield of Nyx
+00|00|00|00|00|ORI|M|The Great Aurora
+00|00|00|00|00|ORI|M|Woodland Bellower
+00|00|00|00|00|ORI|R|Abbot of Keral Keep
+00|00|00|00|00|ORI|R|Alhammarret, High Arbiter
+00|00|00|00|00|ORI|R|Animist's Awakening
+00|00|00|00|00|ORI|R|Battlefield Forge
+00|00|00|00|00|ORI|R|Caves of Koilos
+00|00|00|00|00|ORI|R|Chandra's Ignition
+00|00|00|00|00|ORI|R|Dark Petition
+00|00|00|00|00|ORI|R|Despoiler of Souls
+00|00|00|00|00|ORI|R|Displacement Wave
+00|00|00|00|00|ORI|R|Dwynen, Gilt-Leaf Daen
+00|00|00|00|00|ORI|R|Embermaw Hellion
+00|00|00|00|00|ORI|R|Evolutionary Leap
+00|00|00|00|00|ORI|R|Exquisite Firecraft
+00|00|00|00|00|ORI|R|Flameshadow Conjuring
+00|00|00|00|00|ORI|R|Gaea's Revenge
+00|00|00|00|00|ORI|R|Gideon's Phalanx
+00|00|00|00|00|ORI|R|Gilt-Leaf Winnower
+00|00|00|00|00|ORI|R|Goblin Piledriver
+00|00|00|00|00|ORI|R|Graveblade Marauder
+00|00|00|00|00|ORI|R|Hallowed Moonlight
+00|00|00|00|00|ORI|R|Hangarback Walker
+00|00|00|00|00|ORI|R|Harbinger of the Tides
+00|00|00|00|00|ORI|R|Helm of the Gods
+00|00|00|00|00|ORI|R|Herald of the Pantheon
+00|00|00|00|00|ORI|R|Hixus, Prison Warden
+00|00|00|00|00|ORI|R|Honored Hierarch
+00|00|00|00|00|ORI|R|Infinite Obliteration
+00|00|00|00|00|ORI|R|Jace's Sanctum
+00|00|00|00|00|ORI|R|Knight of the White Orchid
+00|00|00|00|00|ORI|R|Kothophed, Soul Hoarder
+00|00|00|00|00|ORI|R|Kytheon's Irregulars
+00|00|00|00|00|ORI|R|Languish
+00|00|00|00|00|ORI|R|Llanowar Wastes
+00|00|00|00|00|ORI|R|Mage-Ring Responder
+00|00|00|00|00|ORI|R|Managorger Hydra
+00|00|00|00|00|ORI|R|Mizzium Meddler
+00|00|00|00|00|ORI|R|Molten Vortex
+00|00|00|00|00|ORI|R|Nissa's Revelation
+00|00|00|00|00|ORI|R|Orbs of Warding
+00|00|00|00|00|ORI|R|Outland Colossus
+00|00|00|00|00|ORI|R|Pia and Kiran Nalaar
+00|00|00|00|00|ORI|R|Priest of the Blood Rite
+00|00|00|00|00|ORI|R|Relic Seeker
+00|00|00|00|00|ORI|R|Scab-Clan Berserker
+00|00|00|00|00|ORI|R|Shivan Reef
+00|00|00|00|00|ORI|R|Sigil of the Empty Throne
+00|00|00|00|00|ORI|R|Soulblade Djinn
+00|00|00|00|00|ORI|R|Sword of the Animist
+00|00|00|00|00|ORI|R|Tainted Remedy
+00|00|00|00|00|ORI|R|Talent of the Telepath
+00|00|00|00|00|ORI|R|Thopter Spy Network
+00|00|00|00|00|ORI|R|Tragic Arrogance
+00|00|00|00|00|ORI|R|Vryn Wingmare
+00|00|00|00|00|ORI|R|Willbreaker
+00|00|00|00|00|ORI|R|Yavimaya Coast
+00|00|00|00|00|ORI|U|Acolyte of the Inferno
+00|00|00|00|00|ORI|U|Anchor to the Æther
+00|00|00|00|00|ORI|U|Angel's Tomb
+00|00|00|00|00|ORI|U|Anointer of Champions
+00|00|00|00|00|ORI|U|Blazing Hellhound
+00|00|00|00|00|ORI|U|Blessed Spirits
+00|00|00|00|00|ORI|U|Blightcaster
+00|00|00|00|00|ORI|U|Blood-Cursed Knight
+00|00|00|00|00|ORI|U|Bounding Krasis
+00|00|00|00|00|ORI|U|Brawler's Plate
+00|00|00|00|00|ORI|U|Call of the Full Moon
+00|00|00|00|00|ORI|U|Chief of the Foundry
+00|00|00|00|00|ORI|U|Citadel Castellan
+00|00|00|00|00|ORI|U|Clash of Wills
+00|00|00|00|00|ORI|U|Conclave Naturalists
+00|00|00|00|00|ORI|U|Consecrated by Blood
+00|00|00|00|00|ORI|U|Consul's Lieutenant
+00|00|00|00|00|ORI|U|Cruel Revival
+00|00|00|00|00|ORI|U|Dwynen's Elite
+00|00|00|00|00|ORI|U|Elemental Bond
+00|00|00|00|00|ORI|U|Enthralling Victor
+00|00|00|00|00|ORI|U|Eyeblight Massacre
+00|00|00|00|00|ORI|U|Fiery Conclusion
+00|00|00|00|00|ORI|U|Fleshbag Marauder
+00|00|00|00|00|ORI|U|Foundry of the Consuls
+00|00|00|00|00|ORI|U|Gather the Pack
+00|00|00|00|00|ORI|U|Ghirapur Æther Grid
+00|00|00|00|00|ORI|U|Gnarlroot Trapper
+00|00|00|00|00|ORI|U|Goblin Glory Chaser
+00|00|00|00|00|ORI|U|Gold-Forged Sentinel
+00|00|00|00|00|ORI|U|Hydrolash
+00|00|00|00|00|ORI|U|Iroas's Champion
+00|00|00|00|00|ORI|U|Jayemdae Tome
+00|00|00|00|00|ORI|U|Jhessian Thief
+00|00|00|00|00|ORI|U|Joraga Invocation
+00|00|00|00|00|ORI|U|Knightly Valor
+00|00|00|00|00|ORI|U|Mage-Ring Network
+00|00|00|00|00|ORI|U|Magmatic Insight
+00|00|00|00|00|ORI|U|Malakir Cullblade
+00|00|00|00|00|ORI|U|Meteorite
+00|00|00|00|00|ORI|U|Murder Investigation
+00|00|00|00|00|ORI|U|Necromantic Summons
+00|00|00|00|00|ORI|U|Patron of the Valiant
+00|00|00|00|00|ORI|U|Possessed Skaab
+00|00|00|00|00|ORI|U|Prism Ring
+00|00|00|00|00|ORI|U|Psychic Rebuttal
+00|00|00|00|00|ORI|U|Ramroller
+00|00|00|00|00|ORI|U|Ravaging Blaze
+00|00|00|00|00|ORI|U|Reclusive Artificer
+00|00|00|00|00|ORI|U|Revenant
+00|00|00|00|00|ORI|U|Rogue's Passage
+00|00|00|00|00|ORI|U|Runed Servitor
+00|00|00|00|00|ORI|U|Seismic Elemental
+00|00|00|00|00|ORI|U|Sentinel of the Eternal Watch
+00|00|00|00|00|ORI|U|Shadows of the Past
+00|00|00|00|00|ORI|U|Shaman of the Pack
+00|00|00|00|00|ORI|U|Sigil of Valor
+00|00|00|00|00|ORI|U|Sigiled Starfish
+00|00|00|00|00|ORI|U|Skaab Goliath
+00|00|00|00|00|ORI|U|Skyraker Giant
+00|00|00|00|00|ORI|U|Skysnare Spider
+00|00|00|00|00|ORI|U|Somberwald Alpha
+00|00|00|00|00|ORI|U|Sphinx's Tutelage
+00|00|00|00|00|ORI|U|Swift Reckoning
+00|00|00|00|00|ORI|U|Sylvan Messenger
+00|00|00|00|00|ORI|U|Thopter Engineer
+00|00|00|00|00|ORI|U|Throwing Knife
+00|00|00|00|00|ORI|U|Thunderclap Wyvern
+00|00|00|00|00|ORI|U|Tormented Thoughts
+00|00|00|00|00|ORI|U|Totem-Guide Hartebeest
+00|00|00|00|00|ORI|U|Tower Geist
+00|00|00|00|00|ORI|U|Turn to Frog
+00|00|00|00|00|ORI|U|Undercity Troll
+00|00|00|00|00|ORI|U|Valeron Wardens
+00|00|00|00|00|ORI|U|Valor in Akros
+00|00|00|00|00|ORI|U|War Horn
+00|00|00|00|00|ORI|U|War Oracle
+00|00|00|00|00|ORI|U|Whirler Rogue
+00|00|00|00|00|ORI|U|Zendikar Incarnate
+00|00|00|00|00|ORI|U|Zendikar's Roil
 00|00|00|00|00|P02|C|Alaborn Grenadier
 00|00|00|00|00|P02|C|Alaborn Musketeer
 00|00|00|00|00|P02|C|Alaborn Trooper

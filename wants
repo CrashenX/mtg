@@ -10,7 +10,7 @@
 01|00|V14|Armageddon
 04|00|MRD|Auriok Steelshaper
 04|00|3ED|Badlands
-04|00|M15|Battlefield Forge
+04|00|ORI|Battlefield Forge
 04|00|3ED|Bayou
 04|00|NPH|Beast Within
 04|00|M10|Birds of Paradise
@@ -21,7 +21,7 @@
 04|00|MMA|Bonesplitter
 04|00|GTC|Breeding Pool
 04|00|AVR|Cavern of Souls
-04|00|M15|Caves of Koilos
+04|00|ORI|Caves of Koilos
 04|00|MMA|Chalice of the Void
 04|00|ISD|Champion of the Parish
 08|00|ISD|Clifftop Retreat
@@ -29,6 +29,7 @@
 04|00|SOM|Copperline Gorge
 04|00|5DN|Cranial Plating
 02|00|AVR|Craterhoof Behemoth
+04|00|MMA|Cryptic Command
 04|00|MMA|Dark Confidant
 04|00|SOM|Darkslick Shores
 04|00|M15|Darksteel Citadel
@@ -84,7 +85,7 @@
 04|00|MM2|Lightning Bolt
 04|00|ISD|Liliana of the Veil
 05|00|DKA|Lingering Souls
-04|00|M15|Llanowar Wastes
+04|00|ORI|Llanowar Wastes
 04|00|TMP|Lotus Petal
 04|00|RTR|Loxodon Smiter
 04|00|ZEN|Marsh Flats
@@ -125,7 +126,7 @@
 04|00|SOM|Seachrome Coast
 04|00|MRD|Seat of the Synod
 04|00|M13|Serra Avenger
-04|00|M15|Shivan Reef
+04|00|ORI|Shivan Reef
 04|00|AVR|Silverblade Paladin
 02|00|MMA|Slaughter Pact
 04|00|ISD|Snapcaster Mage
@@ -172,6 +173,8 @@
 04|00|3ED|Underground Sea
 04|00|NPH|Vault Skirge
 04|00|MRD|Vault of Whispers
+04|00|MMA|Vedalken Shackles
+04|00|MMA|Vendilion Clique
 04|00|ZEN|Verdant Catacombs
 04|00|3ED|Volcanic Island
 04|00|GTC|Watery Grave
@@ -181,4 +184,4 @@
 04|00|ISD|Woodland Cemetery
 01|00|V14|Wrath of God
 04|00|DGM|Voice of Resurgence
-04|00|M15|Yavimaya Coast
+04|00|ORI|Yavimaya Coast
