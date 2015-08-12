@@ -866,6 +866,12 @@ sub update_wants()
         my $need = $cards->{$name}{dedicated}
                  + $cards->{$name}{shared};
         my $hold = $need <= $invo ? $need : $invo; # hold what you need/have
+        # Already have card as wanted; don't want more
+        for my $set (sort set_sort keys %{$cards->{$name}{set}}) {
+            last if(0 == $hold);
+            $hold -= $cards->{$name}{set}{$set}{norm}{want};
+            $hold = 0 if $hold < 0;
+        }
         # Prefer regular printing of card
         for my $set (sort set_sort keys %{$cards->{$name}{set}}) {
             last if(0 == $hold);
