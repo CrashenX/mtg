@@ -1458,7 +1458,7 @@
 00|00|00|00|00|5DN|U|Furnace Whelp
 00|00|00|00|00|5DN|U|Gemstone Array
 00|00|00|00|00|5DN|U|Goblin Cannon
-00|00|00|00|00|5DN|U|Grafted Wargear
+01|00|00|00|00|5DN|U|Grafted Wargear
 00|00|00|00|00|5DN|U|Grinding Station
 00|00|00|00|00|5DN|U|Guardian Idol
 00|00|00|00|00|5DN|U|Infused Arrows
@@ -4126,7 +4126,7 @@
 01|00|00|00|00|ARC|U|Skullcage
 01|00|00|00|00|ARC|U|Sorcerer's Strongbox
 00|00|00|00|00|ARC|U|Spin into Myth
-01|00|00|00|00|ARC|U|Sun Droplet
+00|00|00|00|00|ARC|U|Sun Droplet
 01|00|00|00|00|ARC|U|Synod Centurion
 01|00|00|00|00|ARC|U|Synod Sanctum
 00|00|00|00|00|ARC|U|Thran Dynamo
@@ -4746,7 +4746,7 @@
 00|00|00|00|00|BNG|R|Scourge of Skola Vale
 00|00|00|00|00|BNG|R|Silent Sentinel
 04|00|00|00|00|BNG|R|Spirit of the Labyrinth
-01|00|00|00|00|BNG|R|Temple of Enlightenment
+04|00|00|00|00|BNG|R|Temple of Enlightenment
 04|00|00|00|00|BNG|R|Temple of Malice
 04|00|00|00|00|BNG|R|Temple of Plenty
 01|00|00|00|00|BNG|R|Tromokratis
@@ -4967,7 +4967,7 @@
 00|00|00|00|00|BOK|U|Scarmaker
 00|00|00|00|00|BOK|U|Scour
 00|00|00|00|00|BOK|U|Scourge of Numai
-00|00|00|00|00|BOK|U|Shuko
+04|00|00|00|00|BOK|U|Shuko
 00|00|00|00|00|BOK|U|Shuriken
 01|00|00|00|00|BOK|U|Soratami Mindsweeper
 00|00|00|00|00|BOK|U|Sosuke's Summons
@@ -6432,7 +6432,7 @@
 00|00|00|00|00|CMD|R|Homeward Path
 00|00|00|00|00|CMD|R|Hornet Queen
 00|00|00|00|00|CMD|R|Hour of Reckoning
-01|00|00|00|00|CMD|R|Howling Mine
+00|00|00|00|00|CMD|R|Howling Mine
 00|00|00|00|00|CMD|R|Hydra Omnivore
 00|00|00|00|00|CMD|R|Insurrection
 00|00|00|00|00|CMD|R|Intet, the Dreamer
@@ -6518,7 +6518,7 @@
 00|00|00|00|00|CMD|U|Fog Bank
 00|00|00|00|00|CMD|U|Fungal Reaches
 00|00|00|00|00|CMD|U|Furnace Whelp
-00|00|00|00|00|CMD|U|Ghostly Prison
+02|00|00|00|00|CMD|U|Ghostly Prison
 00|00|00|00|00|CMD|U|Goblin Cadets
 00|00|00|00|00|CMD|U|Golgari Guildmage
 00|00|00|00|00|CMD|U|Gomazoa
@@ -6896,7 +6896,7 @@
 00|00|00|00|00|CON|R|Martial Coup
 00|00|00|00|00|CON|R|Master Transmuter
 00|00|00|00|00|CON|R|Meglonoth
-04|00|00|00|00|CON|R|Noble Hierarch
+03|00|00|00|00|CON|R|Noble Hierarch
 00|00|00|00|00|CON|R|Nyxathid
 00|00|00|00|00|CON|R|Obelisk of Alara
 00|00|00|00|00|CON|R|Paleoloth
@@ -8314,7 +8314,7 @@
 00|00|00|00|00|DKA|M|Archangel's Light
 00|00|00|00|00|DKA|M|Beguiler of Wills
 00|00|00|00|00|DKA|M|Drogskol Reaver
-01|00|00|00|00|DKA|M|Elbrus, the Binding Blade
+00|00|00|00|00|DKA|M|Elbrus, the Binding Blade
 04|00|00|00|00|DKA|M|Falkenrath Aristocrat
 00|00|00|00|00|DKA|M|Havengul Lich
 00|00|00|00|00|DKA|M|Helvault
@@ -8710,7 +8710,7 @@
 00|00|00|00|00|DST|C|Burden of Greed
 00|00|00|00|00|DST|C|Chittering Rats
 00|00|00|00|00|DST|C|Crazed Goblin
-03|00|00|00|00|DST|C|Darksteel Citadel
+02|00|00|00|00|DST|C|Darksteel Citadel
 00|00|00|00|00|DST|C|Darksteel Ingot
 00|00|00|00|00|DST|C|Darksteel Pendant
 00|00|00|00|00|DST|C|Drill-Skimmer
@@ -11557,7 +11557,7 @@
 01|00|00|00|00|ISD|R|Cackling Counterpart
 04|00|00|00|00|ISD|R|Champion of the Parish
 00|00|00|00|00|ISD|R|Charmbreaker Devils
-02|02|00|00|00|ISD|R|Clifftop Retreat
+02|00|00|00|00|ISD|R|Clifftop Retreat
 01|00|00|00|00|ISD|R|Creeping Renaissance
 01|00|00|00|00|ISD|R|Creepy Doll
 00|00|00|00|00|ISD|R|Curse of Death's Hold
@@ -11571,7 +11571,7 @@
 00|00|00|00|00|ISD|R|Endless Ranks of the Dead
 00|00|00|00|00|ISD|R|Evil Twin
 00|00|00|00|00|ISD|R|Falkenrath Marauders
-00|00|00|00|00|ISD|R|Gavony Township
+01|00|00|00|00|ISD|R|Gavony Township
 00|00|00|00|00|ISD|R|Geist-Honored Monk
 00|00|00|00|00|ISD|R|Gutter Grime
 00|00|00|00|00|ISD|R|Heartless Summoning
@@ -11648,7 +11648,7 @@
 00|00|00|00|00|ISD|U|Lantern Spirit
 01|00|00|00|00|ISD|U|Lumberknot
 03|00|00|00|00|ISD|U|Make a Wish
-01|00|00|00|00|ISD|U|Mask of Avacyn
+00|00|00|00|00|ISD|U|Mask of Avacyn
 00|00|00|00|00|ISD|U|Mausoleum Guard
 01|00|00|00|00|ISD|U|Memory's Journey
 00|00|00|00|00|ISD|U|Midnight Haunting
@@ -12228,7 +12228,7 @@
 03|00|00|00|00|KTK|U|Sultai Soothsayer
 02|00|00|00|00|KTK|U|Suspension Field
 02|00|00|00|00|KTK|U|Swarm of Bloodflies
-01|00|00|00|00|KTK|U|Take Up Arms
+00|00|00|00|00|KTK|U|Take Up Arms
 01|00|00|00|00|KTK|U|Temur Charger
 01|00|00|00|00|KTK|U|Temur Charm
 03|00|00|00|00|KTK|U|Timely Hordemate
@@ -13967,7 +13967,7 @@
 00|00|00|00|00|M11|R|Steel Overseer
 00|00|00|00|00|M11|R|Stormtide Leviathan
 01|00|00|00|00|M11|R|Sunpetal Grove
-01|00|00|00|00|M11|R|Sword of Vengeance
+00|00|00|00|00|M11|R|Sword of Vengeance
 00|00|00|00|00|M11|R|Temple Bell
 01|00|00|00|00|M11|R|Traumatize
 01|00|00|00|00|M11|R|Triskelion
@@ -14391,7 +14391,7 @@
 00|00|00|00|00|M13|R|Battle of Wits
 00|00|00|00|00|M13|R|Boundless Realms
 01|00|00|00|00|M13|R|Captain of the Watch
-02|00|00|00|00|M13|R|Cathedral of War
+00|00|00|00|00|M13|R|Cathedral of War
 00|00|00|00|00|M13|R|Clone
 00|00|00|00|00|M13|R|Diabolic Revelation
 00|00|00|00|00|M13|R|Disciple of Bolas
@@ -15004,7 +15004,7 @@
 00|00|00|00|00|M15|U|Wall of Mulch
 00|00|00|00|00|M15|U|Warden of the Beyond
 00|00|00|00|00|M15|U|Xathrid Slyblade
-07|00|00|00|00|MBS|C|Ardent Recruit
+03|00|00|00|00|MBS|C|Ardent Recruit
 00|00|00|00|00|MBS|C|Banishment Decree
 00|00|00|00|00|MBS|C|Bladed Sentinel
 00|00|00|00|00|MBS|C|Blightwidow
@@ -15620,7 +15620,7 @@
 00|00|00|00|00|MM2|M|Comet Storm
 01|00|00|00|00|MM2|M|Dark Confidant
 02|00|00|00|00|MM2|M|Elesh Norn, Grand Cenobite
-00|00|00|00|00|MM2|M|Emrakul, the Aeons Torn
+01|00|00|00|00|MM2|M|Emrakul, the Aeons Torn
 01|00|00|00|00|MM2|M|Iona, Shield of Emeria
 00|00|00|00|00|MM2|M|Karn Liberated
 01|00|00|00|00|MM2|M|Kiki-Jiki, Mirror Breaker
@@ -15641,7 +15641,7 @@
 01|00|00|00|00|MM2|R|Blinkmoth Nexus
 00|00|00|00|00|MM2|R|Chimeric Mass
 01|00|00|00|00|MM2|R|Creakwood Liege
-01|00|00|00|00|MM2|R|Cryptic Command
+00|00|00|00|00|MM2|R|Cryptic Command
 02|00|00|00|00|MM2|R|Daybreak Coronet
 00|00|00|00|00|MM2|R|Endrek Sahr, Master Breeder
 04|00|00|00|00|MM2|R|Etched Champion
@@ -15660,13 +15660,13 @@
 00|00|00|00|00|MM2|R|Lodestone Myr
 00|00|00|00|00|MM2|R|Long-Forgotten Gohei
 00|00|00|00|00|MM2|R|Midnight Banshee
-02|00|00|00|00|MM2|R|Mirran Crusader
+03|00|00|00|00|MM2|R|Mirran Crusader
 00|00|00|00|00|MM2|R|Mirror Entity
 00|00|00|00|00|MM2|R|Mystic Snake
 00|00|00|00|00|MM2|R|Necroskitter
 00|00|00|00|00|MM2|R|Niv-Mizzet, the Firemind
 00|00|00|00|00|MM2|R|Nobilis of War
-02|00|00|00|00|MM2|R|Noble Hierarch
+04|00|00|00|00|MM2|R|Noble Hierarch
 00|00|00|00|00|MM2|R|Overwhelming Stampede
 00|00|00|00|00|MM2|R|Precursor Golem
 00|00|00|00|00|MM2|R|Profane Command
@@ -15682,7 +15682,7 @@
 00|00|00|00|00|MM2|R|Swans of Bryn Argoll
 00|00|00|00|00|MM2|R|Thunderblust
 00|00|00|00|00|MM2|R|Wildfire
-04|00|00|00|00|MM2|R|Wilt-Leaf Liege
+07|00|00|00|00|MM2|R|Wilt-Leaf Liege
 00|00|00|00|00|MM2|R|Wolfbriar Elemental
 03|00|00|00|00|MM2|U|Agony Warp
 04|01|00|00|00|MM2|U|Air Servant
@@ -15696,7 +15696,7 @@
 03|00|00|00|00|MM2|U|Boros Swiftblade
 04|00|00|00|00|MM2|U|Celestial Purge
 03|00|00|00|00|MM2|U|Combust
-03|01|00|00|00|MM2|U|Cranial Plating
+04|01|00|00|00|MM2|U|Cranial Plating
 04|01|00|00|00|MM2|U|Culling Dais
 03|00|00|00|00|MM2|U|Cytoplast Root-Kin
 03|00|00|00|00|MM2|U|Daggerclaw Imp
@@ -15709,9 +15709,9 @@
 04|00|00|00|00|MM2|U|Dispatch
 05|01|00|00|00|MM2|U|Drooling Groodion
 06|00|00|00|00|MM2|U|Eldrazi Temple
-03|00|00|00|00|MM2|U|Electrolyze
+04|00|00|00|00|MM2|U|Electrolyze
 03|00|00|00|00|MM2|U|Etched Oracle
-03|00|00|00|00|MM2|U|Ethercaste Knight
+04|00|00|00|00|MM2|U|Ethercaste Knight
 03|01|00|00|00|MM2|U|Everflowing Chalice
 01|00|00|00|00|MM2|U|Expedition Map
 04|00|00|00|00|MM2|U|Flashfreeze
@@ -15728,11 +15728,11 @@
 04|00|00|00|00|MM2|U|Lorescale Coatl
 02|00|00|00|00|MM2|U|Mortarpod
 02|00|00|00|00|MM2|U|Mulldrifter
-03|00|00|00|00|MM2|U|Mutagenic Growth
+04|00|00|00|00|MM2|U|Mutagenic Growth
 03|00|00|00|00|MM2|U|Myrsmith
 03|01|00|00|00|MM2|U|Necrogenesis
 02|01|00|00|00|MM2|U|Novijen Sages
-03|00|00|00|00|MM2|U|Oblivion Ring
+04|00|00|00|00|MM2|U|Oblivion Ring
 05|00|00|00|00|MM2|U|Orzhov Basilica
 04|01|00|00|00|MM2|U|Overwhelm
 02|00|00|00|00|MM2|U|Pelakka Wurm
@@ -15906,7 +15906,7 @@
 05|00|00|00|00|MMA|R|Figure of Destiny
 00|00|00|00|00|MMA|R|Gifts Ungiven
 04|00|00|00|00|MMA|R|Glen Elendra Archmage
-05|00|00|00|00|MMA|R|Glimmervoid
+04|00|00|00|00|MMA|R|Glimmervoid
 00|00|00|00|00|MMA|R|Grand Arbiter Augustin IV
 01|00|00|00|00|MMA|R|Greater Gargadon
 00|00|00|00|00|MMA|R|Jhoira of the Ghitu
@@ -17878,7 +17878,7 @@
 00|00|00|00|00|ORI|R|Alhammarret, High Arbiter
 00|00|00|00|00|ORI|R|Animist's Awakening
 00|00|00|00|00|ORI|R|Battlefield Forge
-00|00|00|00|00|ORI|R|Caves of Koilos
+01|00|00|00|00|ORI|R|Caves of Koilos
 00|00|00|00|00|ORI|R|Chandra's Ignition
 00|00|00|00|00|ORI|R|Dark Petition
 00|00|00|00|00|ORI|R|Despoiler of Souls
@@ -17893,7 +17893,7 @@
 00|00|00|00|00|ORI|R|Gilt-Leaf Winnower
 00|00|00|00|00|ORI|R|Goblin Piledriver
 00|00|00|00|00|ORI|R|Graveblade Marauder
-00|00|00|00|00|ORI|R|Hallowed Moonlight
+04|00|00|00|00|ORI|R|Hallowed Moonlight
 00|00|00|00|00|ORI|R|Hangarback Walker
 00|00|00|00|00|ORI|R|Harbinger of the Tides
 00|00|00|00|00|ORI|R|Helm of the Gods
@@ -17902,10 +17902,10 @@
 00|00|00|00|00|ORI|R|Honored Hierarch
 00|00|00|00|00|ORI|R|Infinite Obliteration
 00|00|00|00|00|ORI|R|Jace's Sanctum
-00|00|00|00|00|ORI|R|Knight of the White Orchid
+04|00|00|00|00|ORI|R|Knight of the White Orchid
 00|00|00|00|00|ORI|R|Kothophed, Soul Hoarder
 00|00|00|00|00|ORI|R|Kytheon's Irregulars
-00|00|00|00|00|ORI|R|Languish
+04|00|00|00|00|ORI|R|Languish
 00|00|00|00|00|ORI|R|Llanowar Wastes
 00|00|00|00|00|ORI|R|Mage-Ring Responder
 00|00|00|00|00|ORI|R|Managorger Hydra
@@ -17916,9 +17916,9 @@
 00|00|00|00|00|ORI|R|Outland Colossus
 00|00|00|00|00|ORI|R|Pia and Kiran Nalaar
 00|00|00|00|00|ORI|R|Priest of the Blood Rite
-00|00|00|00|00|ORI|R|Relic Seeker
+04|00|00|00|00|ORI|R|Relic Seeker
 00|00|00|00|00|ORI|R|Scab-Clan Berserker
-00|00|00|00|00|ORI|R|Shivan Reef
+01|00|00|00|00|ORI|R|Shivan Reef
 00|00|00|00|00|ORI|R|Sigil of the Empty Throne
 00|00|00|00|00|ORI|R|Soulblade Djinn
 00|00|00|00|00|ORI|R|Sword of the Animist
@@ -19879,7 +19879,7 @@
 00|00|00|00|00|RTR|R|Slaughter Games
 00|00|00|00|00|RTR|R|Sphinx of the Chimes
 02|00|00|00|00|RTR|R|Steam Vents
-00|00|00|00|00|RTR|R|Supreme Verdict
+04|00|00|00|00|RTR|R|Supreme Verdict
 04|00|00|00|00|RTR|R|Temple Garden
 00|00|00|00|00|RTR|R|Underworld Connections
 00|00|00|00|00|RTR|R|Volatile Rig
@@ -20745,7 +20745,7 @@
 00|00|00|00|00|SOM|C|Arrest
 00|00|00|00|00|SOM|C|Assault Strobe
 00|00|00|00|00|SOM|C|Auriok Replica
-04|00|00|00|00|SOM|C|Auriok Sunchaser
+00|00|00|00|00|SOM|C|Auriok Sunchaser
 00|00|00|00|00|SOM|C|Blackcleave Goblin
 00|00|00|00|00|SOM|C|Blade-Tribe Berserkers
 00|00|00|00|00|SOM|C|Bladed Pinions
@@ -20917,7 +20917,7 @@
 03|00|00|00|00|SOM|U|Abuna Acolyte
 03|00|00|00|00|SOM|U|Acid Web Spider
 00|00|00|00|00|SOM|U|Arc Trail
-07|00|00|00|00|SOM|U|Auriok Edgewright
+06|00|00|00|00|SOM|U|Auriok Edgewright
 02|01|00|00|00|SOM|U|Barbed Battlegear
 02|00|00|00|00|SOM|U|Barrage Ogre
 06|00|00|00|00|SOM|U|Bellowing Tanglewurm
@@ -21278,7 +21278,7 @@
 00|00|00|00|00|THS|R|Sylvan Caryatid
 04|00|00|00|00|THS|R|Temple of Abandon
 04|00|00|00|00|THS|R|Temple of Deceit
-04|00|00|00|00|THS|R|Temple of Mystery
+05|00|00|00|00|THS|R|Temple of Mystery
 04|00|00|00|00|THS|R|Temple of Silence
 03|00|00|00|00|THS|R|Temple of Triumph
 04|00|00|00|00|THS|R|Thoughtseize
@@ -22946,7 +22946,7 @@
 00|00|00|00|00|V14|M|Terminus
 00|00|00|00|00|V14|M|Upheaval
 00|00|00|00|00|V14|M|Virtue's Ruin
-01|00|00|00|00|V14|M|Wrath of God
+02|00|00|00|00|V14|M|Wrath of God
 00|00|00|00|00|VIS|C|Betrayal
 00|00|00|00|00|VIS|C|Breezekeeper
 00|00|00|00|00|VIS|C|Bull Elephant
@@ -23316,7 +23316,7 @@
 00|00|00|00|00|WWK|C|Join the Ranks
 03|00|00|00|00|WWK|C|Khalni Garden
 00|00|00|00|00|WWK|C|Kitesail
-03|00|00|00|00|WWK|C|Kitesail Apprentice
+04|00|00|00|00|WWK|C|Kitesail Apprentice
 00|00|00|00|00|WWK|C|Marsh Threader
 00|00|00|00|00|WWK|C|Mire's Toll
 00|00|00|00|00|WWK|C|Mysteries of the Deep
@@ -23389,7 +23389,7 @@
 02|00|00|00|00|WWK|U|Bestial Menace
 00|00|00|00|00|WWK|U|Bloodhusk Ritualist
 03|00|00|00|00|WWK|U|Canopy Cover
-03|00|00|00|00|WWK|U|Caustic Crawler
+02|00|00|00|00|WWK|U|Caustic Crawler
 00|00|00|00|00|WWK|U|Cunning Sparkmage
 04|00|00|00|00|WWK|U|Deathforge Shaman
 04|00|00|00|00|WWK|U|Dread Statuary
