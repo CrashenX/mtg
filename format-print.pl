@@ -337,6 +337,9 @@ my %sets = ( "LEA" => { order => 199308,
            , "DDO" => { order => 201502,
                         name => 'Duel Decks: Elspeth vs. Kiora'
                       }
+           , "DDP" => { order => 201508,
+                        name => 'Duel Decks: Zendikar vs. Eldrazi'
+                      }
            , "DRB" => { order => 200808,
                         name => 'From the Vault: Dragons Wings of a Dragon'
                       }
@@ -429,6 +432,9 @@ my %sets = ( "LEA" => { order => 199308,
                       }
            , "ORI" => { order => 201507,
                         name => 'Magic Origins'
+                      }
+           , "BFZ" => { order => 201509,
+                        name => 'Battle for Zendikar'
                       }
            );
 
