@@ -1,22 +1,27 @@
-# Shared|Dedicated|Name
-00|03|Cultivate
-00|04|Eldrazi Temple
+# Creature (26)
+00|04|Axebane Guardian
 00|01|Emrakul, the Aeons Torn
-00|02|Everflowing Chalice
-00|03|Explore
-00|01|Eye of Ugin
-00|13|Forest
-00|02|Growth Spasm
-00|04|Khalni Garden
+00|02|Fauna Shaman
 00|01|Kozilek, Butcher of Truth
 00|04|Llanowar Elves
-00|01|Mystifying Maze
 00|04|Overgrown Battlement
-00|01|Platinum Emperion
 00|04|Primeval Titan
-00|04|Summoning Trap
-00|01|Sundering Titan
-00|01|Sylvan Primordial
-00|04|Tectonic Edge
-00|01|Terastodon
+00|02|Sylvan Caryatid
+00|03|Sylvan Primordial
 00|01|Ulamog, the Infinite Gyre
+# Land (25)
+00|04|Eldrazi Temple
+00|01|Eye of Ugin
+00|10|Forest
+00|02|Mosswort Bridge
+00|01|Mystifying Maze
+00|01|Nykthos, Shrine to Nyx
+00|01|Sanctum of Ugin
+00|04|Shrine of the Forsaken Gods
+00|01|Tectonic Edge
+# Instant (4)
+00|04|Summoning Trap
+# Sorcery (4)
+00|04|Growth Spasm
+# Planeswalker (1)
+00|01|Garruk, Caller of Beasts
