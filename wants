@@ -21,10 +21,12 @@
 99|00|KTK|Bloodstained Mire
 04|00|MMA|Bonesplitter
 04|00|GTC|Breeding Pool
+04|00|BFZ|Canopy Vista
 04|00|AVR|Cavern of Souls
 04|00|ORI|Caves of Koilos
 04|00|MMA|Chalice of the Void
 04|00|ISD|Champion of the Parish
+04|00|BFZ|Cinder Glade
 06|00|ISD|Clifftop Retreat
 04|00|AVR|Cloudshift
 04|00|SOM|Copperline Gorge
@@ -36,23 +38,23 @@
 04|00|M15|Darksteel Citadel
 04|00|RTR|Deathrite Shaman
 04|00|RTR|Detention Sphere
-04|00|DTK|Dromoka's Command
 04|00|MRD|Disciple of the Vault
 04|00|MIR|Disenchant
 04|00|NPH|Dispatch
 05|00|M13|Dragonskull Summit
+04|00|DTK|Dromoka's Command
 04|00|M13|Drowned Catacomb
 04|00|MMA|Echoing Truth
 02|00|MMA|Elspeth, Knight-Errant
 02|00|MM2|Emrakul, the Aeons Torn
 04|00|MMA|Engineered Explosives
-04|00|MMA|Eternal Witness
 04|00|MM2|Etched Champion
+04|00|MMA|Eternal Witness
 04|00|ARB|Ethercaste Knight
 04|00|MMA|Ethersworn Canonist
 01|00|CNS|Exploration
 04|00|MMA|Faerie Macabre
-02|00|M11|Fauna Shaman
+04|00|M11|Fauna Shaman
 04|00|ISD|Fiend Hunter
 04|00|M14|Fiendslayer Paladin
 04|00|MMA|Figure of Destiny
@@ -61,6 +63,7 @@
 99|00|KTK|Flooded Strand
 02|00|ISD|Garruk Relentless
 01|00|M14|Garruk, Caller of Beasts
+05|00|ISD|Gavony Township
 04|00|ISD|Geist of Saint Traft
 04|00|ISD|Ghost Quarter
 04|00|NPH|Gitaxian Probe
@@ -110,6 +113,7 @@
 04|00|RTR|Pithing Needle
 04|00|3ED|Plateau
 99|00|KTK|Polluted Delta
+04|00|BFZ|Prairie Stream
 04|00|NPH|Puresteel Paladin
 04|00|M13|Rancor
 04|00|SOM|Razorverge Thicket
@@ -129,6 +133,7 @@
 04|00|ORI|Shivan Reef
 04|00|AVR|Silverblade Paladin
 02|00|MMA|Slaughter Pact
+04|00|BFZ|Smoldering Marsh
 04|00|ISD|Snapcaster Mage
 02|00|DKA|Sorin, Lord of Innistrad
 04|00|KTK|Sorin, Solemn Visitor
@@ -140,6 +145,7 @@
 04|00|GTC|Stomping Ground
 04|00|WWK|Stoneforge Mystic
 04|00|ISD|Sulfur Falls
+04|00|BFZ|Sunken Hollow
 01|00|M10|Sunpetal Grove
 01|00|M11|Sunpetal Grove
 01|00|M12|Sunpetal Grove
@@ -156,7 +162,7 @@
 04|00|RTR|Temple Garden
 04|00|THS|Temple of Abandon
 04|00|THS|Temple of Deceit
-04|00|BNG|Temple of Enlightenment
+06|00|BNG|Temple of Enlightenment
 06|00|JOU|Temple of Epiphany
 08|00|JOU|Temple of Malady
 08|00|BNG|Temple of Malice
@@ -174,8 +180,9 @@
 04|00|NPH|Vault Skirge
 04|00|MRD|Vault of Whispers
 04|00|MMA|Vedalken Shackles
-04|00|MMA|Vendilion Clique
+04|00|MM2|Vendilion Clique
 04|00|ZEN|Verdant Catacombs
+04|00|DGM|Voice of Resurgence
 04|00|3ED|Volcanic Island
 04|00|GTC|Watery Grave
 04|00|MM2|Wilt-Leaf Liege
@@ -183,5 +190,4 @@
 99|00|KTK|Wooded Foothills
 04|00|ISD|Woodland Cemetery
 02|00|V14|Wrath of God
-04|00|DGM|Voice of Resurgence
 04|00|ORI|Yavimaya Coast
