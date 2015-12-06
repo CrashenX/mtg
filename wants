@@ -21,12 +21,12 @@
 99|00|KTK|Bloodstained Mire
 04|00|MMA|Bonesplitter
 04|00|GTC|Breeding Pool
-04|00|BFZ|Canopy Vista
+02|00|BFZ|Canopy Vista
 04|00|AVR|Cavern of Souls
 04|00|ORI|Caves of Koilos
 04|00|MMA|Chalice of the Void
 04|00|ISD|Champion of the Parish
-04|00|BFZ|Cinder Glade
+02|00|BFZ|Cinder Glade
 06|00|ISD|Clifftop Retreat
 04|00|AVR|Cloudshift
 04|00|SOM|Copperline Gorge
@@ -115,7 +115,7 @@
 04|00|RTR|Pithing Needle
 04|00|3ED|Plateau
 99|00|KTK|Polluted Delta
-04|00|BFZ|Prairie Stream
+02|00|BFZ|Prairie Stream
 04|00|NPH|Puresteel Paladin
 04|00|M13|Rancor
 04|00|SOM|Razorverge Thicket
@@ -135,7 +135,7 @@
 04|00|ORI|Shivan Reef
 04|00|AVR|Silverblade Paladin
 02|00|MMA|Slaughter Pact
-04|00|BFZ|Smoldering Marsh
+02|00|BFZ|Smoldering Marsh
 04|00|ISD|Snapcaster Mage
 02|00|DKA|Sorin, Lord of Innistrad
 04|00|KTK|Sorin, Solemn Visitor
@@ -148,7 +148,7 @@
 04|00|GTC|Stomping Ground
 04|00|WWK|Stoneforge Mystic
 04|00|ISD|Sulfur Falls
-04|00|BFZ|Sunken Hollow
+02|00|BFZ|Sunken Hollow
 01|00|M10|Sunpetal Grove
 01|00|M11|Sunpetal Grove
 01|00|M12|Sunpetal Grove
@@ -166,7 +166,7 @@
 04|00|THS|Temple of Abandon
 04|00|THS|Temple of Deceit
 06|00|BNG|Temple of Enlightenment
-06|00|JOU|Temple of Epiphany
+07|00|JOU|Temple of Epiphany
 08|00|JOU|Temple of Malady
 08|00|BNG|Temple of Malice
 04|00|THS|Temple of Mystery

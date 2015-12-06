@@ -432,7 +432,7 @@
 00|00|00|00|00|M10|U|Alluring Siren
 02|00|00|00|00|M11|U|Alluring Siren
 01|00|00|00|00|M12|U|Alluring Siren
-00|00|00|00|00|BFZ|R|Ally Encampment
+01|00|00|00|00|BFZ|R|Ally Encampment
 00|00|00|00|00|WTH|C|Alms
 01|00|00|00|00|GTC|R|Alms Beast
 02|00|00|00|00|GTC|U|Alpha Authority
@@ -2964,7 +2964,7 @@
 00|00|00|00|00|DIS|R|Celestial Ancient
 00|00|00|00|00|PC2|R|Celestial Ancient
 00|00|00|00|00|THS|R|Celestial Archon
-02|00|00|00|00|WWK|R|Celestial Colonnade
+03|00|00|00|00|WWK|R|Celestial Colonnade
 00|00|00|00|00|PCY|R|Celestial Convergence
 01|00|00|00|00|C14|U|Celestial Crusader
 00|00|00|00|00|DDF|U|Celestial Crusader
@@ -3062,7 +3062,7 @@
 00|00|00|00|00|TOR|R|Chainer, Dementia Master
 00|00|00|00|00|ODY|C|Chainflinger
 00|00|00|00|00|LEG|R|Chains of Mephistopheles
-02|00|00|00|00|DKA|U|Chalice of Life
+00|00|00|00|00|DKA|U|Chalice of Life
 04|00|00|00|00|MMA|R|Chalice of the Void
 00|00|00|00|00|MRD|R|Chalice of the Void
 00|00|00|00|00|ODY|U|Chamber of Manipulation
@@ -9259,7 +9259,7 @@
 00|00|00|00|00|BOK|R|Heartless Hidetsugu
 00|00|00|00|00|CNS|R|Heartless Hidetsugu
 00|00|00|00|00|ISD|R|Heartless Summoning
-01|00|00|00|00|SHM|R|Heartmender
+00|00|00|00|00|SHM|R|Heartmender
 02|00|00|00|00|DST|R|Heartseeker
 00|00|00|00|00|ZEN|C|Heartstabber Mosquito
 00|00|00|00|00|DDP|C|Heartstabber Mosquito
@@ -13003,7 +13003,7 @@
 00|00|00|00|00|M10|C|Mist Leopard
 00|00|00|00|00|AVR|C|Mist Raven
 00|00|00|00|00|JUD|R|Mist of Stagnation
-04|00|00|00|00|LRW|R|Mistbind Clique
+03|00|00|00|00|LRW|R|Mistbind Clique
 02|00|00|00|00|BOK|C|Mistblade Shinobi
 00|00|00|00|00|PC2|C|Mistblade Shinobi
 01|00|00|00|00|THS|R|Mistcutter Hydra
@@ -14235,7 +14235,7 @@
 00|00|00|00|00|THS|C|Omenspeaker
 00|00|00|00|00|V11|M|Omnath, Locus of Mana
 00|00|00|00|00|WWK|M|Omnath, Locus of Mana
-00|01|00|00|00|BFZ|M|Omnath, Locus of Rage
+00|00|00|00|00|BFZ|M|Omnath, Locus of Rage
 00|00|00|00|00|DIS|R|Omnibian
 00|00|00|00|00|M13|M|Omniscience
 00|00|00|00|00|BFZ|C|Ondu Champion
@@ -14826,7 +14826,7 @@
 00|00|00|00|00|10E|U|Persuasion
 00|00|00|00|00|ODY|R|Persuasion
 00|00|00|00|00|LRW|C|Pestermite
-01|00|00|00|00|MMA|C|Pestermite
+00|00|00|00|00|MMA|C|Pestermite
 00|00|00|00|00|2ED|C|Pestilence
 00|00|00|00|00|3ED|C|Pestilence
 00|00|00|00|00|4ED|C|Pestilence
@@ -14849,7 +14849,7 @@
 00|00|00|00|00|TOR|R|Petradon
 00|00|00|00|00|GPT|C|Petrahydrox
 00|00|00|00|00|TOR|C|Petravark
-01|00|00|00|00|ODY|R|Petrified Field
+00|00|00|00|00|ODY|R|Petrified Field
 00|00|00|00|00|FUT|C|Petrified Plating
 00|00|00|00|00|GPT|R|Petrified Wood-Kin
 00|00|00|00|00|MRD|C|Pewter Golem
@@ -15422,7 +15422,7 @@
 01|00|00|00|00|MBS|M|Praetor's Counsel
 00|00|00|00|00|NPH|R|Praetor's Grasp
 00|00|00|00|00|DIS|U|Prahv, Spires of Order
-02|00|00|00|00|BFZ|R|Prairie Stream
+03|00|00|00|00|BFZ|R|Prairie Stream
 00|00|00|00|00|DRK|R|Preacher
 00|00|00|00|00|DDO|R|Precinct Captain
 00|00|00|00|00|RTR|R|Precinct Captain
@@ -16971,7 +16971,7 @@
 00|00|00|00|00|M10|R|Rootbound Crag
 00|00|00|00|00|M11|R|Rootbound Crag
 03|00|00|00|00|M12|R|Rootbound Crag
-01|00|00|00|00|M13|R|Rootbound Crag
+02|00|00|00|00|M13|R|Rootbound Crag
 00|00|00|00|00|9ED|U|Rootbreaker Wurm
 00|00|00|00|00|TMP|C|Rootbreaker Wurm
 00|00|00|00|00|LRW|C|Rootgrapple
@@ -20248,7 +20248,7 @@
 00|00|00|00|00|RTR|C|Survey the Wreckage
 00|00|00|00|00|C13|R|Surveyor's Scope
 00|00|00|00|00|C13|U|Survival Cache
-02|00|00|00|00|ROE|U|Survival Cache
+00|00|00|00|00|ROE|U|Survival Cache
 00|00|00|00|00|EXO|R|Survival of the Fittest
 00|00|00|00|00|CSP|C|Survivor of the Unseen
 02|00|00|00|00|KTK|U|Suspension Field
@@ -20724,7 +20724,7 @@
 04|00|00|00|00|THS|R|Temple of Abandon
 04|00|00|00|00|THS|R|Temple of Deceit
 04|00|00|00|00|BNG|R|Temple of Enlightenment
-04|00|00|00|00|JOU|R|Temple of Epiphany
+05|00|00|00|00|JOU|R|Temple of Epiphany
 04|00|00|00|00|JOU|R|Temple of Malady
 04|00|00|00|00|BNG|R|Temple of Malice
 05|00|00|00|00|THS|R|Temple of Mystery
@@ -23716,7 +23716,7 @@
 00|00|00|00|00|8ED|R|Wrath of God
 00|00|00|00|00|9ED|R|Wrath of God
 00|00|00|00|00|BRB|S|Wrath of God
-01|00|00|00|00|C13|R|Wrath of God
+00|00|00|00|00|C13|R|Wrath of God
 00|00|00|00|00|LEA|R|Wrath of God
 00|00|00|00|00|LEB|R|Wrath of God
 00|00|00|00|00|POR|R|Wrath of God
