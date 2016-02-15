@@ -31,7 +31,6 @@
 04|00|AVR|Cloudshift
 04|00|SOM|Copperline Gorge
 04|00|5DN|Cranial Plating
-02|00|AVR|Craterhoof Behemoth
 04|00|MMA|Cryptic Command
 04|00|MMA|Dark Confidant
 04|00|RAV|Darkblast
@@ -138,14 +137,14 @@
 02|00|BFZ|Smoldering Marsh
 04|00|ISD|Snapcaster Mage
 02|00|DKA|Sorin, Lord of Innistrad
-04|00|KTK|Sorin, Solemn Visitor
+02|00|KTK|Sorin, Solemn Visitor
 04|00|MM2|Spectral Procession
 04|00|NPH|Spellskite
 04|00|MMA|Spellstutter Sprite
 04|00|BNG|Spirit of the Labyrinth
 04|00|RTR|Steam Vents
 04|00|5DN|Steelshaper's Gift
-04|00|GTC|Stomping Ground
+05|00|GTC|Stomping Ground
 04|00|WWK|Stoneforge Mystic
 04|00|ISD|Sulfur Falls
 02|00|BFZ|Sunken Hollow
@@ -172,7 +171,7 @@
 04|00|THS|Temple of Mystery
 04|00|BNG|Temple of Plenty
 04|00|THS|Temple of Silence
-05|00|THS|Temple of Triumph
+04|00|THS|Temple of Triumph
 04|00|DKA|Thalia, Guardian of Thraben
 04|00|MRD|Thoughtcast
 04|00|MMA|Tidehollow Sculler
