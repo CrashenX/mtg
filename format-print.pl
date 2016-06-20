@@ -439,6 +439,12 @@ my %sets = ( "LEA" => { order => 199308,
            , "OGW" => { order => 201601,
                         name => 'Oath of the Gatewatch'
                       }
+           , "SOI" => { order => 201604,
+                        name => 'Shadows over Innistrad'
+                      }
+           , "EMA" => { order => 201606,
+                        name => 'Eternal Masters'
+                      }
            );
 
 sub set_sort()
