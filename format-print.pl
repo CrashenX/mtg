@@ -59,7 +59,7 @@ my %sets = ( "LEA" => { order => 199308,
                         name => 'Fifth Edition'
                       }
            , "6ED" => { order => 199904,
-                        name => 'Classic (Sixth Edition)'
+                        name => 'Classic Sixth Edition'
                       }
            , "7ED" => { order => 200104,
                         name => 'Seventh Edition'

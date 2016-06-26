@@ -4081,7 +4081,7 @@
 00|00|00|00|00|CHK|R|Cranial Extraction
 03|00|00|00|00|5DN|C|Cranial Plating
 00|00|00|00|00|HOP|C|Cranial Plating
-04|01|00|00|00|MM2|U|Cranial Plating
+04|00|00|00|00|MM2|U|Cranial Plating
 00|00|00|00|00|MMQ|C|Crash
 00|00|00|00|00|GPT|U|Crash Landing
 00|00|00|00|00|BTD|S|Crash of Rhinos
@@ -7453,7 +7453,7 @@
 00|00|00|00|00|STH|C|Fling
 00|00|00|00|00|NMS|U|Flint Golem
 00|00|00|00|00|M13|U|Flinthoof Boar
-02|00|00|00|00|EMA|U|Flinthoof Boar
+03|00|00|00|00|EMA|U|Flinthoof Boar
 01|00|00|00|00|BNG|U|Flitterstep Eidolon
 00|00|00|00|00|TOR|C|Floating Shield
 00|00|00|00|00|CHK|C|Floating-Dream Zubera
@@ -11355,7 +11355,7 @@
 00|00|00|00|00|BTD|S|Kird Ape
 00|00|00|00|00|DDH|U|Kird Ape
 00|00|00|00|00|V09|M|Kird Ape
-04|00|00|00|00|EMA|C|Kird Ape
+05|00|00|00|00|EMA|C|Kird Ape
 00|00|00|00|00|M15|U|Kird Chieftain
 04|00|00|00|00|SOK|U|Kiri-Onna
 00|00|00|00|00|ODY|C|Kirtar's Desire
@@ -11475,7 +11475,7 @@
 00|00|00|00|00|ARB|R|Knotvine Paladin
 00|00|00|00|00|DDG|R|Knotvine Paladin
 00|00|00|00|00|MOR|R|Knowledge Exploitation
-01|00|00|00|00|MBS|R|Knowledge Pool
+00|00|00|00|00|MBS|R|Knowledge Pool
 00|00|00|00|00|LEG|R|Knowledge Vault
 00|00|00|00|00|JOU|U|Knowledge and Power
 00|00|00|00|00|LRW|R|Knucklebone Witch
@@ -13373,7 +13373,7 @@
 00|00|00|00|00|ATQ|U|Mishra's Factory
 00|00|00|00|00|ATQ|U|Mishra's Factory
 00|00|00|00|00|DDF|U|Mishra's Factory
-04|00|00|00|00|EMA|U|Mishra's Factory
+05|00|00|00|00|EMA|U|Mishra's Factory
 00|00|00|00|00|ALL|U|Mishra's Groundbreaker
 00|00|00|00|00|USG|R|Mishra's Helix
 00|00|00|00|00|3ED|R|Mishra's War Machine
@@ -13672,7 +13672,7 @@
 04|00|00|00|00|CMD|U|Mother of Runes
 04|00|00|00|00|DDO|U|Mother of Runes
 00|00|00|00|00|ULG|U|Mother of Runes
-04|01|00|00|00|EMA|R|Mother of Runes
+04|00|00|00|00|EMA|R|Mother of Runes
 00|00|00|00|00|CHK|C|Mothrider Samurai
 00|00|00|00|00|10E|C|Mountain
 00|00|00|00|00|2ED|C|Mountain
@@ -16583,7 +16583,7 @@
 04|00|00|00|00|M13|U|Rancor
 00|00|00|00|00|PC2|C|Rancor
 00|00|00|00|00|ULG|C|Rancor
-03|00|00|00|00|EMA|U|Rancor
+04|00|00|00|00|EMA|U|Rancor
 00|00|00|00|00|ATH|S|Ranger en-Vec
 00|00|00|00|00|TMP|U|Ranger en-Vec
 03|00|00|00|00|ALA|R|Ranger of Eos
@@ -20143,7 +20143,7 @@
 00|00|00|00|00|ONS|C|Spurred Wolverine
 00|00|00|00|00|ONS|C|Spy Network
 04|00|00|00|00|M11|C|Squadron Hawk
-01|00|00|00|00|EMA|C|Squadron Hawk
+02|00|00|00|00|EMA|C|Squadron Hawk
 00|00|00|00|00|7ED|C|Squall
 00|00|00|00|00|MMQ|C|Squall
 00|00|00|00|00|S99|C|Squall
@@ -21018,7 +21018,7 @@
 00|00|00|00|00|LEA|U|Swords to Plowshares
 00|00|00|00|00|LEB|U|Swords to Plowshares
 00|00|00|00|00|V13|M|Swords to Plowshares
-02|00|00|00|00|EMA|U|Swords to Plowshares
+03|00|00|00|00|EMA|U|Swords to Plowshares
 00|00|00|00|00|BNG|C|Swordwise Centaur
 00|00|00|00|00|ALL|R|Sworn Defender
 00|00|00|00|00|C13|M|Sydri, Galvanic Genius
@@ -23578,7 +23578,7 @@
 04|00|00|00|00|CMD|U|Wall of Omens
 00|00|00|00|00|DDK|U|Wall of Omens
 00|00|00|00|00|ROE|U|Wall of Omens
-03|00|00|00|00|EMA|U|Wall of Omens
+04|00|00|00|00|EMA|U|Wall of Omens
 00|00|00|00|00|CHR|U|Wall of Opposition
 00|00|00|00|00|LEG|R|Wall of Opposition
 00|00|00|00|00|ICE|U|Wall of Pine Needles
