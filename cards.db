@@ -718,7 +718,7 @@
 00|00|00|00|00|C13|U|Annihilate
 00|00|00|00|00|C14|U|Annihilate
 00|00|00|00|00|INV|U|Annihilate
-00|00|00|00|00|EMA|U|Annihilate
+00|01|00|00|00|EMA|U|Annihilate
 00|00|00|00|00|RTR|C|Annihilating Fire
 00|00|00|00|00|MRD|C|Annul
 02|00|00|00|00|THS|C|Annul
@@ -1690,7 +1690,7 @@
 00|00|00|00|00|POR|U|Bee Sting
 00|00|00|00|00|C14|U|Beetleback Chief
 00|00|00|00|00|PC2|U|Beetleback Chief
-00|00|00|00|00|EMA|U|Beetleback Chief
+00|01|00|00|00|EMA|U|Beetleback Chief
 00|00|00|00|00|DGM|C|Beetleform Mage
 00|00|00|00|00|7ED|U|Befoul
 00|00|00|00|00|CHK|C|Befoul
@@ -2079,7 +2079,7 @@
 00|00|00|00|00|BFZ|U|Bloodbond Vampire
 00|00|00|00|00|ARB|U|Bloodbraid Elf
 00|00|00|00|00|PC2|U|Bloodbraid Elf
-00|00|00|00|00|EMA|U|Bloodbraid Elf
+00|01|00|00|00|EMA|U|Bloodbraid Elf
 00|00|00|00|00|ZEN|R|Bloodchief Ascension
 00|00|00|00|00|M11|C|Bloodcrazed Goblin
 00|00|00|00|00|JOU|C|Bloodcrazed Hoplite
@@ -4591,7 +4591,7 @@
 02|00|00|00|00|DDF|C|Darksteel Citadel
 01|00|00|00|00|DST|C|Darksteel Citadel
 04|00|00|00|00|M15|U|Darksteel Citadel
-00|02|00|00|00|MM2|C|Darksteel Citadel
+00|01|00|00|00|MM2|C|Darksteel Citadel
 00|00|00|00|00|DST|R|Darksteel Colossus
 00|00|00|00|00|M10|M|Darksteel Colossus
 00|00|00|00|00|DST|R|Darksteel Forge
@@ -4673,7 +4673,7 @@
 00|00|00|00|00|ISD|R|Daybreak Ranger
 00|00|00|00|00|DD2|C|Daze
 00|00|00|00|00|NMS|C|Daze
-04|00|00|00|00|EMA|U|Daze
+04|01|00|00|00|EMA|U|Daze
 00|00|00|00|00|MIR|C|Dazzling Beauty
 02|00|00|00|00|KTK|U|Dazzling Ramparts
 00|00|00|00|00|OGW|C|Dazzling Reflection
@@ -6794,7 +6794,7 @@
 00|00|00|00|00|USG|R|Faith Healer
 00|00|00|00|00|DDC|C|Faith's Fetters
 00|00|00|00|00|RAV|C|Faith's Fetters
-00|00|00|00|00|EMA|U|Faith's Fetters
+00|01|00|00|00|EMA|U|Faith's Fetters
 00|00|00|00|00|M13|R|Faith's Reward
 04|00|00|00|00|DKA|U|Faith's Shield
 00|00|00|00|00|BOK|U|Faithful Squire
@@ -7211,7 +7211,7 @@
 00|00|00|00|00|VIS|C|Fireblast
 00|00|00|00|00|DD2|C|Firebolt
 00|00|00|00|00|ODY|C|Firebolt
-00|00|00|00|00|EMA|C|Firebolt
+00|01|00|00|00|EMA|C|Firebolt
 00|00|00|00|00|INV|U|Firebrand Ranger
 00|00|00|00|00|10E|C|Firebreathing
 00|00|00|00|00|2ED|C|Firebreathing
@@ -7453,7 +7453,7 @@
 00|00|00|00|00|STH|C|Fling
 00|00|00|00|00|NMS|U|Flint Golem
 00|00|00|00|00|M13|U|Flinthoof Boar
-03|00|00|00|00|EMA|U|Flinthoof Boar
+02|00|00|00|00|EMA|U|Flinthoof Boar
 01|00|00|00|00|BNG|U|Flitterstep Eidolon
 00|00|00|00|00|TOR|C|Floating Shield
 00|00|00|00|00|CHK|C|Floating-Dream Zubera
@@ -12187,7 +12187,7 @@
 04|00|00|00|00|M10|C|Llanowar Elves
 04|00|00|00|00|M11|C|Llanowar Elves
 00|00|00|00|00|M12|C|Llanowar Elves
-00|00|00|00|00|EMA|C|Llanowar Elves
+00|01|00|00|00|EMA|C|Llanowar Elves
 00|00|00|00|00|FUT|C|Llanowar Empath
 00|00|00|00|00|ORI|C|Llanowar Empath
 00|00|00|00|00|INV|C|Llanowar Knight
@@ -12599,7 +12599,7 @@
 00|00|00|00|00|POR|U|Man-o'-War
 00|00|00|00|00|S99|U|Man-o'-War
 00|00|00|00|00|VIS|C|Man-o'-War
-00|00|00|00|00|EMA|C|Man-o'-War
+00|01|00|00|00|EMA|C|Man-o'-War
 00|00|00|00|00|RTR|R|Mana Bloom
 00|00|00|00|00|7ED|U|Mana Breach
 00|00|00|00|00|EXO|U|Mana Breach
@@ -12912,7 +12912,7 @@
 00|00|00|00|00|DGM|C|Maze Rusher
 00|00|00|00|00|DGM|C|Maze Sentinel
 00|00|00|00|00|DRK|U|Maze of Ith
-01|00|00|00|00|V12|M|Maze of Ith
+00|00|00|00|00|V12|M|Maze of Ith
 02|00|00|00|00|EMA|R|Maze of Ith
 00|00|00|00|00|TMP|U|Maze of Shadows
 00|00|00|00|00|DGM|M|Maze's End
@@ -13419,7 +13419,7 @@
 00|00|00|00|00|SHM|U|Mistmeadow Witch
 00|00|00|00|00|WTH|U|Mistmoon Griffin
 00|00|00|00|00|DIS|U|Mistral Charger
-00|00|00|00|00|EMA|C|Mistral Charger
+00|01|00|00|00|EMA|C|Mistral Charger
 01|00|00|00|00|SHM|U|Mistveil Plains
 00|00|00|00|00|ARB|C|Mistvein Borderpost
 00|00|00|00|00|ARC|C|Mistvein Borderpost
@@ -13539,7 +13539,7 @@
 00|00|00|00|00|DKA|R|Mondronen Shaman
 00|00|00|00|00|TMP|R|Mongrel Pack
 00|00|00|00|00|USG|U|Monk Idealist
-00|00|00|00|00|EMA|C|Monk Idealist
+00|01|00|00|00|EMA|C|Monk Idealist
 00|00|00|00|00|CMD|C|Monk Realist
 00|00|00|00|00|USG|C|Monk Realist
 00|00|00|00|00|MMQ|R|Monkey Cage
@@ -13672,7 +13672,7 @@
 04|00|00|00|00|CMD|U|Mother of Runes
 04|00|00|00|00|DDO|U|Mother of Runes
 00|00|00|00|00|ULG|U|Mother of Runes
-04|00|00|00|00|EMA|R|Mother of Runes
+04|01|00|00|00|EMA|R|Mother of Runes
 00|00|00|00|00|CHK|C|Mothrider Samurai
 00|00|00|00|00|10E|C|Mountain
 00|00|00|00|00|2ED|C|Mountain
@@ -13856,7 +13856,7 @@
 00|00|00|00|00|C13|R|Murkfiend Liege
 00|00|00|00|00|EVE|R|Murkfiend Liege
 00|00|00|00|00|MOR|R|Murmuring Bosk
-01|00|00|00|00|V12|M|Murmuring Bosk
+00|00|00|00|00|V12|M|Murmuring Bosk
 00|00|00|00|00|DGM|C|Murmuring Phantasm
 00|00|00|00|00|CMD|C|Murmurs from Beyond
 00|00|00|00|00|SOK|C|Murmurs from Beyond
@@ -14086,7 +14086,7 @@
 00|00|00|00|00|7ED|C|Nausea
 00|00|00|00|00|8ED|C|Nausea
 00|00|00|00|00|EXO|C|Nausea
-00|00|00|00|00|EMA|C|Nausea
+00|01|00|00|00|EMA|C|Nausea
 00|00|00|00|00|GTC|C|Nav Squad Commandos
 00|00|00|00|00|ALA|U|Naya Battlemage
 00|00|00|00|00|ALA|U|Naya Charm
@@ -16583,7 +16583,7 @@
 04|00|00|00|00|M13|U|Rancor
 00|00|00|00|00|PC2|C|Rancor
 00|00|00|00|00|ULG|C|Rancor
-04|00|00|00|00|EMA|U|Rancor
+03|00|00|00|00|EMA|U|Rancor
 00|00|00|00|00|ATH|S|Ranger en-Vec
 00|00|00|00|00|TMP|U|Ranger en-Vec
 03|00|00|00|00|ALA|R|Ranger of Eos
@@ -18643,7 +18643,7 @@
 00|00|00|00|00|BTD|S|Shambling Strider
 00|00|00|00|00|ICE|C|Shambling Strider
 00|00|00|00|00|TOR|R|Shambling Swarm
-06|00|00|00|00|BFZ|R|Shambling Vent
+05|00|00|00|00|BFZ|R|Shambling Vent
 00|00|00|00|00|2ED|C|Shanodin Dryads
 00|00|00|00|00|3ED|C|Shanodin Dryads
 00|00|00|00|00|4ED|C|Shanodin Dryads
@@ -20351,7 +20351,7 @@
 00|00|00|00|00|MOR|C|Stingmoggie
 01|00|00|00|00|MMA|C|Stingscourger
 00|00|00|00|00|PLC|C|Stingscourger
-00|00|00|00|00|EMA|C|Stingscourger
+00|01|00|00|00|EMA|C|Stingscourger
 00|00|00|00|00|MOR|U|Stinkdrinker Bandit
 00|00|00|00|00|LRW|C|Stinkdrinker Daredevil
 02|00|00|00|00|MMA|C|Stinkdrinker Daredevil
@@ -20627,7 +20627,7 @@
 00|00|00|00|00|ARB|U|Stun Sniper
 00|00|00|00|00|ICE|R|Stunted Growth
 00|00|00|00|00|TOR|U|Stupefying Touch
-00|00|00|00|00|EMA|C|Stupefying Touch
+00|01|00|00|00|EMA|C|Stupefying Touch
 00|00|00|00|00|6ED|U|Stupor
 00|00|00|00|00|MIR|U|Stupor
 00|00|00|00|00|TSB|S|Stupor
@@ -21613,12 +21613,12 @@
 00|00|00|00|00|SHM|C|Thornwatch Scarecrow
 00|00|00|00|00|C14|C|Thornweald Archer
 00|00|00|00|00|FUT|C|Thornweald Archer
-00|00|00|00|00|EMA|C|Thornweald Archer
+00|01|00|00|00|EMA|C|Thornweald Archer
 00|00|00|00|00|C13|C|Thornwind Faeries
 00|00|00|00|00|ULG|C|Thornwind Faeries
 00|00|00|00|00|FTF|C|Thornwood Falls
 00|00|00|00|00|KTK|C|Thornwood Falls
-00|00|00|00|00|EMA|C|Thornwood Falls
+00|01|00|00|00|EMA|C|Thornwood Falls
 00|00|00|00|00|5DN|C|Thought Courier
 00|00|00|00|00|9ED|U|Thought Courier
 00|00|00|00|00|ODY|R|Thought Devourer
@@ -21807,7 +21807,7 @@
 00|00|00|00|00|INV|C|Tidal Visionary
 00|00|00|00|00|STH|C|Tidal Warrior
 00|00|00|00|00|MIR|U|Tidal Wave
-00|00|00|00|00|EMA|C|Tidal Wave
+00|01|00|00|00|EMA|C|Tidal Wave
 00|00|00|00|00|BFZ|U|Tide Drifter
 00|00|00|00|00|CHK|R|Tide of War
 01|00|00|00|00|M14|R|Tidebinder Mage
@@ -22591,7 +22591,7 @@
 00|00|00|00|00|DKA|C|Undying Evil
 00|00|00|00|00|SOK|R|Undying Flames
 00|00|00|00|00|TSP|U|Undying Rage
-00|00|00|00|00|EMA|C|Undying Rage
+00|01|00|00|00|EMA|C|Undying Rage
 00|00|00|00|00|ULG|C|Unearth
 00|00|00|00|00|CHK|C|Unearthly Blizzard
 00|00|00|00|00|MIR|U|Unerring Sling
@@ -22738,7 +22738,7 @@
 00|00|00|00|00|DDD|C|Urborg Syphon-Mage
 00|00|00|00|00|TSP|C|Urborg Syphon-Mage
 00|00|00|00|00|APC|C|Urborg Uprising
-00|00|00|00|00|EMA|C|Urborg Uprising
+00|01|00|00|00|EMA|C|Urborg Uprising
 00|00|00|00|00|8ED|U|Urborg Volcano
 00|00|00|00|00|INV|U|Urborg Volcano
 01|00|00|00|00|M15|R|Urborg, Tomb of Yawgmoth
@@ -23467,7 +23467,7 @@
 04|00|00|00|00|EVE|R|Wake Thrasher
 00|00|00|00|00|UDS|R|Wake of Destruction
 00|00|00|00|00|VIS|C|Wake of Vultures
-00|00|00|00|00|EMA|C|Wake of Vultures
+00|01|00|00|00|EMA|C|Wake of Vultures
 00|00|00|00|00|C14|R|Wake the Dead
 00|00|00|00|00|DGM|C|Wake the Reflections
 00|00|00|00|00|CNS|C|Wakedancer
@@ -23578,7 +23578,7 @@
 04|00|00|00|00|CMD|U|Wall of Omens
 00|00|00|00|00|DDK|U|Wall of Omens
 00|00|00|00|00|ROE|U|Wall of Omens
-04|00|00|00|00|EMA|U|Wall of Omens
+03|00|00|00|00|EMA|U|Wall of Omens
 00|00|00|00|00|CHR|U|Wall of Opposition
 00|00|00|00|00|LEG|R|Wall of Opposition
 00|00|00|00|00|ICE|U|Wall of Pine Needles
@@ -23889,7 +23889,7 @@
 00|00|00|00|00|SOI|R|Welcome to the Fold
 00|00|00|00|00|MRD|C|Welding Jar
 00|00|00|00|00|ALA|C|Welkin Guide
-00|00|00|00|00|EMA|C|Welkin Guide
+00|01|00|00|00|EMA|C|Welkin Guide
 00|00|00|00|00|EXO|C|Welkin Hawk
 00|00|00|00|00|M13|C|Welkin Tern
 00|00|00|00|00|M15|C|Welkin Tern
@@ -23907,7 +23907,7 @@
 00|00|00|00|00|EVG|C|Wellwisher
 00|00|00|00|00|ONS|C|Wellwisher
 00|00|00|00|00|ODY|C|Werebear
-00|00|00|00|00|EMA|C|Werebear
+00|01|00|00|00|EMA|C|Werebear
 00|00|00|00|00|DKA|U|Werewolf Ransacker
 00|00|00|00|00|7ED|R|Western Paladin
 00|00|00|00|00|8ED|R|Western Paladin
@@ -24009,7 +24009,7 @@
 01|00|00|00|00|C14|C|Whitemane Lion
 00|00|00|00|00|DDI|C|Whitemane Lion
 00|00|00|00|00|PLC|C|Whitemane Lion
-00|00|00|00|00|EMA|C|Whitemane Lion
+00|01|00|00|00|EMA|C|Whitemane Lion
 00|00|00|00|00|ICE|U|Whiteout
 00|00|00|00|00|SOM|C|Whitesun's Passage
 00|00|00|00|00|JOU|U|Whitewater Naiads
@@ -24151,7 +24151,7 @@
 04|00|00|00|00|ZEN|U|Windborne Charge
 00|00|00|00|00|LRW|R|Windbrisk Heights
 04|00|00|00|00|MD1|R|Windbrisk Heights
-03|00|00|00|00|V12|M|Windbrisk Heights
+02|00|00|00|00|V12|M|Windbrisk Heights
 00|00|00|00|00|SHM|R|Windbrisk Raptor
 00|00|00|00|00|BRB|S|Windfall
 00|00|00|00|00|CMD|U|Windfall
