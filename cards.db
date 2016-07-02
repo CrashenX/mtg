@@ -3524,7 +3524,7 @@
 00|00|00|00|00|ZEN|C|Cliff Threader
 00|00|00|00|00|OGW|U|Cliffhaven Vampire
 00|00|00|00|00|CON|R|Cliffrunner Behemoth
-00|00|00|00|00|BFZ|C|Cliffside Lookout
+00|01|00|00|00|BFZ|C|Cliffside Lookout
 04|00|00|00|00|ISD|R|Clifftop Retreat
 00|01|00|00|00|GTC|C|Clinging Anemones
 00|00|00|00|00|RAV|C|Clinging Darkness
@@ -6293,7 +6293,7 @@
 00|00|00|00|00|LEG|C|Enchantment Alteration
 00|00|00|00|00|USG|U|Enchantment Alteration
 00|00|00|00|00|ONS|R|Enchantress's Presence
-00|00|00|00|00|BFZ|U|Encircling Fissure
+00|01|00|00|00|BFZ|U|Encircling Fissure
 00|00|00|00|00|ROE|U|Enclave Cryptologist
 00|00|00|00|00|CNS|C|Enclave Elite
 00|00|00|00|00|WWK|C|Enclave Elite
@@ -18179,7 +18179,7 @@
 00|00|00|00|00|M15|R|Scuttling Doom Engine
 00|00|00|00|00|SHM|C|Scuzzback Marauders
 00|00|00|00|00|SHM|C|Scuzzback Scrapper
-00|00|00|00|00|BFZ|U|Scythe Leopard
+00|01|00|00|00|BFZ|U|Scythe Leopard
 00|00|00|00|00|CMD|R|Scythe Specter
 00|00|00|00|00|ZEN|C|Scythe Tiger
 00|00|00|00|00|MRD|R|Scythe of the Wretched
