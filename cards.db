@@ -640,7 +640,7 @@
 00|00|00|00|00|POR|C|Angelic Blessing
 00|00|00|00|00|S00|S|Angelic Blessing
 00|00|00|00|00|S99|C|Angelic Blessing
-01|00|00|00|00|BFZ|R|Angelic Captain
+02|00|00|00|00|BFZ|R|Angelic Captain
 00|00|00|00|00|10E|R|Angelic Chorus
 00|00|00|00|00|USG|R|Angelic Chorus
 00|00|00|00|00|ULG|C|Angelic Curator
@@ -6732,7 +6732,7 @@
 00|00|00|00|00|CHK|C|Eye of Nowhere
 00|00|00|00|00|MMQ|R|Eye of Ramos
 00|00|00|00|00|VIS|R|Eye of Singularity
-01|00|00|00|00|MM2|R|Eye of Ugin
+02|00|00|00|00|MM2|R|Eye of Ugin
 01|00|00|00|00|WWK|M|Eye of Ugin
 00|00|00|00|00|NMS|R|Eye of Yawgmoth
 00|00|00|00|00|RAV|R|Eye of the Storm
@@ -9225,7 +9225,7 @@
 00|00|00|00|00|WWK|C|Guardian Zendikon
 00|00|00|00|00|LRW|U|Guardian of Cloverdell
 00|00|00|00|00|CHK|U|Guardian of Solitude
-00|00|00|00|00|BFZ|R|Guardian of Tazeem
+01|00|00|00|00|BFZ|R|Guardian of Tazeem
 00|00|00|00|00|RAV|C|Guardian of Vitu-Ghazi
 00|00|00|00|00|M14|R|Guardian of the Ages
 03|00|00|00|00|GTC|U|Guardian of the Gateless
@@ -9656,7 +9656,7 @@
 00|00|00|00|00|STH|R|Hermit Druid
 00|00|00|00|00|SOI|U|Hermit of the Natterknolls
 02|00|00|00|00|MBS|M|Hero of Bladehold
-00|00|00|00|00|BFZ|R|Hero of Goma Fada
+00|01|00|00|00|BFZ|R|Hero of Goma Fada
 00|00|00|00|00|BNG|R|Hero of Iroas
 00|00|00|00|00|BNG|R|Hero of Leina Tower
 00|00|00|00|00|MBS|M|Hero of Oxid Ridge
@@ -11719,7 +11719,7 @@
 00|00|00|00|00|UDS|U|Landslide
 05|00|00|00|00|ORI|R|Languish
 00|00|00|00|00|CHK|C|Lantern Kami
-03|00|00|00|00|BFZ|R|Lantern Scout
+04|00|00|00|00|BFZ|R|Lantern Scout
 00|00|00|00|00|ISD|U|Lantern Spirit
 00|00|00|00|00|5DN|U|Lantern of Insight
 00|00|00|00|00|CHK|U|Lantern-Lit Graveyard
@@ -15111,7 +15111,7 @@
 00|00|00|00|00|EXO|U|Paroxysm
 00|00|00|00|00|LEG|U|Part Water
 00|00|00|00|00|CHK|R|Part the Veil
-00|00|00|00|00|BFZ|M|Part the Waterveil
+01|00|00|00|00|BFZ|M|Part the Waterveil
 00|00|00|00|00|ISD|M|Past in Flames
 00|00|00|00|00|6ED|U|Patagia Golem
 00|00|00|00|00|7ED|U|Patagia Golem
@@ -15710,7 +15710,7 @@
 00|00|00|00|00|APC|R|Planar Despair
 00|00|00|00|00|LEG|R|Planar Gate
 00|00|00|00|00|LGN|R|Planar Guide
-00|00|00|00|00|BFZ|R|Planar Outburst
+01|00|00|00|00|BFZ|R|Planar Outburst
 00|00|00|00|00|PLS|R|Planar Overlay
 00|00|00|00|00|8ED|R|Planar Portal
 00|00|00|00|00|INV|R|Planar Portal
@@ -16387,7 +16387,7 @@
 00|00|00|00|00|NMS|U|Rackling
 00|00|00|00|00|PLC|R|Radha, Heir to Keld
 00|00|00|00|00|MIR|U|Radiant Essence
-00|00|00|00|00|BFZ|R|Radiant Flames
+00|01|00|00|00|BFZ|R|Radiant Flames
 00|00|00|00|00|M15|C|Radiant Fountain
 00|00|00|00|00|PLS|R|Radiant Kavu
 00|00|00|00|00|DTK|R|Radiant Purge
@@ -18643,7 +18643,7 @@
 00|00|00|00|00|BTD|S|Shambling Strider
 00|00|00|00|00|ICE|C|Shambling Strider
 00|00|00|00|00|TOR|R|Shambling Swarm
-05|00|00|00|00|BFZ|R|Shambling Vent
+06|00|00|00|00|BFZ|R|Shambling Vent
 00|00|00|00|00|2ED|C|Shanodin Dryads
 00|00|00|00|00|3ED|C|Shanodin Dryads
 00|00|00|00|00|4ED|C|Shanodin Dryads
