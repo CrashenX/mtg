@@ -153,7 +153,7 @@
 00|00|00|00|00|TOR|C|Acorn Harvest
 00|00|00|00|00|5DN|R|Acquire
 00|00|00|00|00|USG|C|Acridian
-02|01|00|00|00|NPH|U|Act of Aggression
+02|00|00|00|00|NPH|U|Act of Aggression
 00|00|00|00|00|C13|R|Act of Authority
 00|00|00|00|00|DPA|U|Act of Treason
 00|00|00|00|00|GTC|C|Act of Treason
@@ -4630,7 +4630,7 @@
 00|00|00|00|00|ONS|C|Daunting Defender
 00|00|00|00|00|SOI|C|Dauntless Cathar
 00|00|00|00|00|LRW|R|Dauntless Dourbark
-02|00|00|00|00|ARB|R|Dauntless Escort
+01|00|00|00|00|ARB|R|Dauntless Escort
 00|00|00|00|00|DDO|U|Dauntless Onslaught
 02|00|00|00|00|THS|U|Dauntless Onslaught
 00|00|00|00|00|M15|U|Dauntless River Marshal
@@ -6047,7 +6047,7 @@
 00|00|00|00|00|BFZ|C|Eldrazi Skyspawner
 00|00|00|00|00|BFZ|U|Eldrazi Temple
 06|00|00|00|00|MM2|U|Eldrazi Temple
-04|00|00|00|00|ROE|R|Eldrazi Temple
+00|00|00|00|00|ROE|R|Eldrazi Temple
 00|00|00|00|00|DRK|R|Electric Eel
 03|00|00|00|00|RTR|C|Electrickery
 00|00|00|00|00|CMD|U|Electrolyze
@@ -6071,7 +6071,7 @@
 01|00|00|00|00|EMA|C|Elephant Guide
 00|00|00|00|00|JUD|U|Elephant Guide
 00|00|00|00|00|PCY|R|Elephant Resurgence
-01|00|00|00|00|MM2|M|Elesh Norn, Grand Cenobite
+00|00|00|00|00|MM2|M|Elesh Norn, Grand Cenobite
 00|00|00|00|00|NPH|M|Elesh Norn, Grand Cenobite
 00|00|00|00|00|MRD|C|Elf Replica
 00|00|00|00|00|8ED|U|Elfhame Palace
@@ -15007,7 +15007,7 @@
 00|00|00|00|00|ODY|U|Painbringer
 00|00|00|00|00|6ED|C|Painful Memories
 00|00|00|00|00|MIR|U|Painful Memories
-01|00|00|00|00|SOM|R|Painful Quandary
+00|00|00|00|00|SOM|R|Painful Quandary
 00|00|00|00|00|BFZ|R|Painful Truths
 02|00|00|00|00|SOM|U|Painsmith
 00|00|00|00|00|SHM|R|Painter's Servant
@@ -23464,7 +23464,7 @@
 00|00|00|00|00|MRD|C|Wail of the Nim
 00|00|00|00|00|6ED|R|Waiting in the Weeds
 00|00|00|00|00|MIR|R|Waiting in the Weeds
-04|00|00|00|00|EVE|R|Wake Thrasher
+00|00|00|00|00|EVE|R|Wake Thrasher
 00|00|00|00|00|UDS|R|Wake of Destruction
 03|01|00|00|00|EMA|C|Wake of Vultures
 00|00|00|00|00|VIS|C|Wake of Vultures
@@ -24052,7 +24052,7 @@
 00|00|00|00|00|LEA|C|Wild Growth
 00|00|00|00|00|LEB|C|Wild Growth
 00|00|00|00|00|M13|C|Wild Guess
-00|01|00|00|00|M14|C|Wild Guess
+00|00|00|00|00|M14|C|Wild Guess
 00|00|00|00|00|DKA|C|Wild Hunger
 00|00|00|00|00|ORI|C|Wild Instincts
 00|00|00|00|00|MMQ|C|Wild Jhovall
