@@ -8583,7 +8583,7 @@
 00|01|00|00|00|DKA|C|Fires of Undeath
 00|00|00|00|00|DKA|C|Fling
 00|00|00|00|00|DKA|C|Forge Devil
-04|00|00|00|00|DKA|C|Gather the Townsfolk
+03|00|00|00|00|DKA|C|Gather the Townsfolk
 00|00|00|00|00|DKA|C|Gravepurge
 00|00|00|00|00|DKA|C|Griptide
 00|00|00|00|00|DKA|C|Gruesome Discovery
@@ -9671,7 +9671,7 @@
 01|00|00|00|00|EMA|U|Prodigal Sorcerer
 00|00|00|00|00|EMA|U|Pyroblast
 00|00|00|00|00|EMA|U|Quiet Speculation
-03|00|00|00|00|EMA|U|Rancor
+04|00|00|00|00|EMA|U|Rancor
 01|00|00|00|00|EMA|U|Relic of Progenitus
 00|00|00|00|00|EMA|U|Roar of the Wurm
 01|00|00|00|00|EMA|U|Sengir Autocrat
@@ -12649,7 +12649,7 @@
 00|00|00|00|00|KTK|C|Throttle
 00|00|00|00|00|KTK|C|Tormenting Voice
 00|00|00|00|00|KTK|C|Tranquil Cove
-04|00|00|00|00|KTK|C|Treasure Cruise
+03|00|00|00|00|KTK|C|Treasure Cruise
 00|00|00|00|00|KTK|C|Trumpet Blast
 00|00|00|00|00|KTK|C|Tusked Colossodon
 00|00|00|00|00|KTK|C|Unyielding Krumar

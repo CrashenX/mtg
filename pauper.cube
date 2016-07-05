@@ -1,540 +1,540 @@
-01|10E|Prodigal Pyromancer
-01|10E|Remove Soul
-01|10E|Youthful Knight
-01|5DN|Blind Creeper
-01|5DN|Cranial Plating
-01|5DN|Lose Hope
-01|5DN|Opaline Bracers
-01|5DN|Pentad Prism
-01|5DN|Vulshok Sorcerer
-01|5DN|Wayfarer's Bauble
-01|ALA|Agony Warp
-01|ALA|Akrasan Squire
-01|ALA|Branching Bolt
-01|ALA|Courier's Capsule
-01|ALA|Court Archers
-01|ALA|Dregscape Zombie
-01|ALA|Executioner's Capsule
-01|ALA|Hissing Iguanar
-01|ALA|Sighted-Caste Sorcerer
-01|ALA|Thorn-Thrash Viashino
-01|ALA|Tidehollow Strix
-01|ALA|Viscera Dragger
-01|ALA|Vithian Stinger
-01|ALL|Phyrexian War Beast
-01|APC|Coalition Honor Guard
-01|APC|Consume Strength
-01|APC|Gaea's Skyfolk
-01|APC|Goblin Legionnaire
-01|APC|Standard Bearer
-01|APC|Temporal Spring
-01|ARB|Cerodon Yearling
-01|ARB|Deny Reality
-01|ARB|Ethercaste Knight
-01|ARB|Fieldmist Borderpost
-01|ARB|Firewild Borderpost
-01|ARB|Kathari Bomber
-01|ARB|Putrid Leech
-01|ARB|Qasali Pridemage
-01|ARB|Terminate
-01|ARB|Veinfire Borderpost
-01|ARB|Wildfield Borderpost
-01|ARB|Winged Coatl
-01|ARC|Armadillo Cloak
-01|ARC|Krosan Tusker
-01|ARC|Mistvein Borderpost
-01|ARC|Tranquil Thicket
-01|ARC|Unmake
-01|ARC|Wall of Roots
-01|AVR|Bladed Bracers
-01|AVR|Borderland Ranger
-01|AVR|Gryff Vanguard
-01|AVR|Mist Raven
-01|AVR|Peel from Reality
-01|AVR|Seraph of Dawn
-01|AVR|Soulcage Fiend
-01|AVR|Trusted Forcemage
-01|BOK|Ninja of the Deep Hours
-01|BOK|Okiba-Gang Shinobi
-01|CHK|Hearth Kami
-01|CHK|Indomitable Will
-01|CHK|Kabuto Moth
-01|CHK|Kami of Ancient Law
-01|CHK|Nezumi Cutthroat
-01|CHK|Soratami Cloudskater
-01|CHK|Uncontrollable Anger
-01|CMD|Invigorate
-01|CON|Maniacal Rage
-01|CSP|Martyr of Ashes
-01|CSP|Ronom Unicorn
-01|CSP|Squall Drifter
-01|DDE|Tendrils of Corruption
-01|DDF|Trinket Mage
-01|DDG|Ghostfire
-01|DDG|Oblivion Ring
-01|DDG|Plover Knights
-01|DDG|Selesnya Sanctuary
-01|DDG|Sigil Blessing
-01|DDK|Blazing Salvo
-01|DIS|Azorius Chancery
-01|DIS|Coiling Oracle
-01|DIS|Guardian of the Guildpact
-01|DIS|Rakdos Carnarium
-01|DIS|Seal of Doom
-01|DIS|Simic Growth Chamber
-01|DIS|Wrecking Ball
-01|DKA|Faithless Looting
-01|DKA|Haunted Fengraf
-01|DKA|Highborn Ghoul
-01|DKA|Hunger of the Howlpack
-01|DKA|Loyal Cathar
-01|DKA|Stormbound Geist
-01|DKA|Torch Fiend
-01|DKA|Tragic Slip
-01|DKA|Undying Evil
-01|DPA|Civic Wayfinder
-01|DST|Arcbound Hybrid
-01|DST|Chittering Rats
-01|DST|Dross Golem
-01|DST|Echoing Decay
-01|DST|Oxidda Golem
-01|DST|Razor Golem
-01|DST|Spire Golem
-01|DST|Tangle Golem
-01|DST|Vulshok Morningstar
-01|EVE|Ballynock Trapper
-01|EVE|Flame Jab
-01|EVE|Oona's Grace
-01|EVE|Recumbent Bliss
-01|EVE|Rendclaw Trow
-01|EVE|Snakeform
-01|EVE|Soul Reap
-01|EVE|Wickerbough Elder
-01|EXO|Dauthi Jackal
-01|EXO|Nausea
-01|EXO|Thalakos Scout
-01|FEM|Icatian Javelineers
-01|FEM|Order of Leitbur
-01|FEM|Order of the Ebon Hand
-01|FUT|Ichor Slick
-01|FUT|Infiltrator il-Kor
-01|FUT|Llanowar Empath
-01|FUT|Sprout Swarm
-01|FUT|Thornweald Archer
-01|GPT|Blind Hunter
-01|GPT|Ghost Warden
-01|GPT|Gruul Turf
-01|GPT|Izzet Boilerworks
-01|GPT|Izzet Chronarch
-01|GPT|Mourning Thrull
-01|GPT|Orzhov Basilica
-01|GPT|Pillory of the Sleepless
-01|GPT|Repeal
-01|GPT|Shrieking Grotesque
-01|GPT|Steamcore Weird
-01|GPT|Tin Street Hooligan
-01|GPT|Wee Dragonauts
-01|GTC|Boros Guildgate
-01|GTC|Dimir Guildgate
-01|GTC|Gruul Guildgate
-01|GTC|Naturalize
-01|GTC|Orzhov Guildgate
-01|GTC|Prophetic Prism
-01|GTC|Simic Guildgate
-01|GTC|Skyknight Legionnaire
-01|HML|Serrated Arrows
-01|ICE|Brine Shaman
-01|ICE|Disenchant
-01|ICE|Fyndhorn Elves
-01|ICE|Ray of Command
-01|INV|Crimson Acolyte
-01|INV|Exclude
-01|INV|Kavu Climber
-01|INV|Obsidian Acolyte
-01|INV|Probe
-01|INV|Prohibit
-01|INV|Recoil
-01|INV|Recover
-01|INV|Repulse
-01|ISD|Ambush Viper
-01|ISD|Ancient Grudge
-01|ISD|Ashmouth Hound
-01|ISD|Avacynian Priest
-01|ISD|Blazing Torch
-01|ISD|Bonds of Faith
-01|ISD|Brimstone Volley
-01|ISD|Claustrophobia
-01|ISD|Crossway Vampire
-01|ISD|Dead Weight
-01|ISD|Delver of Secrets
-01|ISD|Doomed Traveler
-01|ISD|Festerhide Boar
-01|ISD|Furor of the Bitten
-01|ISD|Kessig Wolf
-01|ISD|Markov Patrician
-01|ISD|One-Eyed Scarecrow
-01|ISD|Prey Upon
-01|ISD|Ranger's Guile
-01|ISD|Silent Departure
-01|ISD|Stitcher's Apprentice
-01|ISD|Think Twice
-01|ISD|Thraben Sentry
-01|ISD|Travel Preparations
-01|ISD|Traveler's Amulet
-01|ISD|Unruly Mob
-01|ISD|Vampire Interloper
-01|ISD|Victim of Night
-01|JUD|Arcane Teachings
-01|JUD|Benevolent Bodyguard
-01|JUD|Lava Dart
-01|JUD|Prismatic Strands
-01|LGN|Nantuko Vigilante
-01|LGN|Timberwatch Elf
-01|LRW|Elvish Branchbender
-01|LRW|Gilt-Leaf Ambush
-01|LRW|Goldmeadow Harrier
-01|LRW|Inner-Flame Acolyte
-01|LRW|Lys Alana Huntmaster
-01|LRW|Moonglove Extract
-01|LRW|Mulldrifter
-01|LRW|Nameless Inversion
-01|LRW|Nath's Elite
-01|LRW|Shimmering Grotto
-01|LRW|Wanderer's Twig
-01|M10|Doom Blade
-01|M10|Elvish Visionary
-01|M10|Lightning Bolt
-01|M10|Llanowar Elves
-01|M10|Merfolk Looter
-01|M10|Oakenform
-01|M10|Pacifism
-01|M10|Ponder
-01|M10|Sign in Blood
-01|M10|Terramorphic Expanse
-01|M10|Veteran Swordsmith
-01|M11|Augury Owl
-01|M11|Chandra's Outrage
-01|M11|Child of Night
-01|M11|Foresee
-01|M11|Liliana's Specter
-01|M11|Mana Leak
-01|M11|Manic Vandal
-01|M11|Preordain
-01|M11|Sylvan Ranger
 01|M12|AEther Adept
-01|M12|Blood Ogre
-01|M12|Gideon's Lawkeeper
-01|M12|Gorehorn Minotaurs
-01|M12|Gravedigger
-01|M12|Incinerate
-01|M12|Skywinder Drake
-01|M12|Sorin's Thirst
+00|ZEN|Adventuring Gear
+00|ALA|Agony Warp
 01|M13|Ajani's Sunstriker
-01|M13|Archaeomancer
-01|M13|Aven Squire
-01|M13|Deadly Recluse
-01|M13|Duty-Bound Dead
-01|M13|Guardians of Akrasa
-01|M13|Mark of the Vampire
-01|M13|Murder
-01|M13|Reckless Brute
-01|M13|Scroll Thief
-01|M13|Searing Spear
-01|M13|Servant of Nefarox
-01|M13|Volcanic Strength
-01|MBS|Ardent Recruit
-01|MBS|Blightwidow
-01|MBS|Blisterstick Shaman
-01|MBS|Copper Carapace
-01|MBS|Flayer Husk
-01|MBS|Ichor Wellspring
-01|MBS|Kuldotha Ringleader
-01|MBS|Leonin Skyhunter
-01|MBS|Master's Call
-01|MBS|Myr Sire
-01|MBS|Phyrexian Rager
-01|MBS|Razorfield Rhino
-01|MBS|Rot Wolf
-01|MBS|Spin Engine
-01|MIR|Skulking Ghost
-01|MMA|Arcbound Stinger
-01|MMA|Bonesplitter
-01|MMA|Cenn's Enlistment
-01|MMA|Court Homunculus
-01|MMA|Dispeller's Capsule
-01|MMA|Echoing Truth
-01|MMA|Empty the Warrens
-01|MMA|Errant Ephemeron
-01|MMA|Etherium Sculptor
-01|MMA|Faerie Mechanist
-01|MMA|Grapeshot
-01|MMA|Mogg War Marshal
-01|MMA|Myr Enforcer
-01|MMA|Penumbra Spider
-01|MMA|Pestermite
-01|MMA|Rift Bolt
-01|MMA|Runed Stalactite
-01|MMA|Sanctum Gargoyle
-01|MMA|Skyreach Manta
-01|MMA|Stingscourger
-01|MMA|Stinkweed Imp
-01|MMA|Warren Pilferers
-01|MMQ|Counterspell
-01|MMQ|Gush
-01|MMQ|Kris Mage
-01|MMQ|Waterfront Bouncer
+01|ALA|Akrasan Squire
 01|MOR|Ambassador Oak
-01|MOR|Burrenton Bombardier
-01|MOR|Earthbrawn
-01|MOR|Game-Trail Changeling
-01|MOR|Lys Alana Bowmaster
-01|MOR|Violet Pall
-01|MOR|Weed-Pruner Poplar
-01|MOR|Winnower Patrol
-01|MPR|Fireball
+00|ISD|Ambush Viper
 01|MRD|Ancient Den
-01|MRD|Chromatic Sphere
-01|MRD|Great Furnace
-01|MRD|Leonin Scimitar
-01|MRD|Predator's Strike
-01|MRD|Raise the Alarm
-01|MRD|Seat of the Synod
-01|MRD|Steel Wall
-01|MRD|Terror
-01|MRD|Tree of Tales
-01|MRD|Vault of Whispers
-01|MRD|Viridian Longbow
-01|NMS|Plague Witch
+01|ISD|Ancient Grudge
+01|USG|Angelic Page
 01|NPH|Apostle's Blessing
+01|JUD|Arcane Teachings
+01|DST|Arcbound Hybrid
+01|MMA|Arcbound Stinger
+01|M13|Archaeomancer
+01|MBS|Ardent Recruit
+01|ARC|Armadillo Cloak
+00|SOM|Arrest
 01|NPH|Artillerize
-01|NPH|Blind Zealot
-01|NPH|Blinding Souleater
-01|NPH|Gitaxian Probe
-01|NPH|Glistener Elf
-01|NPH|Grim Affliction
-01|NPH|Hovermyr
-01|NPH|Impaler Shrike
-01|NPH|Leeching Bite
-01|NPH|Maul Splicer
-01|NPH|Mortis Dogs
-01|NPH|Mutagenic Growth
-01|NPH|Mycosynth Wellspring
-01|NPH|Pith Driller
-01|NPH|Porcelain Legionnaire
-01|NPH|Pristine Talisman
-01|NPH|Razor Swine
-01|NPH|Remember the Fallen
-01|NPH|Slash Panther
-01|NPH|Spined Thopter
-01|NPH|Thundering Tanadon
-01|NPH|Trespassing Souleater
-01|NPH|Vault Skirge
-01|NPH|Volt Charge
-01|ODY|Careful Study
-01|ODY|Elephant Ambush
-01|ODY|Firebolt
-01|ONS|Barren Moor
-01|ONS|Forgotten Cave
-01|ONS|Lonely Sandbar
-01|ONS|Secluded Steppe
-01|ONS|Shepherd of Rot
-01|ONS|Sparksmith
-01|ONS|Wellwisher
-01|ONS|Wirewood Herald
-01|ONS|Wretched Anurid
-01|PLC|Keldon Marauders
-01|PLC|Seal of Primordium
-01|PLC|Shaper Parasite
-01|PLC|Sunlance
-01|PLC|Whitemane Lion
-01|PLS|Confound
-01|RAV|Boros Garrison
-01|RAV|Bramble Elemental
-01|RAV|Compulsive Research
-01|RAV|Dimir Aqueduct
-01|RAV|Faith's Fetters
-01|RAV|Fists of Ironwood
-01|RAV|Golgari Brownscale
-01|RAV|Golgari Rot Farm
-01|RAV|Last Gasp
-01|RAV|Rally the Righteous
-01|RAV|Shambling Shell
-01|RAV|Surveilling Sprite
-01|RAV|Thundersong Trumpeter
+01|ISD|Ashmouth Hound
+01|M11|Augury Owl
 01|ROE|Aura Gnarlid
-01|ROE|Battle-Rattle Shaman
-01|ROE|Dawnglare Invoker
-01|ROE|Deprive
-01|ROE|Emrakul's Hatcher
-01|ROE|Evolving Wilds
-01|ROE|Flame Slash
-01|ROE|Halimar Wavewatch
-01|ROE|Kiln Fiend
-01|ROE|Knight of Cliffhaven
-01|ROE|Kozilek's Predator
-01|ROE|Mnemonic Wall
-01|ROE|Narcolepsy
-01|ROE|Null Champion
-01|ROE|Overgrown Battlement
-01|ROE|Sea Gate Oracle
-01|ROE|Snake Umbra
-01|ROE|Staggershock
-01|ROE|Totem-Guide Hartebeest
-01|ROE|Ulamog's Crusher
-01|ROE|Vendetta
-01|ROE|Vent Sentinel
-01|ROE|Wildheart Invoker
+01|SOM|Auriok Sunchaser
+01|ISD|Avacynian Priest
+01|M13|Aven Squire
 01|RTR|Axebane Guardian
 01|RTR|Azorius Arrester
-01|RTR|Azorius Guildgate
-01|RTR|Centaur Healer
-01|RTR|Daggerdrome Imp
-01|RTR|Dead Reveler
-01|RTR|Doorkeeper
-01|RTR|Electrickery
-01|RTR|Ethereal Armor
-01|RTR|Frostburn Weird
-01|RTR|Gatecreeper Vine
-01|RTR|Goblin Electromancer
-01|RTR|Golgari Guildgate
-01|RTR|Gore-House Chainwalker
-01|RTR|Inaction Injunction
-01|RTR|Izzet Guildgate
-01|RTR|Knightly Valor
-01|RTR|Pursuit of Flight
-01|RTR|Rakdos Guildgate
-01|RTR|Rakdos Shred-Freak
-01|RTR|Selesnya Guildgate
-01|RTR|Sewer Shambler
-01|RTR|Splatter Thug
-01|RTR|Stab Wound
-01|RTR|Stealer of Secrets
-01|RTR|Trestle Troll
-01|RTR|Viashino Racketeer
-01|SCG|Temporal Fissure
-01|SCG|Twisted Abomination
+01|DIS|Azorius Chancery
+00|RTR|Azorius Guildgate
 01|SHM|Ballynock Cohort
-01|SHM|Curse of Chains
-01|SHM|Devoted Druid
-01|SHM|Elsewhere Flask
-01|SHM|Giantbaiting
-01|SHM|Intimidator Initiate
-01|SHM|Manamorphose
-01|SHM|Pili-Pala
-01|SHM|Power of Fire
-01|SHM|Presence of Gond
-01|SHM|Scuttlemutt
-01|SHM|Silkbind Faerie
-01|SHM|Turn to Mist
-01|SOK|Ideas Unbound
-01|SOK|Shinen of Life's Roar
-01|SOM|Arrest
-01|SOM|Auriok Sunchaser
+01|EVE|Ballynock Trapper
+00|ONS|Barren Moor
+01|ROE|Battle-Rattle Shaman
+01|JUD|Benevolent Bodyguard
+01|AVR|Bladed Bracers
+01|DDK|Blazing Salvo
+00|ISD|Blazing Torch
 01|SOM|Blight Mamba
-01|SOM|Carapace Forger
-01|SOM|Chrome Steed
-01|SOM|Copper Myr
-01|SOM|Corpse Cur
-01|SOM|Cystbearer
-01|SOM|Galvanic Blast
-01|SOM|Ghalma's Warden
-01|SOM|Glint Hawk Idol
-01|SOM|Gold Myr
-01|SOM|Grasp of Darkness
-01|SOM|Horizon Spellbomb
-01|SOM|Ichorclaw Myr
-01|SOM|Iron Myr
-01|SOM|Kemba's Skyguard
-01|SOM|Leaden Myr
-01|SOM|Neurok Invisimancer
-01|SOM|Neurok Replica
-01|SOM|Perilous Myr
-01|SOM|Silver Myr
-01|SOM|Sky-Eel School
-01|SOM|Strider Harness
-01|SOM|Sunspear Shikari
-01|SOM|Sylvok Lifestaff
-01|SOM|Sylvok Replica
-01|SOM|Tel-Jilad Fallen
-01|SOM|Tumble Magnet
-01|SOM|Vulshok Replica
-01|SOM|Wall of Tanglecord
-01|STH|Cloud Spirit
-01|TMP|Capsize
-01|TMP|Dark Banishing
-01|TMP|Dauthi Horror
-01|TMP|Dauthi Marauder
-01|TMP|Dauthi Slayer
-01|TMP|Elvish Fury
-01|TMP|Evincar's Justice
-01|TMP|Lightning Blast
-01|TMP|Master Decoy
-01|TMP|Mogg Fanatic
-01|TMP|Rolling Thunder
+01|MBS|Blightwidow
+01|5DN|Blind Creeper
+01|GPT|Blind Hunter
+01|NPH|Blind Zealot
+01|NPH|Blinding Souleater
+01|MBS|Blisterstick Shaman
+01|M12|Blood Ogre
+00|ISD|Bonds of Faith
+00|MMA|Bonesplitter
+01|AVR|Borderland Ranger
+01|RAV|Boros Garrison
+00|GTC|Boros Guildgate
+01|RAV|Bramble Elemental
+00|ALA|Branching Bolt
+01|ISD|Brimstone Volley
+01|ICE|Brine Shaman
+01|MOR|Burrenton Bombardier
+00|ZEN|Burst Lightning
 01|TOR|Cabal Torturer
-01|TOR|Deep Analysis
-01|TOR|Fiery Temper
-01|TOR|Mesmeric Fiend
-01|TSB|Desert
+00|WWK|Calcite Snapper
+00|TMP|Capsize
+01|SOM|Carapace Forger
+01|ODY|Careful Study
+01|MMA|Cenn's Enlistment
+00|RTR|Centaur Healer
+01|ARB|Cerodon Yearling
+01|M11|Chandra's Outrage
+01|M11|Child of Night
+01|DST|Chittering Rats
+01|MRD|Chromatic Sphere
 01|TSP|Chromatic Star
+01|SOM|Chrome Steed
+01|DPA|Civic Wayfinder
+00|ISD|Claustrophobia
+01|STH|Cloud Spirit
+00|ULG|Cloud of Faeries
 01|TSP|Cloudchaser Kestrel
 01|TSP|Coal Stoker
-01|TSP|Fathom Seer
-01|TSP|Looter il-Kor
-01|TSP|Momentary Blink
-01|TSP|Mystical Teachings
-01|TSP|Strangling Soot
-01|TSP|Temporal Isolation
-01|TSP|Trespasser il-Vec
-01|ULG|Cloud of Faeries
-01|ULG|Frantic Search
-01|ULG|Ghitu Slinger
-01|ULG|Miscalculation
-01|ULG|Multani's Acolyte
-01|ULG|Rancor
-01|ULG|Simian Grunts
-01|ULG|Snap
-01|ULG|Yavimaya Granger
-01|USG|Angelic Page
+00|APC|Coalition Honor Guard
+01|DIS|Coiling Oracle
+00|RAV|Compulsive Research
+01|PLS|Confound
+00|APC|Consume Strength
+01|MBS|Copper Carapace
+01|SOM|Copper Myr
+01|SOM|Corpse Cur
 01|USG|Corrupt
-01|USG|Pestilence
-01|USG|Priest of Titania
-01|VIS|Crypt Rats
-01|VIS|Fireblast
-01|VIS|Man-o'-War
-01|WTH|Empyrial Armor
-01|WWK|Calcite Snapper
-01|WWK|Corrupted Zendikon
+00|WWK|Corrupted Zendikon
+00|MMQ|Counterspell
+01|ALA|Courier's Capsule
+01|ALA|Court Archers
+01|MMA|Court Homunculus
+01|5DN|Cranial Plating
+01|INV|Crimson Acolyte
+01|ISD|Crossway Vampire
 01|WWK|Crusher Zendikon
-01|WWK|Groundswell
-01|WWK|Iona's Judgment
-01|WWK|Khalni Garden
-01|WWK|Kitesail
-01|WWK|Mysteries of the Deep
-01|WWK|Pilgrim's Eye
-01|WWK|Quicksand
-01|WWK|Searing Blaze
-01|WWK|Sejiri Steppe
-01|WWK|Smoldering Spires
-01|ZEN|Adventuring Gear
-01|ZEN|Burst Lightning
-01|ZEN|Disfigure
+00|VIS|Crypt Rats
+00|SHM|Curse of Chains
+01|SOM|Cystbearer
+01|RTR|Daggerdrome Imp
+01|TMP|Dark Banishing
+01|TMP|Dauthi Horror
+01|EXO|Dauthi Jackal
+01|TMP|Dauthi Marauder
+01|TMP|Dauthi Slayer
+01|ROE|Dawnglare Invoker
+00|RTR|Dead Reveler
+00|ISD|Dead Weight
+01|M13|Deadly Recluse
+00|TOR|Deep Analysis
+01|ISD|Delver of Secrets
+01|ARB|Deny Reality
+00|ROE|Deprive
+00|TSB|Desert
+01|SHM|Devoted Druid
+01|RAV|Dimir Aqueduct
+00|GTC|Dimir Guildgate
+01|ICE|Disenchant
+00|ZEN|Disfigure
+01|MMA|Dispeller's Capsule
+00|M10|Doom Blade
+00|ISD|Doomed Traveler
+01|RTR|Doorkeeper
+01|ALA|Dregscape Zombie
+01|DST|Dross Golem
+01|M13|Duty-Bound Dead
+01|MOR|Earthbrawn
+01|DST|Echoing Decay
+01|MMA|Echoing Truth
+01|RTR|Electrickery
+00|ODY|Elephant Ambush
+01|SHM|Elsewhere Flask
+01|LRW|Elvish Branchbender
+01|TMP|Elvish Fury
+01|M10|Elvish Visionary
+01|MMA|Empty the Warrens
+01|WTH|Empyrial Armor
+01|ROE|Emrakul's Hatcher
+00|MMA|Errant Ephemeron
+01|ARB|Ethercaste Knight
+01|RTR|Ethereal Armor
+01|MMA|Etherium Sculptor
+00|TMP|Evincar's Justice
+00|ROE|Evolving Wilds
+01|INV|Exclude
+01|ALA|Executioner's Capsule
 01|ZEN|Expedition Map
+01|MMA|Faerie Mechanist
+00|RAV|Faith's Fetters
+01|DKA|Faithless Looting
+01|TSP|Fathom Seer
+01|ISD|Festerhide Boar
+01|ARB|Fieldmist Borderpost
+01|TOR|Fiery Temper
+01|MPR|Fireball
+01|VIS|Fireblast
+00|ODY|Firebolt
+01|ARB|Firewild Borderpost
+00|RAV|Fists of Ironwood
+01|EVE|Flame Jab
+01|ROE|Flame Slash
+00|MBS|Flayer Husk
+01|M11|Foresee
+01|ONS|Forgotten Cave
+01|ULG|Frantic Search
+00|RTR|Frostburn Weird
+01|ISD|Furor of the Bitten
+00|ICE|Fyndhorn Elves
+01|APC|Gaea's Skyfolk
+01|SOM|Galvanic Blast
+01|MOR|Game-Trail Changeling
+01|RTR|Gatecreeper Vine
+01|SOM|Ghalma's Warden
+00|ULG|Ghitu Slinger
+01|GPT|Ghost Warden
+01|DDG|Ghostfire
+01|SHM|Giantbaiting
+00|M12|Gideon's Lawkeeper
+01|LRW|Gilt-Leaf Ambush
+01|NPH|Gitaxian Probe
+01|SOM|Glint Hawk Idol
+01|NPH|Glistener Elf
 01|ZEN|Goblin Bushwhacker
+01|RTR|Goblin Electromancer
+01|APC|Goblin Legionnaire
 01|ZEN|Goblin Shortcutter
 01|ZEN|Goblin War Paint
+01|SOM|Gold Myr
+00|LRW|Goldmeadow Harrier
+01|RAV|Golgari Brownscale
+00|RTR|Golgari Guildgate
+01|RAV|Golgari Rot Farm
+00|RTR|Gore-House Chainwalker
+01|M12|Gorehorn Minotaurs
+01|MMA|Grapeshot
+01|SOM|Grasp of Darkness
+00|M12|Gravedigger
 01|ZEN|Grazing Gladehart
+01|MRD|Great Furnace
+01|NPH|Grim Affliction
+01|WWK|Groundswell
+00|GTC|Gruul Guildgate
+01|GPT|Gruul Turf
+00|AVR|Gryff Vanguard
+00|DIS|Guardian of the Guildpact
+01|M13|Guardians of Akrasa
+01|MMQ|Gush
+00|ROE|Halimar Wavewatch
+01|DKA|Haunted Fengraf
+01|CHK|Hearth Kami
 01|ZEN|Hideous End
-01|ZEN|Into the Roil
-01|ZEN|Journey to Nowhere
+01|DKA|Highborn Ghoul
+00|ALA|Hissing Iguanar
+01|SOM|Horizon Spellbomb
+01|NPH|Hovermyr
+01|DKA|Hunger of the Howlpack
+01|FEM|Icatian Javelineers
+01|FUT|Ichor Slick
+01|MBS|Ichor Wellspring
+01|SOM|Ichorclaw Myr
+01|SOK|Ideas Unbound
+01|NPH|Impaler Shrike
+01|RTR|Inaction Injunction
+00|M12|Incinerate
+01|CHK|Indomitable Will
+01|FUT|Infiltrator il-Kor
+00|LRW|Inner-Flame Acolyte
+01|SHM|Intimidator Initiate
+00|ZEN|Into the Roil
+01|CMD|Invigorate
+01|WWK|Iona's Judgment
+01|SOM|Iron Myr
+01|GPT|Izzet Boilerworks
+00|GPT|Izzet Chronarch
+00|RTR|Izzet Guildgate
+00|ZEN|Journey to Nowhere
+00|CHK|Kabuto Moth
+01|CHK|Kami of Ancient Law
+01|ARB|Kathari Bomber
+01|INV|Kavu Climber
+00|PLC|Keldon Marauders
+01|SOM|Kemba's Skyguard
+01|ISD|Kessig Wolf
+00|WWK|Khalni Garden
+01|ROE|Kiln Fiend
+01|WWK|Kitesail
+01|ROE|Knight of Cliffhaven
+01|RTR|Knightly Valor
 01|ZEN|Kor Hookmaster
 01|ZEN|Kor Sanctifiers
-01|ZEN|Kor Skyfisher
+00|ZEN|Kor Skyfisher
+01|ROE|Kozilek's Predator
+01|MMQ|Kris Mage
+00|ARC|Krosan Tusker
+01|MBS|Kuldotha Ringleader
+00|RAV|Last Gasp
+01|JUD|Lava Dart
+01|SOM|Leaden Myr
+01|NPH|Leeching Bite
+00|MRD|Leonin Scimitar
+01|MBS|Leonin Skyhunter
+01|TMP|Lightning Blast
+00|M10|Lightning Bolt
+00|M11|Liliana's Specter
+00|M10|Llanowar Elves
+01|FUT|Llanowar Empath
+01|ONS|Lonely Sandbar
+01|TSP|Looter il-Kor
+01|5DN|Lose Hope
+00|DKA|Loyal Cathar
+01|MOR|Lys Alana Bowmaster
+01|LRW|Lys Alana Huntmaster
+00|VIS|Man-o'-War
+00|M11|Mana Leak
+01|SHM|Manamorphose
+01|CON|Maniacal Rage
+01|M11|Manic Vandal
+01|M13|Mark of the Vampire
+01|ISD|Markov Patrician
+01|CSP|Martyr of Ashes
+01|TMP|Master Decoy
+01|MBS|Master's Call
+00|NPH|Maul Splicer
+01|M10|Merfolk Looter
+01|TOR|Mesmeric Fiend
+00|ULG|Miscalculation
+00|AVR|Mist Raven
+01|ARC|Mistvein Borderpost
+01|ROE|Mnemonic Wall
+00|TMP|Mogg Fanatic
+00|MMA|Mogg War Marshal
+00|TSP|Momentary Blink
+01|LRW|Moonglove Extract
+01|NPH|Mortis Dogs
+01|GPT|Mourning Thrull
+00|LRW|Mulldrifter
+01|ULG|Multani's Acolyte
+01|M13|Murder
+01|NPH|Mutagenic Growth
+01|NPH|Mycosynth Wellspring
+01|MMA|Myr Enforcer
+01|MBS|Myr Sire
+01|WWK|Mysteries of the Deep
+01|TSP|Mystical Teachings
+00|LRW|Nameless Inversion
+01|LGN|Nantuko Vigilante
+00|ROE|Narcolepsy
+01|LRW|Nath's Elite
+01|GTC|Naturalize
+01|EXO|Nausea
+01|SOM|Neurok Invisimancer
+01|SOM|Neurok Replica
+00|CHK|Nezumi Cutthroat
+00|BOK|Ninja of the Deep Hours
+01|ROE|Null Champion
+01|M10|Oakenform
+00|DDG|Oblivion Ring
+01|INV|Obsidian Acolyte
+00|BOK|Okiba-Gang Shinobi
+01|ISD|One-Eyed Scarecrow
+00|EVE|Oona's Grace
+01|5DN|Opaline Bracers
 01|ZEN|Oran-Rief Recluse
-01|ZEN|Plated Geopede
+01|FEM|Order of Leitbur
+01|FEM|Order of the Ebon Hand
+01|GPT|Orzhov Basilica
+00|GTC|Orzhov Guildgate
+01|ROE|Overgrown Battlement
+01|DST|Oxidda Golem
+00|M10|Pacifism
+01|AVR|Peel from Reality
+01|5DN|Pentad Prism
+00|MMA|Penumbra Spider
+00|SOM|Perilous Myr
+00|MMA|Pestermite
+00|USG|Pestilence
+00|MBS|Phyrexian Rager
+01|ALL|Phyrexian War Beast
+01|WWK|Pilgrim's Eye
+01|SHM|Pili-Pala
+00|GPT|Pillory of the Sleepless
+01|NPH|Pith Driller
+01|NMS|Plague Witch
+00|ZEN|Plated Geopede
+00|DDG|Plover Knights
+01|M10|Ponder
+00|NPH|Porcelain Legionnaire
+01|SHM|Power of Fire
+01|MRD|Predator's Strike
+00|M11|Preordain
+01|SHM|Presence of Gond
+00|ISD|Prey Upon
+01|USG|Priest of Titania
+00|JUD|Prismatic Strands
+00|NPH|Pristine Talisman
+00|INV|Probe
+01|10E|Prodigal Pyromancer
+01|INV|Prohibit
+00|GTC|Prophetic Prism
+01|RTR|Pursuit of Flight
+00|ARB|Putrid Leech
+00|ARB|Qasali Pridemage
+01|WWK|Quicksand
+00|MRD|Raise the Alarm
+01|DIS|Rakdos Carnarium
+00|RTR|Rakdos Guildgate
+00|RTR|Rakdos Shred-Freak
+01|RAV|Rally the Righteous
+00|ULG|Rancor
+00|ISD|Ranger's Guile
+00|ICE|Ray of Command
+01|DST|Razor Golem
+01|NPH|Razor Swine
+01|MBS|Razorfield Rhino
+01|M13|Reckless Brute
+00|INV|Recoil
+01|INV|Recover
+01|EVE|Recumbent Bliss
+01|NPH|Remember the Fallen
+00|10E|Remove Soul
+00|EVE|Rendclaw Trow
+01|GPT|Repeal
+01|INV|Repulse
+01|MMA|Rift Bolt
+01|TMP|Rolling Thunder
+01|CSP|Ronom Unicorn
+01|MBS|Rot Wolf
+01|MMA|Runed Stalactite
+01|MMA|Sanctum Gargoyle
 01|ZEN|Savage Silhouette
+01|M13|Scroll Thief
+01|SHM|Scuttlemutt
+01|ROE|Sea Gate Oracle
+01|DIS|Seal of Doom
+01|PLC|Seal of Primordium
+00|WWK|Searing Blaze
+00|M13|Searing Spear
+01|MRD|Seat of the Synod
+01|ONS|Secluded Steppe
+00|WWK|Sejiri Steppe
+00|RTR|Selesnya Guildgate
+01|DDG|Selesnya Sanctuary
+00|AVR|Seraph of Dawn
+00|HML|Serrated Arrows
+01|M13|Servant of Nefarox
+01|RTR|Sewer Shambler
+01|RAV|Shambling Shell
+00|PLC|Shaper Parasite
+01|ONS|Shepherd of Rot
+01|LRW|Shimmering Grotto
+01|SOK|Shinen of Life's Roar
+01|GPT|Shrieking Grotesque
+01|ALA|Sighted-Caste Sorcerer
+00|DDG|Sigil Blessing
+01|M10|Sign in Blood
+00|ISD|Silent Departure
+01|SHM|Silkbind Faerie
+01|SOM|Silver Myr
+01|ULG|Simian Grunts
+01|DIS|Simic Growth Chamber
+00|GTC|Simic Guildgate
+01|MIR|Skulking Ghost
+01|SOM|Sky-Eel School
+00|GTC|Skyknight Legionnaire
+01|MMA|Skyreach Manta
+01|M12|Skywinder Drake
+00|NPH|Slash Panther
+01|WWK|Smoldering Spires
+01|ROE|Snake Umbra
+00|EVE|Snakeform
+00|ULG|Snap
+01|CHK|Soratami Cloudskater
+01|M12|Sorin's Thirst
+01|EVE|Soul Reap
+01|AVR|Soulcage Fiend
+01|ONS|Sparksmith
+01|MBS|Spin Engine
+00|NPH|Spined Thopter
+01|DST|Spire Golem
+00|RTR|Splatter Thug
+01|FUT|Sprout Swarm
+01|CSP|Squall Drifter
+01|RTR|Stab Wound
+00|ROE|Staggershock
+01|APC|Standard Bearer
+01|RTR|Stealer of Secrets
+01|GPT|Steamcore Weird
+01|MRD|Steel Wall
 01|ZEN|Steppe Lynx
+01|MMA|Stingscourger
+01|MMA|Stinkweed Imp
+01|ISD|Stitcher's Apprentice
+01|DKA|Stormbound Geist
+01|TSP|Strangling Soot
+00|SOM|Strider Harness
+01|PLC|Sunlance
+01|SOM|Sunspear Shikari
 01|ZEN|Surrakar Marauder
-01|ZEN|Teetering Peaks
-01|ZEN|Vines of Vastwood
+01|RAV|Surveilling Sprite
+01|M11|Sylvan Ranger
+00|SOM|Sylvok Lifestaff
+01|SOM|Sylvok Replica
+01|DST|Tangle Golem
+00|ZEN|Teetering Peaks
+01|SOM|Tel-Jilad Fallen
+01|SCG|Temporal Fissure
+00|TSP|Temporal Isolation
+01|APC|Temporal Spring
+01|DDE|Tendrils of Corruption
+00|ARB|Terminate
+00|M10|Terramorphic Expanse
+01|MRD|Terror
+01|EXO|Thalakos Scout
+01|ISD|Think Twice
+01|ALA|Thorn-Thrash Viashino
+00|FUT|Thornweald Archer
+01|ISD|Thraben Sentry
+00|NPH|Thundering Tanadon
+01|RAV|Thundersong Trumpeter
+01|ALA|Tidehollow Strix
+01|LGN|Timberwatch Elf
+01|GPT|Tin Street Hooligan
+01|DKA|Torch Fiend
+00|ROE|Totem-Guide Hartebeest
+00|DKA|Tragic Slip
+01|ARC|Tranquil Thicket
+00|ISD|Travel Preparations
+01|ISD|Traveler's Amulet
+01|MRD|Tree of Tales
+01|TSP|Trespasser il-Vec
+01|NPH|Trespassing Souleater
+01|RTR|Trestle Troll
+01|DDF|Trinket Mage
+01|AVR|Trusted Forcemage
+00|SOM|Tumble Magnet
+01|SHM|Turn to Mist
+01|SCG|Twisted Abomination
+00|ROE|Ulamog's Crusher
+01|CHK|Uncontrollable Anger
+00|DKA|Undying Evil
+00|ARC|Unmake
+01|ISD|Unruly Mob
+00|ISD|Vampire Interloper
+00|NPH|Vault Skirge
+01|MRD|Vault of Whispers
+01|ARB|Veinfire Borderpost
+01|ROE|Vendetta
+01|ROE|Vent Sentinel
+01|M10|Veteran Swordsmith
+01|RTR|Viashino Racketeer
+01|ISD|Victim of Night
+00|ZEN|Vines of Vastwood
+01|MOR|Violet Pall
+01|MRD|Viridian Longbow
+01|ALA|Viscera Dragger
+01|ALA|Vithian Stinger
+01|M13|Volcanic Strength
+01|NPH|Volt Charge
+00|DST|Vulshok Morningstar
+01|SOM|Vulshok Replica
+00|5DN|Vulshok Sorcerer
+00|ARC|Wall of Roots
+01|SOM|Wall of Tanglecord
+01|LRW|Wanderer's Twig
+00|MMA|Warren Pilferers
+01|MMQ|Waterfront Bouncer
+00|5DN|Wayfarer's Bauble
+01|GPT|Wee Dragonauts
+01|MOR|Weed-Pruner Poplar
 01|ZEN|Welkin Tern
+01|ONS|Wellwisher
+00|PLC|Whitemane Lion
+00|EVE|Wickerbough Elder
+01|ARB|Wildfield Borderpost
+01|ROE|Wildheart Invoker
+01|ARB|Winged Coatl
+01|MOR|Winnower Patrol
+01|ONS|Wirewood Herald
+00|DIS|Wrecking Ball
+01|ONS|Wretched Anurid
+01|ULG|Yavimaya Granger
+00|10E|Youthful Knight
