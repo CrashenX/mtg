@@ -1638,7 +1638,7 @@
 00|00|00|00|00|LEB|R|Bayou
 00|00|00|00|00|TMP|C|Bayou Dragonfly
 01|00|00|00|00|RTR|U|Bazaar Krovod
-01|00|00|00|00|WWK|R|Bazaar Trader
+00|00|00|00|00|WWK|R|Bazaar Trader
 00|00|00|00|00|ARN|U|Bazaar of Baghdad
 00|00|00|00|00|MIR|R|Bazaar of Wonders
 00|00|00|00|00|CON|C|Beacon Behemoth
@@ -1956,7 +1956,7 @@
 00|00|00|00|00|BFZ|R|Blight Herder
 00|00|00|00|00|SOM|C|Blight Mamba
 00|00|00|00|00|SHM|C|Blight Sickle
-00|01|00|00|00|M14|U|Blightcaster
+00|00|00|00|00|M14|U|Blightcaster
 00|00|00|00|00|ORI|U|Blightcaster
 00|00|00|00|00|NPH|C|Blighted Agent
 00|00|00|00|00|BFZ|U|Blighted Cataract
@@ -2672,7 +2672,7 @@
 00|00|00|00|00|PD3|U|Buried Alive
 00|00|00|00|00|WTH|U|Buried Alive
 00|00|00|00|00|C14|U|Buried Ruin
-02|00|00|00|00|M12|U|Buried Ruin
+01|00|00|00|00|M12|U|Buried Ruin
 02|00|00|00|00|KTK|U|Burn Away
 00|00|00|00|00|SHM|C|Burn Trail
 00|00|00|00|00|AVR|R|Burn at the Stake
@@ -3051,7 +3051,7 @@
 00|00|00|00|00|TSP|U|Celestial Crusader
 00|00|00|00|00|6ED|R|Celestial Dawn
 00|00|00|00|00|MIR|R|Celestial Dawn
-02|00|00|00|00|TSB|S|Celestial Dawn
+01|00|00|00|00|TSB|S|Celestial Dawn
 00|00|00|00|00|DDO|C|Celestial Flare
 00|00|00|00|00|M14|C|Celestial Flare
 00|00|00|00|00|ORI|C|Celestial Flare
@@ -10933,7 +10933,7 @@
 00|00|00|00|00|NPH|M|Jin-Gitaxias, Core Augur
 00|00|00|00|00|HML|U|Jinx
 00|00|00|00|00|MRD|R|Jinxed Choker
-01|00|00|00|00|M11|R|Jinxed Idol
+00|00|00|00|00|M11|R|Jinxed Idol
 00|00|00|00|00|TMP|R|Jinxed Idol
 00|00|00|00|00|STH|R|Jinxed Ring
 02|00|00|00|00|SOK|R|Jiwari, the Earth Aflame
@@ -11936,7 +11936,7 @@
 00|00|00|00|00|ALL|R|Library of Lat-Nam
 00|00|00|00|00|2ED|U|Library of Leng
 00|00|00|00|00|3ED|U|Library of Leng
-01|00|00|00|00|4ED|U|Library of Leng
+00|00|00|00|00|4ED|U|Library of Leng
 00|00|00|00|00|5ED|U|Library of Leng
 00|00|00|00|00|LEA|U|Library of Leng
 00|00|00|00|00|LEB|U|Library of Leng
@@ -14436,7 +14436,7 @@
 01|00|00|00|00|C14|R|Nomads' Assembly
 00|00|00|00|00|ROE|R|Nomads' Assembly
 00|00|00|00|00|TSP|R|Norin the Wary
-02|00|00|00|00|NPH|R|Norn's Annex
+01|00|00|00|00|NPH|R|Norn's Annex
 00|00|00|00|00|ICE|C|Norritt
 00|00|00|00|00|LEG|R|North Star
 00|00|00|00|00|2ED|R|Northern Paladin
@@ -18699,7 +18699,7 @@
 00|00|00|00|00|SOM|C|Shatter
 00|00|00|00|00|TMP|C|Shatter
 00|00|00|00|00|CMD|U|Shattered Angel
-03|00|00|00|00|NPH|U|Shattered Angel
+02|00|00|00|00|NPH|U|Shattered Angel
 00|00|00|00|00|WTH|C|Shattered Crypt
 00|00|00|00|00|5DN|U|Shattered Dreams
 01|00|00|00|00|DKA|U|Shattered Perception
@@ -24035,7 +24035,7 @@
 00|00|00|00|00|AVR|R|Wild Defiance
 00|00|00|00|00|USG|C|Wild Dogs
 00|00|00|00|00|MIR|C|Wild Elephant
-01|00|00|00|00|M11|R|Wild Evocation
+00|00|00|00|00|M11|R|Wild Evocation
 00|00|00|00|00|10E|C|Wild Griffin
 00|00|00|00|00|M11|C|Wild Griffin
 00|00|00|00|00|P02|C|Wild Griffin
