@@ -14926,7 +14926,7 @@
 04|00|00|00|00|ROE|C|Overgrown Battlement
 00|00|00|00|00|APC|R|Overgrown Estate
 00|00|00|00|00|RAV|R|Overgrown Tomb
-02|00|00|00|00|RTR|R|Overgrown Tomb
+03|00|00|00|00|RTR|R|Overgrown Tomb
 00|00|00|00|00|10E|C|Overgrowth
 00|00|00|00|00|9ED|C|Overgrowth
 00|00|00|00|00|STH|C|Overgrowth
@@ -23810,7 +23810,7 @@
 00|00|00|00|00|MOR|U|Waterspout Weavers
 00|00|00|00|00|CHK|U|Waterveil Cavern
 03|00|00|00|00|KTK|U|Waterwhirl
-02|00|00|00|00|GTC|R|Watery Grave
+03|00|00|00|00|GTC|R|Watery Grave
 00|00|00|00|00|RAV|R|Watery Grave
 00|00|00|00|00|MIR|U|Wave Elemental
 00|00|00|00|00|ONS|C|Wave of Indifference
