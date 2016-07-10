@@ -60,7 +60,7 @@
 01|ATQ|Clay Statue
 01|JOU|Cloaked Siren
 01|ULG|Cloud of Faeries
-00|TBD|Cloudshift
+01|AVR|Cloudshift
 01|BFZ|Clutch of Currents
 01|EMA|Coalition Honor Guard
 01|CNS|Cogwork Librarian
@@ -105,7 +105,7 @@
 01|EMA|Elephant Guide
 01|EMA|Elite Vanguard
 01|EMA|Emperor Crocodile
-00|TBD|Epic Confrontation
+01|DTK|Epic Confrontation
 01|MMA|Errant Ephemeron
 01|CON|Esper Cormorants
 01|M14|Essence Scatter
@@ -214,7 +214,7 @@
 01|MMA|Mogg War Marshal
 01|MMA|Moldervine Cloak
 01|TSP|Momentary Blink
-00|TBD|Morgue Theft
+01|ODY|Morgue Theft
 01|BFZ|Mortuary Mire
 01|MM2|Mulldrifter
 01|MM2|Nameless Inversion
@@ -304,7 +304,7 @@
 01|EMA|Sentinel Spider
 01|ORI|Separatist Voidmage
 01|AVR|Seraph of Dawn
-00|DDD|Serrated Arrows
+01|DDD|Serrated Arrows
 01|PLC|Shaper Parasite
 01|BFZ|Sheer Drop
 01|EMA|Shelter

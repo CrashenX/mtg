@@ -1679,7 +1679,7 @@
 00|00|00|00|00|GPT|C|Beastmaster's Magemark
 00|00|00|00|00|CHR|U|Beasts of Bogardan
 00|00|00|00|00|LEG|U|Beasts of Bogardan
-00|01|00|00|00|DGM|R|Beck // Call
+00|00|00|00|00|DGM|R|Beck // Call
 00|00|00|00|00|EVE|C|Beckon Apparition
 04|00|00|00|00|GTC|C|Beckon Apparition
 01|00|00|00|00|KTK|U|Become Immense
@@ -4671,7 +4671,7 @@
 02|00|00|00|00|MM2|R|Daybreak Coronet
 00|00|00|00|00|ISD|R|Daybreak Ranger
 00|00|00|00|00|DD2|C|Daze
-04|01|00|00|00|EMA|U|Daze
+04|00|00|00|00|EMA|U|Daze
 00|00|00|00|00|NMS|C|Daze
 00|00|00|00|00|MIR|C|Dazzling Beauty
 02|00|00|00|00|KTK|U|Dazzling Ramparts
@@ -11117,7 +11117,7 @@
 00|00|00|00|00|M15|U|Kapsho Kitefins
 00|00|00|00|00|CMD|M|Karador, Ghost Chieftain
 03|00|00|00|00|EMA|M|Karakas
-01|00|00|00|00|LEG|U|Karakas
+00|00|00|00|00|LEG|U|Karakas
 00|00|00|00|00|THS|U|Karametra's Acolyte
 00|00|00|00|00|BNG|C|Karametra's Favor
 00|00|00|00|00|BNG|M|Karametra, God of Harvests
@@ -12880,7 +12880,7 @@
 00|00|00|00|00|M10|M|Master of the Wild Hunt
 01|00|00|00|00|KTK|U|Master the Way
 01|00|00|00|00|MBS|C|Master's Call
-02|00|00|00|00|C14|R|Masterwork of Ingenuity
+01|00|00|00|00|C14|R|Masterwork of Ingenuity
 00|00|00|00|00|FTF|R|Mastery of the Unseen
 00|00|00|00|00|UDS|R|Masticore
 00|00|00|00|00|V10|M|Masticore
@@ -13670,7 +13670,7 @@
 00|00|00|00|00|MOR|C|Mothdust Changeling
 04|00|00|00|00|CMD|U|Mother of Runes
 04|00|00|00|00|DDO|U|Mother of Runes
-04|01|00|00|00|EMA|R|Mother of Runes
+04|00|00|00|00|EMA|R|Mother of Runes
 00|00|00|00|00|ULG|U|Mother of Runes
 00|00|00|00|00|CHK|C|Mothrider Samurai
 00|00|00|00|00|10E|C|Mountain
@@ -14458,7 +14458,7 @@
 00|00|00|00|00|ONS|C|Nosy Goblin
 01|00|00|00|00|SOI|U|Not Forgotten
 00|00|00|00|00|ROE|U|Not of This World
-00|01|00|00|00|DGM|R|Notion Thief
+00|00|00|00|00|DGM|R|Notion Thief
 00|00|00|00|00|MMQ|R|Notorious Assassin
 00|00|00|00|00|MOR|R|Notorious Throng
 00|00|00|00|00|DST|C|Nourish
@@ -19139,7 +19139,7 @@
 00|00|00|00|00|THS|C|Sip of Hemlock
 00|00|00|00|00|LEG|U|Sir Shandlar of Eberyn
 01|00|00|00|00|DGM|R|Sire of Insanity
-01|00|00|00|00|BFZ|M|Sire of Stagnation
+00|00|00|00|00|BFZ|M|Sire of Stagnation
 00|00|00|00|00|CHK|U|Sire of the Storm
 00|00|00|00|00|BNG|U|Siren Song Lyre
 00|00|00|00|00|BNG|U|Siren of the Fanged Coast
@@ -19522,7 +19522,7 @@
 00|00|00|00|00|SOM|C|Snapsail Glider
 00|00|00|00|00|AVR|C|Snare the Skies
 00|00|00|00|00|ONS|C|Snarling Undorak
-01|00|00|00|00|EMA|M|Sneak Attack
+00|00|00|00|00|EMA|M|Sneak Attack
 00|00|00|00|00|USG|R|Sneak Attack
 00|00|00|00|00|8ED|C|Sneaky Homunculus
 00|00|00|00|00|NMS|C|Sneaky Homunculus
@@ -23340,7 +23340,7 @@
 00|00|00|00|00|M15|C|Void Snare
 00|00|00|00|00|DTK|U|Void Squall
 00|00|00|00|00|M13|R|Void Stalker
-01|00|00|00|00|BFZ|M|Void Winnower
+00|00|00|00|00|BFZ|M|Void Winnower
 00|00|00|00|00|DD2|C|Voidmage Apprentice
 00|00|00|00|00|LGN|C|Voidmage Apprentice
 00|00|00|00|00|TSP|U|Voidmage Husher
@@ -24578,7 +24578,7 @@
 02|00|00|00|00|SOK|U|Yuki-Onna
 00|00|00|00|00|BOK|R|Yukora, the Prisoner
 00|00|00|00|00|OGW|C|Zada's Commando
-00|01|00|00|00|BFZ|R|Zada, Hedron Grinder
+00|00|00|00|00|BFZ|R|Zada, Hedron Grinder
 04|00|00|00|00|GTC|U|Zameck Guildmage
 00|00|00|00|00|INV|U|Zanam Djinn
 01|00|00|00|00|RTR|U|Zanikev Locust
