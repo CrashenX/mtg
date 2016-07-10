@@ -2344,7 +2344,7 @@
 00|00|00|00|00|CSP|U|Boreal Shelf
 00|00|00|00|00|LEG|R|Boris Devilboon
 00|00|00|00|00|DGM|R|Boros Battleshaper
-00|00|00|00|00|C13|U|Boros Charm
+01|00|00|00|00|C13|U|Boros Charm
 03|00|00|00|00|GTC|U|Boros Charm
 00|00|00|00|00|DGM|C|Boros Cluestone
 08|00|00|00|00|GTC|U|Boros Elite
@@ -2445,7 +2445,7 @@
 00|00|00|00|00|CNS|C|Brainstorm
 00|00|00|00|00|CSP|S|Brainstorm
 00|00|00|00|00|DDJ|C|Brainstorm
-03|00|00|00|00|EMA|U|Brainstorm
+04|00|00|00|00|EMA|U|Brainstorm
 00|00|00|00|00|ICE|C|Brainstorm
 00|00|00|00|00|MMQ|C|Brainstorm
 00|00|00|00|00|4ED|C|Brainwash
@@ -7507,7 +7507,7 @@
 00|00|00|00|00|USG|R|Fluctuator
 00|00|00|00|00|JOU|C|Flurry of Horns
 00|00|00|00|00|ARB|U|Flurry of Wings
-00|00|00|00|00|CMD|R|Flusterstorm
+01|00|00|00|00|CMD|R|Flusterstorm
 00|00|00|00|00|POR|U|Flux
 00|00|00|00|00|WTH|C|Flux
 03|00|00|00|00|DGM|U|Fluxcharger
@@ -14642,7 +14642,7 @@
 00|00|00|00|00|DTK|C|Ojutai Interceptor
 00|00|00|00|00|DTK|U|Ojutai Monument
 00|00|00|00|00|DTK|C|Ojutai's Breath
-00|00|00|00|00|DTK|R|Ojutai's Command
+01|00|00|00|00|DTK|R|Ojutai's Command
 00|00|00|00|00|DTK|C|Ojutai's Summons
 00|00|01|00|00|FTF|R|Ojutai, Soul of Winter
 00|00|00|00|00|BOK|C|Okiba-Gang Shinobi
@@ -21013,7 +21013,7 @@
 00|00|00|00|00|CNS|U|Swords to Plowshares
 00|00|00|00|00|CSP|S|Swords to Plowshares
 04|00|00|00|00|DDF|U|Swords to Plowshares
-03|00|00|00|00|EMA|U|Swords to Plowshares
+04|00|00|00|00|EMA|U|Swords to Plowshares
 00|00|00|00|00|ICE|U|Swords to Plowshares
 00|00|00|00|00|LEA|U|Swords to Plowshares
 00|00|00|00|00|LEB|U|Swords to Plowshares
