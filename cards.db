@@ -1688,7 +1688,7 @@
 00|00|00|00|00|P02|U|Bee Sting
 00|00|00|00|00|POR|U|Bee Sting
 00|00|00|00|00|C14|U|Beetleback Chief
-00|01|00|00|00|EMA|U|Beetleback Chief
+00|00|00|00|00|EMA|U|Beetleback Chief
 00|00|00|00|00|PC2|U|Beetleback Chief
 00|00|00|00|00|DGM|C|Beetleform Mage
 00|00|00|00|00|7ED|U|Befoul
@@ -2804,7 +2804,7 @@
 00|00|00|00|00|AVR|C|Call to Serve
 00|00|00|00|00|M12|R|Call to the Grave
 00|00|00|00|00|SCG|R|Call to the Grave
-00|01|00|00|00|DKA|R|Call to the Kindred
+00|00|00|00|00|DKA|R|Call to the Kindred
 00|00|00|00|00|TSP|C|Call to the Netherworld
 00|00|00|00|00|ZEN|C|Caller of Gales
 00|00|00|00|00|LGN|R|Caller of the Claw
@@ -5155,7 +5155,7 @@
 00|00|00|00|00|ALL|R|Diminishing Returns
 01|00|00|00|00|EMA|R|Diminishing Returns
 00|00|00|00|00|CMD|C|Dimir Aqueduct
-02|02|00|00|00|MM2|U|Dimir Aqueduct
+02|00|00|00|00|MM2|U|Dimir Aqueduct
 00|00|00|00|00|PC2|C|Dimir Aqueduct
 00|00|00|00|00|RAV|C|Dimir Aqueduct
 00|00|00|00|00|GTC|U|Dimir Charm
@@ -6583,7 +6583,7 @@
 01|00|00|00|00|ARC|U|Everflowing Chalice
 00|00|00|00|00|C14|U|Everflowing Chalice
 00|00|00|00|00|DDF|U|Everflowing Chalice
-03|01|00|00|00|MM2|U|Everflowing Chalice
+03|00|00|00|00|MM2|U|Everflowing Chalice
 03|00|00|00|00|WWK|U|Everflowing Chalice
 00|00|00|00|00|C14|U|Everglades
 00|00|00|00|00|VIS|U|Everglades
@@ -11292,8 +11292,8 @@
 01|00|00|00|00|KTK|R|Kheru Lich Lord
 01|00|00|00|00|KTK|R|Kheru Spellsnatcher
 00|00|00|00|00|CHK|R|Kiki-Jiki, Mirror Breaker
-01|00|00|00|00|MM2|M|Kiki-Jiki, Mirror Breaker
-01|00|00|00|00|MMA|M|Kiki-Jiki, Mirror Breaker
+00|00|00|00|00|MM2|M|Kiki-Jiki, Mirror Breaker
+00|00|00|00|00|MMA|M|Kiki-Jiki, Mirror Breaker
 00|00|00|00|00|V11|M|Kiki-Jiki, Mirror Breaker
 02|00|00|00|00|SOK|U|Kiku's Shadow
 00|00|00|00|00|CHK|R|Kiku, Night's Flower
@@ -12629,7 +12629,7 @@
 00|00|00|00|00|BRB|S|Mana Leak
 04|00|00|00|00|M11|C|Mana Leak
 02|00|00|00|00|M12|C|Mana Leak
-00|01|00|00|00|MM2|C|Mana Leak
+00|00|00|00|00|MM2|C|Mana Leak
 00|00|00|00|00|STH|C|Mana Leak
 00|00|00|00|00|USG|U|Mana Leech
 00|00|00|00|00|LEG|R|Mana Matrix
@@ -13338,7 +13338,7 @@
 03|00|00|00|00|DST|U|Mirrodin's Core
 00|00|00|00|00|C13|R|Mirror Entity
 00|00|00|00|00|LRW|R|Mirror Entity
-01|01|00|00|00|MM2|R|Mirror Entity
+01|00|00|00|00|MM2|R|Mirror Entity
 00|00|00|00|00|BOK|R|Mirror Gallery
 00|00|00|00|00|MRD|U|Mirror Golem
 00|00|00|00|00|DTK|R|Mirror Mockery
@@ -14248,7 +14248,7 @@
 00|00|00|00|00|5DN|C|Neurok Stealthsuit
 00|00|00|00|00|DST|U|Neurok Transmuter
 00|00|00|00|00|FTF|U|Neutralizing Blast
-01|00|00|00|00|SOK|R|Neverending Torment
+00|00|00|00|00|SOK|R|Neverending Torment
 00|00|00|00|00|MOR|U|Nevermaker
 00|00|00|00|00|ISD|R|Nevermore
 00|00|00|00|00|2ED|R|Nevinyrral's Disk
@@ -14740,7 +14740,7 @@
 00|00|00|00|00|M15|C|Oppressive Rays
 00|00|00|00|00|SOK|C|Oppressive Will
 00|00|00|00|00|INV|C|Opt
-02|01|00|00|00|KTK|U|Opulent Palace
+02|00|00|00|00|KTK|U|Opulent Palace
 00|00|00|00|00|TMP|R|Oracle en-Vec
 00|00|00|00|00|BNG|R|Oracle of Bones
 00|00|00|00|00|BFZ|C|Oracle of Dust
@@ -15746,7 +15746,7 @@
 00|00|00|00|00|M11|M|Platinum Angel
 00|00|00|00|00|MRD|R|Platinum Angel
 02|00|00|00|00|SOM|M|Platinum Emperion
-04|00|00|00|00|DIS|U|Plaxcaster Frogling
+03|00|00|00|00|DIS|U|Plaxcaster Frogling
 03|00|00|00|00|MM2|U|Plaxcaster Frogling
 00|00|00|00|00|DIS|U|Plaxmanta
 00|00|00|00|00|BNG|R|Plea for Guidance
@@ -18237,7 +18237,7 @@
 00|00|00|00|00|RTR|C|Search Warrant
 00|00|00|00|00|PCY|R|Search for Survivors
 00|00|00|00|00|HOP|C|Search for Tomorrow
-01|01|00|00|00|MMA|C|Search for Tomorrow
+01|00|00|00|00|MMA|C|Search for Tomorrow
 00|00|00|00|00|TSP|C|Search for Tomorrow
 00|00|00|00|00|RTR|R|Search the City
 00|00|00|00|00|AVR|C|Searchlight Geist
@@ -20819,7 +20819,7 @@
 00|00|00|00|00|ALL|U|Surge of Strength
 00|00|00|00|00|LRW|C|Surge of Thoughtweft
 00|00|00|00|00|RAV|C|Surge of Zeal
-02|00|00|00|00|LRW|R|Surgespanner
+01|00|00|00|00|LRW|R|Surgespanner
 01|00|00|00|00|MM2|R|Surgical Extraction
 03|00|00|00|00|NPH|R|Surgical Extraction
 00|00|00|00|00|CSP|C|Surging AEther
@@ -21034,7 +21034,7 @@
 04|00|00|00|00|THS|R|Sylvan Caryatid
 00|00|00|00|00|LRW|U|Sylvan Echoes
 00|00|00|00|00|WTH|U|Sylvan Hierophant
-01|00|00|00|00|4ED|R|Sylvan Library
+00|00|00|00|00|4ED|R|Sylvan Library
 00|00|00|00|00|5ED|R|Sylvan Library
 00|00|00|00|00|CMA|R|Sylvan Library
 02|00|00|00|00|EMA|R|Sylvan Library
@@ -21336,7 +21336,7 @@
 05|00|00|00|00|THS|R|Temple of Mystery
 04|00|00|00|00|BNG|R|Temple of Plenty
 04|00|00|00|00|THS|R|Temple of Silence
-05|00|00|00|00|THS|R|Temple of Triumph
+04|00|00|00|00|THS|R|Temple of Triumph
 00|00|00|00|00|C13|U|Temple of the False God
 01|00|00|00|00|C14|U|Temple of the False God
 02|00|00|00|00|CMD|U|Temple of the False God
@@ -23780,7 +23780,7 @@
 00|00|00|00|00|TOR|C|Waste Away
 00|00|00|00|00|M15|R|Waste Not
 04|00|00|00|00|EMA|R|Wasteland
-04|00|00|00|00|TMP|U|Wasteland
+00|00|00|00|00|TMP|U|Wasteland
 00|00|00|00|00|BFZ|R|Wasteland Strangler
 02|00|00|00|00|GTC|U|Wasteland Viper
 00|00|00|00|00|OGW|C|Wastes

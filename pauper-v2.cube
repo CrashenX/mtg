@@ -20,7 +20,7 @@
 01|EMA|Aven Riftwatcher
 01|FTF|Aven Surveyor
 01|RTR|Azorius Guildgate
-00|TBD|Baleful Eidolon
+01|THS|Baleful Eidolon
 01|DST|Barbed Lightning
 01|ONS|Barren Moor
 01|DDD|Basking Rootwalla
@@ -77,7 +77,7 @@
 00|TBD|Cultivate
 01|FTF|Cunning Strike
 01|SHM|Curse of Chains
-00|TBD|Custodi Squire
+01|CSP|Custodi Squire
 01|GTC|Daring Skyjek
 01|SOI|Dauntless Cathar
 01|RTR|Dead Reveler
@@ -132,13 +132,13 @@
 01|ARC|Gathan Raiders
 01|DKA|Gather the Townsfolk
 01|ODY|Ghastly Demise
-00|TBD|Ghirapur Gearcrafter
+01|ORI|Ghirapur Gearcrafter
 01|EMA|Ghitu Slinger
-00|TBD|Ghoulcaller's Accomplice
+01|TBD|Ghoulcaller's Accomplice
 01|DPA|Giant Growth
 01|M12|Gideon's Lawkeeper
 01|OGW|Goblin Freerunner
-00|TBD|Goblin Heelcutter
+01|FTF|Goblin Heelcutter
 01|THS|Gods Willing
 01|LRW|Goldmeadow Harrier
 01|RTR|Golgari Guildgate
@@ -210,7 +210,7 @@
 01|AVR|Mist Raven
 01|EMA|Mistral Charger
 01|EMA|Mogg Fanatic
-00|TBD|Mogg Flunkies
+01|M13|Mogg Flunkies
 01|MMA|Mogg War Marshal
 01|MMA|Moldervine Cloak
 01|TSP|Momentary Blink
@@ -219,7 +219,7 @@
 01|MM2|Mulldrifter
 01|MM2|Nameless Inversion
 01|MM2|Narcolepsy
-00|TBD|Necromancer's Assistant
+01|M15|Necromancer's Assistant
 01|THS|Nessian Asp
 01|MM2|Nest Invader
 01|CHK|Nezumi Cutthroat
@@ -288,7 +288,7 @@
 01|ARC|Sakura-Tribe Elder
 01|FTF|Sandsteppe Outcast
 01|BFZ|Sandstone Bridge
-00|TBD|Sangrite Backlash
+01|ARB|Sangrite Backlash
 01|DTK|Sarkhan's Rage
 01|KTK|Savage Punch
 01|THS|Savage Surge
@@ -380,7 +380,7 @@
 01|EMA|Wakedancer
 01|MMA|Walker of the Grove
 01|ARC|Wall of Roots
-00|TBD|War Flare
+01|FTF|War Flare
 01|EMA|Warden of Evos Isle
 01|SOI|Warped Landscape
 01|MMA|Warren Pilferers
