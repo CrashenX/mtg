@@ -2419,7 +2419,7 @@
 00|00|00|00|00|CNS|C|Brago's Favor
 00|00|00|00|00|CNS|C|Brago's Representative
 00|00|00|00|00|CNS|R|Brago, King Eternal
-01|00|00|00|00|EMA|R|Brago, King Eternal
+02|00|00|00|00|EMA|R|Brago, King Eternal
 00|00|00|00|00|CSP|R|Braid of Fire
 00|00|00|00|00|EMA|R|Braids, Cabal Minion
 00|00|00|00|00|ODY|R|Braids, Cabal Minion
@@ -4020,7 +4020,7 @@
 00|00|00|00|00|BRB|S|Counterspell
 00|00|00|00|00|BTD|S|Counterspell
 00|00|00|00|00|DD2|C|Counterspell
-03|00|00|00|00|EMA|C|Counterspell
+04|00|00|00|00|EMA|C|Counterspell
 01|00|00|00|00|ICE|C|Counterspell
 00|00|00|00|00|LEA|U|Counterspell
 00|00|00|00|00|LEB|U|Counterspell
@@ -5112,7 +5112,7 @@
 00|00|00|00|00|MMQ|C|Devout Witness
 00|00|00|00|00|MOR|C|Dewdrop Spy
 00|00|00|00|00|BTD|S|Diabolic Edict
-00|00|00|00|00|TMP|C|Diabolic Edict
+02|00|00|00|00|TMP|C|Diabolic Edict
 00|00|00|00|00|PLS|R|Diabolic Intent
 00|00|00|00|00|4ED|U|Diabolic Machine
 00|00|00|00|00|5ED|U|Diabolic Machine
@@ -6040,7 +6040,7 @@
 00|00|00|00|00|OGW|C|Eldrazi Aggressor
 00|00|00|00|00|ROE|R|Eldrazi Conscription
 00|00|00|00|00|BFZ|C|Eldrazi Devastator
-00|00|00|00|00|OGW|R|Eldrazi Displacer
+04|00|00|00|00|OGW|R|Eldrazi Displacer
 00|00|00|00|00|OGW|R|Eldrazi Mimic
 00|00|00|00|00|ZEN|M|Eldrazi Monument
 00|00|00|00|00|OGW|R|Eldrazi Obligator
@@ -7451,7 +7451,7 @@
 00|00|00|00|00|PC2|C|Fling
 00|00|00|00|00|STH|C|Fling
 00|00|00|00|00|NMS|U|Flint Golem
-02|00|00|00|00|EMA|U|Flinthoof Boar
+04|00|00|00|00|EMA|U|Flinthoof Boar
 00|00|00|00|00|M13|U|Flinthoof Boar
 01|00|00|00|00|BNG|U|Flitterstep Eidolon
 00|00|00|00|00|TOR|C|Floating Shield
@@ -14176,7 +14176,7 @@
 00|00|00|00|00|M14|C|Negate
 01|00|00|00|00|M15|C|Negate
 00|00|00|00|00|MOR|C|Negate
-00|00|00|00|00|OGW|C|Negate
+02|00|00|00|00|OGW|C|Negate
 00|00|00|00|00|ORI|C|Negate
 00|00|00|00|00|SOI|U|Neglected Heirloom
 00|00|00|00|00|BOK|R|Neko-Te
@@ -16242,7 +16242,7 @@
 03|00|00|00|00|MMA|C|Pyrite Spellbomb
 00|00|00|00|00|MRD|C|Pyrite Spellbomb
 00|00|00|00|00|5ED|U|Pyroblast
-00|00|00|00|00|EMA|U|Pyroblast
+02|00|00|00|00|EMA|U|Pyroblast
 00|00|00|00|00|ICE|C|Pyroblast
 00|00|00|00|00|10E|U|Pyroclasm
 00|00|00|00|00|7ED|U|Pyroclasm
@@ -16485,7 +16485,7 @@
 00|00|00|00|00|S99|C|Raise Dead
 00|00|00|00|00|DDF|C|Raise the Alarm
 00|00|00|00|00|DDO|C|Raise the Alarm
-02|00|00|00|00|EMA|C|Raise the Alarm
+04|00|00|00|00|EMA|C|Raise the Alarm
 00|00|00|00|00|M15|C|Raise the Alarm
 00|00|00|00|00|MD1|C|Raise the Alarm
 00|00|00|00|00|MM2|C|Raise the Alarm
@@ -16769,7 +16769,7 @@
 00|00|00|00|00|UDS|C|Reckless Abandon
 00|00|00|00|00|INV|R|Reckless Assault
 00|00|00|00|00|M13|C|Reckless Brute
-00|00|00|00|00|OGW|U|Reckless Bushwhacker
+04|00|00|00|00|OGW|U|Reckless Bushwhacker
 02|00|00|00|00|EMA|C|Reckless Charge
 00|00|00|00|00|HOP|C|Reckless Charge
 00|00|00|00|00|ODY|C|Reckless Charge
@@ -23438,7 +23438,7 @@
 00|00|00|00|00|RAV|U|Voyager Staff
 00|00|00|00|00|THS|C|Voyaging Satyr
 00|00|00|00|00|RTR|M|Vraska the Unseen
-00|00|00|00|00|ORI|R|Vryn Wingmare
+01|00|00|00|00|ORI|R|Vryn Wingmare
 00|00|00|00|00|USG|U|Vug Lizard
 00|00|00|00|00|THS|C|Vulpine Goliath
 00|00|00|00|00|DDI|U|Vulshok Battlegear
@@ -24061,7 +24061,7 @@
 00|00|00|00|00|PCY|C|Wild Might
 00|00|00|00|00|DDD|C|Wild Mongrel
 00|00|00|00|00|ODY|C|Wild Mongrel
-00|00|00|00|00|ALA|C|Wild Nacatl
+04|00|00|00|00|ALA|C|Wild Nacatl
 00|00|00|00|00|DDH|C|Wild Nacatl
 00|00|00|00|00|P02|U|Wild Ox
 00|00|00|00|00|S99|U|Wild Ox
@@ -24235,7 +24235,7 @@
 00|00|00|00|00|ONS|C|Wirewood Pride
 00|00|00|00|00|DDD|C|Wirewood Savage
 00|00|00|00|00|ONS|C|Wirewood Savage
-01|00|00|00|00|EMA|U|Wirewood Symbiote
+04|00|00|00|00|EMA|U|Wirewood Symbiote
 02|00|00|00|00|EVG|U|Wirewood Symbiote
 02|00|00|00|00|SCG|U|Wirewood Symbiote
 00|00|00|00|00|MMQ|U|Wishmonger
@@ -24592,7 +24592,7 @@
 00|00|00|00|00|SCG|C|Zealous Inquisitor
 00|00|00|00|00|ARB|U|Zealous Persecution
 00|00|00|00|00|DDK|U|Zealous Persecution
-01|00|00|00|00|EMA|U|Zealous Persecution
+04|00|00|00|00|EMA|U|Zealous Persecution
 04|00|00|00|00|MD1|U|Zealous Persecution
 00|00|00|00|00|AVR|C|Zealous Strike
 00|00|00|00|00|MIR|U|Zebra Unicorn
