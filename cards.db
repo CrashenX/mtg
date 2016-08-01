@@ -47,7 +47,7 @@
 00|00|00|00|00|M15|R|AEtherspouts
 00|00|00|00|00|SHM|C|AEthertow
 00|00|00|00|00|TMP|U|Abandon Hope
-00|00|00|00|00|EMN|U|Abandon Reason
+01|00|00|00|00|EMN|U|Abandon Reason
 00|00|00|00|00|ODY|C|Abandoned Outpost
 03|00|00|00|00|ISD|U|Abattoir Ghoul
 00|00|00|00|00|5ED|U|Abbey Gargoyles
@@ -88,7 +88,7 @@
 00|00|00|00|00|USG|R|Abundance
 00|00|00|00|00|AVR|C|Abundant Growth
 02|00|00|00|00|EMA|C|Abundant Growth
-00|00|00|00|00|EMN|U|Abundant Maw
+01|00|00|00|00|EMN|U|Abundant Maw
 00|00|00|00|00|DDC|C|Abyssal Gatekeeper
 00|00|00|00|00|WTH|C|Abyssal Gatekeeper
 00|00|00|00|00|7ED|R|Abyssal Horror
@@ -1936,7 +1936,7 @@
 00|00|00|00|00|ISD|C|Blazing Torch
 04|00|00|00|00|ZEN|U|Blazing Torch
 00|00|00|00|00|SOM|C|Bleak Coven Vampires
-02|00|00|00|00|EMN|U|Blessed Alliance
+04|00|00|00|00|EMN|U|Blessed Alliance
 00|00|00|00|00|CHK|C|Blessed Breath
 00|00|00|00|00|9ED|U|Blessed Orator
 00|00|00|00|00|ODY|U|Blessed Orator
@@ -3534,7 +3534,7 @@
 00|00|00|00|00|RAV|U|Cleansing Beam
 00|00|00|00|00|TOR|U|Cleansing Meditation
 00|00|00|00|00|USG|U|Clear
-00|00|00|00|00|EMN|U|Clear Shot
+02|00|00|00|00|EMN|U|Clear Shot
 00|00|00|00|00|DGM|C|Clear a Path
 00|00|00|00|00|M15|C|Clear a Path
 00|00|00|00|00|MMQ|R|Clear the Land
@@ -4064,7 +4064,7 @@
 00|00|00|00|00|DDH|U|Countersquall
 01|00|00|00|00|MMA|R|Countryside Crusher
 00|00|00|00|00|MOR|R|Countryside Crusher
-00|00|00|00|00|EMN|U|Courageous Outrider
+01|00|00|00|00|EMN|U|Courageous Outrider
 00|00|00|00|00|BFZ|C|Courier Griffin
 00|00|00|00|00|CNS|C|Courier Hawk
 00|00|00|00|00|RAV|C|Courier Hawk
@@ -5052,7 +5052,7 @@
 00|00|00|00|00|ISD|C|Deranged Assistant
 00|00|00|00|00|ULG|R|Deranged Hermit
 00|00|00|00|00|DKA|R|Deranged Outcast
-00|00|00|00|00|EMN|U|Deranged Whelp
+01|00|00|00|00|EMN|U|Deranged Whelp
 00|00|00|00|00|5ED|R|Derelor
 00|00|00|00|00|6ED|R|Derelor
 00|00|00|00|00|FEM|R|Derelor
@@ -5778,7 +5778,7 @@
 00|00|00|00|00|SHM|C|Drowner Initiate
 00|00|00|00|00|BFZ|R|Drowner of Hope
 00|00|00|00|00|LRW|U|Drowner of Secrets
-00|00|00|00|00|EMN|U|Drownyard Behemoth
+01|00|00|00|00|EMN|U|Drownyard Behemoth
 00|00|00|00|00|SOI|C|Drownyard Explorers
 01|00|00|00|00|SOI|R|Drownyard Temple
 00|00|00|00|00|RTR|C|Drudge Beetle
@@ -7840,7 +7840,7 @@
 00|00|00|00|00|SHM|U|Fossil Find
 00|00|00|00|00|C13|R|Foster
 00|00|00|00|00|MMQ|R|Foster
-00|00|00|00|00|EMN|U|Foul Emissary
+03|00|00|00|00|EMN|U|Foul Emissary
 00|00|00|00|00|DKM|S|Foul Familiar
 00|00|00|00|00|ICE|C|Foul Familiar
 00|00|00|00|00|7ED|U|Foul Imp
@@ -8170,7 +8170,7 @@
 00|00|00|00|00|AVR|C|Geist Trappers
 04|00|00|00|00|ISD|M|Geist of Saint Traft
 00|00|00|00|00|EMN|U|Geist of the Archives
-03|00|00|00|00|EMN|U|Geist of the Lonely Vigil
+04|00|00|00|00|EMN|U|Geist of the Lonely Vigil
 00|00|00|00|00|M15|U|Geist of the Moors
 00|00|00|00|00|EMN|U|Geist-Fueled Scarecrow
 01|00|00|00|00|C14|R|Geist-Honored Monk
@@ -9423,7 +9423,7 @@
 00|00|00|00|00|ZEN|R|Halo Hunter
 02|00|00|00|00|SOM|U|Halt Order
 02|00|00|00|00|ISD|U|Hamlet Captain
-03|00|00|00|00|EMN|U|Hamlet Captain
+04|00|00|00|00|EMN|U|Hamlet Captain
 00|00|01|00|00|LRW|R|Hamletback Goliath
 00|00|00|00|00|M13|R|Hamletback Goliath
 00|00|00|00|00|MMQ|U|Hammer Mage
@@ -11840,7 +11840,7 @@
 00|00|00|00|00|THS|C|Lash of the Whip
 00|00|00|00|00|NMS|C|Lashknife
 00|00|00|00|00|PLS|U|Lashknife Barrier
-00|00|00|00|00|EMN|U|Lashweed Lurker
+01|00|00|00|00|EMN|U|Lashweed Lurker
 00|00|00|00|00|C14|R|Lashwrithe
 01|00|00|00|00|NPH|R|Lashwrithe
 00|00|00|00|00|MMQ|U|Last Breath
@@ -12182,7 +12182,7 @@
 00|00|00|00|00|M14|M|Liliana of the Dark Realms
 04|00|00|00|00|ISD|M|Liliana of the Veil
 00|00|00|00|00|M11|U|Liliana's Caress
-00|00|00|00|00|EMN|U|Liliana's Elite
+01|00|00|00|00|EMN|U|Liliana's Elite
 00|00|00|00|00|SOI|U|Liliana's Indignation
 00|00|00|00|00|C14|R|Liliana's Reaver
 00|00|00|00|00|M14|R|Liliana's Reaver
@@ -13567,7 +13567,7 @@
 01|00|00|00|00|C14|R|Mobilization
 00|00|00|00|00|ONS|R|Mobilization
 00|00|00|00|00|POR|C|Mobilize
-00|00|00|00|00|EMN|U|Mockery of Nature
+01|00|00|00|00|EMN|U|Mockery of Nature
 00|00|00|00|00|NMS|U|Mogg Alarm
 00|00|00|00|00|EXO|U|Mogg Assassin
 00|00|00|00|00|STH|C|Mogg Bombers
@@ -18559,7 +18559,7 @@
 00|00|00|00|00|ISD|C|Selfless Cathar
 00|00|00|00|00|M15|C|Selfless Cathar
 00|00|00|00|00|JUD|R|Selfless Exorcist
-03|00|00|00|00|EMN|R|Selfless Spirit
+04|00|00|00|00|EMN|R|Selfless Spirit
 00|00|00|00|00|ISD|C|Selhoff Occultist
 00|00|00|00|00|EVE|U|Selkie Hedge-Mage
 00|00|00|00|00|RAV|C|Sell-Sword Brute
@@ -19025,7 +19025,7 @@
 00|00|00|00|00|MRD|U|Shrapnel Blast
 00|00|00|00|00|RAV|C|Shred Memory
 00|00|00|00|00|THS|C|Shredding Winds
-00|00|00|00|00|EMN|U|Shreds of Sanity
+01|00|00|00|00|EMN|U|Shreds of Sanity
 00|00|00|00|00|DDJ|U|Shrewd Hatchling
 00|00|00|00|00|EVE|U|Shrewd Hatchling
 03|00|00|00|00|MM2|U|Shrewd Hatchling
@@ -19044,7 +19044,7 @@
 00|00|00|00|00|DDH|U|Shriekmaw
 00|00|00|00|00|LRW|U|Shriekmaw
 01|00|00|00|00|BNG|U|Shrike Harpy
-00|00|00|00|00|EMN|U|Shrill Howler
+01|00|00|00|00|EMN|U|Shrill Howler
 02|00|00|00|00|NPH|U|Shrine of Boundless Growth
 00|00|00|00|00|NPH|U|Shrine of Burning Rage
 02|00|00|00|00|NPH|U|Shrine of Limitless Power
@@ -19527,7 +19527,7 @@
 01|00|00|00|00|DDE|U|Slay
 00|00|00|00|00|PLS|U|Slay
 03|00|00|00|00|ISD|U|Slayer of the Wicked
-00|00|00|00|00|EMN|U|Slayer's Cleaver
+01|00|00|00|00|EMN|U|Slayer's Cleaver
 00|00|00|00|00|SOI|R|Slayer's Plate
 02|00|00|00|00|AVR|R|Slayers' Stronghold
 07|00|00|00|00|M10|U|Sleep
@@ -19647,7 +19647,7 @@
 02|00|00|00|00|BFZ|R|Smoldering Marsh
 00|00|00|00|00|WWK|C|Smoldering Spires
 00|00|00|00|00|INV|U|Smoldering Tar
-00|00|00|00|00|EMN|U|Smoldering Werewolf
+01|00|00|00|00|EMN|U|Smoldering Werewolf
 00|00|00|00|00|DDP|U|Smother
 00|00|00|00|00|ONS|U|Smother
 02|00|00|00|00|WWK|U|Smother
@@ -20764,7 +20764,7 @@
 00|00|00|00|00|EMN|R|Stromkirk Condemned
 00|00|00|00|00|SOI|C|Stromkirk Mentor
 00|00|00|00|00|ISD|R|Stromkirk Noble
-00|00|00|00|00|EMN|R|Stromkirk Occultist
+01|00|00|00|00|EMN|R|Stromkirk Occultist
 00|00|00|00|00|ISD|C|Stromkirk Patrol
 00|00|00|00|00|DTK|U|Strongarm Monk
 00|00|00|00|00|ONS|R|Strongarm Tactics
@@ -24056,7 +24056,7 @@
 00|00|00|00|00|ULG|R|Weatherseed Treefolk
 00|00|00|00|00|KTK|C|Weave Fate
 00|00|00|00|00|LGN|R|Weaver of Lies
-00|00|00|00|00|EMN|U|Weaver of Lightning
+01|00|00|00|00|EMN|U|Weaver of Lightning
 00|00|00|00|00|2ED|R|Web
 00|00|00|00|00|3ED|R|Web
 00|00|00|00|00|4ED|R|Web
