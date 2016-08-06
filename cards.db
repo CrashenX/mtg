@@ -12191,7 +12191,7 @@
 00|00|00|00|00|M11|C|Liliana's Specter
 00|00|00|00|00|PC2|C|Liliana's Specter
 00|00|00|00|00|ORI|M|Liliana, Heretical Healer
-00|00|00|00|00|EMN|M|Liliana, the Last Hope
+02|00|00|00|00|EMN|M|Liliana, the Last Hope
 00|00|00|00|00|USG|U|Lilting Refrain
 00|00|00|00|00|DKM|S|Lim-Dul's High Guard
 00|00|00|00|00|DKM|S|Lim-Dul's High Guard
@@ -13656,7 +13656,7 @@
 00|00|00|00|00|DTK|C|Monastery Loremaster
 04|00|00|00|00|FTF|M|Monastery Mentor
 00|00|00|00|00|FTF|R|Monastery Siege
-01|00|00|00|00|KTK|U|Monastery Swiftspear
+02|00|00|00|00|KTK|U|Monastery Swiftspear
 00|00|00|00|00|DKA|R|Mondronen Shaman
 00|00|00|00|00|TMP|R|Mongrel Pack
 02|01|00|00|00|EMA|C|Monk Idealist
@@ -14099,7 +14099,7 @@
 00|00|00|00|00|SOI|C|Nagging Thoughts
 00|00|00|00|00|SOI|U|Nahiri's Machinations
 00|00|00|00|00|EMN|M|Nahiri's Wrath
-01|00|00|00|00|SOI|M|Nahiri, the Harbinger
+04|00|00|00|00|SOI|M|Nahiri, the Harbinger
 01|00|00|00|00|C14|M|Nahiri, the Lithomancer
 00|00|00|00|00|PCY|U|Nakaya Shade
 00|00|00|00|00|ICE|R|Naked Singularity
@@ -20305,7 +20305,7 @@
 00|00|00|00|00|JUD|U|Spurnmage Advocate
 00|00|00|00|00|ONS|C|Spurred Wolverine
 00|00|00|00|00|ONS|C|Spy Network
-02|00|00|00|00|EMA|C|Squadron Hawk
+08|00|00|00|00|EMA|C|Squadron Hawk
 04|00|00|00|00|M11|C|Squadron Hawk
 00|00|00|00|00|7ED|C|Squall
 00|00|00|00|00|MMQ|C|Squall
