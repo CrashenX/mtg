@@ -993,7 +993,7 @@
 00|00|00|00|00|ISD|C|Armored Skaab
 00|00|00|00|00|GTC|C|Armored Transport
 00|00|00|00|00|M12|C|Armored Warhorse
-00|01|00|00|00|DGM|C|Armored Wolf-Rider
+00|00|00|00|00|DGM|C|Armored Wolf-Rider
 00|00|00|00|00|MIR|C|Armorer Guildmage
 00|00|00|00|00|RTR|C|Armory Guard
 00|00|00|00|00|JOU|U|Armory of Iroas
@@ -1506,7 +1506,7 @@
 00|00|00|00|00|ODY|U|Barbarian Ring
 00|00|00|00|00|PD2|U|Barbarian Ring
 00|00|00|00|00|LEG|C|Barbary Apes
-02|01|00|00|00|SOM|U|Barbed Battlegear
+02|00|00|00|00|SOM|U|Barbed Battlegear
 00|00|00|00|00|PCY|U|Barbed Field
 00|00|00|00|00|MIR|U|Barbed Foliage
 00|00|00|00|00|DST|C|Barbed Lightning
@@ -1884,7 +1884,7 @@
 00|01|00|00|00|MM2|C|Blades of Velis Vel
 00|00|00|00|00|JOU|C|Bladetusk Boar
 00|00|00|00|00|M13|C|Bladetusk Boar
-00|01|00|00|00|ZEN|C|Bladetusk Boar
+00|00|00|00|00|ZEN|C|Bladetusk Boar
 00|00|00|00|00|CMD|R|Bladewing the Risen
 00|00|00|00|00|DRB|R|Bladewing the Risen
 00|00|00|00|00|SCG|R|Bladewing the Risen
@@ -2612,7 +2612,7 @@
 00|00|00|00|00|ROE|C|Brood Birthing
 01|00|00|00|00|BFZ|R|Brood Butcher
 00|00|00|00|00|M15|U|Brood Keeper
-01|01|00|00|00|BFZ|U|Brood Monitor
+01|00|00|00|00|BFZ|U|Brood Monitor
 00|00|00|00|00|H09|R|Brood Sliver
 00|00|00|00|00|LGN|R|Brood Sliver
 00|00|00|00|00|VIS|U|Brood of Cockroaches
@@ -3041,7 +3041,7 @@
 00|00|00|00|00|MMQ|U|Caustic Wasps
 00|00|00|00|00|PLC|U|Cautery Sliver
 00|00|00|00|00|TSP|U|Cavalry Master
-00|01|00|00|00|THS|C|Cavalry Pegasus
+00|00|00|00|00|THS|C|Cavalry Pegasus
 00|00|00|00|00|4ED|U|Cave People
 00|00|00|00|00|5ED|U|Cave People
 00|00|00|00|00|DRK|R|Cave People

@@ -10,7 +10,7 @@
 01|M12|Arachnus Web
 01|KTK|Arc Lightning
 01|C13|Armillary Sphere
-00|M12|Guardians' Pledge
+01|M12|Guardians' Pledge
 # 00|ARN|Army of Allah
 01|MM2|Arrest
 01|ORI|Artificer's Epiphany
@@ -25,7 +25,7 @@
 01|DST|Barbed Lightning
 01|ONS|Barren Moor
 01|DDD|Basking Rootwalla
-00|JUD|Battle Screech
+01|JUD|Battle Screech
 01|EMA|Beetleback Chief
 01|DGM|Beetleform Mage
 01|BFZ|Benthic Infiltrator
@@ -48,14 +48,14 @@
 01|C15|Cage of Hands
 01|WWK|Calcite Snapper
 01|TMP|Capsize
-00|UNH|Carnivorous Death-Parrot
+01|UNH|Carnivorous Death-Parrot
 01|MM2|Cathodion
 01|PLS|Cavern Harpy
 01|RTR|Centaur Healer
 01|DTK|Center Soul
 01|EMA|Cephalid Sage
 01|EMA|Chain Lightning
-00|DDC|Cruel Edict
+01|DDC|Cruel Edict
 # 00|TOR|Chainer's Edict
 01|MMA|Citanul Woodreaders
 01|ISD|Claustrophobia
@@ -76,7 +76,7 @@
 01|SOI|Crow of Dark Tidings
 01|VIS|Crypt Rats
 01|ARB|Crystallization
-00|M11|Cultivate
+01|M11|Cultivate
 01|FTF|Cunning Strike
 01|SHM|Curse of Chains
 01|CSP|Custodi Squire
@@ -90,7 +90,7 @@
 01|DGM|Deputy of Acquittals
 01|TSB|Desert
 01|GTC|Devour Flesh
-00|TMP|Diabolic Edict
+01|TMP|Diabolic Edict
 01|GTC|Dimir Guildgate
 01|ZEN|Disfigure
 01|EMA|Dismal Backwater
@@ -203,8 +203,8 @@
 01|KTK|Mardu Hordechief
 01|KTK|Mardu Skullhunter
 01|NPH|Maul Splicer
-00|DST|Whispersilk Cloak
-# 01|EMA|Maze of Ith
+01|DST|Whispersilk Cloak
+# 00|EMA|Maze of Ith
 01|DDP|Mind Stone
 01|THS|Minotaur Skullcleaver
 01|BFZ|Mire's Malice
@@ -253,7 +253,7 @@
 01|DDG|Plover Knights
 01|NPH|Porcelain Legionnaire
 01|INV|Pouncing Kavu
-00|EMA|Twisted Abomination
+01|EMA|Twisted Abomination
 # 00|PO2|Predatory Nightstalker
 01|M11|Preordain
 01|ISD|Prey Upon
@@ -335,8 +335,8 @@
 01|M12|Stormfront Pegasus
 01|INV|Stormscape Apprentice
 01|SOM|Strider Harness
-00|CSP|Quicksand
-# 01|4ED|Strip Mine
+01|CSP|Quicksand
+# 00|4ED|Strip Mine
 01|KTK|Sultai Scavenger
 01|ORI|Suppression Bonds
 01|TSP|Suq'Ata Lancer
@@ -369,7 +369,7 @@
 01|MM2|Ulamog's Crusher
 01|DKA|Undying Evil
 01|EMA|Undying Rage
-00|ULG|Unearth
+01|ULG|Unearth
 01|ARC|Unmake
 01|BFZ|Unnatural Aggression
 01|OGW|Vampire Envoy
@@ -396,7 +396,7 @@
 01|EVE|Wickerbough Elder
 01|ORI|Wild Instincts
 01|DDD|Wild Mongrel
-00|ALA|Wild Nacatl
+01|ALA|Wild Nacatl
 01|EVG|Wildsize
 01|M15|Will-Forged Golem
 01|FTF|Wind-Scarred Crag
