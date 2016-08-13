@@ -2359,7 +2359,7 @@
 00|00|00|00|00|LEG|R|Boris Devilboon
 00|00|00|00|00|DGM|R|Boros Battleshaper
 01|00|00|00|00|C13|U|Boros Charm
-03|00|00|00|00|GTC|U|Boros Charm
+04|00|00|00|00|GTC|U|Boros Charm
 00|00|00|00|00|DGM|C|Boros Cluestone
 08|00|00|00|00|GTC|U|Boros Elite
 00|00|00|00|00|RAV|C|Boros Fury-Shield
@@ -2713,7 +2713,7 @@
 00|00|00|00|00|V14|M|Burning of Xinye
 00|00|00|00|00|SOK|U|Burning-Eye Zubera
 00|00|00|00|00|GPT|C|Burning-Tree Bloodscale
-01|00|00|00|00|GTC|U|Burning-Tree Emissary
+02|00|00|00|00|GTC|U|Burning-Tree Emissary
 00|00|00|00|00|GPT|R|Burning-Tree Shaman
 00|00|00|00|00|C14|U|Burnished Hart
 01|00|00|00|00|THS|U|Burnished Hart
@@ -4850,7 +4850,7 @@
 00|00|00|00|00|CNS|U|Deathreap Ritual
 00|00|00|00|00|CNS|R|Deathrender
 00|00|00|00|00|LRW|R|Deathrender
-04|00|00|00|00|EMA|R|Deathrite Shaman
+05|00|00|00|00|EMA|R|Deathrite Shaman
 04|00|00|00|00|RTR|R|Deathrite Shaman
 00|00|00|00|00|TSP|C|Deathspore Thallid
 00|00|00|00|00|KTK|C|Debilitating Injury
@@ -8261,7 +8261,7 @@
 00|00|00|00|00|ULG|C|Ghitu Slinger
 00|00|00|00|00|ULG|U|Ghitu War Cry
 00|00|00|00|00|GPT|U|Ghor-Clan Bloodscale
-00|00|00|00|00|GTC|U|Ghor-Clan Rampager
+02|00|00|00|00|GTC|U|Ghor-Clan Rampager
 00|00|00|00|00|GPT|C|Ghor-Clan Savage
 00|00|00|00|00|GPT|R|Ghost Council of Orzhova
 01|00|00|00|00|MM2|R|Ghost Council of Orzhova
@@ -8416,7 +8416,7 @@
 00|00|00|00|00|M12|C|Gideon's Lawkeeper
 00|00|00|00|00|ORI|R|Gideon's Phalanx
 00|00|00|00|00|BFZ|C|Gideon's Reproach
-01|00|00|00|00|BFZ|M|Gideon, Ally of Zendikar
+02|00|00|00|00|BFZ|M|Gideon, Ally of Zendikar
 00|00|00|00|00|GTC|M|Gideon, Champion of Justice
 00|00|00|00|00|9ED|U|Gift of Estates
 01|00|00|00|00|C14|U|Gift of Estates
@@ -13656,7 +13656,7 @@
 00|00|00|00|00|DTK|C|Monastery Loremaster
 04|00|00|00|00|FTF|M|Monastery Mentor
 00|00|00|00|00|FTF|R|Monastery Siege
-02|00|00|00|00|KTK|U|Monastery Swiftspear
+04|00|00|00|00|KTK|U|Monastery Swiftspear
 00|00|00|00|00|DKA|R|Mondronen Shaman
 00|00|00|00|00|TMP|R|Mongrel Pack
 02|01|00|00|00|EMA|C|Monk Idealist
@@ -14150,7 +14150,7 @@
 00|00|00|00|00|BFZ|C|Natural Connection
 00|00|00|00|00|PLS|R|Natural Emergence
 00|00|00|00|00|AVR|C|Natural End
-02|00|00|00|00|EMA|M|Natural Order
+03|00|00|00|00|EMA|M|Natural Order
 00|00|00|00|00|POR|R|Natural Order
 00|00|00|00|00|VIS|R|Natural Order
 00|00|00|00|00|2ED|R|Natural Selection
@@ -20891,7 +20891,7 @@
 00|00|00|00|00|MRD|U|Sun Droplet
 00|00|00|00|00|PTK|R|Sun Quan, Lord of Wu
 00|00|00|00|00|V11|M|Sun Quan, Lord of Wu
-03|00|00|00|00|C14|M|Sun Titan
+04|00|00|00|00|C14|M|Sun Titan
 00|00|00|00|00|M11|M|Sun Titan
 01|00|00|00|00|M12|M|Sun Titan
 00|00|00|00|00|CSP|C|Sun's Bounty
@@ -21754,7 +21754,7 @@
 00|00|00|00|00|LRW|C|Thieving Sprite
 02|00|00|00|00|MMA|C|Thieving Sprite
 00|00|00|00|00|POR|R|Thing from the Deep
-01|00|00|00|00|SOI|R|Thing in the Ice
+02|00|00|00|00|SOI|R|Thing in the Ice
 00|00|00|00|00|ODY|U|Think Tank
 00|00|00|00|00|ISD|C|Think Twice
 00|00|00|00|00|TSP|C|Think Twice
