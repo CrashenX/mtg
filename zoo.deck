@@ -1,25 +1,24 @@
 # Creatures [30]
-04|00|Burning-Tree Emissary
-04|00|Experiment One
-04|00|Flinthoof Boar
-02|00|Ghor-Clan Rampager
+00|04|Burning-Tree Emissary
+00|04|Experiment One
+00|04|Flinthoof Boar
+00|02|Ghor-Clan Rampager
 04|00|Goblin Guide
-04|00|Kird Ape
-04|00|Reckless Bushwhacker
-04|00|Wild Nacatl
+00|04|Kird Ape
+00|04|Reckless Bushwhacker
+00|04|Wild Nacatl
 # Spells [12]
-04|00|Atarka's Command
-04|00|Lightning Bolt
-02|00|Mutagenic Growth
-02|00|Rancor
+00|04|Atarka's Command
+00|04|Lightning Bolt
+00|02|Mutagenic Growth
+00|02|Rancor
 # Lands [18]
-02|00|Bloodstained Mire
+04|00|Bloodstained Mire
 01|00|Forest
 01|00|Mountain
 01|00|Sacred Foundry
 02|00|Stomping Ground
 01|00|Temple Garden
-02|00|Verdant Catacombs
 04|00|Windswept Heath
 04|00|Wooded Foothills
 # Sideboard
