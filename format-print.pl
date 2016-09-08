@@ -448,6 +448,9 @@ my %sets = ( "LEA" => { order => 199308,
            , "EMN" => { order => 201607,
                         name => 'Eldritch Moon'
                       }
+           , "CN2" => { order => 201608,
+                        name => 'Conspiracy: Take the Crown'
+                      }
            );
 
 sub set_sort()
