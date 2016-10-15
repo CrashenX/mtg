@@ -340,6 +340,9 @@ my %sets = ( "LEA" => { order => 199308,
            , "DDP" => { order => 201508,
                         name => 'Duel Decks: Zendikar vs. Eldrazi'
                       }
+           , "DDQ" => { order => 201602,
+                        name => 'Duel Decks: Blessed vs. Cursed'
+                      }
            , "DRB" => { order => 200808,
                         name => 'From the Vault: Dragons Wings of a Dragon'
                       }
@@ -387,6 +390,9 @@ my %sets = ( "LEA" => { order => 199308,
                       }
            , "C14" => { order => 201411,
                         name => 'Commander 2014'
+                      }
+           , "C15" => { order => 201511,
+                        name => 'Commander 2015'
                       }
            , "CNS" => { order => 201406,
                         name => 'Conspiracy'
