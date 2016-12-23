@@ -20263,7 +20263,7 @@
 00|00|00|00|00|INV|U|Slinking Serpent
 00|00|00|00|00|UDS|C|Slinking Skirge
 00|00|00|00|00|OGW|C|Slip Through Space
-01|00|00|00|00|EVE|C|Slippery Bogle
+03|00|00|00|00|EVE|C|Slippery Bogle
 00|00|00|00|00|ATH|S|Slippery Karst
 00|00|00|00|00|BRB|S|Slippery Karst
 00|00|00|00|00|BTD|S|Slippery Karst
@@ -24622,7 +24622,7 @@
 00|00|00|00|00|OGW|U|Wall of Resurgence
 00|00|00|00|00|C13|R|Wall of Reverence
 00|00|00|00|00|CON|R|Wall of Reverence
-00|00|00|00|00|ARC|C|Wall of Roots
+01|00|00|00|00|ARC|C|Wall of Roots
 00|00|00|00|00|MIR|C|Wall of Roots
 00|00|00|00|00|TSB|S|Wall of Roots
 00|00|00|00|00|CHR|C|Wall of Shadows
