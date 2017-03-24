@@ -460,6 +460,12 @@ my %sets = ( "LEA" => { order => 199308,
            , "KLD" => { order => 201609,
                         name => 'Kaladesh'
                       }
+           , "AER" => { order => 201701,
+                        name => 'Aether Revolt'
+                      }
+           , "MM3" => { order => 201703,
+                        name => 'Modern Masters 2017 Edition'
+                      }
            );
 
 sub set_sort()
