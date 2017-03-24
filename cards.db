@@ -3689,7 +3689,7 @@
 00|00|00|00|00|ZEN|C|Cliff Threader
 00|00|00|00|00|OGW|U|Cliffhaven Vampire
 00|00|00|00|00|CON|R|Cliffrunner Behemoth
-00|01|00|00|00|BFZ|C|Cliffside Lookout
+00|00|00|00|00|BFZ|C|Cliffside Lookout
 04|00|00|00|00|ISD|R|Clifftop Retreat
 00|01|00|00|00|GTC|C|Clinging Anemones
 00|00|00|00|00|RAV|C|Clinging Darkness
@@ -13384,7 +13384,7 @@
 00|00|00|00|00|DDP|U|Marsh Casualties
 04|00|00|00|00|ZEN|U|Marsh Casualties
 00|00|00|00|00|PLS|U|Marsh Crocodile
-04|00|00|00|00|ZEN|R|Marsh Flats
+03|00|00|00|00|ZEN|R|Marsh Flats
 00|00|00|00|00|LRW|U|Marsh Flitter
 00|00|00|00|00|MMA|U|Marsh Flitter
 00|00|00|00|00|4ED|C|Marsh Gas
@@ -14049,7 +14049,7 @@
 01|00|00|00|00|SHM|U|Mistveil Plains
 00|00|00|00|00|ARB|C|Mistvein Borderpost
 00|00|00|00|00|ARC|C|Mistvein Borderpost
-01|00|00|00|00|ZEN|R|Misty Rainforest
+00|00|00|00|00|ZEN|R|Misty Rainforest
 01|00|00|00|00|MBS|R|Mitotic Manipulation
 02|00|00|00|00|M11|R|Mitotic Slime
 00|00|00|00|00|PC2|R|Mitotic Slime
@@ -22145,7 +22145,7 @@
 00|00|00|00|00|6ED|R|Tariff
 00|00|00|00|00|WTH|R|Tariff
 00|00|00|00|00|FUT|R|Tarmogoyf
-01|00|00|00|00|MM2|M|Tarmogoyf
+00|00|00|00|00|MM2|M|Tarmogoyf
 00|00|00|00|00|MMA|M|Tarmogoyf
 00|00|00|00|00|ODY|R|Tarnished Citadel
 00|00|00|00|00|FUT|R|Tarox Bladewing
