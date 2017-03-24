@@ -1,12 +1,12 @@
 # NORM|TEXTLESS|SET|NAME
 04|00|MMA|AEther Vial
-04|00|RTR|Abrupt Decay
+04|00|MM3|Abrupt Decay
 04|00|SOM|Accorder's Shield
 04|00|JOU|Aegis of the Gods
 04|00|MRD|Ancient Den
 04|00|MMA|Angel's Grace
 04|00|MMA|Arcbound Ravager
-04|00|ZEN|Arid Mesa
+04|00|MM3|Arid Mesa
 01|00|V14|Armageddon
 04|00|MRD|Auriok Steelshaper
 04|00|3ED|Badlands
@@ -26,6 +26,7 @@
 04|00|GTC|Breeding Pool
 02|00|BFZ|Canopy Vista
 04|00|AVR|Cavern of Souls
+04|00|MM3|Cavern of Souls
 04|00|ORI|Caves of Koilos
 04|00|MMA|Chalice of the Void
 04|00|ISD|Champion of the Parish
@@ -103,19 +104,19 @@
 04|00|MBS|Leonin Relic-Warder
 02|00|MMA|Life from the Loam
 04|00|MM2|Lightning Bolt
-04|00|ISD|Liliana of the Veil
+04|00|MM3|Liliana of the Veil
 05|00|DKA|Lingering Souls
 04|00|ORI|Llanowar Wastes
 04|00|TMP|Lotus Petal
 04|00|RTR|Loxodon Smiter
-04|00|ZEN|Marsh Flats
+04|00|MM3|Marsh Flats
 01|00|EMA|Maze of Ith
 04|00|ARB|Meddling Mage
 04|00|SOM|Memnite
 04|00|MM2|Mirran Crusader
 04|00|CSP|Mishra's Bauble
 04|00|EMA|Mishra's Factory
-04|00|ZEN|Misty Rainforest
+04|00|MM3|Misty Rainforest
 04|00|FTF|Monastery Mentor
 04|00|EMA|Mother of Runes
 04|00|SOM|Mox Opal
@@ -147,7 +148,7 @@
 04|00|M13|Rootbound Crag
 04|00|GTC|Sacred Foundry
 04|00|3ED|Savannah
-04|00|ZEN|Scalding Tarn
+04|00|MM3|Scalding Tarn
 04|00|M14|Scavenging Ooze
 04|00|3ED|Scrubland
 04|00|SOM|Seachrome Coast
@@ -158,7 +159,7 @@
 04|00|AVR|Silverblade Paladin
 02|00|MMA|Slaughter Pact
 02|00|BFZ|Smoldering Marsh
-04|00|ISD|Snapcaster Mage
+04|00|MM3|Snapcaster Mage
 02|00|DKA|Sorin, Lord of Innistrad
 02|00|KTK|Sorin, Solemn Visitor
 04|00|MM2|Spectral Procession
@@ -209,7 +210,7 @@
 04|00|MRD|Vault of Whispers
 04|00|MMA|Vedalken Shackles
 04|00|MM2|Vendilion Clique
-04|00|ZEN|Verdant Catacombs
+04|00|MM3|Verdant Catacombs
 03|00|EMA|Vindicate
 04|00|DGM|Voice of Resurgence
 04|00|3ED|Volcanic Island
