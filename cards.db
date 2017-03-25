@@ -5662,7 +5662,7 @@
 01|00|00|00|00|WWK|C|Dispel
 00|00|00|00|00|ALA|C|Dispeller's Capsule
 01|00|00|00|00|MMA|C|Dispeller's Capsule
-07|01|00|00|00|SOM|U|Dispense Justice
+07|00|00|00|00|SOM|U|Dispense Justice
 00|00|00|00|00|SCG|C|Dispersal Shield
 00|00|00|00|00|AER|C|Dispersal Technician
 00|00|00|00|00|M14|C|Disperse
@@ -7977,7 +7977,7 @@
 00|00|00|00|00|MOR|C|Floodchaser
 00|00|00|00|00|EVE|R|Flooded Grove
 00|00|00|00|00|VIS|R|Flooded Shoreline
-09|00|00|00|00|KTK|R|Flooded Strand
+08|00|00|00|00|KTK|R|Flooded Strand
 00|00|00|00|00|ONS|R|Flooded Strand
 00|00|00|00|00|ICE|R|Flooded Woodlands
 00|00|00|00|00|MIR|U|Floodgate
@@ -20725,7 +20725,7 @@
 00|00|00|00|00|EVE|C|Snakeform
 00|00|00|00|00|ULG|C|Snap
 00|00|00|00|00|TSP|C|Snapback
-04|00|00|00|00|ISD|R|Snapcaster Mage
+02|00|00|00|00|ISD|R|Snapcaster Mage
 00|00|00|00|00|MM3|M|Snapcaster Mage
 00|00|00|00|00|WWK|C|Snapping Creeper
 00|00|00|00|00|10E|C|Snapping Drake
@@ -22052,7 +22052,7 @@
 00|00|00|00|00|4ED|C|Sunken City
 00|00|00|00|00|DRK|C|Sunken City
 00|00|00|00|00|PCY|U|Sunken Field
-04|00|00|00|00|BFZ|R|Sunken Hollow
+03|00|00|00|00|BFZ|R|Sunken Hollow
 00|00|00|00|00|10E|R|Sunken Hope
 00|00|00|00|00|PC2|R|Sunken Hope
 00|00|00|00|00|PLS|R|Sunken Hope
@@ -23918,7 +23918,7 @@
 00|00|00|00|00|ROE|R|Umbra Mystic
 00|00|00|00|00|EVE|R|Umbra Stalker
 00|00|00|00|00|SHM|U|Umbral Mantle
-01|00|00|00|00|BOK|R|Umezawa's Jitte
+00|00|00|00|00|BOK|R|Umezawa's Jitte
 00|00|00|00|00|ARB|U|Unbender Tine
 01|00|00|00|00|ARC|U|Unbender Tine
 00|00|00|00|00|FUT|C|Unblinking Bleb
