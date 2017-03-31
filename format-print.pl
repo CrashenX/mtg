@@ -364,6 +364,12 @@ my %sets = ( "LEA" => { order => 199308,
            , "V14" => { order => 201408,
                         name => 'From the Vault: Annihilation'
                       }
+           , "V15" => { order => 201508,
+                        name => 'From the Vault: Angels'
+                      }
+           , "V16" => { order => 201608,
+                        name => 'From the Vault: Lore'
+                      }
            , "HOP" => { order => 200909,
                         name => 'Planechase'
                       }
@@ -393,6 +399,9 @@ my %sets = ( "LEA" => { order => 199308,
                       }
            , "C15" => { order => 201511,
                         name => 'Commander 2015'
+                      }
+           , "C16" => { order => 201611,
+                        name => 'Commander 2016'
                       }
            , "CNS" => { order => 201406,
                         name => 'Conspiracy'
@@ -459,6 +468,9 @@ my %sets = ( "LEA" => { order => 199308,
                       }
            , "KLD" => { order => 201609,
                         name => 'Kaladesh'
+                      }
+           , "PCA" => { order => 201611,
+                        name => 'Planechase Anthology'
                       }
            , "AER" => { order => 201701,
                         name => 'Aether Revolt'
