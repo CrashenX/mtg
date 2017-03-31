@@ -12768,7 +12768,7 @@
 03|00|00|00|00|ZEN|U|Landbind Ritual
 00|00|00|00|00|UDS|U|Landslide
 00|00|00|00|00|C16|R|Languish
-05|00|00|00|00|ORI|R|Languish
+04|00|00|00|00|ORI|R|Languish
 00|00|00|00|00|CHK|C|Lantern Kami
 04|00|00|00|00|BFZ|R|Lantern Scout
 00|00|00|00|00|ISD|U|Lantern Spirit
@@ -15801,7 +15801,7 @@
 00|00|00|00|00|EMN|R|Oath of Liliana
 00|00|00|00|00|ICE|R|Oath of Lim-Dûl
 00|00|00|00|00|EXO|R|Oath of Mages
-00|00|00|00|00|OGW|R|Oath of Nissa
+01|00|00|00|00|OGW|R|Oath of Nissa
 00|00|00|00|00|EXO|R|Oath of Scholars
 00|00|00|00|00|M14|R|Oath of the Ancient Wood
 00|00|00|00|00|CHK|R|Oathkeeper, Takeno's Daisho
@@ -18002,7 +18002,7 @@
 00|00|00|00|00|SOI|C|Rancid Rats
 00|00|00|00|00|ARC|C|Rancor
 00|00|00|00|00|DDD|C|Rancor
-03|00|00|00|00|EMA|U|Rancor
+04|00|00|00|00|EMA|U|Rancor
 04|00|00|00|00|M13|U|Rancor
 00|00|00|00|00|PC2|C|Rancor
 00|00|00|00|00|PCA|C|Rancor
@@ -22759,7 +22759,7 @@
 00|00|00|00|00|DST|R|Sword of Light and Shadow
 01|00|00|00|00|MMA|M|Sword of Light and Shadow
 01|00|00|00|00|C14|R|Sword of Vengeance
-00|00|00|00|00|C15|R|Sword of Vengeance
+01|00|00|00|00|C15|R|Sword of Vengeance
 00|00|00|00|00|M11|R|Sword of Vengeance
 01|00|00|00|00|NPH|M|Sword of War and Peace
 00|00|00|00|00|LEG|R|Sword of the Ages
