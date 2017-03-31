@@ -1057,7 +1057,7 @@
 00|00|00|00|00|MIR|C|Armor of Thorns
 00|00|00|00|00|KLD|U|Armorcraft Judge
 00|00|00|00|00|M10|U|Armored Ascension
-01|00|00|00|00|M11|U|Armored Ascension
+00|00|00|00|00|M11|U|Armored Ascension
 00|00|00|00|00|SHM|U|Armored Ascension
 00|00|00|00|00|M11|C|Armored Cancrix
 00|00|00|00|00|M14|C|Armored Cancrix
@@ -4130,7 +4130,7 @@
 00|00|00|00|00|ALL|U|Contagion
 00|00|00|00|00|DKM|S|Contagion
 00|00|00|00|00|DDF|U|Contagion Clasp
-06|01|00|00|00|SOM|U|Contagion Clasp
+06|00|00|00|00|SOM|U|Contagion Clasp
 01|00|00|00|00|SOM|R|Contagion Engine
 00|00|00|00|00|SOM|C|Contagious Nim
 00|00|00|00|00|OGW|C|Containment Membrane
@@ -4898,7 +4898,7 @@
 00|00|00|00|00|3ED|R|Darkpact
 00|00|00|00|00|LEA|R|Darkpact
 00|00|00|00|00|LEB|R|Darkpact
-02|01|00|00|00|SOM|U|Darkslick Drake
+02|00|00|00|00|SOM|U|Darkslick Drake
 02|00|00|00|00|SOM|R|Darkslick Shores
 04|00|00|00|00|MM2|U|Darksteel Axe
 07|00|00|00|00|SOM|U|Darksteel Axe
@@ -5620,7 +5620,7 @@
 00|00|00|00|00|LEB|C|Disenchant
 08|00|00|00|00|MIR|C|Disenchant
 00|00|00|00|00|MMQ|C|Disenchant
-01|00|00|00|00|TMP|C|Disenchant
+00|00|00|00|00|TMP|C|Disenchant
 00|00|00|00|00|TSB|S|Disenchant
 00|00|00|00|00|USG|C|Disenchant
 00|00|00|00|00|M10|C|Disentomb
@@ -9484,7 +9484,7 @@
 00|00|00|00|00|7ED|R|Grafted Skullcap
 00|00|00|00|00|USG|R|Grafted Skullcap
 03|00|00|00|00|5DN|U|Grafted Wargear
-02|00|00|00|00|C14|R|Grand Abolisher
+01|00|00|00|00|C14|R|Grand Abolisher
 00|00|00|00|00|M12|R|Grand Abolisher
 00|00|00|00|00|DIS|R|Grand Arbiter Augustin IV
 00|00|00|00|00|MMA|R|Grand Arbiter Augustin IV
@@ -13613,7 +13613,7 @@
 04|00|00|00|00|ZEN|U|Marsh Casualties
 00|00|00|00|00|PLS|U|Marsh Crocodile
 00|00|00|00|00|MM3|M|Marsh Flats
-03|00|00|00|00|ZEN|R|Marsh Flats
+00|00|00|00|00|ZEN|R|Marsh Flats
 00|00|00|00|00|LRW|U|Marsh Flitter
 00|00|00|00|00|MMA|U|Marsh Flitter
 00|00|00|00|00|4ED|C|Marsh Gas
@@ -16794,7 +16794,7 @@
 00|00|00|00|00|RAV|U|Pollenbright Wings
 00|00|00|00|00|SHM|R|Polluted Bonds
 00|00|00|00|00|AVR|C|Polluted Dead
-05|00|00|00|00|KTK|R|Polluted Delta
+04|00|00|00|00|KTK|R|Polluted Delta
 00|00|00|00|00|ONS|R|Polluted Delta
 00|00|00|00|00|ATH|S|Polluted Mire
 00|00|00|00|00|BRB|S|Polluted Mire
