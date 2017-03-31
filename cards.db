@@ -4957,7 +4957,7 @@
 00|00|00|00|00|ORI|C|Dark Dabbling
 00|00|00|00|00|FTF|U|Dark Deal
 00|00|00|00|00|CSP|R|Dark Depths
-00|00|00|00|00|V16|M|Dark Depths
+01|00|00|00|00|V16|M|Dark Depths
 00|00|00|00|00|M12|C|Dark Favor
 00|00|00|00|00|M13|C|Dark Favor
 00|00|00|00|00|M14|C|Dark Favor
@@ -5071,7 +5071,7 @@
 00|00|00|00|00|SOI|C|Dauntless Cathar
 00|00|00|00|00|LRW|R|Dauntless Dourbark
 01|00|00|00|00|ARB|R|Dauntless Escort
-00|00|00|00|00|C16|R|Dauntless Escort
+01|00|00|00|00|C16|R|Dauntless Escort
 00|00|00|00|00|DDO|U|Dauntless Onslaught
 02|00|00|00|00|THS|U|Dauntless Onslaught
 00|00|00|00|00|M15|U|Dauntless River Marshal
@@ -5975,7 +5975,7 @@
 00|00|00|00|00|FTF|C|Douse in Gloom
 00|00|00|00|00|GPT|C|Douse in Gloom
 00|00|00|00|00|DIS|R|Dovescape
-00|00|00|00|00|KLD|M|Dovin Baan
+02|00|00|00|00|KLD|M|Dovin Baan
 01|00|00|00|00|DGM|U|Down // Dirty
 00|00|00|00|00|WTH|U|Downdraft
 00|00|00|00|00|DDI|C|Downhill Charge
@@ -6077,7 +6077,7 @@
 00|00|00|00|00|KTK|C|Dragonscale Boon
 00|00|00|00|00|FTF|R|Dragonscale General
 00|00|00|00|00|DGM|R|Dragonshift
-00|00|00|00|00|C16|R|Dragonskull Summit
+04|00|00|00|00|C16|R|Dragonskull Summit
 00|00|00|00|00|M10|R|Dragonskull Summit
 00|00|00|00|00|M11|R|Dragonskull Summit
 01|00|00|00|00|M12|R|Dragonskull Summit
@@ -14562,7 +14562,7 @@
 03|00|00|00|00|LRW|R|Mistbind Clique
 02|00|00|00|00|BOK|C|Mistblade Shinobi
 00|00|00|00|00|PC2|C|Mistblade Shinobi
-00|00|00|00|00|PCA|C|Mistblade Shinobi
+01|00|00|00|00|PCA|C|Mistblade Shinobi
 00|00|00|00|00|THS|R|Mistcutter Hydra
 00|00|00|00|00|FTF|U|Mistfire Adept
 01|00|00|00|00|KTK|U|Mistfire Weaver
@@ -15063,7 +15063,7 @@
 00|00|00|00|00|BFZ|C|Murk Strider
 00|00|00|00|00|C13|R|Murkfiend Liege
 00|00|00|00|00|EVE|R|Murkfiend Liege
-00|00|00|00|00|C16|R|Murmuring Bosk
+01|00|00|00|00|C16|R|Murmuring Bosk
 00|00|00|00|00|MOR|R|Murmuring Bosk
 00|00|00|00|00|V12|M|Murmuring Bosk
 00|00|00|00|00|DGM|C|Murmuring Phantasm
@@ -17760,7 +17760,7 @@
 00|00|00|00|00|JUD|U|Quiet Speculation
 00|00|00|00|00|ALA|R|Quietus Spike
 00|00|00|00|00|PC2|R|Quietus Spike
-00|00|00|00|00|PCA|R|Quietus Spike
+01|00|00|00|00|PCA|R|Quietus Spike
 00|00|00|00|00|LRW|C|Quill-Slinger Boggart
 01|00|00|00|00|MBS|U|Quilled Slagwurm
 00|00|00|00|00|TSP|U|Quilled Sliver
@@ -18951,7 +18951,7 @@
 00|00|00|00|00|RAV|U|Root-Kin Ally
 00|00|00|00|00|MM3|C|Rootborn Defenses
 00|00|00|00|00|RTR|C|Rootborn Defenses
-00|00|00|00|00|C16|R|Rootbound Crag
+04|00|00|00|00|C16|R|Rootbound Crag
 00|00|00|00|00|H09|R|Rootbound Crag
 00|00|00|00|00|M10|R|Rootbound Crag
 00|00|00|00|00|M11|R|Rootbound Crag
@@ -19262,7 +19262,7 @@
 00|00|00|00|00|KLD|M|Saheeli Rai
 00|00|00|00|00|KLD|R|Saheeli's Artistry
 00|00|00|00|00|PC2|U|Sai of the Shinobi
-00|00|00|00|00|PCA|U|Sai of the Shinobi
+04|00|00|00|00|PCA|U|Sai of the Shinobi
 00|00|00|00|00|MMQ|U|Sailmonger
 00|00|00|00|00|SOK|R|Sakashima the Impostor
 00|00|00|00|00|PC2|R|Sakashima's Student
@@ -20884,7 +20884,7 @@
 01|00|00|00|00|ARC|U|Skullcage
 01|00|00|00|00|C14|U|Skullclamp
 00|00|00|00|00|C15|U|Skullclamp
-00|00|00|00|00|C16|U|Skullclamp
+01|00|00|00|00|C16|U|Skullclamp
 00|00|00|00|00|CMD|U|Skullclamp
 00|00|00|00|00|DST|U|Skullclamp
 00|00|00|00|00|V09|M|Skullclamp
@@ -21148,7 +21148,7 @@
 02|00|00|00|00|WWK|U|Smother
 00|00|00|00|00|BFZ|R|Smothering Abomination
 00|00|00|00|00|CN2|U|Smuggler Captain
-00|00|00|00|00|KLD|R|Smuggler's Copter
+04|00|00|00|00|KLD|R|Smuggler's Copter
 00|00|00|00|00|PCY|U|Snag
 00|00|00|00|00|6ED|R|Snake Basket
 00|00|00|00|00|VIS|R|Snake Basket
@@ -21216,7 +21216,7 @@
 00|00|00|00|00|C13|U|Sol Ring
 01|00|00|00|00|C14|U|Sol Ring
 00|00|00|00|00|C15|U|Sol Ring
-00|00|00|00|00|C16|U|Sol Ring
+01|00|00|00|00|C16|U|Sol Ring
 00|00|00|00|00|CMD|U|Sol Ring
 00|00|00|00|00|LEA|U|Sol Ring
 00|00|00|00|00|LEB|U|Sol Ring
@@ -22515,7 +22515,7 @@
 00|00|00|00|00|DDO|C|Sunlance
 00|01|00|00|00|MM2|C|Sunlance
 00|00|00|00|00|PLC|C|Sunlance
-00|00|00|00|00|C16|R|Sunpetal Grove
+04|00|00|00|00|C16|R|Sunpetal Grove
 01|00|00|00|00|M10|R|Sunpetal Grove
 01|00|00|00|00|M11|R|Sunpetal Grove
 01|00|00|00|00|M12|R|Sunpetal Grove
@@ -24418,7 +24418,7 @@
 00|00|00|00|00|EVE|R|Umbra Stalker
 00|00|00|00|00|SHM|U|Umbral Mantle
 00|00|00|00|00|BOK|R|Umezawa's Jitte
-00|00|00|00|00|V16|M|Umezawa's Jitte
+01|00|00|00|00|V16|M|Umezawa's Jitte
 00|00|00|00|00|ARB|U|Unbender Tine
 01|00|00|00|00|ARC|U|Unbender Tine
 00|00|00|00|00|FUT|C|Unblinking Bleb
