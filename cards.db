@@ -1010,7 +1010,7 @@
 00|00|00|00|00|USG|C|Argothian Swine
 00|00|00|00|00|ATQ|C|Argothian Treefolk
 00|00|00|00|00|USG|R|Argothian Wurm
-00|00|00|00|00|MM3|M|Arid Mesa
+01|00|00|00|00|MM3|M|Arid Mesa
 00|00|00|00|00|ZEN|R|Arid Mesa
 00|00|00|00|00|C15|M|Arjun, the Shifting Flame
 00|00|00|00|00|SCG|U|Ark of Blight
@@ -12865,7 +12865,7 @@
 00|00|00|00|00|M13|M|Liliana of the Dark Realms
 00|00|00|00|00|M14|M|Liliana of the Dark Realms
 00|00|00|00|00|ISD|M|Liliana of the Veil
-00|00|00|00|00|MM3|M|Liliana of the Veil
+01|00|00|00|00|MM3|M|Liliana of the Veil
 00|00|00|00|00|M11|U|Liliana's Caress
 01|00|00|00|00|EMN|U|Liliana's Elite
 00|00|00|00|00|SOI|U|Liliana's Indignation
@@ -12899,7 +12899,7 @@
 00|00|00|00|00|MD1|U|Lingering Souls
 00|00|00|00|00|MM3|U|Lingering Souls
 00|00|00|00|00|EVE|U|Lingering Tormentor
-00|00|00|00|00|MM3|M|Linvala, Keeper of Silence
+01|00|00|00|00|MM3|M|Linvala, Keeper of Silence
 01|00|00|00|00|ROE|M|Linvala, Keeper of Silence
 00|00|00|00|00|OGW|M|Linvala, the Preserver
 00|00|00|00|00|MIR|R|Lion's Eye Diamond
@@ -14290,7 +14290,7 @@
 01|00|00|00|00|SHM|U|Mistveil Plains
 00|00|00|00|00|ARB|C|Mistvein Borderpost
 00|00|00|00|00|ARC|C|Mistvein Borderpost
-00|00|00|00|00|MM3|M|Misty Rainforest
+01|00|00|00|00|MM3|M|Misty Rainforest
 00|00|00|00|00|ZEN|R|Misty Rainforest
 01|00|00|00|00|MBS|R|Mitotic Manipulation
 02|00|00|00|00|M11|R|Mitotic Slime
@@ -19088,7 +19088,7 @@
 00|00|00|00|00|USG|U|Scald
 00|00|00|00|00|AVR|C|Scalding Devil
 00|00|00|00|00|EXO|U|Scalding Salamander
-00|00|00|00|00|MM3|M|Scalding Tarn
+03|00|00|00|00|MM3|M|Scalding Tarn
 00|00|00|00|00|ZEN|R|Scalding Tarn
 00|00|00|00|00|TMP|R|Scalding Tongs
 00|00|00|00|00|KTK|C|Scaldkin
@@ -20726,7 +20726,7 @@
 00|00|00|00|00|ULG|C|Snap
 00|00|00|00|00|TSP|C|Snapback
 02|00|00|00|00|ISD|R|Snapcaster Mage
-00|00|00|00|00|MM3|M|Snapcaster Mage
+01|00|00|00|00|MM3|M|Snapcaster Mage
 00|00|00|00|00|WWK|C|Snapping Creeper
 00|00|00|00|00|10E|C|Snapping Drake
 00|00|00|00|00|BTD|S|Snapping Drake
@@ -23725,7 +23725,7 @@
 01|00|00|00|00|C14|R|True Conviction
 02|00|00|00|00|SOM|R|True Conviction
 00|00|00|00|00|SOI|C|True-Faith Censer
-00|00|00|00|00|C13|R|True-Name Nemesis
+01|00|00|00|00|C13|R|True-Name Nemesis
 07|00|00|00|00|GTC|U|Truefire Paladin
 00|00|00|00|00|CN2|C|Trumpet Blast
 00|00|00|00|00|CNS|C|Trumpet Blast
@@ -24437,7 +24437,7 @@
 00|00|00|00|00|ROE|C|Vent Sentinel
 00|00|00|00|00|MIR|R|Ventifact Bottle
 00|00|00|00|00|AER|C|Verdant Automaton
-00|00|00|00|00|MM3|M|Verdant Catacombs
+01|00|00|00|00|MM3|M|Verdant Catacombs
 00|00|00|00|00|ZEN|R|Verdant Catacombs
 00|00|00|00|00|C15|R|Verdant Confluence
 00|00|00|00|00|KLD|R|Verdant Crescendo
@@ -25242,7 +25242,7 @@
 01|00|00|00|00|SHM|U|Wasp Lancer
 00|00|00|00|00|TOR|C|Waste Away
 00|00|00|00|00|M15|R|Waste Not
-04|00|00|00|00|EMA|R|Wasteland
+05|00|00|00|00|EMA|R|Wasteland
 00|00|00|00|00|TMP|U|Wasteland
 00|00|00|00|00|BFZ|R|Wasteland Strangler
 02|00|00|00|00|GTC|U|Wasteland Viper
