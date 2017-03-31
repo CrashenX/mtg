@@ -84,7 +84,7 @@
 00|00|00|00|00|ODY|C|Aboshan's Desire
 00|00|00|00|00|ODY|R|Aboshan, Cephalid Emperor
 00|00|00|00|00|ULG|C|About Face
-00|00|00|00|00|MM3|R|Abrupt Decay
+04|00|00|00|00|MM3|R|Abrupt Decay
 04|00|00|00|00|RTR|R|Abrupt Decay
 00|00|00|00|00|USG|U|Absolute Grace
 00|00|00|00|00|USG|U|Absolute Law
@@ -1997,7 +1997,7 @@
 00|00|00|00|00|9ED|U|Blackmail
 00|00|00|00|00|ONS|U|Blackmail
 00|00|00|00|00|LGN|U|Blade Sliver
-00|00|00|00|00|MM3|R|Blade Splicer
+04|00|00|00|00|MM3|R|Blade Splicer
 04|00|00|00|00|NPH|R|Blade Splicer
 00|00|00|00|00|C15|R|Blade of Selves
 01|00|00|00|00|ZEN|R|Blade of the Bloodchief
@@ -3348,7 +3348,7 @@
 00|00|00|00|00|APC|C|Ceta Disciple
 00|00|00|00|00|APC|U|Ceta Sanctuary
 00|00|00|00|00|APC|R|Cetavolver
-00|00|00|00|00|EMA|U|Chain Lightning
+01|00|00|00|00|EMA|U|Chain Lightning
 00|00|00|00|00|LEG|C|Chain Lightning
 00|00|00|00|00|PD2|C|Chain Lightning
 00|00|00|00|00|C15|R|Chain Reaction
@@ -3581,7 +3581,7 @@
 00|00|00|00|00|MRD|C|Chromatic Sphere
 00|00|00|00|00|10E|U|Chromatic Star
 00|00|00|00|00|TSP|C|Chromatic Star
-00|00|00|00|00|EMA|M|Chrome Mox
+02|00|00|00|00|EMA|M|Chrome Mox
 00|00|00|00|00|MRD|R|Chrome Mox
 00|00|00|00|00|SOM|C|Chrome Steed
 00|00|00|00|00|DST|R|Chromescale Drake
@@ -5787,7 +5787,7 @@
 00|00|00|00|00|CMD|R|Dominus of Fealty
 00|00|00|00|00|EVE|R|Dominus of Fealty
 00|00|00|00|00|GTC|M|Domri Rade
-00|00|00|00|00|MM3|M|Domri Rade
+02|00|00|00|00|MM3|M|Domri Rade
 00|00|00|00|00|UDS|R|Donate
 00|00|00|00|00|PTK|R|Dong Zhou, the Tyrant
 00|00|00|00|00|CMD|C|Doom Blade
@@ -6846,7 +6846,7 @@
 00|00|00|00|00|CN2|C|Entourage of Trest
 00|00|00|00|00|ONS|R|Entrails Feaster
 00|00|00|00|00|AVR|M|Entreat the Angels
-00|00|00|00|00|MM3|M|Entreat the Angels
+02|00|00|00|00|MM3|M|Entreat the Angels
 00|00|00|00|00|DIS|C|Entropic Eidolon
 00|00|00|00|00|EXO|R|Entropic Specter
 00|00|00|00|00|JUD|C|Envelop
@@ -7280,7 +7280,7 @@
 00|00|00|00|00|DKA|C|Faithless Looting
 04|00|00|00|00|EMA|C|Faithless Looting
 04|00|00|00|00|DKA|M|Falkenrath Aristocrat
-00|00|00|00|00|MM3|R|Falkenrath Aristocrat
+04|00|00|00|00|MM3|R|Falkenrath Aristocrat
 00|00|00|00|00|AVR|U|Falkenrath Exterminator
 00|00|00|00|00|SOI|R|Falkenrath Gorger
 00|00|00|00|00|ISD|R|Falkenrath Marauders
@@ -11864,7 +11864,7 @@
 00|00|00|00|00|INV|R|Kangee, Aerie Keeper
 00|00|00|00|00|M15|U|Kapsho Kitefins
 00|00|00|00|00|CMD|M|Karador, Ghost Chieftain
-03|00|00|00|00|EMA|M|Karakas
+04|00|00|00|00|EMA|M|Karakas
 00|00|00|00|00|LEG|U|Karakas
 00|00|00|00|00|THS|U|Karametra's Acolyte
 00|00|00|00|00|BNG|C|Karametra's Favor
@@ -13028,7 +13028,7 @@
 00|00|00|00|00|MRD|R|Lodestone Myr
 00|00|00|00|00|FUT|C|Logic Knot
 04|01|00|00|00|MMA|C|Logic Knot
-00|00|00|00|00|MM3|C|Lone Missionary
+04|00|00|00|00|MM3|C|Lone Missionary
 00|00|00|00|00|ROE|C|Lone Missionary
 01|00|00|00|00|AVR|R|Lone Revenant
 00|00|00|00|00|C15|R|Lone Revenant
@@ -13612,7 +13612,7 @@
 00|00|00|00|00|DDP|U|Marsh Casualties
 04|00|00|00|00|ZEN|U|Marsh Casualties
 00|00|00|00|00|PLS|U|Marsh Crocodile
-00|00|00|00|00|MM3|M|Marsh Flats
+01|00|00|00|00|MM3|M|Marsh Flats
 00|00|00|00|00|ZEN|R|Marsh Flats
 00|00|00|00|00|LRW|U|Marsh Flitter
 00|00|00|00|00|MMA|U|Marsh Flitter
@@ -14932,7 +14932,7 @@
 00|00|00|00|00|PLS|R|Natural Emergence
 00|00|00|00|00|AVR|C|Natural End
 00|00|00|00|00|AER|C|Natural Obsolescence
-03|00|00|00|00|EMA|M|Natural Order
+04|00|00|00|00|EMA|M|Natural Order
 00|00|00|00|00|POR|R|Natural Order
 00|00|00|00|00|VIS|R|Natural Order
 00|00|00|00|00|2ED|R|Natural Selection
@@ -17635,7 +17635,7 @@
 00|00|00|00|00|ATH|S|Ranger en-Vec
 00|00|00|00|00|TMP|U|Ranger en-Vec
 03|00|00|00|00|ALA|R|Ranger of Eos
-00|00|00|00|00|MM3|R|Ranger of Eos
+04|00|00|00|00|MM3|R|Ranger of Eos
 00|00|00|00|00|ISD|C|Ranger's Guile
 00|00|00|00|00|M14|C|Ranger's Guile
 00|00|00|00|00|M15|C|Ranger's Guile
@@ -21151,7 +21151,7 @@
 00|00|00|00|00|PD3|M|Sphinx of the Steel Wind
 00|00|00|00|00|BNG|C|Sphinx's Disciple
 00|00|00|00|00|ALA|U|Sphinx's Herald
-00|00|00|00|00|MM3|M|Sphinx's Revelation
+02|00|00|00|00|MM3|M|Sphinx's Revelation
 01|00|00|00|00|RTR|M|Sphinx's Revelation
 00|00|00|00|00|ORI|U|Sphinx's Tutelage
 00|00|00|00|00|DDJ|R|Sphinx-Bone Wand
@@ -21723,7 +21723,7 @@
 00|00|00|00|00|ZEN|C|Stonework Puma
 01|01|00|00|00|AVR|U|Stonewright
 02|00|00|00|00|ISD|R|Stony Silence
-00|00|00|00|00|MM3|R|Stony Silence
+02|00|00|00|00|MM3|R|Stony Silence
 00|00|00|00|00|LRW|C|Stonybrook Angler
 04|00|00|00|00|MOR|C|Stonybrook Banneret
 00|00|00|00|00|MOR|C|Stonybrook Schoolmaster
@@ -21998,7 +21998,7 @@
 00|00|00|00|00|FUT|R|Summoner's Pact
 00|00|00|00|00|MMA|R|Summoner's Pact
 00|00|00|00|00|5DN|R|Summoning Station
-00|00|00|00|00|MM3|R|Summoning Trap
+04|00|00|00|00|MM3|R|Summoning Trap
 04|00|00|00|00|ZEN|R|Summoning Trap
 00|00|00|00|00|PTK|R|Sun Ce, Young Conquerer
 00|00|00|00|00|BRB|S|Sun Clasp
@@ -22735,7 +22735,7 @@
 00|00|00|00|00|MM3|U|Terminate
 00|00|00|00|00|PLS|C|Terminate
 00|00|00|00|00|AVR|R|Terminus
-00|00|00|00|00|MM3|R|Terminus
+04|00|00|00|00|MM3|R|Terminus
 00|00|00|00|00|V14|M|Terminus
 00|00|00|00|00|TOR|C|Teroh's Faithful
 00|00|00|00|00|TOR|U|Teroh's Vanguard
@@ -25038,7 +25038,7 @@
 00|00|00|00|00|EXO|R|Wall of Nets
 04|00|00|00|00|CMD|U|Wall of Omens
 00|00|00|00|00|DDK|U|Wall of Omens
-03|00|00|00|00|EMA|U|Wall of Omens
+04|00|00|00|00|EMA|U|Wall of Omens
 00|00|00|00|00|ROE|U|Wall of Omens
 00|00|00|00|00|CHR|U|Wall of Opposition
 00|00|00|00|00|LEG|R|Wall of Opposition
@@ -25274,7 +25274,7 @@
 00|00|00|00|00|MOR|U|Waterspout Weavers
 00|00|00|00|00|CHK|U|Waterveil Cavern
 03|00|00|00|00|KTK|U|Waterwhirl
-03|00|00|00|00|GTC|R|Watery Grave
+05|00|00|00|00|GTC|R|Watery Grave
 00|00|00|00|00|RAV|R|Watery Grave
 00|00|00|00|00|MIR|U|Wave Elemental
 00|00|00|00|00|ONS|C|Wave of Indifference
@@ -26203,7 +26203,7 @@
 00|00|00|00|00|ROE|C|Zulaport Enforcer
 00|00|00|00|00|PTK|R|Zuo Ci, the Mocking Sage
 00|00|00|00|00|CSP|R|Zur the Enchanter
-00|00|00|00|00|MM3|R|Zur the Enchanter
+01|00|00|00|00|MM3|R|Zur the Enchanter
 00|00|00|00|00|5ED|R|Zur's Weirding
 00|00|00|00|00|6ED|R|Zur's Weirding
 00|00|00|00|00|8ED|R|Zur's Weirding
