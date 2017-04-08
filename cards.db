@@ -8466,7 +8466,7 @@
 00|00|00|00|00|MIR|R|Forsaken Wastes
 00|00|00|00|00|4ED|C|Fortified Area
 00|00|00|00|00|LEG|U|Fortified Area
-00|01|00|00|00|BFZ|C|Fortified Rampart
+00|00|00|00|00|BFZ|C|Fortified Rampart
 00|00|00|00|00|SOI|R|Fortified Village
 00|00|00|00|00|M14|C|Fortify
 00|00|00|00|00|MM2|C|Fortify
@@ -8976,7 +8976,7 @@
 03|00|00|00|00|CN2|U|Ghostly Prison
 00|00|00|00|00|PC2|U|Ghostly Prison
 00|00|00|00|00|PCA|U|Ghostly Prison
-00|01|00|00|00|BFZ|C|Ghostly Sentinel
+00|00|00|00|00|BFZ|C|Ghostly Sentinel
 02|00|00|00|00|AVR|U|Ghostly Touch
 00|00|00|00|00|PTK|C|Ghostly Visit
 00|00|00|00|00|SOI|C|Ghostly Wings
