@@ -18407,7 +18407,7 @@
 00|00|00|00|00|CON|U|Reliquary Tower
 00|00|00|00|00|M13|U|Reliquary Tower
 04|00|00|00|00|MM2|U|Remand
-02|00|00|00|00|RAV|U|Remand
+00|00|00|00|00|RAV|U|Remand
 00|00|00|00|00|6ED|C|Remedy
 00|00|00|00|00|VIS|C|Remedy
 00|00|00|00|00|NPH|C|Remember the Fallen
@@ -22477,7 +22477,7 @@
 00|00|00|00|00|SOK|U|Sunder from Within
 00|00|00|00|00|MM3|C|Sundering Growth
 02|00|00|00|00|RTR|C|Sundering Growth
-01|00|00|00|00|ARC|R|Sundering Titan
+00|00|00|00|00|ARC|R|Sundering Titan
 00|00|00|00|00|DST|R|Sundering Titan
 00|00|00|00|00|V10|M|Sundering Titan
 00|01|00|00|00|MM2|C|Sundering Vitae
@@ -22571,7 +22571,7 @@
 00|00|00|00|00|RAV|C|Surge of Zeal
 00|00|00|00|00|LRW|R|Surgespanner
 01|00|00|00|00|MM2|R|Surgical Extraction
-03|00|00|00|00|NPH|R|Surgical Extraction
+01|00|00|00|00|NPH|R|Surgical Extraction
 00|00|00|00|00|CSP|C|Surging AEther
 00|00|00|00|00|CSP|C|Surging Dementia
 00|00|00|00|00|CSP|C|Surging Flame
@@ -23401,7 +23401,7 @@
 00|00|00|00|00|MIR|C|Thirst
 00|00|00|00|00|DDF|U|Thirst for Knowledge
 00|00|00|00|00|HOP|U|Thirst for Knowledge
-02|00|00|00|00|MMA|U|Thirst for Knowledge
+00|00|00|00|00|MMA|U|Thirst for Knowledge
 00|00|00|00|00|MRD|U|Thirst for Knowledge
 00|00|00|00|00|EMN|U|Thirsting Axe
 00|00|00|00|00|SHM|C|Thistledown Duo
