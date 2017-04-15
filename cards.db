@@ -2337,7 +2337,7 @@
 04|00|00|00|00|SOM|U|Bloodshot Trainee
 00|00|00|00|00|KTK|R|Bloodsoaked Champion
 00|00|00|00|00|C15|R|Bloodspore Thrinax
-05|00|00|00|00|KTK|R|Bloodstained Mire
+04|00|00|00|00|KTK|R|Bloodstained Mire
 00|00|00|00|00|ONS|R|Bloodstained Mire
 00|00|00|00|00|LGN|C|Bloodstoke Howler
 00|00|00|00|00|INV|U|Bloodstone Cameo
@@ -4642,7 +4642,7 @@
 00|00|00|00|00|4ED|U|Crumble
 00|00|00|00|00|5ED|U|Crumble
 00|00|00|00|00|ATQ|C|Crumble
-01|00|00|00|00|BFZ|U|Crumble to Dust
+00|00|00|00|00|BFZ|U|Crumble to Dust
 00|00|00|00|00|EVE|U|Crumbling Ashes
 02|00|00|00|00|M12|U|Crumbling Colossus
 00|00|00|00|00|ALA|U|Crumbling Necropolis
@@ -12085,7 +12085,7 @@
 00|00|00|00|00|BOK|U|Kaiso, Memory of Loyalty
 00|00|00|00|00|BFZ|C|Kalastria Healer
 00|00|00|00|00|WWK|R|Kalastria Highborn
-00|01|00|00|00|BFZ|C|Kalastria Nightwatch
+00|00|00|00|00|BFZ|C|Kalastria Nightwatch
 00|00|00|00|00|CON|C|Kaleidostone
 00|00|00|00|00|C15|R|Kalemne's Captain
 00|00|00|00|00|C15|M|Kalemne, Disciple of Iroas
@@ -12551,7 +12551,7 @@
 00|00|00|00|00|EXO|C|Kor Chant
 00|00|00|00|00|PLC|U|Kor Dirge
 04|00|00|00|00|MM2|U|Kor Duelist
-07|01|00|00|00|ZEN|U|Kor Duelist
+07|00|00|00|00|ZEN|U|Kor Duelist
 03|00|00|00|00|BFZ|U|Kor Entanglers
 04|00|00|00|00|WWK|U|Kor Firewalker
 00|00|00|00|00|NMS|R|Kor Haven
@@ -13147,7 +13147,7 @@
 00|00|00|00|00|M13|M|Liliana of the Dark Realms
 00|00|00|00|00|M14|M|Liliana of the Dark Realms
 00|00|00|00|00|ISD|M|Liliana of the Veil
-01|00|00|00|00|MM3|M|Liliana of the Veil
+02|00|00|00|00|MM3|M|Liliana of the Veil
 00|00|00|00|00|M11|U|Liliana's Caress
 01|00|00|00|00|EMN|U|Liliana's Elite
 00|00|00|00|00|SOI|U|Liliana's Indignation
@@ -21162,7 +21162,7 @@
 00|00|00|00|00|EVE|C|Snakeform
 00|00|00|00|00|ULG|C|Snap
 00|00|00|00|00|TSP|C|Snapback
-02|00|00|00|00|ISD|R|Snapcaster Mage
+01|00|00|00|00|ISD|R|Snapcaster Mage
 01|00|00|00|00|MM3|M|Snapcaster Mage
 00|00|00|00|00|WWK|C|Snapping Creeper
 00|00|00|00|00|10E|C|Snapping Drake
@@ -26348,7 +26348,7 @@
 00|00|00|00|00|SCG|C|Woodcloaker
 00|00|00|00|00|EMN|C|Woodcutter's Grit
 00|00|00|00|00|SHM|R|Wooded Bastion
-05|00|00|00|00|KTK|R|Wooded Foothills
+04|00|00|00|00|KTK|R|Wooded Foothills
 00|00|00|00|00|ONS|R|Wooded Foothills
 00|00|00|00|00|2ED|U|Wooden Sphere
 00|00|00|00|00|3ED|U|Wooden Sphere
