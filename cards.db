@@ -5266,7 +5266,7 @@
 00|00|00|00|00|CNS|U|Deathreap Ritual
 00|00|00|00|00|CNS|R|Deathrender
 00|00|00|00|00|LRW|R|Deathrender
-05|00|00|00|00|EMA|R|Deathrite Shaman
+04|00|00|00|00|EMA|R|Deathrite Shaman
 04|00|00|00|00|RTR|R|Deathrite Shaman
 00|00|00|00|00|TSP|C|Deathspore Thallid
 00|00|00|00|00|KTK|C|Debilitating Injury
@@ -8160,7 +8160,7 @@
 00|00|00|00|00|MOR|C|Floodchaser
 00|00|00|00|00|EVE|R|Flooded Grove
 00|00|00|00|00|VIS|R|Flooded Shoreline
-07|00|00|00|00|KTK|R|Flooded Strand
+06|00|00|00|00|KTK|R|Flooded Strand
 00|00|00|00|00|ONS|R|Flooded Strand
 00|00|00|00|00|ICE|R|Flooded Woodlands
 00|00|00|00|00|MIR|U|Floodgate
@@ -16234,7 +16234,7 @@
 04|00|00|00|00|ROE|C|Overgrown Battlement
 00|00|00|00|00|APC|R|Overgrown Estate
 00|00|00|00|00|RAV|R|Overgrown Tomb
-03|00|00|00|00|RTR|R|Overgrown Tomb
+04|00|00|00|00|RTR|R|Overgrown Tomb
 00|00|00|00|00|10E|C|Overgrowth
 00|00|00|00|00|9ED|C|Overgrowth
 00|00|00|00|00|STH|C|Overgrowth
@@ -22006,7 +22006,7 @@
 00|00|00|00|00|P02|C|Steam Frigate
 00|00|00|00|00|CSP|U|Steam Spitter
 00|00|00|00|00|GPT|R|Steam Vents
-03|00|00|00|00|RTR|R|Steam Vents
+04|00|00|00|00|RTR|R|Steam Vents
 00|00|00|00|00|ODY|U|Steam Vines
 00|00|00|00|00|ODY|U|Steamclaw
 00|00|00|00|00|DDH|C|Steamcore Weird
