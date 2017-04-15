@@ -1725,8 +1725,7 @@
 00|00|00|00|00|ODY|U|Bash to Bits
 00|00|00|00|00|GTC|C|Basilica Guards
 00|00|00|00|00|GTC|C|Basilica Screecher
-00|00|00|00|00|MM3|M|Basilisk Collar
-00|00|00|00|00|MM3|R|Basilisk Collar
+01|00|00|00|00|MM3|R|Basilisk Collar
 00|00|00|00|00|WWK|R|Basilisk Collar
 00|00|00|00|00|DDD|C|Basking Rootwalla
 00|00|00|00|00|TOR|C|Basking Rootwalla
@@ -2245,7 +2244,7 @@
 00|00|00|00|00|9ED|R|Blood Moon
 00|00|00|00|00|CHR|R|Blood Moon
 00|00|00|00|00|DRK|R|Blood Moon
-00|00|00|00|00|MM3|R|Blood Moon
+01|00|00|00|00|MM3|R|Blood Moon
 00|00|00|00|00|MMA|R|Blood Moon
 00|00|00|00|00|MMQ|R|Blood Oath
 00|00|00|00|00|M12|C|Blood Ogre
@@ -4536,7 +4535,7 @@
 00|00|00|00|00|KLD|U|Creeping Mold
 00|00|00|00|00|MRD|U|Creeping Mold
 00|00|00|00|00|VIS|U|Creeping Mold
-01|00|00|00|00|ISD|R|Creeping Renaissance
+00|00|00|00|00|ISD|R|Creeping Renaissance
 00|00|00|00|00|WWK|R|Creeping Tar Pit
 01|00|00|00|00|ISD|R|Creepy Doll
 00|00|00|00|00|GPT|C|Cremate
@@ -5785,7 +5784,7 @@
 00|00|00|00|00|C14|U|Dismiss
 00|00|00|00|00|CN2|U|Dismiss
 00|00|00|00|00|TMP|U|Dismiss
-01|00|00|00|00|M14|R|Dismiss into Dream
+00|00|00|00|00|M14|R|Dismiss into Dream
 00|00|00|00|00|7ED|U|Disorder
 00|00|00|00|00|USG|U|Disorder
 00|00|00|00|00|M10|C|Disorient
@@ -6618,7 +6617,7 @@
 00|00|00|00|00|OGW|R|Eldrazi Obligator
 00|00|00|00|00|BFZ|C|Eldrazi Skyspawner
 00|00|00|00|00|BFZ|U|Eldrazi Temple
-06|00|00|00|00|MM2|U|Eldrazi Temple
+04|00|00|00|00|MM2|U|Eldrazi Temple
 00|00|00|00|00|ROE|R|Eldrazi Temple
 00|00|00|00|00|EMN|R|Eldritch Evolution
 00|00|00|00|00|DRK|R|Electric Eel
@@ -8279,7 +8278,7 @@
 00|00|00|00|00|SOK|U|Footsteps of the Goryo
 00|00|00|00|00|8ED|U|Foratog
 00|00|00|00|00|MIR|U|Foratog
-01|00|00|00|00|EXO|U|Forbid
+00|00|00|00|00|EXO|U|Forbid
 00|00|00|00|00|DDQ|C|Forbidden Alchemy
 00|00|00|00|00|ISD|C|Forbidden Alchemy
 00|00|00|00|00|MM3|C|Forbidden Alchemy
@@ -9403,7 +9402,7 @@
 00|00|00|00|00|FEM|C|Goblin Grenade
 00|00|00|00|00|M12|U|Goblin Grenade
 00|00|00|00|00|WTH|U|Goblin Grenadiers
-00|00|00|00|00|MM3|R|Goblin Guide
+02|00|00|00|00|MM3|R|Goblin Guide
 00|00|00|00|00|ZEN|R|Goblin Guide
 00|00|00|00|00|FTF|C|Goblin Heelcutter
 00|00|00|00|00|5ED|C|Goblin Hero
@@ -11093,7 +11092,7 @@
 00|00|00|00|00|ICE|U|Icequake
 00|00|00|00|00|LEG|U|Ichneumon Druid
 03|00|00|00|00|NPH|U|Ichor Explosion
-10|00|00|00|00|SOM|U|Ichor Rats
+09|00|00|00|00|SOM|U|Ichor Rats
 00|00|00|00|00|DDD|C|Ichor Slick
 00|00|00|00|00|FUT|C|Ichor Slick
 00|00|00|00|00|C14|C|Ichor Wellspring
@@ -13684,7 +13683,7 @@
 00|00|00|00|00|PLC|U|Malach of the Dawn
 00|00|00|00|00|MRD|C|Malachite Golem
 00|00|00|00|00|ICE|U|Malachite Talisman
-01|00|00|00|00|ZEN|R|Malakir Bloodwitch
+00|00|00|00|00|ZEN|R|Malakir Bloodwitch
 00|00|00|00|00|ORI|U|Malakir Cullblade
 00|00|00|00|00|BFZ|U|Malakir Familiar
 00|00|00|00|00|OGW|U|Malakir Soothsayer
@@ -14043,7 +14042,7 @@
 00|00|00|00|00|DGM|C|Maze Rusher
 00|00|00|00|00|DGM|C|Maze Sentinel
 00|00|00|00|00|DRK|U|Maze of Ith
-02|00|00|00|00|EMA|R|Maze of Ith
+01|00|00|00|00|EMA|R|Maze of Ith
 00|00|00|00|00|V12|M|Maze of Ith
 00|00|00|00|00|TMP|U|Maze of Shadows
 00|00|00|00|00|DGM|M|Maze's End
@@ -16949,7 +16948,7 @@
 00|00|00|00|00|RAV|R|Plague Boiler
 00|00|00|00|00|UDS|U|Plague Dogs
 00|00|00|00|00|PCY|C|Plague Fiend
-02|00|00|00|00|MBS|U|Plague Myr
+01|00|00|00|00|MBS|U|Plague Myr
 00|00|00|00|00|2ED|C|Plague Rats
 00|00|00|00|00|3ED|C|Plague Rats
 00|00|00|00|00|4ED|C|Plague Rats
@@ -18485,7 +18484,7 @@
 01|00|00|00|00|DDG|U|Reprisal
 00|00|00|00|00|JOU|U|Reprisal
 00|00|00|00|00|7ED|R|Reprocess
-12|00|00|00|00|USG|R|Reprocess
+11|00|00|00|00|USG|R|Reprocess
 00|00|00|00|00|CMD|C|Repulse
 00|00|00|00|00|CN2|C|Repulse
 00|00|00|00|00|DD2|C|Repulse
@@ -20033,7 +20032,7 @@
 00|00|00|00|00|LRW|U|Sentry Oak
 02|00|00|00|00|THS|U|Sentry of the Underworld
 00|00|00|00|00|ORI|C|Separatist Voidmage
-02|00|00|00|00|MBS|U|Septic Rats
+01|00|00|00|00|MBS|U|Septic Rats
 00|00|00|00|00|GTC|R|Sepulchral Primordial
 00|00|00|00|00|KLD|U|Sequestered Stash
 00|00|00|00|00|5ED|R|Seraph
@@ -21653,7 +21652,7 @@
 00|00|00|00|00|C13|R|Spine of Ish Sah
 00|00|00|00|00|C14|R|Spine of Ish Sah
 00|00|00|00|00|MBS|R|Spine of Ish Sah
-02|00|00|00|00|NPH|U|Spinebiter
+01|00|00|00|00|NPH|U|Spinebiter
 00|00|00|00|00|ONS|C|Spined Basher
 00|00|00|00|00|USG|U|Spined Fluke
 00|00|00|00|00|H09|U|Spined Sliver
@@ -23088,7 +23087,7 @@
 00|00|00|00|00|7ED|U|Telepathy
 00|00|00|00|00|8ED|U|Telepathy
 00|00|00|00|00|9ED|U|Telepathy
-02|00|00|00|00|M10|U|Telepathy
+01|00|00|00|00|M10|U|Telepathy
 00|00|00|00|00|USG|U|Telepathy
 00|00|00|00|00|CHR|R|Teleport
 00|00|00|00|00|LEG|R|Teleport
@@ -25762,7 +25761,7 @@
 00|00|00|00|00|TOR|C|Waste Away
 00|00|00|00|00|C16|R|Waste Not
 00|00|00|00|00|M15|R|Waste Not
-05|00|00|00|00|EMA|R|Wasteland
+04|00|00|00|00|EMA|R|Wasteland
 00|00|00|00|00|TMP|U|Wasteland
 00|00|00|00|00|BFZ|R|Wasteland Strangler
 02|00|00|00|00|GTC|U|Wasteland Viper
