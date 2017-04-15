@@ -1026,7 +1026,7 @@
 00|00|00|00|00|USG|C|Argothian Swine
 00|00|00|00|00|ATQ|C|Argothian Treefolk
 00|00|00|00|00|USG|R|Argothian Wurm
-01|00|00|00|00|MM3|M|Arid Mesa
+02|00|00|00|00|MM3|M|Arid Mesa
 00|00|00|00|00|ZEN|R|Arid Mesa
 00|00|00|00|00|C15|M|Arjun, the Shifting Flame
 00|00|00|00|00|SCG|U|Ark of Blight
@@ -22995,7 +22995,7 @@
 00|00|00|00|00|WTH|R|Tariff
 00|00|00|00|00|FUT|R|Tarmogoyf
 00|00|00|00|00|MM2|M|Tarmogoyf
-00|00|00|00|00|MM3|M|Tarmogoyf
+01|00|00|00|00|MM3|M|Tarmogoyf
 00|00|00|00|00|MMA|M|Tarmogoyf
 00|00|00|00|00|ODY|R|Tarnished Citadel
 00|00|00|00|00|FUT|R|Tarox Bladewing
@@ -24942,7 +24942,7 @@
 00|00|00|00|00|ROE|C|Vent Sentinel
 00|00|00|00|00|MIR|R|Ventifact Bottle
 00|00|00|00|00|AER|C|Verdant Automaton
-01|00|00|00|00|MM3|M|Verdant Catacombs
+02|00|00|00|00|MM3|M|Verdant Catacombs
 00|00|00|00|00|ZEN|R|Verdant Catacombs
 00|00|00|00|00|C15|R|Verdant Confluence
 00|00|00|00|00|KLD|R|Verdant Crescendo
