@@ -15930,7 +15930,7 @@
 00|00|00|00|00|SHM|C|Old Ghastbark
 00|00|00|00|00|ARN|U|Old Man of the Sea
 00|00|00|00|00|ISD|M|Olivia Voldaren
-00|00|00|00|00|MM3|M|Olivia Voldaren
+00|01|00|00|00|MM3|M|Olivia Voldaren
 00|00|00|00|00|SOI|U|Olivia's Bloodsworn
 00|00|00|00|00|EMN|C|Olivia's Dragoon
 00|00|00|00|00|SOI|M|Olivia, Mobilized for War
@@ -24942,7 +24942,7 @@
 00|00|00|00|00|ROE|C|Vent Sentinel
 00|00|00|00|00|MIR|R|Ventifact Bottle
 00|00|00|00|00|AER|C|Verdant Automaton
-02|00|00|00|00|MM3|M|Verdant Catacombs
+03|00|00|00|00|MM3|M|Verdant Catacombs
 00|00|00|00|00|ZEN|R|Verdant Catacombs
 00|00|00|00|00|C15|R|Verdant Confluence
 00|00|00|00|00|KLD|R|Verdant Crescendo
