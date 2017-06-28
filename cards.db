@@ -18526,7 +18526,7 @@
 00|00|00|00|00|INV|R|Restock
 00|00|00|00|00|M15|U|Restock
 04|00|00|00|00|AVR|R|Restoration Angel
-00|00|00|00|00|MM3|R|Restoration Angel
+01|00|00|00|00|MM3|R|Restoration Angel
 04|00|00|00|00|KLD|U|Restoration Gearsmith
 00|00|00|00|00|AER|U|Restoration Specialist
 00|00|00|00|00|C13|U|Restore
@@ -22995,7 +22995,7 @@
 00|00|00|00|00|WTH|R|Tariff
 00|00|00|00|00|FUT|R|Tarmogoyf
 00|00|00|00|00|MM2|M|Tarmogoyf
-01|00|00|00|00|MM3|M|Tarmogoyf
+02|00|00|00|00|MM3|M|Tarmogoyf
 00|00|00|00|00|MMA|M|Tarmogoyf
 00|00|00|00|00|ODY|R|Tarnished Citadel
 00|00|00|00|00|FUT|R|Tarox Bladewing
