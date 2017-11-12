@@ -91,6 +91,42 @@ my %sets = ( "LEA" => { order => 199308,
            , "M15" => { order => 201407,
                         name => 'Magic 2015 Core Set'
                       }
+           , "CMD" => { order => 201106,
+                        name => 'Commander'
+                      }
+           , "CMA" => { order => 201211,
+                        name => 'Commander\'s Arsenal'
+                      }
+           , "C13" => { order => 201311,
+                        name => 'Commander 2013'
+                      }
+           , "C14" => { order => 201411,
+                        name => 'Commander 2014'
+                      }
+           , "C15" => { order => 201511,
+                        name => 'Commander 2015'
+                      }
+           , "C16" => { order => 201611,
+                        name => 'Commander 2016'
+                      }
+           , "C17" => { order => 201708,
+                        name => 'Commander 2017'
+                      }
+           , "MMA" => { order => 201306,
+                        name => 'Modern Masters'
+                      }
+           , "MM2" => { order => 201505,
+                        name => 'Modern Masters 2015 Edition'
+                      }
+           , "EMA" => { order => 201606,
+                        name => 'Eternal Masters'
+                      }
+           , "MM3" => { order => 201703,
+                        name => 'Modern Masters 2017 Edition'
+                      }
+           , "IMA" => { order => 201711,
+                        name => 'Iconic Masters'
+                      }
            , "ARN" => { order => 199312,
                         name => 'Arabian Nights'
                       }
@@ -298,9 +334,6 @@ my %sets = ( "LEA" => { order => 199308,
            , "ARC" => { order => 201006,
                         name => 'Archenemy'
                       }
-           , "MMA" => { order => 201306,
-                        name => 'Modern Masters'
-                      }
            , "EVG" => { order => 200711,
                         name => 'Duel Decks: Elves vs. Goblins'
                       }
@@ -385,24 +418,6 @@ my %sets = ( "LEA" => { order => 199308,
            , "PD3" => { order => 201111,
                         name => 'Premium Deck Series: Graveborn'
                       }
-           , "CMD" => { order => 201106,
-                        name => 'Commander'
-                      }
-           , "CMA" => { order => 201211,
-                        name => 'Commander\'s Arsenal'
-                      }
-           , "C13" => { order => 201311,
-                        name => 'Commander 2013'
-                      }
-           , "C14" => { order => 201411,
-                        name => 'Commander 2014'
-                      }
-           , "C15" => { order => 201511,
-                        name => 'Commander 2015'
-                      }
-           , "C16" => { order => 201611,
-                        name => 'Commander 2016'
-                      }
            , "CNS" => { order => 201406,
                         name => 'Conspiracy'
                       }
@@ -442,9 +457,6 @@ my %sets = ( "LEA" => { order => 199308,
            , "DTK" => { order => 201403,
                         name => 'Dragons of Tarkir'
                       }
-           , "MM2" => { order => 201505,
-                        name => 'Modern Masters 2015 Edition'
-                      }
            , "ORI" => { order => 201507,
                         name => 'Magic Origins'
                       }
@@ -456,9 +468,6 @@ my %sets = ( "LEA" => { order => 199308,
                       }
            , "SOI" => { order => 201604,
                         name => 'Shadows over Innistrad'
-                      }
-           , "EMA" => { order => 201606,
-                        name => 'Eternal Masters'
                       }
            , "EMN" => { order => 201607,
                         name => 'Eldritch Moon'
@@ -475,8 +484,14 @@ my %sets = ( "LEA" => { order => 199308,
            , "AER" => { order => 201701,
                         name => 'Aether Revolt'
                       }
-           , "MM3" => { order => 201703,
-                        name => 'Modern Masters 2017 Edition'
+           , "AKG" => { order => 201704,
+                        name => 'Amonkhet'
+                      }
+           , "HOU" => { order => 201707,
+                        name => 'Hour of Devastation'
+                      }
+           , "XLN" => { order => 201709,
+                        name => 'Ixalan'
                       }
            );
 
