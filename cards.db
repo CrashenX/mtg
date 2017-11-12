@@ -1026,7 +1026,7 @@
 00|00|00|00|00|USG|C|Argothian Swine
 00|00|00|00|00|ATQ|C|Argothian Treefolk
 00|00|00|00|00|USG|R|Argothian Wurm
-02|00|00|00|00|MM3|M|Arid Mesa
+04|00|00|00|00|MM3|M|Arid Mesa
 00|00|00|00|00|ZEN|R|Arid Mesa
 00|00|00|00|00|C15|M|Arjun, the Shifting Flame
 00|00|00|00|00|SCG|U|Ark of Blight
@@ -3327,7 +3327,7 @@
 00|00|00|00|00|THS|C|Cavern Lampad
 00|00|00|00|00|ALA|C|Cavern Thoctar
 04|00|00|00|00|AVR|R|Cavern of Souls
-01|00|00|00|00|MM3|M|Cavern of Souls
+04|00|00|00|00|MM3|M|Cavern of Souls
 00|00|00|00|00|LEG|R|Caverns of Despair
 00|00|00|00|00|10E|R|Caves of Koilos
 00|00|00|00|00|9ED|R|Caves of Koilos
@@ -4888,7 +4888,7 @@
 00|00|00|00|00|JOU|U|Dakra Mystic
 00|00|00|00|00|CMD|M|Damia, Sage of Stone
 00|00|00|00|00|DTK|R|Damnable Pact
-00|00|00|00|00|MM3|R|Damnation
+01|00|00|00|00|MM3|R|Damnation
 00|00|00|00|00|PLC|R|Damnation
 00|00|00|00|00|CHK|U|Dampen Thought
 02|00|00|00|00|MMA|C|Dampen Thought
@@ -9113,7 +9113,7 @@
 00|00|00|00|00|ALL|C|Gift of the Woods
 00|00|00|00|00|AER|U|Gifted Aetherborn
 00|00|00|00|00|CHK|R|Gifts Ungiven
-00|00|00|00|00|MM3|R|Gifts Ungiven
+01|00|00|00|00|MM3|R|Gifts Ungiven
 00|00|00|00|00|MMA|R|Gifts Ungiven
 00|00|00|00|00|V09|M|Gifts Ungiven
 00|00|00|00|00|GPT|C|Gigadrowse
@@ -9402,7 +9402,7 @@
 00|00|00|00|00|FEM|C|Goblin Grenade
 00|00|00|00|00|M12|U|Goblin Grenade
 00|00|00|00|00|WTH|U|Goblin Grenadiers
-02|00|00|00|00|MM3|R|Goblin Guide
+04|00|00|00|00|MM3|R|Goblin Guide
 00|00|00|00|00|ZEN|R|Goblin Guide
 00|00|00|00|00|FTF|C|Goblin Heelcutter
 00|00|00|00|00|5ED|C|Goblin Hero
@@ -14594,7 +14594,7 @@
 01|00|00|00|00|SHM|U|Mistveil Plains
 00|00|00|00|00|ARB|C|Mistvein Borderpost
 00|00|00|00|00|ARC|C|Mistvein Borderpost
-02|00|00|00|00|MM3|M|Misty Rainforest
+04|00|00|00|00|MM3|M|Misty Rainforest
 00|00|00|00|00|ZEN|R|Misty Rainforest
 01|00|00|00|00|MBS|R|Mitotic Manipulation
 02|00|00|00|00|M11|R|Mitotic Slime
@@ -19489,7 +19489,7 @@
 00|00|00|00|00|USG|U|Scald
 00|00|00|00|00|AVR|C|Scalding Devil
 00|00|00|00|00|EXO|U|Scalding Salamander
-03|00|00|00|00|MM3|M|Scalding Tarn
+04|00|00|00|00|MM3|M|Scalding Tarn
 00|00|00|00|00|ZEN|R|Scalding Tarn
 00|00|00|00|00|TMP|R|Scalding Tongs
 00|00|00|00|00|KTK|C|Scaldkin
@@ -21162,7 +21162,7 @@
 00|00|00|00|00|ULG|C|Snap
 00|00|00|00|00|TSP|C|Snapback
 01|00|00|00|00|ISD|R|Snapcaster Mage
-02|00|00|00|00|MM3|M|Snapcaster Mage
+04|00|00|00|00|MM3|M|Snapcaster Mage
 00|00|00|00|00|WWK|C|Snapping Creeper
 00|00|00|00|00|10E|C|Snapping Drake
 00|00|00|00|00|BTD|S|Snapping Drake
@@ -22995,7 +22995,7 @@
 00|00|00|00|00|WTH|R|Tariff
 00|00|00|00|00|FUT|R|Tarmogoyf
 00|00|00|00|00|MM2|M|Tarmogoyf
-02|00|00|00|00|MM3|M|Tarmogoyf
+04|00|00|00|00|MM3|M|Tarmogoyf
 00|00|00|00|00|MMA|M|Tarmogoyf
 00|00|00|00|00|ODY|R|Tarnished Citadel
 00|00|00|00|00|FUT|R|Tarox Bladewing
@@ -24942,7 +24942,7 @@
 00|00|00|00|00|ROE|C|Vent Sentinel
 00|00|00|00|00|MIR|R|Ventifact Bottle
 00|00|00|00|00|AER|C|Verdant Automaton
-03|00|00|00|00|MM3|M|Verdant Catacombs
+04|00|00|00|00|MM3|M|Verdant Catacombs
 00|00|00|00|00|ZEN|R|Verdant Catacombs
 00|00|00|00|00|C15|R|Verdant Confluence
 00|00|00|00|00|KLD|R|Verdant Crescendo
