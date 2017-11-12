@@ -3797,7 +3797,7 @@
 00|00|00|00|00|9ED|R|Battlefield Forge
 00|00|00|00|00|APC|R|Battlefield Forge
 00|00|00|00|00|M15|R|Battlefield Forge
-02|00|00|00|00|ORI|R|Battlefield Forge
+04|00|00|00|00|ORI|R|Battlefield Forge
 00|00|00|00|00|ONS|C|Battlefield Medic
 00|00|00|00|00|NMS|U|Battlefield Percher
 00|00|00|00|00|AKG|U|Battlefield Scavenger
@@ -4182,7 +4182,7 @@
 00|00|00|00|00|9ED|R|Yavimaya Coast
 00|00|00|00|00|APC|R|Yavimaya Coast
 00|00|00|00|00|M15|R|Yavimaya Coast
-01|00|00|00|00|ORI|R|Yavimaya Coast
+04|00|00|00|00|ORI|R|Yavimaya Coast
 02|00|00|00|00|ARC|U|Yavimaya Dryad
 00|00|00|00|00|TSP|U|Yavimaya Dryad
 00|00|00|00|00|CMD|C|Yavimaya Elder
@@ -8274,7 +8274,7 @@
 00|00|00|00|00|EMN|U|Kessig Prowler
 00|00|00|00|00|DKA|C|Kessig Recluse
 00|00|00|00|00|ISD|C|Kessig Wolf
-00|00|00|00|00|ISD|R|Kessig Wolf Run
+01|00|00|00|00|ISD|R|Kessig Wolf Run
 00|00|00|00|00|V13|M|Kessig Wolf Run
 00|01|00|00|00|MM2|C|Nest Invader
 00|00|00|00|00|PC2|C|Nest Invader
@@ -9663,7 +9663,7 @@
 00|00|00|00|00|CN2|U|Shipwreck Singer
 02|00|00|00|00|THS|U|Shipwreck Singer
 00|00|00|00|00|AER|R|Whir of Invention
-00|00|00|00|00|ORI|U|Ghirapur AEther Grid
+01|00|00|00|00|ORI|U|Ghirapur AEther Grid
 00|00|00|00|00|ORI|C|Ghirapur Gearcrafter
 00|00|00|00|00|KLD|U|Ghirapur Guide
 00|00|00|00|00|KLD|R|Ghirapur Orrery
@@ -9797,7 +9797,7 @@
 00|00|00|00|00|9ED|R|Shivan Reef
 00|00|00|00|00|APC|R|Shivan Reef
 00|00|00|00|00|M15|R|Shivan Reef
-02|00|00|00|00|ORI|R|Shivan Reef
+04|00|00|00|00|ORI|R|Shivan Reef
 00|00|00|00|00|FUT|U|Shivan Sand-Mage
 00|00|00|00|00|PLC|R|Shivan Wumpus
 00|00|00|00|00|PLS|R|Shivan Wurm
@@ -10841,7 +10841,7 @@
 00|00|00|00|00|EMN|C|Midnight Scavengers
 00|00|00|00|00|JOU|R|Eidolon of Blossoms
 00|00|00|00|00|BNG|R|Eidolon of Countless Battles
-00|00|00|00|00|JOU|U|Eidolon of Rhetoric
+01|00|00|00|00|JOU|U|Eidolon of Rhetoric
 00|00|00|00|00|JOU|R|Eidolon of the Great Revel
 00|00|00|00|00|C16|M|Yidris, Maelstrom Wielder
 00|00|00|00|00|USG|R|Midsummer Revel
@@ -14440,7 +14440,7 @@
 00|00|00|00|00|9ED|R|Llanowar Wastes
 00|00|00|00|00|APC|R|Llanowar Wastes
 01|00|00|00|00|M15|R|Llanowar Wastes
-03|00|00|00|00|ORI|R|Llanowar Wastes
+04|00|00|00|00|ORI|R|Llanowar Wastes
 00|00|00|00|00|POR|U|Plant Elemental
 00|00|00|00|00|5ED|C|Flare
 00|00|00|00|00|ICE|C|Flare
@@ -20511,7 +20511,7 @@
 00|00|00|00|00|CON|C|Court Homunculus
 00|01|00|00|00|MM2|C|Court Homunculus
 02|00|00|00|00|MMA|C|Court Homunculus
-02|00|00|00|00|CMD|U|Court Hussar
+04|00|00|00|00|CMD|U|Court Hussar
 01|00|00|00|00|DIS|U|Court Hussar
 00|00|00|00|00|DDO|C|Court Street Denizen
 00|00|00|00|00|GTC|C|Court Street Denizen
@@ -23521,7 +23521,7 @@
 00|00|00|00|00|RAV|U|Trophy Hunter
 00|00|00|00|00|AER|U|Trophy Mage
 00|00|00|00|00|2ED|R|Tropical Island
-00|00|00|00|00|3ED|R|Tropical Island
+01|00|00|00|00|3ED|R|Tropical Island
 00|00|00|00|00|LEA|R|Tropical Island
 00|00|00|00|00|LEB|R|Tropical Island
 00|00|00|00|00|MIR|U|Tropical Storm
@@ -24696,7 +24696,7 @@
 00|00|00|00|00|DST|C|Pteron Ghost
 00|00|00|00|00|HOU|U|Steward of Solidarity
 00|00|00|00|00|ALA|C|Steward of Valeron
-02|00|00|00|00|DDG|C|Steward of Valeron
+04|00|00|00|00|DDG|C|Steward of Valeron
 00|00|00|00|00|TSP|R|Ith, High Arcanist
 00|00|00|00|00|2ED|U|Uthden Troll
 00|00|00|00|00|3ED|U|Uthden Troll
@@ -25794,7 +25794,7 @@
 01|00|00|00|00|M12|R|Sundial of the Infinite
 00|00|00|00|00|LEG|U|Hunding Gjornersen
 00|00|00|00|00|2ED|R|Tundra
-00|00|00|00|00|3ED|R|Tundra
+01|00|00|00|00|3ED|R|Tundra
 00|00|00|00|00|LEA|R|Tundra
 00|00|00|00|00|LEB|R|Tundra
 00|00|00|00|00|APC|C|Tundra Kavu
@@ -27666,7 +27666,7 @@
 00|00|00|00|00|ODY|U|Sylvan Might
 00|00|00|00|00|C14|R|Sylvan Offering
 00|00|00|00|00|LEG|U|Sylvan Paradise
-01|00|00|00|00|GTC|R|Sylvan Primordial
+03|00|00|00|00|GTC|R|Sylvan Primordial
 00|00|00|00|00|C14|C|Sylvan Ranger
 00|00|00|00|00|DDH|C|Sylvan Ranger
 00|00|00|00|00|M11|C|Sylvan Ranger
