@@ -6121,7 +6121,7 @@
 00|00|00|00|00|RAV|C|Peel from Reality
 00|00|00|00|00|ISD|C|Feeling of Dread
 00|00|00|00|00|AKG|U|Deem Worthy
-00|00|00|00|00|AER|U|Peema Aether-Seer
+00|00|00|00|00|AER|U|Peema AEther-Seer
 00|00|00|00|00|KLD|C|Peema Outrider
 00|00|00|00|00|PLC|U|Keen Sense
 00|00|00|00|00|POR|C|Keen-Eyed Archers
@@ -8468,11 +8468,11 @@
 00|00|00|00|00|HOU|C|Lethal Sting
 00|00|00|00|00|SCG|R|Lethal Vapors
 00|00|00|00|00|ZEN|C|Lethargy Trap
-00|00|00|00|00|AER|C|Aether Chaser
-00|00|00|00|00|AER|C|Aether Herder
+00|00|00|00|00|AER|C|AEther Chaser
+00|00|00|00|00|AER|C|AEther Herder
 00|00|00|00|00|M11|C|Nether Horror
-00|00|00|00|00|AER|C|Aether Inspector
-00|00|00|00|00|AER|C|Aether Poisoner
+00|00|00|00|00|AER|C|AEther Inspector
+00|00|00|00|00|AER|C|AEther Poisoner
 00|00|00|00|00|2ED|R|Nether Shadow
 00|00|00|00|00|3ED|R|Nether Shadow
 00|00|00|00|00|4ED|R|Nether Shadow
@@ -8480,21 +8480,21 @@
 00|00|00|00|00|LEA|R|Nether Shadow
 00|00|00|00|00|LEB|R|Nether Shadow
 00|00|00|00|00|MMQ|R|Nether Spirit
-00|00|00|00|00|AER|C|Aether Swooper
+00|00|00|00|00|AER|C|AEther Swooper
 00|00|00|00|00|TSP|R|Nether Traitor
-00|00|00|00|00|IMA|R|Aether Vial
+00|00|00|00|00|IMA|R|AEther Vial
 00|00|00|00|00|LEG|R|Nether Void
 00|00|00|00|00|RAV|U|Netherborn Phalanx
 00|00|00|00|00|UDS|R|Tethered Griffin
 00|00|00|00|00|ULG|U|Tethered Skirge
-00|00|00|00|00|AER|R|Aethergeode Miner
-00|00|00|00|00|IMA|U|Aetherize
-00|00|00|00|00|MM3|R|Aethermage's Touch
-00|00|00|00|00|AER|R|Aethersphere Harvester
-00|00|00|00|00|AER|C|Aetherstream Leopard
-00|00|00|00|00|AER|R|Aethertide Whale
-00|00|00|00|00|MM3|C|Aethertow
-00|00|00|00|00|AER|M|Aetherwind Basker
+00|00|00|00|00|AER|R|AEthergeode Miner
+00|00|00|00|00|IMA|U|AEtherize
+00|00|00|00|00|MM3|R|AEthermage's Touch
+00|00|00|00|00|AER|R|AEthersphere Harvester
+00|00|00|00|00|AER|C|AEtherstream Leopard
+00|00|00|00|00|AER|R|AEthertide Whale
+00|00|00|00|00|MM3|C|AEthertow
+00|00|00|00|00|AER|M|AEtherwind Basker
 00|00|00|00|00|PCY|C|Rethink
 00|00|00|00|00|JOU|U|Tethmos High Priest
 00|00|00|00|00|EVE|R|Fetid Heath
@@ -9531,7 +9531,7 @@
 00|00|00|00|00|M15|R|Shield of the Avatar
 00|00|00|00|00|SHM|C|Shield of the Oversoul
 00|00|00|00|00|ARB|U|Shield of the Righteous
-00|00|00|00|00|AER|U|Shielded Aether Thief
+00|00|00|00|00|AER|U|Shielded AEther Thief
 00|00|00|00|00|GTC|C|Shielded Passage
 00|00|00|00|00|C15|R|Shielded by Faith
 00|00|00|00|00|DTK|U|Shieldhide Dragon
@@ -11000,7 +11000,7 @@
 00|00|00|00|00|ALA|C|Gift of the Gargantuan
 00|00|00|00|00|ALL|C|Gift of the Woods
 00|00|00|00|00|ALL|C|Gift of the Woods
-00|00|00|00|00|AER|U|Gifted Aetherborn
+00|00|00|00|00|AER|U|Gifted AEtherborn
 00|00|00|00|00|CHK|C|Lifted by Clouds
 00|00|00|00|00|HOU|U|Sifter Wurm
 00|00|00|00|00|OGW|R|Sifter of Skulls
@@ -18841,7 +18841,7 @@
 00|00|00|00|00|C13|R|Contested Cliffs
 00|00|00|00|00|ONS|R|Contested Cliffs
 00|00|00|00|00|MBS|R|Contested War Zone
-00|00|00|00|00|AER|M|Gonti's Aether Heart
+00|00|00|00|00|AER|M|Gonti's AEther Heart
 00|00|00|00|00|AER|U|Gonti's Machinations
 00|00|00|00|00|KLD|R|Gonti, Lord of Luxury
 00|00|00|00|00|C14|R|Pontiff of Blight
