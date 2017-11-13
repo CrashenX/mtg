@@ -1,32 +1,28 @@
-# Creatures
+# Creature (31)
 04|00|Cursecatcher
-01|00|Kira, Great Glass-Spinner
+03|00|Harbinger of the Tides
+01|00|Kopala, Warden of Waves
+04|00|Kumena's Speaker
 04|00|Lord of Atlantis
-02|00|Master of Waves
 04|00|Master of the Pearl Trident
-04|00|Merrow Reejerey
-02|00|Phantasmal Image
+04|00|Merfolk Branchwalker
+03|00|Merrow Reejerey
 04|00|Silvergill Adept
-01|00|Sygg, River Cutthroat
-02|00|Thassa, God of the Sea
-# Spells
-04|00|AEther Vial
-02|00|Spell Pierce
-02|00|Spreading Seas
-04|00|Vapor Snag
-# Land
-03|00|Cavern of Souls
-13|00|Island
-01|00|Minamo, School at Water's Edge
-03|00|Mutavault
+# Spell (10)
+04|00|Aether Vial
+02|00|Dismember
+04|00|Spreading Seas
+# Land (19)
+04|00|Botanical Sanctum
+02|00|Breeding Pool
+04|00|Cavern of Souls
+04|00|Island
+04|00|Mutavault
+01|00|Unclaimed Territory
 # Sideboard
-02|00|Annul
-01|00|Grafdigger's Cage
-02|00|Hurkyl's Recall
-01|00|Master of Waves
-02|00|Relic of Progenitus
-01|00|Spell Pierce
-02|00|Spreading Seas
-02|00|Threads of Disloyalty
-01|00|Tidebinder Mage
+03|00|Ceremonious Rejection
+02|00|Chameleon Colossus
+02|00|Dispel
+04|00|Natural State
+03|00|Relic of Progenitus
 01|00|Unified Will
