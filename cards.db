@@ -15597,7 +15597,7 @@
 00|00|00|00|00|C15|U|Blustersquall
 00|00|00|00|00|RTR|U|Blustersquall
 01|00|00|00|00|CMD|R|Flusterstorm
-00|00|00|00|00|IMA|R|Flusterstorm
+01|00|00|00|00|IMA|R|Flusterstorm
 00|00|00|00|00|BFZ|C|Clutch of Currents
 00|00|00|00|00|SCG|C|Clutch of Undeath
 00|00|00|00|00|RAV|U|Clutch of the Undercity
@@ -19610,7 +19610,7 @@
 00|00|00|00|00|TSP|C|Foriysian Interceptor
 00|00|00|00|00|TSP|U|Foriysian Totem
 01|00|00|00|00|FUT|R|Horizon Canopy
-00|00|00|00|00|IMA|R|Horizon Canopy
+02|00|00|00|00|IMA|R|Horizon Canopy
 00|00|00|00|00|C16|U|Horizon Chimera
 02|00|00|00|00|THS|U|Horizon Chimera
 02|00|00|00|00|WWK|U|Horizon Drake
@@ -22210,7 +22210,7 @@
 00|00|00|00|00|CMD|R|Archangel of Strife
 00|00|00|00|00|V15|M|Archangel of Strife
 01|00|00|00|00|M14|M|Archangel of Thune
-00|00|00|00|00|IMA|M|Archangel of Thune
+02|00|00|00|00|IMA|M|Archangel of Thune
 00|00|00|00|00|ORI|M|Archangel of Tithes
 00|00|00|00|00|DKA|M|Archangel's Light
 00|00|00|00|00|CN2|C|Orchard Elemental
