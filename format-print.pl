@@ -482,7 +482,7 @@ my %sets = ( "LEA" => { order => 199308,
                         name => 'Planechase Anthology'
                       }
            , "AER" => { order => 201701,
-                        name => 'Aether Revolt'
+                        name => 'AEther Revolt'
                       }
            , "AKG" => { order => 201704,
                         name => 'Amonkhet'
