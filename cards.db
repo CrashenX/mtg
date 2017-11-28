@@ -7932,7 +7932,7 @@
 00|00|00|00|00|V15|M|Serra Angel
 00|00|00|00|00|IMA|U|Serra Angel
 04|00|00|00|00|M11|R|Serra Ascendant
-00|00|00|00|00|IMA|R|Serra Ascendant
+01|00|00|00|00|IMA|R|Serra Ascendant
 00|00|00|00|00|C13|M|Serra Avatar
 01|00|00|00|00|C14|M|Serra Avatar
 00|00|00|00|00|M13|M|Serra Avatar
@@ -15076,7 +15076,7 @@
 00|00|00|00|00|STH|R|Sliver Queen
 00|00|00|00|00|FUT|U|Sliversmith
 00|00|00|00|00|ISD|M|Olivia Voldaren
-00|01|00|00|00|MM3|M|Olivia Voldaren
+00|00|00|00|00|MM3|M|Olivia Voldaren
 00|00|00|00|00|SOI|U|Olivia's Bloodsworn
 00|00|00|00|00|EMN|C|Olivia's Dragoon
 00|00|00|00|00|SOI|M|Olivia, Mobilized for War
@@ -22549,7 +22549,7 @@
 00|00|00|00|00|PCA|R|Predatory Urge
 02|00|00|00|00|ZEN|R|Predatory Urge
 00|00|00|00|00|INV|U|Dredge
-00|00|00|00|00|ODY|U|Predict
+02|00|00|00|00|ODY|U|Predict
 00|00|00|00|00|MMQ|U|Credit Voucher
 00|00|00|00|00|9ED|C|Tree Monkey
 00|00|00|00|00|P02|C|Tree Monkey
