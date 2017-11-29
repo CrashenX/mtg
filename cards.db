@@ -15597,7 +15597,7 @@
 00|00|00|00|00|C15|U|Blustersquall
 00|00|00|00|00|RTR|U|Blustersquall
 01|00|00|00|00|CMD|R|Flusterstorm
-01|00|00|00|00|IMA|R|Flusterstorm
+02|00|00|00|00|IMA|R|Flusterstorm
 00|00|00|00|00|BFZ|C|Clutch of Currents
 00|00|00|00|00|SCG|C|Clutch of Undeath
 00|00|00|00|00|RAV|U|Clutch of the Undercity
@@ -16132,7 +16132,7 @@
 00|00|00|00|00|FTF|C|Ancestral Vengeance
 00|00|00|00|00|DD2|R|Ancestral Vision
 00|00|00|00|00|TSP|R|Ancestral Vision
-00|00|00|00|00|IMA|R|Ancestral Vision
+04|00|00|00|00|IMA|R|Ancestral Vision
 00|00|00|00|00|LEG|C|Enchanted Being
 00|00|00|00|00|SHM|R|Enchanted Evening
 00|00|00|00|00|CHR|U|Enchantment Alteration
@@ -19610,7 +19610,7 @@
 00|00|00|00|00|TSP|C|Foriysian Interceptor
 00|00|00|00|00|TSP|U|Foriysian Totem
 01|00|00|00|00|FUT|R|Horizon Canopy
-02|00|00|00|00|IMA|R|Horizon Canopy
+04|00|00|00|00|IMA|R|Horizon Canopy
 00|00|00|00|00|C16|U|Horizon Chimera
 02|00|00|00|00|THS|U|Horizon Chimera
 02|00|00|00|00|WWK|U|Horizon Drake
@@ -24042,7 +24042,7 @@
 00|00|00|00|00|LRW|R|Cryptic Command
 00|00|00|00|00|MM2|R|Cryptic Command
 04|00|00|00|00|MMA|R|Cryptic Command
-00|00|00|00|00|IMA|R|Cryptic Command
+04|00|00|00|00|IMA|R|Cryptic Command
 03|00|00|00|00|BFZ|U|Cryptic Cruiser
 00|00|00|00|00|ONS|R|Cryptic Gateway
 00|00|00|00|00|AKG|U|Cryptic Serpent
@@ -26281,7 +26281,7 @@
 00|00|00|00|00|KLD|C|Curio Vendor
 00|00|00|00|00|MRD|U|Auriok Bladewarden
 00|00|00|00|00|5DN|R|Auriok Champion
-00|00|00|00|00|IMA|R|Auriok Champion
+04|00|00|00|00|IMA|R|Auriok Champion
 06|00|00|00|00|SOM|U|Auriok Edgewright
 04|00|00|00|00|DST|C|Auriok Glaivemaster
 00|00|00|00|00|SOM|C|Auriok Replica
