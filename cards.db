@@ -8634,7 +8634,7 @@
 00|00|00|00|00|JOU|C|Flurry of Horns
 00|00|00|00|00|ARB|U|Flurry of Wings
 01|00|00|00|00|CMD|R|Flusterstorm
-02|00|00|00|00|IMA|R|Flusterstorm
+04|00|00|00|00|IMA|R|Flusterstorm
 00|00|00|00|00|POR|U|Flux
 00|00|00|00|00|WTH|C|Flux
 03|00|00|00|00|DGM|U|Fluxcharger
