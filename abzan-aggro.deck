@@ -1,50 +1,40 @@
-# Creature (24)
-03|00|Deathrite Shaman
-01|00|Fauna Shaman
-01|00|Gaddock Teeg
-04|00|Knight of the Reliquary
-04|00|Mother of Runes
-02|00|Noble Hierarch
-01|00|Qasali Pridemage
-01|00|Scavenging Ooze
-01|00|Scryb Ranger
-01|00|Sigarda, Host of Herons
-02|00|Stoneforge Mystic
-03|00|Thalia, Guardian of Thraben
-# Artifact (2)
-01|00|Sword of Feast and Famine
-01|00|Umezawa's Jitte
-# Enchantment (1)
-01|00|Sylvan Library
-# Instant (6)
-03|00|Abrupt Decay
-03|00|Swords to Plowshares
-# Sorcery (4)
-04|00|Green Sun's Zenith
-# Land (23)
-02|00|Bayou
-01|00|Bojuka Bog
-01|00|Cavern of Souls
+# Main Deck
+01|00|Abrupt Decay
+01|00|Batterskull
+01|00|Bayou
+04|00|Deathrite Shaman
 01|00|Dryad Arbor
-01|00|Forest
-01|00|Horizon Canopy
+02|00|Forest
+01|00|Gaddock Teeg
+04|00|Green Sun's Zenith
 01|00|Karakas
-03|00|Marsh Flats
+04|00|Knight of the Reliquary
 01|00|Maze of Ith
+04|00|Mother of Runes
+01|00|Plains
+01|00|Qasali Pridemage
 02|00|Savannah
-01|00|Scrubland
+01|00|Scavenging Ooze
+02|00|Scrubland
+01|00|Scryb Ranger
+04|00|Stoneforge Mystic
+01|00|Sword of Fire and Ice
+04|00|Swords to Plowshares
+01|00|Sylvan Library
+04|00|Thalia, Guardian of Thraben
+01|00|Umezawa's Jitte
+04|00|Verdant Catacombs
 04|00|Wasteland
 04|00|Windswept Heath
-# Sideboard (15)
-01|00|Batterskull
-01|00|Cataclysm
+# Sideboard
+01|00|Bojuka Bog
 01|00|Choke
-02|00|Containment Priest
+01|00|Engineered Plague
 02|00|Ethersworn Canonist
-01|00|Linvala, Keeper of Silence
-01|00|Sword of Fire and Ice
-01|00|Thalia, Guardian of Thraben
+01|00|Garruk Relentless
+01|00|Liliana, the Last Hope
+01|00|Pithing Needle
+01|00|Sanctum Prelate
+02|00|Surgical Extraction
 03|00|Thoughtseize
-02|00|Zealous Persecution
-# Not Currently in Deck
-# 1x Cataclysm
+01|00|Zealous Persecution
