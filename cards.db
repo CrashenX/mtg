@@ -1458,7 +1458,7 @@
 00|00|00|00|00|SCG|C|Aven Liberator
 00|00|00|00|00|ARB|R|Aven Mimeomancer
 00|00|00|00|00|FUT|U|Aven Mindcensor
-00|00|00|00|00|AKG|R|Aven Mindcensor
+04|00|00|00|00|AKG|R|Aven Mindcensor
 00|00|00|00|00|LGN|C|Aven Redeemer
 00|00|00|00|00|HOU|C|Aven Reedstalker
 03|00|00|00|00|EMA|C|Aven Riftwatcher
@@ -2911,7 +2911,7 @@
 00|00|00|00|00|DDC|U|Breeding Pit
 00|00|00|00|00|FEM|U|Breeding Pit
 00|00|00|00|00|DIS|R|Breeding Pool
-01|00|00|00|00|GTC|R|Breeding Pool
+02|00|00|00|00|GTC|R|Breeding Pool
 00|00|00|00|00|VIS|C|Breezekeeper
 00|00|00|00|00|C16|M|Breya, Etherium Shaper
 00|00|00|00|00|MMQ|U|Briar Patch
@@ -10757,7 +10757,7 @@
 00|00|00|00|00|MIR|R|Harbinger of Night
 00|00|00|00|00|BOK|C|Harbinger of Spring
 00|00|00|00|00|DTK|R|Harbinger of the Hunt
-01|00|00|00|00|ORI|R|Harbinger of the Tides
+04|00|00|00|00|ORI|R|Harbinger of the Tides
 00|00|00|00|00|C17|R|Harbinger of the Tides
 00|00|00|00|00|M13|U|Harbor Bandit
 00|00|00|00|00|MIR|U|Harbor Guardian
@@ -13051,7 +13051,7 @@
 00|00|00|00|00|MM2|C|Kitesail
 00|00|00|00|00|WWK|C|Kitesail
 04|00|00|00|00|WWK|C|Kitesail Apprentice
-00|00|00|00|00|XLN|U|Kitesail Freebooter
+04|00|00|00|00|XLN|U|Kitesail Freebooter
 00|00|00|00|00|BFZ|C|Kitesail Scout
 01|00|00|00|00|WTH|C|Kithkin Armor
 00|00|00|00|00|LRW|C|Kithkin Daggerdare
@@ -13194,7 +13194,7 @@
 00|00|00|00|00|C13|R|Kongming, "Sleeping Dragon"
 00|00|00|00|00|PTK|R|Kongming, “Sleeping Dragon”
 00|00|00|00|00|VIS|R|Kookus
-00|00|00|00|00|XLN|R|Kopala, Warden of Waves
+01|00|00|00|00|XLN|R|Kopala, Warden of Waves
 00|00|00|00|00|DDF|U|Kor Aeronaut
 03|00|00|00|00|ZEN|U|Kor Aeronaut
 06|00|00|00|00|BFZ|U|Kor Bladewhirl
@@ -13354,7 +13354,7 @@
 00|00|00|00|00|BOK|C|Kumano's Blessing
 00|00|00|00|00|CHK|U|Kumano's Pupils
 00|00|00|00|00|CHK|R|Kumano, Master Yamabushi
-00|00|00|00|00|XLN|U|Kumena's Speaker
+04|00|00|00|00|XLN|U|Kumena's Speaker
 00|00|00|00|00|SOK|R|Kuon's Essence
 00|00|00|00|00|SOK|R|Kuon, Ogre Ascendant
 00|00|00|00|00|SCG|U|Kurgadon
@@ -14889,7 +14889,7 @@
 00|00|00|00|00|C15|M|Meren of Clan Nel Toth
 00|00|00|00|00|DRK|R|Merfolk Assassin
 00|00|00|00|00|TSB|S|Merfolk Assassin
-00|00|00|00|00|XLN|U|Merfolk Branchwalker
+04|00|00|00|00|XLN|U|Merfolk Branchwalker
 00|00|00|00|00|10E|C|Merfolk Looter
 00|00|00|00|00|7ED|U|Merfolk Looter
 00|00|00|00|00|CN2|U|Merfolk Looter
@@ -15830,7 +15830,7 @@
 04|00|00|00|00|MM2|U|Mutagenic Growth
 00|00|00|00|00|NPH|C|Mutagenic Growth
 00|00|00|00|00|DGM|C|Mutant's Prey
-04|00|00|00|00|M14|R|Mutavault
+08|00|00|00|00|M14|R|Mutavault
 00|00|00|00|00|MOR|R|Mutavault
 00|00|00|00|00|C14|R|Mutilate
 00|00|00|00|00|DDD|R|Mutilate
@@ -24959,7 +24959,7 @@
 00|00|00|00|00|V09|M|Tinker
 00|00|00|00|00|M11|C|Tireless Missionaries
 00|00|00|00|00|M15|C|Tireless Missionaries
-00|00|00|00|00|SOI|R|Tireless Tracker
+02|00|00|00|00|SOI|R|Tireless Tracker
 00|00|00|00|00|ODY|C|Tireless Tribe
 00|00|00|00|00|XLN|C|Tishana's Wayfinder
 00|00|00|00|00|XLN|M|Tishana, Voice of Thunder
@@ -25666,7 +25666,7 @@
 00|00|00|00|00|SOI|C|Uncaged Fury
 00|00|00|00|00|AVR|C|Uncanny Speed
 00|00|00|00|00|BOK|U|Unchecked Growth
-00|00|00|00|00|XLN|U|Unclaimed Territory
+08|00|00|00|00|XLN|U|Unclaimed Territory
 00|00|00|00|00|4ED|U|Uncle Istvan
 00|00|00|00|00|DRK|R|Uncle Istvan
 00|00|00|00|00|TSB|S|Uncle Istvan
@@ -26480,7 +26480,7 @@
 00|00|00|00|00|MIR|U|Vitalizing Cascade
 00|00|00|00|00|PCY|R|Vitalizing Wind
 00|00|00|00|00|PLC|C|Vitaspore Thallid
-01|00|00|00|00|ARB|U|Vithian Renegades
+02|00|00|00|00|ARB|U|Vithian Renegades
 00|00|00|00|00|ALA|C|Vithian Stinger
 00|00|00|00|00|DDK|C|Vithian Stinger
 00|00|00|00|00|MM3|U|Vithian Stinger
@@ -27855,7 +27855,7 @@
 00|00|00|00|00|C14|M|Xathrid Demon
 00|00|00|00|00|M10|M|Xathrid Demon
 00|00|00|00|00|M13|R|Xathrid Gorgon
-00|00|00|00|00|M14|R|Xathrid Necromancer
+04|00|00|00|00|M14|R|Xathrid Necromancer
 00|00|00|00|00|M15|U|Xathrid Slyblade
 00|00|00|00|00|BNG|M|Xenagos, God of Revels
 00|00|00|00|00|THS|M|Xenagos, the Reveler
