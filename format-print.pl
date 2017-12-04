@@ -873,9 +873,9 @@ sub get_decks()
     my $cards = shift;
     my $file;
 
-    opendir(DIR, getcwd) or die "Can't open cwd: $!\n";
+    opendir(DIR, getcwd . '/decks') or die "Can't open cwd: $!\n";
     while($file = readdir(DIR)) {
-        &get_deck($cards, $file) if($file =~ /$DKEXT$/);
+        &get_deck($cards, 'decks/' . $file) if($file =~ /$DKEXT$/);
     }
     closedir(DIR);
 }
