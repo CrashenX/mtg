@@ -1,34 +1,29 @@
-# Creatures [5]
-02|00|Monastery Mentor
-03|00|Snapcaster Mage
-# Planeswalkers [2]
-02|00|Jace, the Mind Sculptor
-# Spells [33]
+# Main Deck
+01|00|Arid Mesa
 04|00|Brainstorm
-03|00|Counterbalance
-03|00|Counterspell
-01|00|Entreat the Angels
-04|00|Force of Will
-04|00|Ponder
-02|00|Predict
-04|00|Sensei's Divining Top
-04|00|Swords to Plowshares
-04|00|Terminus
-# Lands [20]
-02|00|Arid Mesa
+02|00|Counterspell
 04|00|Flooded Strand
-04|00|Island
+02|00|Flusterstorm
+04|00|Force of Will
+06|00|Island
+03|00|Jace, the Mind Sculptor
+01|00|Misty Rainforest
+03|00|Monastery Mentor
 02|00|Plains
-03|00|Scalding Tarn
+02|00|Polluted Delta
+04|00|Ponder
+03|00|Portent
+02|00|Predict
+01|00|Scalding Tarn
+04|00|Snapcaster Mage
+04|00|Swords to Plowshares
+03|00|Terminus
 03|00|Tundra
-02|00|Volcanic Island
+02|00|Unexpectedly Absent
 # Sideboard
-01|00|Containment Priest
-01|00|Engineered Explosives
-03|00|Flusterstorm
-01|00|Mountain
-02|00|Pyroblast
-02|00|Red Elemental Blast
-01|00|Snapcaster Mage
-02|00|Surgical Extraction
-02|00|Wear // Tear
+02|00|Back to Basics
+03|00|Disenchant
+02|00|Flusterstorm
+03|00|Leyline of Sanctity
+02|00|Rest in Peace
+03|00|Vendilion Clique
