@@ -40,7 +40,7 @@
 00|00|00|00|00|DST|U|AEther Vial
 04|00|00|00|00|MMA|R|AEther Vial
 00|00|00|00|00|V10|M|AEther Vial
-00|00|00|00|00|IMA|R|AEther Vial
+01|00|00|00|00|IMA|R|AEther Vial
 00|00|00|00|00|TSP|C|AEther Web
 00|00|00|00|00|KLD|U|AEtherborn Marauder
 00|00|00|00|00|TSP|C|AEtherflame Wall
@@ -7959,7 +7959,7 @@
 00|00|00|00|00|DGM|C|Fatal Fumes
 00|00|00|00|00|ALL|R|Fatal Lore
 00|00|00|00|00|SCG|U|Fatal Mutation
-00|00|00|00|00|AER|U|Fatal Push
+01|00|00|00|00|AER|U|Fatal Push
 00|00|00|00|00|THS|C|Fate Foretold
 00|00|00|00|00|DTK|C|Fate Forgotten
 00|00|00|00|00|SHM|C|Fate Transfer
@@ -13137,7 +13137,7 @@
 00|00|00|00|00|CON|R|Knight of the Reliquary
 00|00|00|00|00|DDG|M|Knight of the Reliquary
 04|00|00|00|00|MMA|R|Knight of the Reliquary
-00|00|00|00|00|IMA|R|Knight of the Reliquary
+02|00|00|00|00|IMA|R|Knight of the Reliquary
 00|00|00|00|00|ALA|C|Knight of the Skyward Eye
 00|00|00|00|00|ALA|R|Knight of the White Orchid
 00|00|00|00|00|DDG|R|Knight of the White Orchid
@@ -14342,7 +14342,7 @@
 00|00|00|00|00|TSP|R|Magus of the Mirror
 00|00|00|00|00|FUT|R|Magus of the Moat
 00|00|00|00|00|FUT|R|Magus of the Moon
-01|00|00|00|00|IMA|R|Magus of the Moon
+02|00|00|00|00|IMA|R|Magus of the Moon
 00|00|00|00|00|TSP|R|Magus of the Scroll
 00|00|00|00|00|PLC|R|Magus of the Tabernacle
 00|00|00|00|00|5ED|R|Magus of the Unseen
@@ -21121,7 +21121,7 @@
 00|00|00|00|00|V15|M|Serra Angel
 00|00|00|00|00|IMA|U|Serra Angel
 04|00|00|00|00|M11|R|Serra Ascendant
-01|00|00|00|00|IMA|R|Serra Ascendant
+03|00|00|00|00|IMA|R|Serra Ascendant
 00|00|00|00|00|C13|M|Serra Avatar
 01|00|00|00|00|C14|M|Serra Avatar
 00|00|00|00|00|M13|M|Serra Avatar
