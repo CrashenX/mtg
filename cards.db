@@ -668,7 +668,7 @@
 04|00|00|00|00|MRD|C|Ancient Den
 00|00|00|00|00|C16|U|Ancient Excavation
 00|00|00|00|00|ISD|C|Ancient Grudge
-00|00|00|00|00|MM3|U|Ancient Grudge
+01|00|00|00|00|MM3|U|Ancient Grudge
 00|00|00|00|00|TSP|C|Ancient Grudge
 00|00|00|00|00|M11|R|Ancient Hellkite
 00|00|00|00|00|NMS|U|Ancient Hydra
@@ -19460,7 +19460,7 @@
 00|00|00|00|00|INV|R|Restock
 00|00|00|00|00|M15|U|Restock
 04|00|00|00|00|AVR|R|Restoration Angel
-01|00|00|00|00|MM3|R|Restoration Angel
+03|00|00|00|00|MM3|R|Restoration Angel
 00|00|00|00|00|IMA|R|Restoration Angel
 04|00|00|00|00|KLD|U|Restoration Gearsmith
 00|00|00|00|00|AER|U|Restoration Specialist
