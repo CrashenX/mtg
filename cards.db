@@ -7692,7 +7692,7 @@
 00|00|00|00|00|C17|R|Exotic Orchard
 00|00|00|00|00|OGW|C|Expedite
 02|00|00|00|00|BFZ|U|Expedition Envoy
-01|00|00|00|00|MM2|U|Expedition Map
+00|00|00|00|00|MM2|U|Expedition Map
 00|00|00|00|00|ZEN|C|Expedition Map
 00|00|00|00|00|OGW|C|Expedition Raptor
 00|00|00|00|00|ULG|C|Expendable Troops
@@ -21255,7 +21255,7 @@
 00|00|00|00|00|BTD|S|Shambling Strider
 00|00|00|00|00|ICE|C|Shambling Strider
 00|00|00|00|00|TOR|R|Shambling Swarm
-06|00|00|00|00|BFZ|R|Shambling Vent
+04|00|00|00|00|BFZ|R|Shambling Vent
 00|00|00|00|00|2ED|C|Shanodin Dryads
 00|00|00|00|00|3ED|C|Shanodin Dryads
 00|00|00|00|00|4ED|C|Shanodin Dryads
