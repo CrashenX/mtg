@@ -1002,7 +1002,7 @@
 01|00|00|00|00|SOI|M|Archangel Avacyn
 00|00|00|00|00|CMD|R|Archangel of Strife
 00|00|00|00|00|V15|M|Archangel of Strife
-01|00|00|00|00|M14|M|Archangel of Thune
+00|00|00|00|00|M14|M|Archangel of Thune
 02|00|00|00|00|IMA|M|Archangel of Thune
 00|00|00|00|00|ORI|M|Archangel of Tithes
 00|00|00|00|00|DKA|M|Archangel's Light
@@ -2095,7 +2095,7 @@
 00|00|00|00|00|FUT|R|Bitter Ordeal
 00|00|00|00|00|KTK|C|Bitter Revelation
 00|00|00|00|00|AKG|C|Bitterblade Warrior
-01|00|00|00|00|MM2|M|Bitterblossom
+02|00|00|00|00|MM2|M|Bitterblossom
 00|00|00|00|00|MOR|R|Bitterblossom
 00|00|00|00|00|HOU|C|Bitterbow Sharpshooters
 01|00|00|00|00|ISD|U|Bitterheart Witch
@@ -5848,7 +5848,7 @@
 00|00|00|00|00|RTR|C|Destroy the Evidence
 00|00|00|00|00|PLS|R|Destructive Flow
 00|00|00|00|00|M11|R|Destructive Force
-01|00|00|00|00|THS|U|Destructive Revelry
+04|00|00|00|00|THS|U|Destructive Revelry
 00|00|00|00|00|AER|C|Destructive Tampering
 00|00|00|00|00|USG|U|Destructive Urge
 01|00|00|00|00|FTF|U|Destructor Dragon
@@ -8633,7 +8633,7 @@
 00|00|00|00|00|USG|R|Fluctuator
 00|00|00|00|00|JOU|C|Flurry of Horns
 00|00|00|00|00|ARB|U|Flurry of Wings
-01|00|00|00|00|CMD|R|Flusterstorm
+00|00|00|00|00|CMD|R|Flusterstorm
 04|00|00|00|00|IMA|R|Flusterstorm
 00|00|00|00|00|POR|U|Flux
 00|00|00|00|00|WTH|C|Flux
@@ -22780,7 +22780,7 @@
 00|00|00|00|00|CN2|U|Spire Phantasm
 00|01|00|00|00|MBS|C|Spire Serpent
 00|00|00|00|00|GTC|C|Spire Tracer
-00|00|00|00|00|AER|R|Spire of Industry
+02|00|00|00|00|AER|R|Spire of Industry
 04|00|00|00|00|KLD|R|Spirebluff Canal
 00|00|00|00|00|XLN|R|Spires of Orazca
 00|00|00|00|00|KLD|C|Spireside Infiltrator
@@ -23405,7 +23405,7 @@
 00|00|00|00|00|RTR|U|Street Spasm
 02|00|00|00|00|RTR|U|Street Sweeper
 00|00|00|00|00|FUT|U|Street Wraith
-03|00|00|00|00|MMA|C|Street Wraith
+02|00|00|00|00|MMA|C|Street Wraith
 00|00|00|00|00|GPT|C|Streetbreaker Wurm
 00|00|00|00|00|JOU|U|Strength from the Fallen
 00|00|00|00|00|CN2|C|Strength in Numbers
@@ -24340,7 +24340,7 @@
 00|00|00|00|00|ONS|R|Tempting Wurm
 00|00|00|00|00|KTK|R|Temur Ascendancy
 00|00|00|00|00|KTK|C|Temur Banner
-00|00|00|00|00|FTF|C|Temur Battle Rage
+01|00|00|00|00|FTF|C|Temur Battle Rage
 01|00|00|00|00|KTK|U|Temur Charger
 01|00|00|00|00|KTK|U|Temur Charm
 00|00|00|00|00|FTF|C|Temur Runemark
