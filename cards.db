@@ -101,7 +101,7 @@
 00|00|00|00|00|ULG|C|About Face
 00|00|00|00|00|HOU|U|Abrade
 04|00|00|00|00|MM3|R|Abrupt Decay
-04|00|00|00|00|RTR|R|Abrupt Decay
+03|00|00|00|00|RTR|R|Abrupt Decay
 00|00|00|00|00|USG|U|Absolute Grace
 00|00|00|00|00|USG|U|Absolute Law
 00|00|00|00|00|GPT|C|Absolver Thrull
@@ -1236,7 +1236,7 @@
 00|00|00|00|00|6ED|U|Ashnod's Altar
 00|00|00|00|00|ATQ|U|Ashnod's Altar
 00|00|00|00|00|CHR|C|Ashnod's Altar
-01|00|00|00|00|EMA|U|Ashnod's Altar
+00|00|00|00|00|EMA|U|Ashnod's Altar
 00|00|00|00|00|4ED|U|Ashnod's Battle Gear
 00|00|00|00|00|ATQ|U|Ashnod's Battle Gear
 00|00|00|00|00|ALL|R|Ashnod's Cylix
@@ -10415,7 +10415,7 @@
 00|00|00|00|00|PD2|R|Grim Lavamancer
 00|00|00|00|00|TOR|R|Grim Lavamancer
 00|00|00|00|00|ULG|R|Grim Monolith
-01|00|00|00|00|SHM|R|Grim Poppet
+00|00|00|00|00|SHM|R|Grim Poppet
 00|00|00|00|00|MRD|R|Grim Reminder
 00|00|00|00|00|M14|R|Grim Return
 00|00|00|00|00|RTR|C|Grim Roustabout
@@ -10508,7 +10508,7 @@
 02|00|00|00|00|BFZ|U|Grove Rumbler
 00|00|00|00|00|FUT|R|Grove of the Burnwillows
 00|00|00|00|00|V12|M|Grove of the Burnwillows
-00|00|00|00|00|IMA|R|Grove of the Burnwillows
+01|00|00|00|00|IMA|R|Grove of the Burnwillows
 01|00|00|00|00|RTR|R|Grove of the Guardian
 02|00|00|00|00|BFZ|U|Grovetender Druids
 01|00|00|00|00|RTR|R|Growing Ranks
@@ -15293,7 +15293,7 @@
 00|00|00|00|00|MMQ|C|Misshapen Fiend
 00|00|00|00|00|MMQ|C|Misstep
 00|00|00|00|00|MIR|R|Mist Dragon
-00|01|00|00|00|BFZ|C|Mist Intruder
+00|00|00|00|00|BFZ|C|Mist Intruder
 00|00|00|00|00|M10|C|Mist Leopard
 00|00|00|00|00|AVR|C|Mist Raven
 00|00|00|00|00|DDQ|C|Mist Raven
@@ -27728,7 +27728,7 @@
 00|00|00|00|00|ONS|R|Words of Wind
 00|00|00|00|00|ODY|C|Words of Wisdom
 00|00|00|00|00|ONS|R|Words of Worship
-12|00|00|00|00|EXO|R|Workhorse
+11|00|00|00|00|EXO|R|Workhorse
 00|00|00|00|00|KLD|C|Workshop Assistant
 00|00|00|00|00|OGW|M|World Breaker
 01|00|00|00|00|ZEN|R|World Queller
