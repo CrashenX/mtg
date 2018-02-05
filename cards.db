@@ -11333,7 +11333,7 @@
 00|00|00|00|00|VIS|C|Hope Charm
 00|00|00|00|00|HOU|U|Hope Tender
 00|00|00|00|00|ULG|U|Hope and Glory
-00|00|00|00|00|AER|R|Hope of Ghirapur
+01|00|00|00|00|AER|R|Hope of Ghirapur
 00|00|00|00|00|THS|C|Hopeful Eidolon
 00|00|00|00|00|USG|U|Hopping Automaton
 01|00|00|00|00|KTK|U|Horde Ambusher
@@ -19460,7 +19460,7 @@
 00|00|00|00|00|INV|R|Restock
 00|00|00|00|00|M15|U|Restock
 04|00|00|00|00|AVR|R|Restoration Angel
-03|00|00|00|00|MM3|R|Restoration Angel
+04|00|00|00|00|MM3|R|Restoration Angel
 00|00|00|00|00|IMA|R|Restoration Angel
 04|00|00|00|00|KLD|U|Restoration Gearsmith
 00|00|00|00|00|AER|U|Restoration Specialist
@@ -21121,7 +21121,7 @@
 00|00|00|00|00|V15|M|Serra Angel
 00|00|00|00|00|IMA|U|Serra Angel
 04|00|00|00|00|M11|R|Serra Ascendant
-03|00|00|00|00|IMA|R|Serra Ascendant
+04|00|00|00|00|IMA|R|Serra Ascendant
 00|00|00|00|00|C13|M|Serra Avatar
 01|00|00|00|00|C14|M|Serra Avatar
 00|00|00|00|00|M13|M|Serra Avatar
@@ -23285,7 +23285,7 @@
 00|00|00|00|00|DDP|C|Stonework Puma
 00|00|00|00|00|ZEN|C|Stonework Puma
 01|01|00|00|00|AVR|U|Stonewright
-02|00|00|00|00|ISD|R|Stony Silence
+00|00|00|00|00|ISD|R|Stony Silence
 02|00|00|00|00|MM3|R|Stony Silence
 00|00|00|00|00|LRW|C|Stonybrook Angler
 04|00|00|00|00|MOR|C|Stonybrook Banneret
