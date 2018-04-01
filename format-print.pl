@@ -127,6 +127,9 @@ my %sets = ( "LEA" => { order => 199308,
            , "IMA" => { order => 201711,
                         name => 'Iconic Masters'
                       }
+           , "A25" => { order => 201803,
+                        name => 'Masters 25'
+                      }
            , "ARN" => { order => 199312,
                         name => 'Arabian Nights'
                       }
@@ -492,6 +495,9 @@ my %sets = ( "LEA" => { order => 199308,
                       }
            , "XLN" => { order => 201709,
                         name => 'Ixalan'
+                      }
+           , "RIX" => { order => 201801,
+                        name => 'Rivals of Ixalan'
                       }
            );
 
