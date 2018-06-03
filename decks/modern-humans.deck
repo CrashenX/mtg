@@ -1,32 +1,28 @@
-# Creature (36)
-04|00|Champion of the Parish
-04|00|Kitesail Freebooter
-04|00|Mantis Rider
-03|00|Mayor of Avabruck
-04|00|Meddling Mage
-04|00|Noble Hierarch
-03|00|Reflector Mage
-04|00|Thalia, Guardian of Thraben
-02|00|Thalia, Heretic Cathar
-04|00|Thalia's Lieutenant
-# Spell (4)
-04|00|AEther Vial
-# Land (20)
+# Main
+04|00|Aether Vial
 04|00|Ancient Ziggurat
 04|00|Cavern of Souls
-01|00|Hallowed Fountain
-02|00|Horizon Canopy
+04|00|Champion of the Parish
+04|00|Horizon Canopy
+04|00|Kitesail Freebooter
+04|00|Mantis Rider
+04|00|Meddling Mage
+01|00|Kessig Malcontents
+04|00|Noble Hierarch
+04|00|Phantasmal Image
 01|00|Plains
-01|00|Temple Garden
+04|00|Reflector Mage
+01|00|Restoration Angel
+02|00|Seachrome Coast
+04|00|Thalia's Lieutenant
+03|00|Thalia, Guardian of Thraben
 04|00|Unclaimed Territory
-03|00|Windswept Heath
 # Sideboard
-01|00|Anafenza, the Foremost
-02|00|Ethersworn Canonist
-02|00|Fiend Hunter
+02|00|Auriok Champion
+02|00|Dire Fleet Daredevil
+01|00|Dismember
+02|00|Gut Shot
 02|00|Izzet Staticaster
-01|00|Mirran Crusader
-01|00|Reflector Mage
-02|00|Tireless Tracker
-02|00|Vithian Renegades
-02|00|Xathrid Necromancer
+02|00|Kataki, War's Wage
+02|00|Reclamation Sage
+02|00|Sin Collector
