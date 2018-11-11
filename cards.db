@@ -1429,7 +1429,7 @@
 00|00|00|00|00|SOI|U|Autumnal Gloom
 01|00|00|00|00|DKA|U|Avacyn's Collar
 00|00|00|00|00|SOI|R|Avacyn's Judgment
-00|00|00|00|00|ISD|C|Avacyn's Pilgrim
+04|00|00|00|00|ISD|C|Avacyn's Pilgrim
 00|00|00|00|00|MM3|C|Avacyn's Pilgrim
 00|00|00|00|00|AVR|M|Avacyn, Angel of Hope
 00|00|00|00|00|V15|M|Avacyn, Angel of Hope
@@ -3783,7 +3783,7 @@
 00|00|00|00|00|LEB|R|Chaos Orb
 00|00|00|00|00|C14|R|Chaos Warp
 00|00|00|00|00|C16|R|Chaos Warp
-00|00|00|00|00|CMA|R|Chaos Warp
+00|00|00|00|00|CM1|R|Chaos Warp
 00|00|00|00|00|CMD|R|Chaos Warp
 00|00|00|00|00|C17|R|Chaos Warp
 00|00|00|00|00|2ED|R|Chaoslace
@@ -4365,7 +4365,7 @@
 00|00|00|00|00|C13|C|Command Tower
 00|00|00|00|00|C15|C|Command Tower
 00|00|00|00|00|C16|C|Command Tower
-00|00|00|00|00|CMA|C|Command Tower
+00|00|00|00|00|CM1|C|Command Tower
 00|00|00|00|00|CMD|C|Command Tower
 00|00|00|00|00|C17|C|Command Tower
 00|00|00|00|00|POR|U|Command of Unsummoning
@@ -5680,7 +5680,7 @@
 00|00|00|00|00|SCG|R|Decree of Justice
 00|00|00|00|00|A25|R|Decree of Justice
 00|00|00|00|00|C13|R|Decree of Pain
-00|00|00|00|00|CMA|R|Decree of Pain
+00|00|00|00|00|CM1|R|Decree of Pain
 00|00|00|00|00|SCG|R|Decree of Pain
 00|00|00|00|00|C17|R|Decree of Pain
 00|00|00|00|00|SCG|R|Decree of Savagery
@@ -5918,7 +5918,7 @@
 00|00|00|00|00|ODY|R|Deserted Temple
 00|00|00|00|00|JOU|U|Deserter's Quarters
 00|00|00|00|00|6ED|R|Desertion
-00|00|00|00|00|CMA|R|Desertion
+00|00|00|00|00|CM1|R|Desertion
 00|00|00|00|00|CN2|R|Desertion
 00|00|00|00|00|VIS|R|Desertion
 00|00|00|00|00|AKG|U|Desiccated Naga
@@ -6028,7 +6028,7 @@
 00|00|00|00|00|CSP|R|Diamond Faerie
 00|00|00|00|00|VIS|R|Diamond Kaleidoscope
 00|00|00|00|00|ARN|U|Diamond Valley
-00|00|00|00|00|CMA|R|Diaochan, Artful Beauty
+00|00|00|00|00|CM1|R|Diaochan, Artful Beauty
 00|00|00|00|00|PTK|R|Diaochan, Artful Beauty
 00|00|00|00|00|PLC|R|Dichotomancy
 00|00|00|00|00|JOU|R|Dictate of Erebos
@@ -6102,7 +6102,7 @@
 00|00|00|00|00|MMQ|U|Diplomatic Escort
 00|00|00|00|00|MMQ|C|Diplomatic Immunity
 00|00|00|00|00|XLN|U|Dire Fleet Captain
-00|00|00|00|00|RIX|R|Dire Fleet Daredevil
+02|00|00|00|00|RIX|R|Dire Fleet Daredevil
 00|00|00|00|00|XLN|C|Dire Fleet Hoarder
 00|00|00|00|00|XLN|C|Dire Fleet Interloper
 00|00|00|00|00|RIX|U|Dire Fleet Neckbreaker
@@ -6506,7 +6506,7 @@
 00|00|00|00|00|ALA|U|Dragon's Herald
 00|00|00|00|00|DTK|C|Dragon-Scarred Bear
 00|00|00|00|00|KTK|R|Dragon-Style Twins
-00|00|00|00|00|CMA|R|Dragonlair Spider
+00|00|00|00|00|CM1|R|Dragonlair Spider
 00|00|00|00|00|CN2|R|Dragonlair Spider
 00|00|00|00|00|PC2|R|Dragonlair Spider
 00|00|00|00|00|PCA|R|Dragonlair Spider
@@ -6811,7 +6811,7 @@
 00|00|00|00|00|STH|C|Dungeon Shade
 00|00|00|00|00|M12|R|Dungrove Elder
 00|00|00|00|00|ARC|R|Duplicant
-00|00|00|00|00|CMA|R|Duplicant
+00|00|00|00|00|CM1|R|Duplicant
 00|00|00|00|00|EMA|R|Duplicant
 00|00|00|00|00|MRD|R|Duplicant
 00|00|00|00|00|TMP|R|Duplicity
@@ -7046,7 +7046,7 @@
 00|00|00|00|00|SCG|U|Edgewalker
 00|00|00|00|00|AKG|U|Edifice of Authority
 00|00|00|00|00|C16|R|Edric, Spymaster of Trest
-00|00|00|00|00|CMA|R|Edric, Spymaster of Trest
+00|00|00|00|00|CM1|R|Edric, Spymaster of Trest
 00|00|00|00|00|CMD|R|Edric, Spymaster of Trest
 00|00|00|00|00|CNS|R|Edric, Spymaster of Trest
 00|00|00|00|00|ROE|C|Eel Umbra
@@ -12898,7 +12898,7 @@
 00|00|00|00|00|CMD|U|Jötun Grunt
 00|00|00|00|00|CSP|U|Jötun Grunt
 00|00|00|00|00|CSP|U|Jötun Owl Keeper
-00|00|00|00|00|CMA|M|Kaalia of the Vast
+00|00|00|00|00|CM1|M|Kaalia of the Vast
 00|00|00|00|00|CMD|M|Kaalia of the Vast
 00|00|00|00|00|DDF|C|Kabira Crossroads
 04|00|00|00|00|ZEN|C|Kabira Crossroads
@@ -12941,7 +12941,7 @@
 00|00|00|00|00|10E|R|Kamahl, Pit Fighter
 00|00|00|00|00|DPA|R|Kamahl, Pit Fighter
 00|00|00|00|00|ODY|R|Kamahl, Pit Fighter
-00|00|00|00|00|KLD|R|Kambal, Consul of Allocation
+02|00|00|00|00|KLD|R|Kambal, Consul of Allocation
 00|00|00|00|00|CHK|C|Kami of Ancient Law
 00|00|00|00|00|MM2|C|Kami of Ancient Law
 00|00|00|00|00|SOK|C|Kami of Empty Graves
@@ -13141,7 +13141,7 @@
 02|00|00|00|00|ISD|R|Kessig Cagebreakers
 00|00|00|00|00|SOI|C|Kessig Dire Swine
 00|00|00|00|00|SOI|U|Kessig Forgemaster
-03|00|00|00|00|AVR|U|Kessig Malcontents
+05|00|00|00|00|AVR|U|Kessig Malcontents
 00|00|00|00|00|EMN|U|Kessig Prowler
 00|00|00|00|00|DKA|C|Kessig Recluse
 00|00|00|00|00|ISD|C|Kessig Wolf
@@ -14363,7 +14363,7 @@
 00|00|00|00|00|DKA|C|Loyal Cathar
 00|00|00|00|00|EVE|U|Loyal Gyrfalcon
 00|00|00|00|00|BNG|C|Loyal Pegasus
-00|00|00|00|00|CMA|U|Loyal Retainers
+00|00|00|00|00|CM1|U|Loyal Retainers
 00|00|00|00|00|PTK|U|Loyal Retainers
 00|00|00|00|00|10E|R|Loyal Sentry
 04|00|00|00|00|DDF|R|Loyal Sentry
@@ -14486,7 +14486,7 @@
 00|00|00|00|00|ARB|M|Maelstrom Nexus
 00|00|00|00|00|ARB|R|Maelstrom Pulse
 00|00|00|00|00|MMA|R|Maelstrom Pulse
-00|00|00|00|00|CMA|M|Maelstrom Wanderer
+00|00|00|00|00|CM1|M|Maelstrom Wanderer
 00|00|00|00|00|EMA|M|Maelstrom Wanderer
 00|00|00|00|00|PC2|M|Maelstrom Wanderer
 00|00|00|00|00|PCA|M|Maelstrom Wanderer
@@ -15395,7 +15395,7 @@
 00|00|00|00|00|SCG|R|Mind's Desire
 00|00|00|00|00|V16|M|Mind's Desire
 00|00|00|00|00|EMN|M|Mind's Dilation
-00|00|00|00|00|CMA|R|Mind's Eye
+00|00|00|00|00|CM1|R|Mind's Eye
 00|00|00|00|00|MRD|R|Mind's Eye
 00|00|00|00|00|MIR|R|Mindbender Spores
 00|00|00|00|00|CHK|R|Mindblaze
@@ -15462,7 +15462,7 @@
 00|00|00|00|00|ODY|R|Mirari
 01|00|00|00|00|TSB|S|Mirari
 00|00|00|00|00|V10|M|Mirari
-00|00|00|00|00|CMA|R|Mirari's Wake
+00|00|00|00|00|CM1|R|Mirari's Wake
 00|00|00|00|00|CNS|M|Mirari's Wake
 00|00|00|00|00|JUD|R|Mirari's Wake
 00|00|00|00|00|C17|M|Mirari's Wake
@@ -19938,7 +19938,7 @@
 00|00|00|00|00|PCY|C|Rhystic Lightning
 00|00|00|00|00|PCY|U|Rhystic Scrying
 00|00|00|00|00|PCY|C|Rhystic Shield
-00|00|00|00|00|CMA|C|Rhystic Study
+00|00|00|00|00|CM1|C|Rhystic Study
 01|00|00|00|00|PCY|C|Rhystic Study
 00|00|00|00|00|PCY|U|Rhystic Syphon
 00|00|00|00|00|PCY|R|Rhystic Tutor
@@ -20072,7 +20072,7 @@
 00|00|00|00|00|MMQ|U|Rishadan Footpad
 00|00|00|00|00|MMQ|R|Rishadan Pawnshop
 00|00|00|00|00|MMQ|R|Rishadan Port
-00|00|00|00|00|A25|R|Rishadan Port
+04|00|00|00|00|A25|R|Rishadan Port
 00|00|00|00|00|AER|R|Rishkar's Expertise
 00|00|00|00|00|AER|R|Rishkar, Peema Renegade
 02|00|00|00|00|BFZ|U|Rising Miasma
@@ -21029,7 +21029,7 @@
 00|00|00|00|00|AKG|C|Scribe of the Mindful
 00|00|00|00|00|EXO|U|Scrivener
 00|00|00|00|00|ODY|C|Scrivener
-00|00|00|00|00|CMA|R|Scroll Rack
+00|00|00|00|00|CM1|R|Scroll Rack
 00|00|00|00|00|TMP|R|Scroll Rack
 00|00|00|00|00|DDI|C|Scroll Thief
 00|00|00|00|00|M11|C|Scroll Thief
@@ -24360,7 +24360,7 @@
 00|00|00|00|00|WTH|U|Sylvan Hierophant
 00|00|00|00|00|4ED|R|Sylvan Library
 00|00|00|00|00|5ED|R|Sylvan Library
-00|00|00|00|00|CMA|R|Sylvan Library
+00|00|00|00|00|CM1|R|Sylvan Library
 02|00|00|00|00|EMA|R|Sylvan Library
 00|00|00|00|00|LEG|U|Sylvan Library
 00|00|00|00|00|APC|U|Sylvan Messenger
@@ -24925,7 +24925,7 @@
 00|00|00|00|00|RIX|M|The Immortal Sun
 00|00|00|00|00|LEG|U|The Lady of the Mountain
 00|00|00|00|00|HOU|M|The Locust God
-00|00|00|00|00|CMA|M|The Mimeoplasm
+00|00|00|00|00|CM1|M|The Mimeoplasm
 00|00|00|00|00|CMD|M|The Mimeoplasm
 00|00|00|00|00|3ED|U|The Rack
 00|00|00|00|00|4ED|U|The Rack
@@ -26568,7 +26568,7 @@
 00|00|00|00|00|ALA|R|Vein Drinker
 00|00|00|00|00|C17|R|Vein Drinker
 00|00|00|00|00|ARB|C|Veinfire Borderpost
-00|00|00|00|00|CMA|M|Vela the Night-Clad
+00|00|00|00|00|CM1|M|Vela the Night-Clad
 00|00|00|00|00|PC2|M|Vela the Night-Clad
 00|00|00|00|00|PCA|M|Vela the Night-Clad
 00|00|00|00|00|C17|M|Vela the Night-Clad
@@ -28223,7 +28223,7 @@
 00|00|00|00|00|MMQ|R|Worry Beads
 00|00|00|00|00|7ED|R|Worship
 00|00|00|00|00|8ED|R|Worship
-00|00|00|00|00|9ED|R|Worship
+01|00|00|00|00|9ED|R|Worship
 00|00|00|00|00|USG|R|Worship
 00|00|00|00|00|JOU|M|Worst Fears
 00|00|00|00|00|LRW|R|Wort, Boggart Auntie
@@ -28542,3 +28542,2202 @@
 00|00|00|00|00|ICE|C|Zuran Spellcaster
 00|00|00|00|00|DTK|R|Zurgo Bellstriker
 00|00|00|00|00|KTK|M|Zurgo Helmsmasher
+00|00|00|00|00|BBD|U|Aim High
+00|00|00|00|00|BBD|U|Angel of Retribution
+00|00|00|00|00|BBD|R|Angelic Chorus
+00|00|00|00|00|BBD|C|Angelic Gift
+00|00|00|00|00|BBD|R|Apocalypse Hydra
+00|00|00|00|00|BBD|M|Arcane Artisan
+00|00|00|00|00|BBD|M|Archfiend of Despair
+00|00|00|00|00|BBD|R|Archon of Valor's Reach
+00|00|00|00|00|BBD|M|Arena Rector
+00|00|00|00|00|BBD|C|Assassinate
+00|00|00|00|00|BBD|U|Assassin's Strike
+00|00|00|00|00|BBD|C|Auger Spree
+00|00|00|00|00|BBD|C|Aurora Champion
+00|00|00|00|00|BBD|C|Azra Bladeseeker
+00|00|00|00|00|BBD|U|Azra Oddsmaker
+00|00|00|00|00|BBD|C|Bathe in Dragonfire
+00|00|00|00|00|BBD|U|Battle Mastery
+00|00|00|00|00|BBD|C|Battle Rampart
+00|00|00|00|00|BBD|U|Battle-Rattle Shaman
+00|00|00|00|00|BBD|U|Beast Within
+00|00|00|00|00|BBD|C|Benthic Giant
+00|00|00|00|00|BBD|U|Blaring Captain
+00|00|00|00|00|BBD|U|Blaring Recruiter
+00|00|00|00|00|BBD|U|Blaze
+00|00|00|00|00|BBD|U|Blood Feud
+00|00|00|00|00|BBD|C|Bloodborn Scoundrels
+00|00|00|00|00|BBD|U|Boldwyr Intimidator
+00|00|00|00|00|BBD|R|Bonus Round
+00|00|00|00|00|BBD|C|Borderland Marauder
+00|00|00|00|00|BBD|R|Bountiful Promenade
+00|00|00|00|00|BBD|M|Bramble Sovereign
+00|00|00|00|00|BBD|M|Brightling
+00|00|00|00|00|BBD|U|Bring Down
+00|00|00|00|00|BBD|C|Bull-Rush Bruiser
+00|00|00|00|00|BBD|C|Call to Heel
+00|00|00|00|00|BBD|C|Canopy Spider
+00|00|00|00|00|BBD|C|Centaur Healer
+00|00|00|00|00|BBD|U|Chain Lightning
+00|00|00|00|00|BBD|U|Chakram Retriever
+00|00|00|00|00|BBD|U|Chakram Slinger
+00|00|00|00|00|BBD|C|Champion of Arashin
+00|00|00|00|00|BBD|C|Charging Binox
+00|00|00|00|00|BBD|C|Charging Rhino
+00|00|00|00|00|BBD|U|Cheering Fanatic
+00|00|00|00|00|BBD|C|Claustrophobia
+00|00|00|00|00|BBD|C|Combo Attack
+00|00|00|00|00|BBD|C|Consulate Skygate
+00|00|00|00|00|BBD|C|Coralhelm Guide
+00|00|00|00|00|BBD|C|Cowl Prowler
+00|00|00|00|00|BBD|U|Culling Dais
+00|00|00|00|00|BBD|C|Daggerback Basilisk
+00|00|00|00|00|BBD|C|Daggerdrome Imp
+00|00|00|00|00|BBD|U|Decorated Champion
+00|00|00|00|00|BBD|R|Diabolic Intent
+00|00|00|00|00|BBD|U|Dinrova Horror
+00|00|00|00|00|BBD|C|Doomed Dissenter
+00|00|00|00|00|BBD|C|Doomed Traveler
+00|00|00|00|00|BBD|M|Doubling Season
+00|00|00|00|00|BBD|U|Dragon Breath
+00|00|00|00|00|BBD|C|Dragon Hatchling
+00|00|00|00|00|BBD|C|Dwarven Lightsmith
+00|00|00|00|00|BBD|C|Eager Construct
+00|00|00|00|00|BBD|C|Earth Elemental
+00|00|00|00|00|BBD|C|Elvish Visionary
+00|00|00|00|00|BBD|C|Ember Beast
+00|00|00|00|00|BBD|U|Enduring Scalelord
+00|00|00|00|00|BBD|U|Enthralling Victor
+00|00|00|00|00|BBD|R|Evil Twin
+00|00|00|00|00|BBD|C|Expedite
+00|00|00|00|00|BBD|C|Expedition Raptor
+00|00|00|00|00|BBD|C|Eyeblight Assassin
+00|00|00|00|00|BBD|C|Fan Favorite
+00|00|00|00|00|BBD|U|Feral Hydra
+00|00|00|00|00|BBD|C|Fertile Ground
+00|00|00|00|00|BBD|U|Fertilid
+00|00|00|00|00|BBD|C|Fill with Fright
+00|00|00|00|00|BBD|U|Flamewave Invoker
+00|00|00|00|00|BBD|U|Fog Bank
+00|00|00|00|00|BBD|L|Forest
+00|00|00|00|00|BBD|C|Frost Lynx
+00|00|00|00|00|BBD|U|Fumble
+00|00|00|00|00|BBD|R|Game Plan
+00|00|00|00|00|BBD|U|Gang Up
+00|00|00|00|00|BBD|R|Generous Patron
+00|00|00|00|00|BBD|U|Genesis Chamber
+00|00|00|00|00|BBD|C|Giant Growth
+00|00|00|00|00|BBD|R|Goblin Razerunners
+00|00|00|00|00|BBD|U|Gold-Forged Sentinel
+00|00|00|00|00|BBD|R|Gorm the Great
+00|00|00|00|00|BBD|R|Greater Good
+00|00|00|00|00|BBD|C|Grotesque Mutation
+00|00|00|00|00|BBD|M|Grothama, All-Devouring
+00|00|00|00|00|BBD|R|Gwafa Hazid, Profiteer
+00|00|00|00|00|BBD|C|Hand of Silumgar
+00|00|00|00|00|BBD|C|Hexplate Golem
+00|00|00|00|00|BBD|C|Huddle Up
+00|00|00|00|00|BBD|U|Hunted Wumpus
+00|00|00|00|00|BBD|U|Impetuous Protege
+00|00|00|00|00|BBD|C|Impulse
+00|00|00|00|00|BBD|U|Inner Demon
+00|00|00|00|00|BBD|L|Island
+00|00|00|00|00|BBD|U|Jelenn Sphinx
+00|00|00|00|00|BBD|U|Jubilant Mascot
+00|00|00|00|00|BBD|U|Juggernaut
+00|00|00|00|00|BBD|C|Jungle Wayfinder
+00|00|00|00|00|BBD|U|Karametra's Favor
+00|00|00|00|00|BBD|R|Khorvath Brightflame
+00|00|00|00|00|BBD|R|Khorvath's Fury
+00|00|00|00|00|BBD|U|Kiss of the Amesha
+00|00|00|00|00|BBD|C|Kitesail Corsair
+00|00|00|00|00|BBD|R|Kor Spiritdancer
+00|00|00|00|00|BBD|C|Kraken Hatchling
+00|00|00|00|00|BBD|C|Kraul Warrior
+00|00|00|00|00|BBD|R|Krav, the Unredeemed
+00|00|00|00|00|BBD|M|Land Tax
+00|00|00|00|00|BBD|C|Last Gasp
+00|00|00|00|00|BBD|R|Last One Standing
+00|00|00|00|00|BBD|U|Lava-Field Overlord
+00|00|00|00|00|BBD|C|Lead by Example
+00|00|00|00|00|BBD|U|Ley Weaver
+00|00|00|00|00|BBD|C|Lightning Talons
+00|00|00|00|00|BBD|C|Lightwalker
+00|00|00|00|00|BBD|C|Liturgy of Blood
+00|00|00|00|00|BBD|U|Long Road Home
+00|00|00|00|00|BBD|U|Lore Weaver
+00|00|00|00|00|BBD|U|Loyal Pegasus
+00|00|00|00|00|BBD|R|Luxury Suite
+00|00|00|00|00|BBD|C|Magma Hellion
+00|00|00|00|00|BBD|R|Magmatic Force
+00|00|00|00|00|BBD|R|Magus of the Candelabra
+00|00|00|00|00|BBD|R|Mangara of Corondor
+00|00|00|00|00|BBD|C|Midnight Guard
+00|00|00|00|00|BBD|C|Millennial Gargoyle
+00|00|00|00|00|BBD|R|Mindblade Render
+00|00|00|00|00|BBD|R|Mind's Eye
+00|00|00|00|00|BBD|U|Morbid Curiosity
+00|00|00|00|00|BBD|R|Morphic Pool
+00|00|00|00|00|BBD|L|Mountain
+00|00|00|00|00|BBD|M|Mycosynth Lattice
+00|00|00|00|00|BBD|R|Mystic Confluence
+00|00|00|00|00|BBD|M|Najeela, the Blade-Blossom
+00|00|00|00|00|BBD|C|Negate
+00|00|00|00|00|BBD|C|Night Market Guard
+00|00|00|00|00|BBD|U|Nimbus Champion
+00|00|00|00|00|BBD|C|Nimbus of the Isles
+00|00|00|00|00|BBD|M|Nirkana Revenant
+00|00|00|00|00|BBD|R|Noosegraf Mob
+00|00|00|00|00|BBD|U|Noxious Dragon
+00|00|00|00|00|BBD|R|Nyxathid
+00|00|00|00|00|BBD|R|Okaun, Eye of Chaos
+00|00|00|00|00|BBD|C|Omenspeaker
+00|00|00|00|00|BBD|U|Opportunity
+00|00|00|00|00|BBD|U|Oracle's Insight
+00|00|00|00|00|BBD|U|Oreskos Explorer
+00|00|00|00|00|BBD|U|Out of Bounds
+00|00|00|00|00|BBD|C|Pacifism
+00|00|00|00|00|BBD|C|Painful Lesson
+00|00|00|00|00|BBD|C|Pathmaker Initiate
+00|00|00|00|00|BBD|C|Peace Strider
+00|00|00|00|00|BBD|U|Peregrine Drake
+00|00|00|00|00|BBD|U|Phantom Warrior
+00|00|00|00|00|BBD|C|Pierce Strider
+00|00|00|00|00|BBD|R|Pir, Imaginative Rascal
+00|00|00|00|00|BBD|R|Pir's Whim
+00|00|00|00|00|BBD|L|Plains
+00|00|00|00|00|BBD|U|Plated Crusher
+00|00|00|00|00|BBD|R|Play of the Game
+00|00|00|00|00|BBD|C|Prakhata Club Security
+00|00|00|00|00|BBD|C|Primal Huntbeast
+00|00|00|00|00|BBD|U|Proud Mentor
+00|00|00|00|00|BBD|U|Pulse of Murasa
+00|00|00|00|00|BBD|U|Quest for the Gravelord
+00|00|00|00|00|BBD|C|Raptor Companion
+00|00|00|00|00|BBD|C|Rebuke
+00|00|00|00|00|BBD|C|Reckless Reveler
+00|00|00|00|00|BBD|U|Reckless Scholar
+00|00|00|00|00|BBD|R|Regna, the Redeemer
+00|00|00|00|00|BBD|R|Regna's Sanction
+00|00|00|00|00|BBD|U|Relentless Hunter
+00|00|00|00|00|BBD|C|Return to the Earth
+00|00|00|00|00|BBD|C|Rhox Brute
+00|00|00|00|00|BBD|C|Riptide Crab
+00|00|00|00|00|BBD|C|Rotfeaster Maggot
+00|00|00|00|00|BBD|M|Rowan Kenrith
+00|00|00|00|00|BBD|M|Rowan Kenrith
+00|00|00|00|00|BBD|C|Royal Trooper
+00|00|00|00|00|BBD|U|Rushblade Commander
+00|00|00|00|00|BBD|C|Saddleback Lagac
+00|00|00|00|00|BBD|C|Saltwater Stalwart
+00|00|00|00|00|BBD|U|Savage Ventmaw
+00|00|00|00|00|BBD|C|Screeching Buzzard
+00|00|00|00|00|BBD|R|Sea of Clouds
+00|00|00|00|00|BBD|R|Seedborn Muse
+00|00|00|00|00|BBD|C|Seer's Lantern
+00|00|00|00|00|BBD|R|Sentinel Tower
+00|00|00|00|00|BBD|C|Shambling Ghoul
+00|00|00|00|00|BBD|C|Shock
+00|00|00|00|00|BBD|C|Shoulder to Shoulder
+00|00|00|00|00|BBD|C|Sickle Dancer
+00|00|00|00|00|BBD|C|Silverchase Fox
+00|00|00|00|00|BBD|C|Skyshroud Claim
+00|00|00|00|00|BBD|C|Skystreamer
+00|00|00|00|00|BBD|U|Slum Reaper
+00|00|00|00|00|BBD|C|Soaring Show-Off
+00|00|00|00|00|BBD|U|Solemn Offering
+00|00|00|00|00|BBD|U|Soulblade Corrupter
+00|00|00|00|00|BBD|U|Soulblade Renewer
+00|00|00|00|00|BBD|R|Sower of Temptation
+00|00|00|00|00|BBD|C|Sparring Mummy
+00|00|00|00|00|BBD|U|Spectral Searchlight
+00|00|00|00|00|BBD|U|Spell Snare
+00|00|00|00|00|BBD|R|Spellseeker
+00|00|00|00|00|BBD|C|Spellweaver Duo
+00|00|00|00|00|BBD|R|Spire Garden
+00|00|00|00|00|BBD|C|Stadium Vendors
+00|00|00|00|00|BBD|U|Steppe Glider
+00|00|00|00|00|BBD|R|Stolen Strategy
+00|00|00|00|00|BBD|C|Stone Golem
+00|00|00|00|00|BBD|M|Stunning Reversal
+00|00|00|00|00|BBD|L|Swamp
+00|00|00|00|00|BBD|U|Swarm of Bloodflies
+00|00|00|00|00|BBD|U|Switcheroo
+00|00|00|00|00|BBD|U|Swords to Plowshares
+00|00|00|00|00|BBD|R|Sylvia Brightspear
+00|00|00|00|00|BBD|U|Take Up Arms
+00|00|00|00|00|BBD|C|Tandem Tactics
+00|00|00|00|00|BBD|U|Tavern Swindler
+00|00|00|00|00|BBD|U|Tenacious Dead
+00|00|00|00|00|BBD|U|The Crowd Goes Wild
+00|00|00|00|00|BBD|U|Thrasher Brute
+00|00|00|00|00|BBD|R|Thrilling Encore
+00|00|00|00|00|BBD|C|Thunder Strike
+00|00|00|00|00|BBD|R|Tidespout Tyrant
+00|00|00|00|00|BBD|R|Together Forever
+00|00|00|00|00|BBD|R|Toothy, Imaginary Friend
+00|00|00|00|00|BBD|C|Totally Lost
+00|00|00|00|00|BBD|M|True-Name Nemesis
+00|00|00|00|00|BBD|U|Trumpet Blast
+00|00|00|00|00|BBD|C|Tyrant's Machine
+00|00|00|00|00|BBD|U|Unflinching Courage
+00|00|00|00|00|BBD|C|Urborg Drake
+00|00|00|00|00|BBD|U|Vampire Charmseeker
+00|00|00|00|00|BBD|U|Veteran Explorer
+00|00|00|00|00|BBD|R|Victory Chimes
+00|00|00|00|00|BBD|R|Vigor
+00|00|00|00|00|BBD|R|Virtus the Veiled
+00|00|00|00|00|BBD|R|Virtus's Maneuver
+00|00|00|00|00|BBD|C|Wandering Wolf
+00|00|00|00|00|BBD|R|War's Toll
+00|00|00|00|00|BBD|C|Watercourser
+00|00|00|00|00|BBD|M|Will Kenrith
+00|00|00|00|00|BBD|M|Will Kenrith
+00|00|00|00|00|BBD|C|Wrap in Flames
+00|00|00|00|00|BBD|C|Yotian Soldier
+00|00|00|00|00|BBD|R|Zndrsplt, Eye of Wisdom
+00|00|00|00|00|BBD|R|Zndrsplt's Judgment
+00|00|00|00|00|C18|U|Acidic Slime
+00|00|00|00|00|C18|R|Adarkar Valkyrie
+00|00|00|00|00|C18|R|AEther Gale
+00|00|00|00|00|C18|R|AEthermage's Touch
+00|00|00|00|00|C18|R|Ajani's Chosen
+00|00|00|00|00|C18|U|Akoum Refuge
+00|00|00|00|00|C18|R|Akroma's Vengeance
+00|00|00|00|00|C18|M|Aminatou, the Fateshifter
+00|00|00|00|00|C18|R|Aminatou's Augury
+00|00|00|00|00|C18|R|Ancient Stone Idol
+00|00|00|00|00|C18|U|Arcane Sanctum
+00|00|00|00|00|C18|U|Archetype of Imagination
+00|00|00|00|00|C18|R|Arixmethes, Slumbering Isle
+00|00|00|00|00|C18|M|Army of the Damned
+00|00|00|00|00|C18|C|Aura Gnarlid
+00|00|00|00|00|C18|M|Avenger of Zendikar
+00|00|00|00|00|C18|U|Azorius Chancery
+00|00|00|00|00|C18|C|Azorius Guildgate
+00|00|00|00|00|C18|U|Azorius Signet
+00|00|00|00|00|C18|U|Baloth Woodcrasher
+00|00|00|00|00|C18|U|Banishing Stroke
+00|00|00|00|00|C18|U|Bant Charm
+00|00|00|00|00|C18|C|Barren Moor
+00|00|00|00|00|C18|R|Bear Umbra
+00|00|00|00|00|C18|R|Blasphemous Act
+00|00|00|00|00|C18|U|Blighted Woodland
+00|00|00|00|00|C18|R|Blinkmoth Urn
+00|00|00|00|00|C18|R|Bloodtracker
+00|00|00|00|00|C18|C|Blossoming Sands
+00|00|00|00|00|C18|C|Bojuka Bog
+00|00|00|00|00|C18|R|Boon Satyr
+00|00|00|00|00|C18|C|Borderland Explorer
+00|00|00|00|00|C18|R|Boreas Charger
+00|00|00|00|00|C18|R|Bosh, Iron Golem
+00|00|00|00|00|C18|U|Brainstorm
+00|00|00|00|00|C18|M|Brudiclad, Telchor Engineer
+00|00|00|00|00|C18|M|Bruna, Light of Alabaster
+00|00|00|00|00|C18|R|Budoka Gardener
+00|00|00|00|00|C18|U|Buried Ruin
+00|00|00|00|00|C18|R|Celestial Archon
+00|00|00|00|00|C18|R|Centaur Vinecrasher
+00|00|00|00|00|C18|R|Chain Reaction
+00|00|00|00|00|C18|R|Chaos Warp
+00|00|00|00|00|C18|R|Charnelhoard Wurm
+00|00|00|00|00|C18|U|Chief of the Foundry
+00|00|00|00|00|C18|U|Cloudform
+00|00|00|00|00|C18|R|Cold-Eyed Selkie
+00|00|00|00|00|C18|C|Command Tower
+00|00|00|00|00|C18|C|Commander's Sphere
+00|00|00|00|00|C18|U|Consign to Dust
+00|00|00|00|00|C18|R|Conundrum Sphinx
+00|00|00|00|00|C18|R|Coveted Jewel
+00|00|00|00|00|C18|R|Crash of Rhino Beetles
+00|00|00|00|00|C18|R|Creeping Renaissance
+00|00|00|00|00|C18|U|Crib Swap
+00|00|00|00|00|C18|U|Crystal Ball
+00|00|00|00|00|C18|C|Cultivate
+00|00|00|00|00|C18|U|Darksteel Citadel
+00|00|00|00|00|C18|R|Darksteel Juggernaut
+00|00|00|00|00|C18|C|Dawn's Reflection
+00|00|00|00|00|C18|R|Daxos of Meletis
+00|00|00|00|00|C18|U|Deathreap Ritual
+00|00|00|00|00|C18|R|Decimate
+00|00|00|00|00|C18|R|Devastation Tide
+00|00|00|00|00|C18|R|Dictate of Kruphix
+00|00|00|00|00|C18|U|Dimir Aqueduct
+00|00|00|00|00|C18|C|Dimir Guildgate
+00|00|00|00|00|C18|U|Dimir Signet
+00|00|00|00|00|C18|C|Dismal Backwater
+00|00|00|00|00|C18|C|Dismantling Blow
+00|00|00|00|00|C18|R|Djinn of Wishes
+00|00|00|00|00|C18|R|Dokai, Weaver of Life
+00|00|00|00|00|C18|C|Dream Cache
+00|00|00|00|00|C18|U|Dreamstone Hedron
+00|00|00|00|00|C18|R|Duplicant
+00|00|00|00|00|C18|R|Duskmantle Seer
+00|00|00|00|00|C18|R|Echo Storm
+00|00|00|00|00|C18|C|Eel Umbra
+00|00|00|00|00|C18|R|Eidolon of Blossoms
+00|00|00|00|00|C18|R|Elderwood Scion
+00|00|00|00|00|C18|R|Emissary of Grudges
+00|00|00|00|00|C18|R|Empyrial Storm
+00|00|00|00|00|C18|R|Enchanter's Bane
+00|00|00|00|00|C18|R|Enchantress's Presence
+00|00|00|00|00|C18|R|Endless Atlas
+00|00|00|00|00|C18|R|Enigma Sphinx
+00|00|00|00|00|C18|M|Entreat the Angels
+00|00|00|00|00|C18|R|Entreat the Dead
+00|00|00|00|00|C18|R|Epic Proportions
+00|00|00|00|00|C18|U|Esper Charm
+00|00|00|00|00|C18|M|Estrid, the Masked
+00|00|00|00|00|C18|R|Estrid's Invocation
+00|00|00|00|00|C18|C|Etherium Sculptor
+00|00|00|00|00|C18|R|Ever-Watching Threshold
+00|00|00|00|00|C18|C|Evolving Wilds
+00|00|00|00|00|C18|C|Explore
+00|00|00|00|00|C18|U|Explosive Vegetation
+00|00|00|00|00|C18|C|Far Wanderings
+00|00|00|00|00|C18|C|Farhaven Elf
+00|00|00|00|00|C18|C|Fertile Ground
+00|00|00|00|00|C18|R|Finest Hour
+00|00|00|00|00|C18|R|Flameblast Dragon
+00|00|00|00|00|C18|L|Forest
+00|00|00|00|00|C18|L|Forest
+00|00|00|00|00|C18|L|Forest
+00|00|00|00|00|C18|C|Forge of Heroes
+00|00|00|00|00|C18|C|Forgotten Cave
+00|00|00|00|00|C18|U|Forsaken Sanctuary
+00|00|00|00|00|C18|U|Foundry of the Consuls
+00|00|00|00|00|C18|R|Fury Storm
+00|00|00|00|00|C18|R|Gaze of Granite
+00|00|00|00|00|C18|R|Genesis Storm
+00|00|00|00|00|C18|U|Geode Golem
+00|00|00|00|00|C18|U|Golgari Rot Farm
+00|00|00|00|00|C18|C|Grapple with the Past
+00|00|00|00|00|C18|C|Great Furnace
+00|00|00|00|00|C18|R|Grim Backwoods
+00|00|00|00|00|C18|C|Grisly Salvage
+00|00|00|00|00|C18|R|Ground Seal
+00|00|00|00|00|C18|U|Gruul Turf
+00|00|00|00|00|C18|M|Gyrus, Waker of Corpses
+00|00|00|00|00|C18|C|Halimar Depths
+00|00|00|00|00|C18|C|Harrow
+00|00|00|00|00|C18|C|Haunted Fengraf
+00|00|00|00|00|C18|R|Heavenly Blademaster
+00|00|00|00|00|C18|U|Hedron Archive
+00|00|00|00|00|C18|R|Hellkite Igniter
+00|00|00|00|00|C18|R|Herald of the Pantheon
+00|00|00|00|00|C18|R|High Priest of Penance
+00|00|00|00|00|C18|U|Highland Lake
+00|00|00|00|00|C18|U|Hunting Wilds
+00|00|00|00|00|C18|M|Hydra Omnivore
+00|00|00|00|00|C18|R|Inkwell Leviathan
+00|00|00|00|00|C18|C|Into the Roil
+00|00|00|00|00|C18|L|Island
+00|00|00|00|00|C18|L|Island
+00|00|00|00|00|C18|L|Island
+00|00|00|00|00|C18|R|Isolated Watchtower
+00|00|00|00|00|C18|U|Izzet Boilerworks
+00|00|00|00|00|C18|C|Izzet Guildgate
+00|00|00|00|00|C18|C|Izzet Signet
+00|00|00|00|00|C18|R|Jeskai Infiltrator
+00|00|00|00|00|C18|C|Jund Panorama
+00|00|00|00|00|C18|C|Jungle Hollow
+00|00|00|00|00|C18|U|Jwar Isle Refuge
+00|00|00|00|00|C18|U|Kazandu Refuge
+00|00|00|00|00|C18|M|Kestia, the Cultivator
+00|00|00|00|00|C18|C|Khalni Garden
+00|00|00|00|00|C18|C|Khalni Heart Expedition
+00|00|00|00|00|C18|U|Krosan Verge
+00|00|00|00|00|C18|C|Kruphix's Insight
+00|00|00|00|00|C18|R|Lavalanche
+00|00|00|00|00|C18|U|Lightform
+00|00|00|00|00|C18|C|Lonely Sandbar
+00|00|00|00|00|C18|M|Lord Windgrace
+00|00|00|00|00|C18|U|Loyal Apprentice
+00|00|00|00|00|C18|U|Loyal Drake
+00|00|00|00|00|C18|U|Loyal Guardian
+00|00|00|00|00|C18|U|Loyal Subordinate
+00|00|00|00|00|C18|U|Loyal Unicorn
+00|00|00|00|00|C18|R|Magmaquake
+00|00|00|00|00|C18|U|Magnifying Glass
+00|00|00|00|00|C18|R|Magus of the Balance
+00|00|00|00|00|C18|R|Martial Coup
+00|00|00|00|00|C18|U|Maverick Thopterist
+00|00|00|00|00|C18|U|Meandering River
+00|00|00|00|00|C18|R|Mimic Vat
+00|00|00|00|00|C18|C|Mind Stone
+00|00|00|00|00|C18|R|Mirrorworks
+00|00|00|00|00|C18|R|Moldgraf Monstrosity
+00|00|00|00|00|C18|R|Moonlight Bargain
+00|00|00|00|00|C18|U|Mortify
+00|00|00|00|00|C18|C|Mortuary Mire
+00|00|00|00|00|C18|R|Mosswort Bridge
+00|00|00|00|00|C18|L|Mountain
+00|00|00|00|00|C18|L|Mountain
+00|00|00|00|00|C18|L|Mountain
+00|00|00|00|00|C18|U|Mountain Valley
+00|00|00|00|00|C18|U|Mulldrifter
+00|00|00|00|00|C18|R|Myr Battlesphere
+00|00|00|00|00|C18|U|Myriad Landscape
+00|00|00|00|00|C18|R|Myth Unbound
+00|00|00|00|00|C18|R|Nesting Dragon
+00|00|00|00|00|C18|U|New Benalia
+00|00|00|00|00|C18|R|Night Incarnate
+00|00|00|00|00|C18|C|Ninja of the Deep Hours
+00|00|00|00|00|C18|R|Nylea's Colossus
+00|00|00|00|00|C18|R|Octopus Umbra
+00|00|00|00|00|C18|U|Orzhov Basilica
+00|00|00|00|00|C18|C|Orzhov Guildgate
+00|00|00|00|00|C18|C|Orzhov Signet
+00|00|00|00|00|C18|C|Overgrowth
+00|00|00|00|00|C18|R|Phyrexian Delver
+00|00|00|00|00|C18|R|Phyrexian Rebirth
+00|00|00|00|00|C18|C|Pilgrim's Eye
+00|00|00|00|00|C18|L|Plains
+00|00|00|00|00|C18|L|Plains
+00|00|00|00|00|C18|L|Plains
+00|00|00|00|00|C18|C|Ponder
+00|00|00|00|00|C18|C|Portent
+00|00|00|00|00|C18|U|Predict
+00|00|00|00|00|C18|R|Primordial Mist
+00|00|00|00|00|C18|U|Prismatic Lens
+00|00|00|00|00|C18|R|Prototype Portal
+00|00|00|00|00|C18|R|Psychosis Crawler
+00|00|00|00|00|C18|U|Putrefy
+00|00|00|00|00|C18|C|Rakdos Carnarium
+00|00|00|00|00|C18|R|Rampaging Baloths
+00|00|00|00|00|C18|R|Ravenous Slime
+00|00|00|00|00|C18|R|Reality Scramble
+00|00|00|00|00|C18|U|Reclamation Sage
+00|00|00|00|00|C18|U|Retreat to Hagra
+00|00|00|00|00|C18|R|Retrofitter Foundry
+00|00|00|00|00|C18|U|Return to Dust
+00|00|00|00|00|C18|U|Reverse Engineer
+00|00|00|00|00|C18|R|Righteous Authority
+00|00|00|00|00|C18|U|Rocky Tar Pit
+00|00|00|00|00|C18|R|Rubblehulk
+00|00|00|00|00|C18|R|Ruinous Path
+00|00|00|00|00|C18|U|Sage's Reverie
+00|00|00|00|00|C18|M|Saheeli, the Gifted
+00|00|00|00|00|C18|R|Saheeli's Artistry
+00|00|00|00|00|C18|R|Saheeli's Directive
+00|00|00|00|00|C18|C|Sakura-Tribe Elder
+00|00|00|00|00|C18|U|Savage Lands
+00|00|00|00|00|C18|U|Savage Twister
+00|00|00|00|00|C18|C|Scoured Barrens
+00|00|00|00|00|C18|U|Scrabbling Claws
+00|00|00|00|00|C18|R|Scute Mob
+00|00|00|00|00|C18|R|Scuttling Doom Engine
+00|00|00|00|00|C18|U|Seaside Citadel
+00|00|00|00|00|C18|C|Seat of the Synod
+00|00|00|00|00|C18|C|Secluded Steppe
+00|00|00|00|00|C18|C|Seer's Lantern
+00|00|00|00|00|C18|R|Seer's Sundial
+00|00|00|00|00|C18|U|Sejiri Refuge
+00|00|00|00|00|C18|C|Selesnya Sanctuary
+00|00|00|00|00|C18|M|Serra Avatar
+00|00|00|00|00|C18|R|Sharding Sphinx
+00|00|00|00|00|C18|R|Sigil of the Empty Throne
+00|00|00|00|00|C18|U|Sigiled Starfish
+00|00|00|00|00|C18|R|Silent Sentinel
+00|00|00|00|00|C18|R|Silent-Blade Oni
+00|00|00|00|00|C18|U|Simic Growth Chamber
+00|00|00|00|00|C18|R|Skull Storm
+00|00|00|00|00|C18|C|Snake Umbra
+00|00|00|00|00|C18|U|Sol Ring
+00|00|00|00|00|C18|M|Soul of Innistrad
+00|00|00|00|00|C18|M|Soul of New Phyrexia
+00|00|00|00|00|C18|U|Soul Snare
+00|00|00|00|00|C18|R|Sower of Discord
+00|00|00|00|00|C18|R|Spawning Grounds
+00|00|00|00|00|C18|R|Sphinx of Jwar Isle
+00|00|00|00|00|C18|R|Sphinx of Uthuun
+00|00|00|00|00|C18|R|Steel Hellkite
+00|00|00|00|00|C18|U|Stitch Together
+00|00|00|00|00|C18|U|Submerged Boneyard
+00|00|00|00|00|C18|L|Swamp
+00|00|00|00|00|C18|L|Swamp
+00|00|00|00|00|C18|L|Swamp
+00|00|00|00|00|C18|U|Swiftfoot Boots
+00|00|00|00|00|C18|C|Swiftwater Cliffs
+00|00|00|00|00|C18|M|Tawnos, Urza's Apprentice
+00|00|00|00|00|C18|C|Telling Time
+00|00|00|00|00|C18|U|Temple of the False God
+00|00|00|00|00|C18|R|Terminus
+00|00|00|00|00|C18|C|Terramorphic Expanse
+00|00|00|00|00|C18|M|Thantis, the Warweaver
+00|00|00|00|00|C18|U|Thirst for Knowledge
+00|00|00|00|00|C18|R|Thopter Assembly
+00|00|00|00|00|C18|U|Thopter Engineer
+00|00|00|00|00|C18|R|Thopter Spy Network
+00|00|00|00|00|C18|C|Thornwood Falls
+00|00|00|00|00|C18|U|Tidings
+00|00|00|00|00|C18|C|Tranquil Cove
+00|00|00|00|00|C18|U|Tranquil Expanse
+00|00|00|00|00|C18|C|Tranquil Thicket
+00|00|00|00|00|C18|C|Treasure Hunt
+00|00|00|00|00|C18|R|Treasure Nabber
+00|00|00|00|00|C18|R|Turntimber Sower
+00|00|00|00|00|C18|M|Tuvasa the Sunlit
+00|00|00|00|00|C18|U|Unflinching Courage
+00|00|00|00|00|C18|U|Unquestioned Authority
+00|00|00|00|00|C18|U|Unstable Obelisk
+00|00|00|00|00|C18|R|Unwinding Clock
+00|00|00|00|00|C18|R|Utter End
+00|00|00|00|00|C18|R|Varchild, Betrayer of Kjeldor
+00|00|00|00|00|C18|M|Varina, Lich Queen
+00|00|00|00|00|C18|R|Vedalken Humiliator
+00|00|00|00|00|C18|U|Vessel of Endless Rest
+00|00|00|00|00|C18|U|Vow of Flight
+00|00|00|00|00|C18|U|Vow of Wildness
+00|00|00|00|00|C18|C|Warped Landscape
+00|00|00|00|00|C18|R|Whiptongue Hydra
+00|00|00|00|00|C18|U|Whirler Rogue
+00|00|00|00|00|C18|U|Whitewater Naiads
+00|00|00|00|00|C18|C|Wild Growth
+00|00|00|00|00|C18|R|Windgrace's Judgment
+00|00|00|00|00|C18|R|Winds of Rath
+00|00|00|00|00|C18|C|Woodland Stream
+00|00|00|00|00|C18|R|Worm Harvest
+00|00|00|00|00|C18|U|Worn Powerstone
+00|00|00|00|00|C18|R|Xantcha, Sleeper Agent
+00|00|00|00|00|C18|C|Yavimaya Elder
+00|00|00|00|00|C18|C|Yavimaya Enchantress
+00|00|00|00|00|C18|M|Yennett, Cryptic Sovereign
+00|00|00|00|00|C18|R|Yuriko, the Tiger's Shadow
+00|00|00|00|00|C18|U|Zendikar Incarnate
+00|00|00|00|00|CM2|U|Abzan Falconer
+00|00|00|00|00|CM2|U|Acidic Slime
+00|00|00|00|00|CM2|R|Ancient Amphitheater
+00|00|00|00|00|CM2|U|Ancient Excavation
+00|00|00|00|00|CM2|M|Angel of Serenity
+00|00|00|00|00|CM2|M|Anya, Merciless Angel
+00|00|00|00|00|CM2|R|Arbiter of Knollridge
+00|00|00|00|00|CM2|U|Arcane Lighthouse
+00|00|00|00|00|CM2|U|Arcane Sanctum
+00|00|00|00|00|CM2|U|Artisan of Kozilek
+00|00|00|00|00|CM2|C|Ash Barrens
+00|00|00|00|00|CM2|R|Astral Cornucopia
+00|00|00|00|00|CM2|M|Atraxa, Praetors' Voice
+00|00|00|00|00|CM2|R|Avatar of Woe
+00|00|00|00|00|CM2|U|Azorius Chancery
+00|00|00|00|00|CM2|R|Bane of the Living
+00|00|00|00|00|CM2|U|Banishing Light
+00|00|00|00|00|CM2|C|Barren Moor
+00|00|00|00|00|CM2|U|Basalt Monolith
+00|00|00|00|00|CM2|U|Beetleback Chief
+00|00|00|00|00|CM2|R|Bitter Feud
+00|00|00|00|00|CM2|R|Blade of Selves
+00|00|00|00|00|CM2|R|Blasphemous Act
+00|00|00|00|00|CM2|U|Blasted Landscape
+00|00|00|00|00|CM2|M|Bogardan Hellkite
+00|00|00|00|00|CM2|R|Borderland Behemoth
+00|00|00|00|00|CM2|C|Boros Cluestone
+00|00|00|00|00|CM2|C|Boros Garrison
+00|00|00|00|00|CM2|C|Boros Guildgate
+00|00|00|00|00|CM2|C|Boros Signet
+00|00|00|00|00|CM2|R|Bosh, Iron Golem
+00|00|00|00|00|CM2|U|Bottle Gnomes
+00|00|00|00|00|CM2|U|Brave the Sands
+00|00|00|00|00|CM2|U|Brawn
+00|00|00|00|00|CM2|U|Breath of Darigaaz
+00|00|00|00|00|CM2|U|Bred for the Hunt
+00|00|00|00|00|CM2|U|Buried Alive
+00|00|00|00|00|CM2|U|Buried Ruin
+00|00|00|00|00|CM2|R|Butcher of Malakir
+00|00|00|00|00|CM2|R|Caged Sun
+00|00|00|00|00|CM2|R|Cathars' Crusade
+00|00|00|00|00|CM2|U|Cathodion
+00|00|00|00|00|CM2|R|Cauldron of Souls
+00|00|00|00|00|CM2|R|Champion of Lambholt
+00|00|00|00|00|CM2|R|Chaos Warp
+00|00|00|00|00|CM2|R|Citadel Siege
+00|00|00|00|00|CM2|U|Coldsteel Heart
+00|00|00|00|00|CM2|C|Command Tower
+00|00|00|00|00|CM2|C|Commander's Sphere
+00|00|00|00|00|CM2|R|Corpsejack Menace
+00|00|00|00|00|CM2|U|Crib Swap
+00|00|00|00|00|CM2|R|Crystalline Crawler
+00|00|00|00|00|CM2|C|Cultivate
+00|00|00|00|00|CM2|U|Curse of the Nightly Hunt
+00|00|00|00|00|CM2|R|Custodi Soulbinders
+00|00|00|00|00|CM2|M|Damia, Sage of Stone
+00|00|00|00|00|CM2|M|Daretti, Scrap Savant
+00|00|00|00|00|CM2|R|Dark Hatchling
+00|00|00|00|00|CM2|U|Darksteel Citadel
+00|00|00|00|00|CM2|U|Darksteel Ingot
+00|00|00|00|00|CM2|R|Darkwater Catacombs
+00|00|00|00|00|CM2|R|Dawnbreak Reclaimer
+00|00|00|00|00|CM2|C|Dawnglare Invoker
+00|00|00|00|00|CM2|R|Deepglow Skate
+00|00|00|00|00|CM2|C|Desecrator Hag
+00|00|00|00|00|CM2|R|Desolation Giant
+00|00|00|00|00|CM2|C|Dimir Aqueduct
+00|00|00|00|00|CM2|C|Dimir Signet
+00|00|00|00|00|CM2|R|Disaster Radius
+00|00|00|00|00|CM2|C|Disdainful Stroke
+00|00|00|00|00|CM2|U|Dormant Volcano
+00|00|00|00|00|CM2|U|Dreadship Reef
+00|00|00|00|00|CM2|R|Dream Pillager
+00|00|00|00|00|CM2|R|Dreamborn Muse
+00|00|00|00|00|CM2|U|Dreamstone Hedron
+00|00|00|00|00|CM2|C|Drifting Meadow
+00|00|00|00|00|CM2|R|Dualcaster Mage
+00|00|00|00|00|CM2|R|Duelist's Heritage
+00|00|00|00|00|CM2|R|Duneblast
+00|00|00|00|00|CM2|R|Earthquake
+00|00|00|00|00|CM2|U|Elite Scaleguard
+00|00|00|00|00|CM2|U|Enduring Scalelord
+00|00|00|00|00|CM2|R|Epochrasite
+00|00|00|00|00|CM2|U|Eternal Witness
+00|00|00|00|00|CM2|U|Everflowing Chalice
+00|00|00|00|00|CM2|C|Evolving Wilds
+00|00|00|00|00|CM2|R|Exotic Orchard
+00|00|00|00|00|CM2|R|Extractor Demon
+00|00|00|00|00|CM2|U|Fact or Fiction
+00|00|00|00|00|CM2|C|Faithless Looting
+00|00|00|00|00|CM2|C|Faith's Fetters
+00|00|00|00|00|CM2|C|Fall of the Hammer
+00|00|00|00|00|CM2|R|Fathom Mage
+00|00|00|00|00|CM2|M|Feldon of the Third Path
+00|00|00|00|00|CM2|U|Fellwar Stone
+00|00|00|00|00|CM2|C|Festercreep
+00|00|00|00|00|CM2|R|Fiery Confluence
+00|00|00|00|00|CM2|U|Fire Diamond
+00|00|00|00|00|CM2|R|Flamekin Village
+00|00|00|00|00|CM2|U|Flametongue Kavu
+00|00|00|00|00|CM2|U|Fleshbag Marauder
+00|00|00|00|00|CM2|L|Forest
+00|00|00|00|00|CM2|L|Forest
+00|00|00|00|00|CM2|L|Forest
+00|00|00|00|00|CM2|L|Forest
+00|00|00|00|00|CM2|L|Forest
+00|00|00|00|00|CM2|L|Forest
+00|00|00|00|00|CM2|L|Forest
+00|00|00|00|00|CM2|R|Forgotten Ancient
+00|00|00|00|00|CM2|C|Forgotten Cave
+00|00|00|00|00|CM2|R|Fumiko the Lowblood
+00|00|00|00|00|CM2|M|Ghave, Guru of Spores
+00|00|00|00|00|CM2|U|Ghost Quarter
+00|00|00|00|00|CM2|M|Gisela, Blade of Goldnight
+00|00|00|00|00|CM2|R|Goblin Welder
+00|00|00|00|00|CM2|U|Golgari Rot Farm
+00|00|00|00|00|CM2|C|Golgari Signet
+00|00|00|00|00|CM2|C|Golgari Signet
+00|00|00|00|00|CM2|R|Grave Pact
+00|00|00|00|00|CM2|C|Gravedigger
+00|00|00|00|00|CM2|C|Great Furnace
+00|00|00|00|00|CM2|U|Grip of Phyresis
+00|00|00|00|00|CM2|R|Hamletback Goliath
+00|00|00|00|00|CM2|R|Hammerfist Giant
+00|00|00|00|00|CM2|R|Hardened Scales
+00|00|00|00|00|CM2|U|Herald of the Host
+00|00|00|00|00|CM2|R|Hoard-Smelter Dragon
+00|00|00|00|00|CM2|R|Hostility
+00|00|00|00|00|CM2|R|Hunted Dragon
+00|00|00|00|00|CM2|C|Ichor Wellspring
+00|00|00|00|00|CM2|M|Ikra Shidiqi, the Usurper
+00|00|00|00|00|CM2|R|Impact Resonance
+00|00|00|00|00|CM2|R|Incite Rebellion
+00|00|00|00|00|CM2|M|Inferno Titan
+00|00|00|00|00|CM2|C|Ingot Chewer
+00|00|00|00|00|CM2|U|Inspiring Call
+00|00|00|00|00|CM2|M|Ishai, Ojutai Dragonspeaker
+00|00|00|00|00|CM2|L|Island
+00|00|00|00|00|CM2|L|Island
+00|00|00|00|00|CM2|L|Island
+00|00|00|00|00|CM2|L|Island
+00|00|00|00|00|CM2|L|Island
+00|00|00|00|00|CM2|L|Island
+00|00|00|00|00|CM2|L|Island
+00|00|00|00|00|CM2|R|Jalum Tome
+00|00|00|00|00|CM2|R|Jareth, Leonine Titan
+00|00|00|00|00|CM2|U|Juniper Order Ranger
+00|00|00|00|00|CM2|R|Junk Diver
+00|00|00|00|00|CM2|U|Jwar Isle Refuge
+00|00|00|00|00|CM2|M|Kalemne, Disciple of Iroas
+00|00|00|00|00|CM2|R|Kalemne's Captain
+00|00|00|00|00|CM2|M|Kalonian Hydra
+00|00|00|00|00|CM2|R|Languish
+00|00|00|00|00|CM2|R|Lhurgoyf
+00|00|00|00|00|CM2|U|Lightning Greaves
+00|00|00|00|00|CM2|U|Liquimetal Coating
+00|00|00|00|00|CM2|R|Living Death
+00|00|00|00|00|CM2|C|Lonely Sandbar
+00|00|00|00|00|CM2|U|Loreseeker's Stone
+00|00|00|00|00|CM2|R|Loxodon Warhammer
+00|00|00|00|00|CM2|R|Magma Giant
+00|00|00|00|00|CM2|R|Magmaquake
+00|00|00|00|00|CM2|R|Magus of the Wheel
+00|00|00|00|00|CM2|R|Manifold Insights
+00|00|00|00|00|CM2|M|Master Biomancer
+00|00|00|00|00|CM2|R|Memory Erosion
+00|00|00|00|00|CM2|R|Merciless Eviction
+00|00|00|00|00|CM2|U|Meteor Blast
+00|00|00|00|00|CM2|U|Migratory Route
+00|00|00|00|00|CM2|U|Mind Stone
+00|00|00|00|00|CM2|R|Minds Aglow
+00|00|00|00|00|CM2|R|Mirrorweave
+00|00|00|00|00|CM2|U|Mortify
+00|00|00|00|00|CM2|R|Mortivore
+00|00|00|00|00|CM2|L|Mountain
+00|00|00|00|00|CM2|L|Mountain
+00|00|00|00|00|CM2|L|Mountain
+00|00|00|00|00|CM2|L|Mountain
+00|00|00|00|00|CM2|L|Mountain
+00|00|00|00|00|CM2|L|Mountain
+00|00|00|00|00|CM2|C|Mulldrifter
+00|00|00|00|00|CM2|R|Murmuring Bosk
+00|00|00|00|00|CM2|C|Mycosynth Wellspring
+00|00|00|00|00|CM2|R|Myr Battlesphere
+00|00|00|00|00|CM2|U|Myr Retriever
+00|00|00|00|00|CM2|C|Myr Sire
+00|00|00|00|00|CM2|R|Necroplasm
+00|00|00|00|00|CM2|U|Nezumi Graverobber
+00|00|00|00|00|CM2|U|Nighteyes the Desecrator
+00|00|00|00|00|CM2|R|Oblivion Stone
+00|00|00|00|00|CM2|C|Opal Palace
+00|00|00|00|00|CM2|U|Opulent Palace
+00|00|00|00|00|CM2|U|Oreskos Explorer
+00|00|00|00|00|CM2|C|Orim's Thunder
+00|00|00|00|00|CM2|U|Orzhov Advokist
+00|00|00|00|00|CM2|C|Orzhov Signet
+00|00|00|00|00|CM2|U|Palladium Myr
+00|00|00|00|00|CM2|C|Panic Spellbomb
+00|00|00|00|00|CM2|R|Patron of the Nezumi
+00|00|00|00|00|CM2|R|Pentavus
+00|00|00|00|00|CM2|U|Phyrexia's Core
+00|00|00|00|00|CM2|C|Pilgrim's Eye
+00|00|00|00|00|CM2|L|Plains
+00|00|00|00|00|CM2|L|Plains
+00|00|00|00|00|CM2|L|Plains
+00|00|00|00|00|CM2|L|Plains
+00|00|00|00|00|CM2|L|Plains
+00|00|00|00|00|CM2|L|Plains
+00|00|00|00|00|CM2|L|Plains
+00|00|00|00|00|CM2|C|Pristine Talisman
+00|00|00|00|00|CM2|U|Putrefy
+00|00|00|00|00|CM2|C|Relic Crush
+00|00|00|00|00|CM2|U|Reliquary Tower
+00|00|00|00|00|CM2|R|Reveillark
+00|00|00|00|00|CM2|R|Reyhan, Last of the Abzan
+00|00|00|00|00|CM2|R|Riddlekeeper
+00|00|00|00|00|CM2|U|Rise from the Grave
+00|00|00|00|00|CM2|U|Rite of the Raging Storm
+00|00|00|00|00|CM2|R|Ruby Medallion
+00|00|00|00|00|CM2|C|Rupture Spire
+00|00|00|00|00|CM2|U|Sandsteppe Citadel
+00|00|00|00|00|CM2|U|Sandstone Oracle
+00|00|00|00|00|CM2|R|Scavenging Ooze
+00|00|00|00|00|CM2|R|Scrap Mastery
+00|00|00|00|00|CM2|R|Scythe Specter
+00|00|00|00|00|CM2|U|Seaside Citadel
+00|00|00|00|00|CM2|C|Secluded Steppe
+00|00|00|00|00|CM2|R|Seer's Sundial
+00|00|00|00|00|CM2|R|Sewer Nemesis
+00|00|00|00|00|CM2|R|Shared Trauma
+00|00|00|00|00|CM2|C|Sign in Blood
+00|00|00|00|00|CM2|C|Simic Growth Chamber
+00|00|00|00|00|CM2|C|Simic Signet
+00|00|00|00|00|CM2|C|Simic Signet
+00|00|00|00|00|CM2|R|Skullbriar, the Walking Grave
+00|00|00|00|00|CM2|C|Slipstream Eel
+00|00|00|00|00|CM2|C|Smoldering Crater
+00|00|00|00|00|CM2|U|Sol Ring
+00|00|00|00|00|CM2|R|Solemn Simulacrum
+00|00|00|00|00|CM2|R|Solemn Simulacrum
+00|00|00|00|00|CM2|U|Solidarity of Heroes
+00|00|00|00|00|CM2|U|Spell Crumple
+00|00|00|00|00|CM2|R|Spine of Ish Sah
+00|00|00|00|00|CM2|U|Spitebellows
+00|00|00|00|00|CM2|R|Spitting Image
+00|00|00|00|00|CM2|R|Staff of Nin
+00|00|00|00|00|CM2|R|Starstorm
+00|00|00|00|00|CM2|R|Steel Hellkite
+00|00|00|00|00|CM2|C|Stinkdrinker Daredevil
+00|00|00|00|00|CM2|U|Stitch Together
+00|00|00|00|00|CM2|U|Stoneshock Giant
+00|00|00|00|00|CM2|R|Sublime Exhalation
+00|00|00|00|00|CM2|M|Sun Titan
+00|00|00|00|00|CM2|R|Sungrass Prairie
+00|00|00|00|00|CM2|R|Sunrise Sovereign
+00|00|00|00|00|CM2|U|Svogthos, the Restless Tomb
+00|00|00|00|00|CM2|L|Swamp
+00|00|00|00|00|CM2|L|Swamp
+00|00|00|00|00|CM2|L|Swamp
+00|00|00|00|00|CM2|L|Swamp
+00|00|00|00|00|CM2|L|Swamp
+00|00|00|00|00|CM2|L|Swamp
+00|00|00|00|00|CM2|L|Swamp
+00|00|00|00|00|CM2|U|Swiftfoot Boots
+00|00|00|00|00|CM2|U|Sylvan Reclamation
+00|00|00|00|00|CM2|U|Syphon Flesh
+00|00|00|00|00|CM2|C|Syphon Mind
+00|00|00|00|00|CM2|R|Szadek, Lord of Secrets
+00|00|00|00|00|CM2|R|Taurean Mauler
+00|00|00|00|00|CM2|U|Temple of the False God
+00|00|00|00|00|CM2|U|Temple of the False God
+00|00|00|00|00|CM2|C|Terramorphic Expanse
+00|00|00|00|00|CM2|U|Tezzeret's Gambit
+00|00|00|00|00|CM2|M|The Mimeoplasm
+00|00|00|00|00|CM2|C|Thought Vessel
+00|00|00|00|00|CM2|U|Thrummingbird
+00|00|00|00|00|CM2|U|Thundercloud Shaman
+00|00|00|00|00|CM2|R|Trading Post
+00|00|00|00|00|CM2|C|Tranquil Thicket
+00|00|00|00|00|CM2|C|Treasure Cruise
+00|00|00|00|00|CM2|U|Tribute to the Wild
+00|00|00|00|00|CM2|R|Triskelavus
+00|00|00|00|00|CM2|R|Troll Ascetic
+00|00|00|00|00|CM2|R|Tuktuk the Explorer
+00|00|00|00|00|CM2|U|Tuskguard Captain
+00|00|00|00|00|CM2|R|Tyrant's Familiar
+00|00|00|00|00|CM2|R|Underground River
+00|00|00|00|00|CM2|C|Unnerve
+00|00|00|00|00|CM2|U|Unstable Obelisk
+00|00|00|00|00|CM2|R|Urza's Incubator
+00|00|00|00|00|CM2|R|Victory's Herald
+00|00|00|00|00|CM2|U|Vivid Crag
+00|00|00|00|00|CM2|U|Vivid Meadow
+00|00|00|00|00|CM2|R|Volcanic Offering
+00|00|00|00|00|CM2|R|Vorel of the Hull Clade
+00|00|00|00|00|CM2|R|Vorosh, the Hunter
+00|00|00|00|00|CM2|U|Vow of Flight
+00|00|00|00|00|CM2|U|Vow of Malice
+00|00|00|00|00|CM2|U|Vow of Wildness
+00|00|00|00|00|CM2|R|Vulturous Zombie
+00|00|00|00|00|CM2|U|Warchief Giant
+00|00|00|00|00|CM2|R|Warmonger Hellkite
+00|00|00|00|00|CM2|R|Warstorm Surge
+00|00|00|00|00|CM2|C|Wayfarer's Bauble
+00|00|00|00|00|CM2|U|Whipflare
+00|00|00|00|00|CM2|U|Windfall
+00|00|00|00|00|CM2|C|Wind-Scarred Crag
+00|00|00|00|00|CM2|U|Wonder
+00|00|00|00|00|CM2|R|Word of Seizing
+00|00|00|00|00|CM2|U|Worn Powerstone
+00|00|00|00|00|CM2|M|Wrexial, the Risen Deep
+00|00|00|00|00|CM2|M|Wurmcoil Engine
+00|00|00|00|00|CM2|C|Yavimaya Elder
+00|00|00|00|00|CMA|U|Acidic Slime
+00|00|00|00|00|CMA|U|Aerie Mystics
+00|00|00|00|00|CMA|R|AEthermage's Touch
+00|00|00|00|00|CMA|U|Akoum Refuge
+00|00|00|00|00|CMA|R|Akroma, Angel of Fury
+00|00|00|00|00|CMA|R|Akroma's Vengeance
+00|00|00|00|00|CMA|C|Altar's Reap
+00|00|00|00|00|CMA|U|Ambition's Cost
+00|00|00|00|00|CMA|R|Angel of Despair
+00|00|00|00|00|CMA|R|Angel of Finality
+00|00|00|00|00|CMA|R|Angelic Arbiter
+00|00|00|00|00|CMA|U|Anger
+00|00|00|00|00|CMA|C|Arcane Denial
+00|00|00|00|00|CMA|R|Archangel of Strife
+00|00|00|00|00|CMA|C|Armillary Sphere
+00|00|00|00|00|CMA|U|Assault Suit
+00|00|00|00|00|CMA|R|Avatar of Slaughter
+00|00|00|00|00|CMA|R|Azami, Lady of Scrolls
+00|00|00|00|00|CMA|C|Azorius Chancery
+00|00|00|00|00|CMA|C|Azorius Guildgate
+00|00|00|00|00|CMA|U|Azorius Keyrune
+00|00|00|00|00|CMA|R|Bane of Progress
+00|00|00|00|00|CMA|U|Banshee of the Dread Choir
+00|00|00|00|00|CMA|C|Bant Panorama
+00|00|00|00|00|CMA|C|Barren Moor
+00|00|00|00|00|CMA|U|Barter in Blood
+00|00|00|00|00|CMA|U|Basalt Monolith
+00|00|00|00|00|CMA|R|Basandra, Battle Seraph
+00|00|00|00|00|CMA|U|Bathe in Light
+00|00|00|00|00|CMA|R|Beastmaster Ascension
+00|00|00|00|00|CMA|R|Bladewing the Risen
+00|00|00|00|00|CMA|C|Blood Bairn
+00|00|00|00|00|CMA|R|Bloodspore Thrinax
+00|00|00|00|00|CMA|R|Blue Sun's Zenith
+00|00|00|00|00|CMA|C|Bojuka Bog
+00|00|00|00|00|CMA|R|Bonehoard
+00|00|00|00|00|CMA|C|Boros Garrison
+00|00|00|00|00|CMA|U|Boros Guildmage
+00|00|00|00|00|CMA|C|Boros Signet
+00|00|00|00|00|CMA|U|Borrowing 100,000 Arrows
+00|00|00|00|00|CMA|R|Butcher of Malakir
+00|00|00|00|00|CMA|U|Caller of the Pack
+00|00|00|00|00|CMA|R|Centaur Vinecrasher
+00|00|00|00|00|CMA|M|Champion of Stray Souls
+00|00|00|00|00|CMA|U|Cleansing Beam
+00|00|00|00|00|CMA|R|Cloudthresher
+00|00|00|00|00|CMA|R|Collective Unconscious
+00|00|00|00|00|CMA|M|Comet Storm
+00|00|00|00|00|CMA|C|Command Tower
+00|00|00|00|00|CMA|C|Commander's Sphere
+00|00|00|00|00|CMA|C|Congregate
+00|00|00|00|00|CMA|R|Conjurer's Closet
+00|00|00|00|00|CMA|U|Control Magic
+00|00|00|00|00|CMA|U|Corpse Augur
+00|00|00|00|00|CMA|R|Creeperhulk
+00|00|00|00|00|CMA|U|Crystal Vein
+00|00|00|00|00|CMA|U|Curse of Inertia
+00|00|00|00|00|CMA|U|Curse of Predation
+00|00|00|00|00|CMA|U|Curse of the Forsaken
+00|00|00|00|00|CMA|U|Darksteel Ingot
+00|00|00|00|00|CMA|U|Darksteel Mutation
+00|00|00|00|00|CMA|U|Death by Dragons
+00|00|00|00|00|CMA|U|Deceiver Exarch
+00|00|00|00|00|CMA|M|Derevi, Empyrial Tactician
+00|00|00|00|00|CMA|U|Desert Twister
+00|00|00|00|00|CMA|U|Diabolic Servitude
+00|00|00|00|00|CMA|U|Diabolic Tutor
+00|00|00|00|00|CMA|U|Diviner Spirit
+00|00|00|00|00|CMA|R|Djinn of Infinite Deceits
+00|00|00|00|00|CMA|U|Dragon Whelp
+00|00|00|00|00|CMA|R|Dread Cacodemon
+00|00|00|00|00|CMA|R|Dread Summons
+00|00|00|00|00|CMA|U|Drove of Elves
+00|00|00|00|00|CMA|U|Duergar Hedge-Mage
+00|00|00|00|00|CMA|R|Dungeon Geists
+00|00|00|00|00|CMA|R|Earthquake
+00|00|00|00|00|CMA|R|Eater of Hope
+00|00|00|00|00|CMA|M|Eldrazi Monument
+00|00|00|00|00|CMA|R|Elvish Archdruid
+00|00|00|00|00|CMA|C|Elvish Mystic
+00|00|00|00|00|CMA|C|Elvish Skysweeper
+00|00|00|00|00|CMA|C|Elvish Visionary
+00|00|00|00|00|CMA|R|Emerald Medallion
+00|00|00|00|00|CMA|C|Essence Warden
+00|00|00|00|00|CMA|U|Eternal Witness
+00|00|00|00|00|CMA|C|Evincar's Justice
+00|00|00|00|00|CMA|C|Evolving Wilds
+00|00|00|00|00|CMA|R|Extractor Demon
+00|00|00|00|00|CMA|R|Ezuri, Renegade Leader
+00|00|00|00|00|CMA|U|Faerie Conclave
+00|00|00|00|00|CMA|R|Fallen Angel
+00|00|00|00|00|CMA|C|Farhaven Elf
+00|00|00|00|00|CMA|U|Fiend Hunter
+00|00|00|00|00|CMA|R|Flickerform
+00|00|00|00|00|CMA|U|Flickerwisp
+00|00|00|00|00|CMA|L|Forest
+00|00|00|00|00|CMA|L|Forest
+00|00|00|00|00|CMA|L|Forest
+00|00|00|00|00|CMA|L|Forest
+00|00|00|00|00|CMA|L|Forest
+00|00|00|00|00|CMA|L|Forest
+00|00|00|00|00|CMA|L|Forest
+00|00|00|00|00|CMA|L|Forest
+00|00|00|00|00|CMA|L|Forest
+00|00|00|00|00|CMA|L|Forest
+00|00|00|00|00|CMA|L|Forest
+00|00|00|00|00|CMA|L|Forest
+00|00|00|00|00|CMA|C|Forgotten Cave
+00|00|00|00|00|CMA|R|Fresh Meat
+00|00|00|00|00|CMA|M|Freyalise, Llanowar's Fury
+00|00|00|00|00|CMA|U|Furnace Whelp
+00|00|00|00|00|CMA|R|Gargoyle Castle
+00|00|00|00|00|CMA|U|Ghost Quarter
+00|00|00|00|00|CMA|U|Golgari Charm
+00|00|00|00|00|CMA|C|Golgari Guildgate
+00|00|00|00|00|CMA|C|Golgari Rot Farm
+00|00|00|00|00|CMA|C|Golgari Signet
+00|00|00|00|00|CMA|R|Grave Sifter
+00|00|00|00|00|CMA|U|Great Oak Guardian
+00|00|00|00|00|CMA|R|Grim Backwoods
+00|00|00|00|00|CMA|U|Grim Flowering
+00|00|00|00|00|CMA|C|Grisly Salvage
+00|00|00|00|00|CMA|U|Gwyllion Hedge-Mage
+00|00|00|00|00|CMA|U|Hada Spy Patrol
+00|00|00|00|00|CMA|C|Harrow
+00|00|00|00|00|CMA|C|Haunted Fengraf
+00|00|00|00|00|CMA|U|Havenwood Battleground
+00|00|00|00|00|CMA|R|High Market
+00|00|00|00|00|CMA|U|Hunting Triad
+00|00|00|00|00|CMA|R|Immaculate Magistrate
+00|00|00|00|00|CMA|U|Imperious Perfect
+00|00|00|00|00|CMA|U|Indrik Stomphowler
+00|00|00|00|00|CMA|L|Island
+00|00|00|00|00|CMA|L|Island
+00|00|00|00|00|CMA|L|Island
+00|00|00|00|00|CMA|L|Island
+00|00|00|00|00|CMA|M|Jarad, Golgari Lich Lord
+00|00|00|00|00|CMA|R|Joraga Warcaller
+00|00|00|00|00|CMA|U|Jungle Basin
+00|00|00|00|00|CMA|C|Jungle Hollow
+00|00|00|00|00|CMA|M|Kaalia of the Vast
+00|00|00|00|00|CMA|R|Karmic Guide
+00|00|00|00|00|CMA|R|Kazandu Tuskcaller
+00|00|00|00|00|CMA|R|Kessig Cagebreakers
+00|00|00|00|00|CMA|R|Kirtar's Wrath
+00|00|00|00|00|CMA|U|Korozda Guildmage
+00|00|00|00|00|CMA|U|Krosan Grip
+00|00|00|00|00|CMA|U|Leafdrake Roost
+00|00|00|00|00|CMA|U|Leonin Bladetrap
+00|00|00|00|00|CMA|R|Lifeblood Hydra
+00|00|00|00|00|CMA|U|Lightkeeper of Emeria
+00|00|00|00|00|CMA|U|Lightning Greaves
+00|00|00|00|00|CMA|C|Llanowar Elves
+00|00|00|00|00|CMA|U|Loreseeker's Stone
+00|00|00|00|00|CMA|R|Lotleth Troll
+00|00|00|00|00|CMA|R|Lu Xun, Scholar General
+00|00|00|00|00|CMA|C|Lys Alana Huntmaster
+00|00|00|00|00|CMA|M|Malfegor
+00|00|00|00|00|CMA|R|Mana-Charged Dragon
+00|00|00|00|00|CMA|R|Masked Admirers
+00|00|00|00|00|CMA|R|Master Warcraft
+00|00|00|00|00|CMA|M|Mazirek, Kraul Death Priest
+00|00|00|00|00|CMA|M|Meren of Clan Nel Toth
+00|00|00|00|00|CMA|R|Mirror Entity
+00|00|00|00|00|CMA|U|Mistmeadow Witch
+00|00|00|00|00|CMA|U|Molten Slagheap
+00|00|00|00|00|CMA|U|Mortify
+00|00|00|00|00|CMA|U|Moss Diamond
+00|00|00|00|00|CMA|U|Mother of Runes
+00|00|00|00|00|CMA|L|Mountain
+00|00|00|00|00|CMA|L|Mountain
+00|00|00|00|00|CMA|L|Mountain
+00|00|00|00|00|CMA|L|Mountain
+00|00|00|00|00|CMA|C|Mulch
+00|00|00|00|00|CMA|R|Murkfiend Liege
+00|00|00|00|00|CMA|R|Mycoloth
+00|00|00|00|00|CMA|U|Myriad Landscape
+00|00|00|00|00|CMA|U|Oni of Wild Places
+00|00|00|00|00|CMA|C|Opal Palace
+00|00|00|00|00|CMA|R|Oran-Rief, the Vastwood
+00|00|00|00|00|CMA|C|Orim's Thunder
+00|00|00|00|00|CMA|R|Oros, the Avenger
+00|00|00|00|00|CMA|C|Orzhov Basilica
+00|00|00|00|00|CMA|U|Orzhov Guildmage
+00|00|00|00|00|CMA|C|Orzhov Signet
+00|00|00|00|00|CMA|U|Overrun
+00|00|00|00|00|CMA|R|Overwhelming Stampede
+00|00|00|00|00|CMA|U|Path to Exile
+00|00|00|00|00|CMA|R|Pathbreaker Ibex
+00|00|00|00|00|CMA|R|Phantom Nantuko
+00|00|00|00|00|CMA|R|Phyrexian Plaguelord
+00|00|00|00|00|CMA|C|Phyrexian Rager
+00|00|00|00|00|CMA|C|Pilgrim's Eye
+00|00|00|00|00|CMA|L|Plains
+00|00|00|00|00|CMA|L|Plains
+00|00|00|00|00|CMA|L|Plains
+00|00|00|00|00|CMA|L|Plains
+00|00|00|00|00|CMA|L|Plains
+00|00|00|00|00|CMA|L|Plains
+00|00|00|00|00|CMA|L|Plains
+00|00|00|00|00|CMA|L|Plains
+00|00|00|00|00|CMA|C|Polluted Mire
+00|00|00|00|00|CMA|M|Praetor's Counsel
+00|00|00|00|00|CMA|R|Predator, Flagship
+00|00|00|00|00|CMA|C|Presence of Gond
+00|00|00|00|00|CMA|C|Priest of Titania
+00|00|00|00|00|CMA|C|Primal Growth
+00|00|00|00|00|CMA|R|Primordial Sage
+00|00|00|00|00|CMA|U|Putrefy
+00|00|00|00|00|CMA|U|Pyrohemia
+00|00|00|00|00|CMA|C|Rakdos Carnarium
+00|00|00|00|00|CMA|C|Rakdos Signet
+00|00|00|00|00|CMA|M|Rampaging Baloths
+00|00|00|00|00|CMA|U|Razorjaw Oni
+00|00|00|00|00|CMA|U|Reclamation Sage
+00|00|00|00|00|CMA|R|Reiver Demon
+00|00|00|00|00|CMA|U|Restore
+00|00|00|00|00|CMA|U|Return to Dust
+00|00|00|00|00|CMA|U|Righteous Cause
+00|00|00|00|00|CMA|U|Rise from the Grave
+00|00|00|00|00|CMA|M|Roon of the Hidden Realm
+00|00|00|00|00|CMA|R|Rubinia Soulsinger
+00|00|00|00|00|CMA|C|Rupture Spire
+00|00|00|00|00|CMA|C|Sakura-Tribe Elder
+00|00|00|00|00|CMA|U|Saltcrusted Steppe
+00|00|00|00|00|CMA|C|Satyr Wayfinder
+00|00|00|00|00|CMA|R|Scourge of Nel Toth
+00|00|00|00|00|CMA|U|Seaside Citadel
+00|00|00|00|00|CMA|C|Secluded Steppe
+00|00|00|00|00|CMA|R|Seer's Sundial
+00|00|00|00|00|CMA|U|Sejiri Refuge
+00|00|00|00|00|CMA|U|Selesnya Charm
+00|00|00|00|00|CMA|C|Selesnya Guildgate
+00|00|00|00|00|CMA|U|Selesnya Guildmage
+00|00|00|00|00|CMA|C|Selesnya Sanctuary
+00|00|00|00|00|CMA|C|Selesnya Signet
+00|00|00|00|00|CMA|U|Serra Angel
+00|00|00|00|00|CMA|R|Sever the Bloodline
+00|00|00|00|00|CMA|U|Shattered Angel
+00|00|00|00|00|CMA|U|Shriekmaw
+00|00|00|00|00|CMA|R|Siege Behemoth
+00|00|00|00|00|CMA|R|Silklash Spider
+00|00|00|00|00|CMA|C|Simic Guildgate
+00|00|00|00|00|CMA|C|Simic Signet
+00|00|00|00|00|CMA|U|Skullclamp
+00|00|00|00|00|CMA|U|Skullwinder
+00|00|00|00|00|CMA|U|Skyward Eye Prophets
+00|00|00|00|00|CMA|C|Slippery Karst
+00|00|00|00|00|CMA|U|Sol Ring
+00|00|00|00|00|CMA|R|Song of the Dryads
+00|00|00|00|00|CMA|R|Soul of the Harvest
+00|00|00|00|00|CMA|U|Soul Snare
+00|00|00|00|00|CMA|U|Spider Spawning
+00|00|00|00|00|CMA|U|Stonecloaker
+00|00|00|00|00|CMA|R|Stranglehold
+00|00|00|00|00|CMA|U|Sulfurous Blast
+00|00|00|00|00|CMA|R|Surveyor's Scope
+00|00|00|00|00|CMA|L|Swamp
+00|00|00|00|00|CMA|L|Swamp
+00|00|00|00|00|CMA|L|Swamp
+00|00|00|00|00|CMA|L|Swamp
+00|00|00|00|00|CMA|L|Swamp
+00|00|00|00|00|CMA|L|Swamp
+00|00|00|00|00|CMA|L|Swamp
+00|00|00|00|00|CMA|L|Swamp
+00|00|00|00|00|CMA|U|Swiftfoot Boots
+00|00|00|00|00|CMA|R|Sword of the Paruns
+00|00|00|00|00|CMA|R|Sylvan Offering
+00|00|00|00|00|CMA|C|Sylvan Ranger
+00|00|00|00|00|CMA|R|Sylvan Safekeeper
+00|00|00|00|00|CMA|U|Syphon Flesh
+00|00|00|00|00|CMA|C|Syphon Mind
+00|00|00|00|00|CMA|U|Tainted Wood
+00|00|00|00|00|CMA|M|Tariel, Reckoner of Souls
+00|00|00|00|00|CMA|U|Temple of the False God
+00|00|00|00|00|CMA|R|Tempt with Glory
+00|00|00|00|00|CMA|R|Terastodon
+00|00|00|00|00|CMA|C|Terminate
+00|00|00|00|00|CMA|C|Terramorphic Expanse
+00|00|00|00|00|CMA|U|Thief of Blood
+00|00|00|00|00|CMA|C|Thornweald Archer
+00|00|00|00|00|CMA|C|Thornwind Faeries
+00|00|00|00|00|CMA|C|Thought Vessel
+00|00|00|00|00|CMA|R|Thousand-Year Elixir
+00|00|00|00|00|CMA|R|Thunderfoot Baloth
+00|00|00|00|00|CMA|U|Thunderstaff
+00|00|00|00|00|CMA|C|Timberwatch Elf
+00|00|00|00|00|CMA|M|Titania, Protector of Argoth
+00|00|00|00|00|CMA|U|Titania's Chosen
+00|00|00|00|00|CMA|R|Tornado Elemental
+00|00|00|00|00|CMA|C|Tranquil Thicket
+00|00|00|00|00|CMA|C|Transguild Promenade
+00|00|00|00|00|CMA|U|Tribute to the Wild
+00|00|00|00|00|CMA|R|Unexpectedly Absent
+00|00|00|00|00|CMA|R|Verdant Force
+00|00|00|00|00|CMA|U|Victimize
+00|00|00|00|00|CMA|C|Viridian Emissary
+00|00|00|00|00|CMA|R|Viridian Zealot
+00|00|00|00|00|CMA|U|Vivid Grove
+00|00|00|00|00|CMA|U|Vivid Marsh
+00|00|00|00|00|CMA|U|Vivid Meadow
+00|00|00|00|00|CMA|R|Voice of All
+00|00|00|00|00|CMA|U|Vow of Duty
+00|00|00|00|00|CMA|U|Vow of Lightning
+00|00|00|00|00|CMA|U|Vow of Malice
+00|00|00|00|00|CMA|R|Vulturous Zombie
+00|00|00|00|00|CMA|U|Wall of Blossoms
+00|00|00|00|00|CMA|U|Wash Out
+00|00|00|00|00|CMA|R|Wave of Vitriol
+00|00|00|00|00|CMA|C|Wellwisher
+00|00|00|00|00|CMA|R|Whirlwind
+00|00|00|00|00|CMA|C|Winged Coatl
+00|00|00|00|00|CMA|R|Wolfbriar Elemental
+00|00|00|00|00|CMA|R|Wolfcaller's Howl
+00|00|00|00|00|CMA|U|Wonder
+00|00|00|00|00|CMA|C|Wood Elves
+00|00|00|00|00|CMA|C|Wrecking Ball
+00|00|00|00|00|CMA|R|Wren's Run Packmaster
+00|00|00|00|00|CMA|R|Wretched Confluence
+00|00|00|00|00|CMA|U|Zoetic Cavern
+00|00|00|00|00|DDU|C|Artificer's Epiphany
+00|00|00|00|00|DDU|U|Barrage Ogre
+00|00|00|00|00|DDU|U|Darksteel Citadel
+00|00|00|00|00|DDU|R|Darksteel Plate
+00|00|00|00|00|DDU|R|Dwynen, Gilt-Leaf Daen
+00|00|00|00|00|DDU|U|Dwynen's Elite
+00|00|00|00|00|DDU|C|Elvish Aberration
+00|00|00|00|00|DDU|R|Elvish Archdruid
+00|00|00|00|00|DDU|C|Elvish Branchbender
+00|00|00|00|00|DDU|C|Elvish Mystic
+00|00|00|00|00|DDU|C|Elvish Vanguard
+00|00|00|00|00|DDU|C|Etherium Sculptor
+00|00|00|00|00|DDU|M|Ezuri, Renegade Leader
+00|00|00|00|00|DDU|C|Ezuri's Archers
+00|00|00|00|00|DDU|C|Faerie Mechanist
+00|00|00|00|00|DDU|C|Fierce Empath
+00|00|00|00|00|DDU|U|Filigree Familiar
+00|00|00|00|00|DDU|L|Forest
+00|00|00|00|00|DDU|L|Forest
+00|00|00|00|00|DDU|L|Forest
+00|00|00|00|00|DDU|L|Forest
+00|00|00|00|00|DDU|U|Foundry of the Consuls
+00|00|00|00|00|DDU|C|Galvanic Blast
+00|00|00|00|00|DDU|C|Ghirapur Gearcrafter
+00|00|00|00|00|DDU|R|Gladehart Cavalry
+00|00|00|00|00|DDU|M|Goblin Welder
+00|00|00|00|00|DDU|C|Great Furnace
+00|00|00|00|00|DDU|C|Ichor Wellspring
+00|00|00|00|00|DDU|C|Inventor's Goggles
+00|00|00|00|00|DDU|L|Island
+00|00|00|00|00|DDU|L|Island
+00|00|00|00|00|DDU|C|Ivy Lane Denizen
+00|00|00|00|00|DDU|U|Jagged-Scar Archers
+00|00|00|00|00|DDU|C|Krosan Tusker
+00|00|00|00|00|DDU|C|Kujar Seedsculptor
+00|00|00|00|00|DDU|C|Lead the Stampede
+00|00|00|00|00|DDU|C|Leaf Gilder
+00|00|00|00|00|DDU|C|Llanowar Empath
+00|00|00|00|00|DDU|U|Maverick Thopterist
+00|00|00|00|00|DDU|L|Mountain
+00|00|00|00|00|DDU|L|Mountain
+00|00|00|00|00|DDU|C|Mycosynth Wellspring
+00|00|00|00|00|DDU|R|Myr Battlesphere
+00|00|00|00|00|DDU|C|Myr Sire
+00|00|00|00|00|DDU|C|Naturalize
+00|00|00|00|00|DDU|U|Nature's Way
+00|00|00|00|00|DDU|C|Neurok Replica
+00|00|00|00|00|DDU|U|Nissa's Judgment
+00|00|00|00|00|DDU|R|Oran-Rief, the Vastwood
+00|00|00|00|00|DDU|U|Phyrexia's Core
+00|00|00|00|00|DDU|R|Pia and Kiran Nalaar
+00|00|00|00|00|DDU|C|Pyrite Spellbomb
+00|00|00|00|00|DDU|U|Reclusive Artificer
+00|00|00|00|00|DDU|R|Regal Force
+00|00|00|00|00|DDU|U|Riddlesmith
+00|00|00|00|00|DDU|R|Scuttling Doom Engine
+00|00|00|00|00|DDU|C|Seat of the Synod
+00|00|00|00|00|DDU|R|Shivan Reef
+00|00|00|00|00|DDU|U|Shrapnel Blast
+00|00|00|00|00|DDU|R|Solemn Simulacrum
+00|00|00|00|00|DDU|C|Swiftwater Cliffs
+00|00|00|00|00|DDU|R|Sylvan Advocate
+00|00|00|00|00|DDU|R|Talara's Battalion
+00|00|00|00|00|DDU|R|Temple of Epiphany
+00|00|00|00|00|DDU|R|Thopter Assembly
+00|00|00|00|00|DDU|C|Tranquil Thicket
+00|00|00|00|00|DDU|U|Treasure Mage
+00|00|00|00|00|DDU|U|Treetop Village
+00|00|00|00|00|DDU|C|Trinket Mage
+00|00|00|00|00|DDU|U|Trophy Mage
+00|00|00|00|00|DDU|U|Viridian Shaman
+00|00|00|00|00|DDU|U|Voyager Staff
+00|00|00|00|00|DDU|C|Welding Sparks
+00|00|00|00|00|DDU|U|Whirler Rogue
+00|00|00|00|00|DDU|C|Wildheart Invoker
+00|00|00|00|00|DDU|R|Yeva, Nature's Herald
+00|00|00|00|00|DOM|C|Academy Drake
+00|00|00|00|00|DOM|C|Academy Journeymage
+00|00|00|00|00|DOM|C|Adamant Will
+00|00|00|00|00|DOM|U|Adeliz, the Cinder Wind
+00|00|00|00|00|DOM|C|Adventurous Impulse
+00|00|00|00|00|DOM|C|Aesthir Glider
+00|00|00|00|00|DOM|U|Amaranthine Wall
+00|00|00|00|00|DOM|C|Ancient Animus
+00|00|00|00|00|DOM|C|Arbor Armament
+00|00|00|00|00|DOM|C|Arcane Flight
+00|00|00|00|00|DOM|C|Artificer's Assistant
+00|00|00|00|00|DOM|U|Arvad the Cursed
+00|00|00|00|00|DOM|R|Aryel, Knight of Windgrace
+00|00|00|00|00|DOM|C|Aven Sentry
+00|00|00|00|00|DOM|U|Baird, Steward of Argive
+00|00|00|00|00|DOM|C|Baloth Gorger
+00|00|00|00|00|DOM|C|Befuddle
+00|00|00|00|00|DOM|C|Benalish Honor Guard
+00|00|00|00|00|DOM|R|Benalish Marshal
+00|00|00|00|00|DOM|R|Blackblade Reforged
+00|00|00|00|00|DOM|C|Blessed Light
+00|00|00|00|00|DOM|C|Blessing of Belzenlok
+00|00|00|00|00|DOM|C|Blink of an Eye
+00|00|00|00|00|DOM|C|Bloodstone Goblin
+00|00|00|00|00|DOM|C|Bloodtallow Candle
+00|00|00|00|00|DOM|U|Board the Weatherlight
+00|00|00|00|00|DOM|C|Broken Bond
+00|00|00|00|00|DOM|C|Cabal Evangel
+00|00|00|00|00|DOM|C|Cabal Paladin
+00|00|00|00|00|DOM|R|Cabal Stronghold
+00|00|00|00|00|DOM|C|Caligo Skin-Witch
+00|00|00|00|00|DOM|C|Call the Cavalry
+00|00|00|00|00|DOM|U|Cast Down
+00|00|00|00|00|DOM|U|Chainer's Torment
+00|00|00|00|00|DOM|U|Champion of the Flame
+00|00|00|00|00|DOM|M|Chandra, Bold Pyromancer
+00|00|00|00|00|DOM|R|Chandra's Outburst
+00|00|00|00|00|DOM|C|Charge
+00|00|00|00|00|DOM|R|Clifftop Retreat
+00|00|00|00|00|DOM|C|Cloudreader Sphinx
+00|00|00|00|00|DOM|C|Cold-Water Snapper
+00|00|00|00|00|DOM|C|Corrosive Ooze
+00|00|00|00|00|DOM|U|Curator's Ward
+00|00|00|00|00|DOM|U|Damping Sphere
+00|00|00|00|00|DOM|U|Danitha Capashen, Paragon
+00|00|00|00|00|DOM|M|Darigaaz Reincarnated
+00|00|00|00|00|DOM|R|Daring Archaeologist
+00|00|00|00|00|DOM|C|Dark Bargain
+00|00|00|00|00|DOM|U|Dauntless Bodyguard
+00|00|00|00|00|DOM|C|D'Avenant Trapper
+00|00|00|00|00|DOM|C|Deathbloom Thallid
+00|00|00|00|00|DOM|C|Deep Freeze
+00|00|00|00|00|DOM|C|Demonic Vigor
+00|00|00|00|00|DOM|M|Demonlord Belzenlok
+00|00|00|00|00|DOM|U|Diligent Excavator
+00|00|00|00|00|DOM|C|Divest
+00|00|00|00|00|DOM|C|Divination
+00|00|00|00|00|DOM|R|Dread Shade
+00|00|00|00|00|DOM|C|Drudge Sentinel
+00|00|00|00|00|DOM|C|Dub
+00|00|00|00|00|DOM|U|Elfhame Druid
+00|00|00|00|00|DOM|C|Eviscerate
+00|00|00|00|00|DOM|R|Evra, Halcyon Witness
+00|00|00|00|00|DOM|C|Excavation Elephant
+00|00|00|00|00|DOM|R|Fall of the Thran
+00|00|00|00|00|DOM|C|Feral Abomination
+00|00|00|00|00|DOM|C|Fervent Strike
+00|00|00|00|00|DOM|C|Fiery Intervention
+00|00|00|00|00|DOM|U|Fight with Fire
+00|00|00|00|00|DOM|U|Final Parting
+00|00|00|00|00|DOM|C|Fire Elemental
+00|00|00|00|00|DOM|U|Firefist Adept
+00|00|00|00|00|DOM|R|Firesong and Sunspeaker
+00|00|00|00|00|DOM|R|Forebear's Blade
+00|00|00|00|00|DOM|L|Forest
+00|00|00|00|00|DOM|L|Forest
+00|00|00|00|00|DOM|L|Forest
+00|00|00|00|00|DOM|L|Forest
+00|00|00|00|00|DOM|C|Frenzied Rage
+00|00|00|00|00|DOM|C|Fungal Infection
+00|00|00|00|00|DOM|U|Fungal Plots
+00|00|00|00|00|DOM|U|Gaea's Blessing
+00|00|00|00|00|DOM|C|Gaea's Protector
+00|00|00|00|00|DOM|U|Garna, the Bloodflame
+00|00|00|00|00|DOM|C|Ghitu Chronicler
+00|00|00|00|00|DOM|C|Ghitu Journeymage
+00|00|00|00|00|DOM|C|Ghitu Lavarunner
+00|00|00|00|00|DOM|C|Gideon's Reproach
+00|00|00|00|00|DOM|C|Gift of Growth
+00|00|00|00|00|DOM|R|Gilded Lotus
+00|00|00|00|00|DOM|U|Goblin Barrage
+00|00|00|00|00|DOM|R|Goblin Chainwhirler
+00|00|00|00|00|DOM|U|Goblin Warchief
+00|00|00|00|00|DOM|R|Grand Warlord Radha
+00|00|00|00|00|DOM|C|Grow from the Ashes
+00|00|00|00|00|DOM|U|Grunn, the Lonely King
+00|00|00|00|00|DOM|C|Guardians of Koilos
+00|00|00|00|00|DOM|U|Hallar, the Firefletcher
+00|00|00|00|00|DOM|R|Haphazard Bombardment
+00|00|00|00|00|DOM|C|Healing Grace
+00|00|00|00|00|DOM|R|Helm of the Host
+00|00|00|00|00|DOM|R|Hinterland Harbor
+00|00|00|00|00|DOM|M|History of Benalia
+00|00|00|00|00|DOM|C|Homarid Explorer
+00|00|00|00|00|DOM|U|Howling Golem
+00|00|00|00|00|DOM|U|Icy Manipulator
+00|00|00|00|00|DOM|U|In Bolas's Clutches
+00|00|00|00|00|DOM|C|Invoke the Divine
+00|00|00|00|00|DOM|L|Island
+00|00|00|00|00|DOM|L|Island
+00|00|00|00|00|DOM|L|Island
+00|00|00|00|00|DOM|L|Island
+00|00|00|00|00|DOM|R|Isolated Chapel
+00|00|00|00|00|DOM|M|Jaya Ballard
+00|00|00|00|00|DOM|R|Jaya's Immolating Inferno
+00|00|00|00|00|DOM|M|Jhoira, Weatherlight Captain
+00|00|00|00|00|DOM|U|Jhoira's Familiar
+00|00|00|00|00|DOM|R|Jodah, Archmage Eternal
+00|00|00|00|00|DOM|R|Josu Vess, Lich Knight
+00|00|00|00|00|DOM|C|Jousting Lance
+00|00|00|00|00|DOM|U|Juggernaut
+00|00|00|00|00|DOM|R|Kamahl's Druidic Vow
+00|00|00|00|00|DOM|M|Karn, Scion of Urza
+00|00|00|00|00|DOM|R|Karn's Temporal Sundering
+00|00|00|00|00|DOM|U|Karplusan Hound
+00|00|00|00|00|DOM|R|Kazarov, Sengir Pureblood
+00|00|00|00|00|DOM|C|Keldon Overseer
+00|00|00|00|00|DOM|C|Keldon Raider
+00|00|00|00|00|DOM|C|Keldon Warcaller
+00|00|00|00|00|DOM|U|Knight of Grace
+00|00|00|00|00|DOM|U|Knight of Malice
+00|00|00|00|00|DOM|C|Knight of New Benalia
+00|00|00|00|00|DOM|C|Krosan Druid
+00|00|00|00|00|DOM|U|Kwende, Pride of Femeref
+00|00|00|00|00|DOM|R|Lich's Mastery
+00|00|00|00|00|DOM|U|Lingering Phantom
+00|00|00|00|00|DOM|C|Llanowar Elves
+00|00|00|00|00|DOM|C|Llanowar Envoy
+00|00|00|00|00|DOM|C|Llanowar Scout
+00|00|00|00|00|DOM|M|Lyra Dawnbringer
+00|00|00|00|00|DOM|C|Mammoth Spider
+00|00|00|00|00|DOM|R|Marwyn, the Nurturer
+00|00|00|00|00|DOM|C|Meandering River
+00|00|00|00|00|DOM|U|Memorial to Folly
+00|00|00|00|00|DOM|U|Memorial to Genius
+00|00|00|00|00|DOM|U|Memorial to Glory
+00|00|00|00|00|DOM|U|Memorial to Unity
+00|00|00|00|00|DOM|U|Memorial to War
+00|00|00|00|00|DOM|U|Merfolk Trickster
+00|00|00|00|00|DOM|C|Mesa Unicorn
+00|00|00|00|00|DOM|R|Mishra's Self-Replicator
+00|00|00|00|00|DOM|L|Mountain
+00|00|00|00|00|DOM|L|Mountain
+00|00|00|00|00|DOM|L|Mountain
+00|00|00|00|00|DOM|L|Mountain
+00|00|00|00|00|DOM|M|Mox Amber
+00|00|00|00|00|DOM|M|Muldrotha, the Gravetide
+00|00|00|00|00|DOM|M|Multani, Yavimaya's Avatar
+00|00|00|00|00|DOM|R|Naban, Dean of Iteration
+00|00|00|00|00|DOM|M|Naru Meha, Master Wizard
+00|00|00|00|00|DOM|U|Nature's Spiral
+00|00|00|00|00|DOM|C|Navigator's Compass
+00|00|00|00|00|DOM|R|Niambi, Faithful Healer
+00|00|00|00|00|DOM|R|Oath of Teferi
+00|00|00|00|00|DOM|U|On Serra's Wings
+00|00|00|00|00|DOM|C|Opt
+00|00|00|00|00|DOM|U|Orcish Vandal
+00|00|00|00|00|DOM|C|Pardic Wanderer
+00|00|00|00|00|DOM|C|Pegasus Courser
+00|00|00|00|00|DOM|M|Phyrexian Scriptures
+00|00|00|00|00|DOM|C|Pierce the Sky
+00|00|00|00|00|DOM|L|Plains
+00|00|00|00|00|DOM|L|Plains
+00|00|00|00|00|DOM|L|Plains
+00|00|00|00|00|DOM|L|Plains
+00|00|00|00|00|DOM|C|Powerstone Shard
+00|00|00|00|00|DOM|R|Precognition Field
+00|00|00|00|00|DOM|R|Primevals' Glorious Rebirth
+00|00|00|00|00|DOM|C|Primordial Wurm
+00|00|00|00|00|DOM|C|Pyromantic Pilgrim
+00|00|00|00|00|DOM|C|Radiating Lightning
+00|00|00|00|00|DOM|U|Raff Capashen, Ship's Mage
+00|00|00|00|00|DOM|C|Rampaging Cyclops
+00|00|00|00|00|DOM|C|Rat Colony
+00|00|00|00|00|DOM|C|Relic Runner
+00|00|00|00|00|DOM|C|Rescue
+00|00|00|00|00|DOM|R|Rite of Belzenlok
+00|00|00|00|00|DOM|U|Rona, Disciple of Gix
+00|00|00|00|00|DOM|C|Run Amok
+00|00|00|00|00|DOM|U|Sage of Lat-Nam
+00|00|00|00|00|DOM|U|Sanctum Spirit
+00|00|00|00|00|DOM|C|Saproling Migration
+00|00|00|00|00|DOM|U|Seal Away
+00|00|00|00|00|DOM|C|Seismic Shift
+00|00|00|00|00|DOM|U|Sentinel of the Pearl Trident
+00|00|00|00|00|DOM|C|Sergeant-at-Arms
+00|00|00|00|00|DOM|U|Serra Angel
+00|00|00|00|00|DOM|C|Serra Disciple
+00|00|00|00|00|DOM|U|Settle the Score
+00|00|00|00|00|DOM|R|Shalai, Voice of Plenty
+00|00|00|00|00|DOM|U|Shanna, Sisay's Legacy
+00|00|00|00|00|DOM|U|Shield of the Realm
+00|00|00|00|00|DOM|C|Shivan Fire
+00|00|00|00|00|DOM|C|Short Sword
+00|00|00|00|00|DOM|R|Siege-Gang Commander
+00|00|00|00|00|DOM|C|Skirk Prospector
+00|00|00|00|00|DOM|C|Skittering Surveyor
+00|00|00|00|00|DOM|U|Skizzik
+00|00|00|00|00|DOM|U|Slimefoot, the Stowaway
+00|00|00|00|00|DOM|U|Slinn Voda, the Rising Deep
+00|00|00|00|00|DOM|U|Song of Freyalise
+00|00|00|00|00|DOM|U|Sorcerer's Wand
+00|00|00|00|00|DOM|C|Soul Salvage
+00|00|00|00|00|DOM|C|Sparring Construct
+00|00|00|00|00|DOM|U|Spore Swarm
+00|00|00|00|00|DOM|U|Sporecrown Thallid
+00|00|00|00|00|DOM|R|Squee, the Immortal
+00|00|00|00|00|DOM|R|Steel Leaf Champion
+00|00|00|00|00|DOM|C|Stronghold Confessor
+00|00|00|00|00|DOM|R|Sulfur Falls
+00|00|00|00|00|DOM|L|Swamp
+00|00|00|00|00|DOM|L|Swamp
+00|00|00|00|00|DOM|L|Swamp
+00|00|00|00|00|DOM|L|Swamp
+00|00|00|00|00|DOM|R|Sylvan Awakening
+00|00|00|00|00|DOM|C|Syncopate
+00|00|00|00|00|DOM|U|Tatyova, Benthic Druid
+00|00|00|00|00|DOM|M|Teferi, Hero of Dominaria
+00|00|00|00|00|DOM|M|Teferi, Timebender
+00|00|00|00|00|DOM|U|Teferi's Sentinel
+00|00|00|00|00|DOM|R|Tempest Djinn
+00|00|00|00|00|DOM|C|Temporal Machinations
+00|00|00|00|00|DOM|R|Territorial Allosaurus
+00|00|00|00|00|DOM|R|Teshar, Ancestor's Apostle
+00|00|00|00|00|DOM|U|Tetsuko Umezawa, Fugitive
+00|00|00|00|00|DOM|C|Thallid Omnivore
+00|00|00|00|00|DOM|U|Thallid Soothsayer
+00|00|00|00|00|DOM|R|The Antiquities War
+00|00|00|00|00|DOM|U|The Eldest Reborn
+00|00|00|00|00|DOM|R|The First Eruption
+00|00|00|00|00|DOM|U|The Flame of Keld
+00|00|00|00|00|DOM|R|The Mending of Dominaria
+00|00|00|00|00|DOM|R|The Mirari Conjecture
+00|00|00|00|00|DOM|U|Thorn Elemental
+00|00|00|00|00|DOM|R|Thran Temporal Gateway
+00|00|00|00|00|DOM|U|Tiana, Ship's Caretaker
+00|00|00|00|00|DOM|C|Timber Gorge
+00|00|00|00|00|DOM|U|Time of Ice
+00|00|00|00|00|DOM|C|Tolarian Scholar
+00|00|00|00|00|DOM|R|Torgaar, Famine Incarnate
+00|00|00|00|00|DOM|C|Tragic Poet
+00|00|00|00|00|DOM|R|Traxos, Scourge of Kroog
+00|00|00|00|00|DOM|U|Triumph of Gerrard
+00|00|00|00|00|DOM|R|Two-Headed Giant
+00|00|00|00|00|DOM|U|Untamed Kavu
+00|00|00|00|00|DOM|C|Unwind
+00|00|00|00|00|DOM|U|Urgoros, the Empty One
+00|00|00|00|00|DOM|R|Urza's Ruinous Blast
+00|00|00|00|00|DOM|U|Urza's Tome
+00|00|00|00|00|DOM|U|Valduk, Keeper of the Flame
+00|00|00|00|00|DOM|R|Verdant Force
+00|00|00|00|00|DOM|M|Verix Bladewing
+00|00|00|00|00|DOM|C|Vicious Offering
+00|00|00|00|00|DOM|C|Vodalian Arcanist
+00|00|00|00|00|DOM|C|Voltaic Servant
+00|00|00|00|00|DOM|U|Warcry Phoenix
+00|00|00|00|00|DOM|C|Warlord's Fury
+00|00|00|00|00|DOM|M|Weatherlight
+00|00|00|00|00|DOM|U|Weight of Memory
+00|00|00|00|00|DOM|U|Whisper, Blood Liturgist
+00|00|00|00|00|DOM|U|Wild Onslaught
+00|00|00|00|00|DOM|C|Windgrace Acolyte
+00|00|00|00|00|DOM|U|Wizard's Lightning
+00|00|00|00|00|DOM|U|Wizard's Retort
+00|00|00|00|00|DOM|R|Woodland Cemetery
+00|00|00|00|00|DOM|U|Yargle, Glutton of Urborg
+00|00|00|00|00|DOM|C|Yavimaya Sapherd
+00|00|00|00|00|DOM|R|Yawgmoth's Vile Offering
+00|00|00|00|00|DOM|R|Zahid, Djinn of the Lamp
+00|00|00|00|00|DOM|U|Zhalfirin Void
+00|00|00|00|00|GRN|U|Affectionate Indrik
+00|00|00|00|00|GRN|U|Arboretum Elemental
+00|00|00|00|00|GRN|M|Arclight Phoenix
+00|00|00|00|00|GRN|C|Artful Takedown
+00|00|00|00|00|GRN|R|Assassin's Trophy
+00|00|00|00|00|GRN|R|Assemble
+00|00|00|00|00|GRN|R|Assure
+00|00|00|00|00|GRN|U|Attendant of Vraska
+00|00|00|00|00|GRN|M|Aurelia, Exemplar of Justice
+00|00|00|00|00|GRN|C|Barging Sergeant
+00|00|00|00|00|GRN|C|Barrier of Bones
+00|00|00|00|00|GRN|C|Bartizan Bats
+00|00|00|00|00|GRN|U|Beacon Bolt
+00|00|00|00|00|GRN|U|Beamsplitter Mage
+00|00|00|00|00|GRN|R|Beast Whisperer
+00|00|00|00|00|GRN|C|Blade Instructor
+00|00|00|00|00|GRN|R|Blood Operative
+00|00|00|00|00|GRN|U|Book Devourer
+00|00|00|00|00|GRN|U|Boros Challenger
+00|00|00|00|00|GRN|C|Boros Guildgate
+00|00|00|00|00|GRN|C|Boros Guildgate
+00|00|00|00|00|GRN|C|Boros Locket
+00|00|00|00|00|GRN|R|Bounty Agent
+00|00|00|00|00|GRN|R|Bounty of Might
+00|00|00|00|00|GRN|C|Burglar Rat
+00|00|00|00|00|GRN|R|Camaraderie
+00|00|00|00|00|GRN|C|Candlelight Vigil
+00|00|00|00|00|GRN|C|Capture Sphere
+00|00|00|00|00|GRN|C|Centaur Peacemaker
+00|00|00|00|00|GRN|R|Chamber Sentry
+00|00|00|00|00|GRN|M|Chance for Glory
+00|00|00|00|00|GRN|R|Charnel Troll
+00|00|00|00|00|GRN|U|Chemister's Insight
+00|00|00|00|00|GRN|C|Child of Night
+00|00|00|00|00|GRN|R|Chromatic Lantern
+00|00|00|00|00|GRN|U|Circuitous Route
+00|00|00|00|00|GRN|U|Citywatch Sphinx
+00|00|00|00|00|GRN|R|Citywide Bust
+00|00|00|00|00|GRN|C|Collar the Culprit
+00|00|00|00|00|GRN|C|Command the Storm
+00|00|00|00|00|GRN|U|Conclave Cavalier
+00|00|00|00|00|GRN|U|Conclave Guildmage
+00|00|00|00|00|GRN|U|Conclave Tribunal
+00|00|00|00|00|GRN|R|Concoct
+00|00|00|00|00|GRN|R|Connive
+00|00|00|00|00|GRN|C|Cosmotronic Wave
+00|00|00|00|00|GRN|U|Crackling Drake
+00|00|00|00|00|GRN|U|Creeping Chill
+00|00|00|00|00|GRN|U|Crush Contraband
+00|00|00|00|00|GRN|C|Crushing Canopy
+00|00|00|00|00|GRN|C|Darkblade Agent
+00|00|00|00|00|GRN|R|Dawn of Hope
+00|00|00|00|00|GRN|C|Dazzling Lights
+00|00|00|00|00|GRN|C|Dead Weight
+00|00|00|00|00|GRN|C|Deadly Visit
+00|00|00|00|00|GRN|R|Deafening Clarion
+00|00|00|00|00|GRN|U|Demotion
+00|00|00|00|00|GRN|C|Devious Cover-Up
+00|00|00|00|00|GRN|C|Devkarin Dissident
+00|00|00|00|00|GRN|C|Dimir Guildgate
+00|00|00|00|00|GRN|C|Dimir Guildgate
+00|00|00|00|00|GRN|C|Dimir Informant
+00|00|00|00|00|GRN|C|Dimir Locket
+00|00|00|00|00|GRN|U|Dimir Spybug
+00|00|00|00|00|GRN|C|Direct Current
+00|00|00|00|00|GRN|U|Discovery
+00|00|00|00|00|GRN|C|Disdainful Stroke
+00|00|00|00|00|GRN|U|Disinformation Campaign
+00|00|00|00|00|GRN|U|Dispersal
+00|00|00|00|00|GRN|U|District Guide
+00|00|00|00|00|GRN|M|Divine Visitation
+00|00|00|00|00|GRN|M|Doom Whisperer
+00|00|00|00|00|GRN|C|Douser of Lights
+00|00|00|00|00|GRN|M|Dream Eater
+00|00|00|00|00|GRN|R|Drowned Secrets
+00|00|00|00|00|GRN|U|Electrostatic Field
+00|00|00|00|00|GRN|R|Emmara, Soul of the Accord
+00|00|00|00|00|GRN|U|Enhanced Surveillance
+00|00|00|00|00|GRN|R|Erratic Cyclops
+00|00|00|00|00|GRN|C|Erstwhile Trooper
+00|00|00|00|00|GRN|R|Etrata, the Silencer
+00|00|00|00|00|GRN|R|Expansion
+00|00|00|00|00|GRN|R|Experimental Frenzy
+00|00|00|00|00|GRN|R|Explosion
+00|00|00|00|00|GRN|C|Fearless Halberdier
+00|00|00|00|00|GRN|R|Finality
+00|00|00|00|00|GRN|R|Find
+00|00|00|00|00|GRN|C|Fire Urchin
+00|00|00|00|00|GRN|R|Firemind's Research
+00|00|00|00|00|GRN|U|Flight of Equenauts
+00|00|00|00|00|GRN|U|Flourish
+00|00|00|00|00|GRN|U|Flower
+00|00|00|00|00|GRN|L|Forest
+00|00|00|00|00|GRN|C|Fresh-Faced Recruit
+00|00|00|00|00|GRN|C|Garrison Sergeant
+00|00|00|00|00|GRN|U|Gatekeeper Gargoyle
+00|00|00|00|00|GRN|C|Gateway Plaza
+00|00|00|00|00|GRN|C|Generous Stray
+00|00|00|00|00|GRN|U|Gird for Battle
+00|00|00|00|00|GRN|U|Glaive of the Guildpact
+00|00|00|00|00|GRN|U|Glowspore Shaman
+00|00|00|00|00|GRN|U|Goblin Banneret
+00|00|00|00|00|GRN|U|Goblin Cratermaker
+00|00|00|00|00|GRN|C|Goblin Electromancer
+00|00|00|00|00|GRN|C|Goblin Locksmith
+00|00|00|00|00|GRN|U|Golgari Findbroker
+00|00|00|00|00|GRN|C|Golgari Guildgate
+00|00|00|00|00|GRN|C|Golgari Guildgate
+00|00|00|00|00|GRN|C|Golgari Locket
+00|00|00|00|00|GRN|U|Golgari Raiders
+00|00|00|00|00|GRN|U|Grappling Sundew
+00|00|00|00|00|GRN|C|Gravitic Punch
+00|00|00|00|00|GRN|R|Gruesome Menagerie
+00|00|00|00|00|GRN|U|Guild Summit
+00|00|00|00|00|GRN|R|Guildmages' Forum
+00|00|00|00|00|GRN|U|Haazda Marshal
+00|00|00|00|00|GRN|C|Hammer Dropper
+00|00|00|00|00|GRN|R|Hatchery Spider
+00|00|00|00|00|GRN|C|Healer's Hawk
+00|00|00|00|00|GRN|U|Hellkite Whelp
+00|00|00|00|00|GRN|C|Hired Poisoner
+00|00|00|00|00|GRN|C|Hitchclaw Recluse
+00|00|00|00|00|GRN|U|House Guildmage
+00|00|00|00|00|GRN|C|Hunted Witness
+00|00|00|00|00|GRN|C|Hypothesizzle
+00|00|00|00|00|GRN|M|Impervious Greatwurm
+00|00|00|00|00|GRN|U|Inescapable Blaze
+00|00|00|00|00|GRN|U|Inspiring Unicorn
+00|00|00|00|00|GRN|U|Integrity
+00|00|00|00|00|GRN|U|Intervention
+00|00|00|00|00|GRN|C|Intrusive Packbeast
+00|00|00|00|00|GRN|U|Invent
+00|00|00|00|00|GRN|U|Invert
+00|00|00|00|00|GRN|R|Ionize
+00|00|00|00|00|GRN|C|Ironshell Beetle
+00|00|00|00|00|GRN|L|Island
+00|00|00|00|00|GRN|R|Izoni, Thousand-Eyed
+00|00|00|00|00|GRN|C|Izzet Guildgate
+00|00|00|00|00|GRN|C|Izzet Guildgate
+00|00|00|00|00|GRN|C|Izzet Locket
+00|00|00|00|00|GRN|U|Join Shields
+00|00|00|00|00|GRN|U|Justice Strike
+00|00|00|00|00|GRN|R|Knight of Autumn
+00|00|00|00|00|GRN|C|Kraul Foragers
+00|00|00|00|00|GRN|U|Kraul Harpooner
+00|00|00|00|00|GRN|C|Kraul Raider
+00|00|00|00|00|GRN|U|Kraul Swarm
+00|00|00|00|00|GRN|U|Lava Coil
+00|00|00|00|00|GRN|M|Lazav, the Multifarious
+00|00|00|00|00|GRN|U|League Guildmage
+00|00|00|00|00|GRN|C|Leapfrog
+00|00|00|00|00|GRN|U|Ledev Champion
+00|00|00|00|00|GRN|C|Ledev Guardian
+00|00|00|00|00|GRN|U|Legion Guildmage
+00|00|00|00|00|GRN|R|Legion Warboss
+00|00|00|00|00|GRN|R|Light of the Legion
+00|00|00|00|00|GRN|U|Lotleth Giant
+00|00|00|00|00|GRN|C|Loxodon Restorer
+00|00|00|00|00|GRN|C|Luminous Bonds
+00|00|00|00|00|GRN|C|Maniacal Rage
+00|00|00|00|00|GRN|M|March of the Multitudes
+00|00|00|00|00|GRN|R|Mausoleum Secrets
+00|00|00|00|00|GRN|C|Maximize Altitude
+00|00|00|00|00|GRN|C|Maximize Velocity
+00|00|00|00|00|GRN|C|Mephitic Vapors
+00|00|00|00|00|GRN|R|Midnight Reaper
+00|00|00|00|00|GRN|U|Might of the Masses
+00|00|00|00|00|GRN|R|Mission Briefing
+00|00|00|00|00|GRN|M|Mnemonic Betrayal
+00|00|00|00|00|GRN|U|Molderhulk
+00|00|00|00|00|GRN|C|Moodmark Painter
+00|00|00|00|00|GRN|L|Mountain
+00|00|00|00|00|GRN|U|Murmuring Mystic
+00|00|00|00|00|GRN|C|Muse Drake
+00|00|00|00|00|GRN|R|Narcomoeba
+00|00|00|00|00|GRN|U|Necrotic Wound
+00|00|00|00|00|GRN|C|Never Happened
+00|00|00|00|00|GRN|U|Nightveil Predator
+00|00|00|00|00|GRN|U|Nightveil Sprite
+00|00|00|00|00|GRN|R|Niv-Mizzet, Parun
+00|00|00|00|00|GRN|C|Notion Rain
+00|00|00|00|00|GRN|M|Nullhide Ferox
+00|00|00|00|00|GRN|U|Ochran Assassin
+00|00|00|00|00|GRN|R|Omnispell Adept
+00|00|00|00|00|GRN|C|Ornery Goblin
+00|00|00|00|00|GRN|R|Overgrown Tomb
+00|00|00|00|00|GRN|C|Pack's Favor
+00|00|00|00|00|GRN|C|Parhelion Patrol
+00|00|00|00|00|GRN|C|Passwall Adept
+00|00|00|00|00|GRN|C|Pause for Reflection
+00|00|00|00|00|GRN|R|Pelt Collector
+00|00|00|00|00|GRN|U|Pilfering Imp
+00|00|00|00|00|GRN|C|Piston-Fist Cyclops
+00|00|00|00|00|GRN|C|Pitiless Gorgon
+00|00|00|00|00|GRN|U|Plaguecrafter
+00|00|00|00|00|GRN|L|Plains
+00|00|00|00|00|GRN|C|Portcullis Vine
+00|00|00|00|00|GRN|C|Precision Bolt
+00|00|00|00|00|GRN|C|Prey Upon
+00|00|00|00|00|GRN|U|Price of Fame
+00|00|00|00|00|GRN|R|Quasiduplicate
+00|00|00|00|00|GRN|C|Radical Idea
+00|00|00|00|00|GRN|M|Ral, Caller of Storms
+00|00|00|00|00|GRN|M|Ral, Izzet Viceroy
+00|00|00|00|00|GRN|R|Ral's Dispersal
+00|00|00|00|00|GRN|U|Ral's Staticaster
+00|00|00|00|00|GRN|U|Rampaging Monument
+00|00|00|00|00|GRN|R|Response
+00|00|00|00|00|GRN|R|Resurgence
+00|00|00|00|00|GRN|C|Rhizome Lurcher
+00|00|00|00|00|GRN|C|Righteous Blow
+00|00|00|00|00|GRN|R|Risk Factor
+00|00|00|00|00|GRN|R|Ritual of Soot
+00|00|00|00|00|GRN|U|Roc Charger
+00|00|00|00|00|GRN|C|Rosemane Centaur
+00|00|00|00|00|GRN|C|Rubblebelt Boar
+00|00|00|00|00|GRN|R|Runaway Steam-Kin
+00|00|00|00|00|GRN|R|Sacred Foundry
+00|00|00|00|00|GRN|U|Selective Snare
+00|00|00|00|00|GRN|C|Selesnya Guildgate
+00|00|00|00|00|GRN|C|Selesnya Guildgate
+00|00|00|00|00|GRN|C|Selesnya Locket
+00|00|00|00|00|GRN|C|Severed Strands
+00|00|00|00|00|GRN|C|Siege Wurm
+00|00|00|00|00|GRN|U|Silent Dart
+00|00|00|00|00|GRN|U|Sinister Sabotage
+00|00|00|00|00|GRN|C|Skyknight Legionnaire
+00|00|00|00|00|GRN|C|Skyline Scout
+00|00|00|00|00|GRN|U|Smelt-Ward Minotaur
+00|00|00|00|00|GRN|C|Sonic Assault
+00|00|00|00|00|GRN|C|Spinal Centipede
+00|00|00|00|00|GRN|U|Sprouting Renewal
+00|00|00|00|00|GRN|U|Statue
+00|00|00|00|00|GRN|U|Status
+00|00|00|00|00|GRN|R|Steam Vents
+00|00|00|00|00|GRN|U|Street Riot
+00|00|00|00|00|GRN|C|Sumala Woodshaper
+00|00|00|00|00|GRN|U|Sunhome Stalwart
+00|00|00|00|00|GRN|C|Sure Strike
+00|00|00|00|00|GRN|L|Swamp
+00|00|00|00|00|GRN|U|Swarm Guildmage
+00|00|00|00|00|GRN|U|Swathcutter Giant
+00|00|00|00|00|GRN|R|Swiftblade Vindicator
+00|00|00|00|00|GRN|C|Sworn Companions
+00|00|00|00|00|GRN|R|Tajic, Legion's Edge
+00|00|00|00|00|GRN|C|Take Heart
+00|00|00|00|00|GRN|R|Temple Garden
+00|00|00|00|00|GRN|C|Tenth District Guard
+00|00|00|00|00|GRN|R|Thief of Sanity
+00|00|00|00|00|GRN|U|Thought Erasure
+00|00|00|00|00|GRN|U|Thoughtbound Phantasm
+00|00|00|00|00|GRN|M|Thousand-Year Storm
+00|00|00|00|00|GRN|C|Torch Courier
+00|00|00|00|00|GRN|M|Trostani Discordant
+00|00|00|00|00|GRN|U|Truefire Captain
+00|00|00|00|00|GRN|U|Undercity Necrolisk
+00|00|00|00|00|GRN|C|Undercity Uprising
+00|00|00|00|00|GRN|M|Underrealm Lich
+00|00|00|00|00|GRN|C|Unexplained Disappearance
+00|00|00|00|00|GRN|R|Unmoored Ego
+00|00|00|00|00|GRN|C|Urban Utopia
+00|00|00|00|00|GRN|C|Vedalken Mesmerist
+00|00|00|00|00|GRN|C|Veiled Shade
+00|00|00|00|00|GRN|R|Venerated Loxodon
+00|00|00|00|00|GRN|C|Vernadi Shieldmate
+00|00|00|00|00|GRN|C|Vicious Rumors
+00|00|00|00|00|GRN|C|Vigorspore Wurm
+00|00|00|00|00|GRN|R|Vivid Revival
+00|00|00|00|00|GRN|M|Vraska, Golgari Queen
+00|00|00|00|00|GRN|M|Vraska, Regal Gorgon
+00|00|00|00|00|GRN|R|Vraska's Stoneglare
+00|00|00|00|00|GRN|C|Wall of Mist
+00|00|00|00|00|GRN|U|Wand of Vertebrae
+00|00|00|00|00|GRN|C|Wary Okapi
+00|00|00|00|00|GRN|C|Watcher in the Mist
+00|00|00|00|00|GRN|R|Watery Grave
+00|00|00|00|00|GRN|U|Wee Dragonauts
+00|00|00|00|00|GRN|C|Whisper Agent
+00|00|00|00|00|GRN|U|Whispering Snitch
+00|00|00|00|00|GRN|C|Wild Ceratok
+00|00|00|00|00|GRN|C|Wishcoin Crab
+00|00|00|00|00|GRN|C|Wojek Bodyguard
+00|00|00|00|00|GRN|U|Worldsoul Colossus
+00|00|00|00|00|GS1|C|Aggressive Instinct
+00|00|00|00|00|GS1|R|Ancestor Dragon
+00|00|00|00|00|GS1|C|Armored Whirl Turtle
+00|00|00|00|00|GS1|C|Breath of Fire
+00|00|00|00|00|GS1|U|Brilliant Plan
+00|00|00|00|00|GS1|C|Cleansing Screech
+00|00|00|00|00|GS1|C|Cloak of Mists
+00|00|00|00|00|GS1|C|Colorful Feiyi Sparrow
+00|00|00|00|00|GS1|C|Confidence from Strength
+00|00|00|00|00|GS1|C|Dragon's Presence
+00|00|00|00|00|GS1|C|Drown in Shapelessness
+00|00|00|00|00|GS1|C|Earth-Origin Yak
+00|00|00|00|00|GS1|C|Earthshaking Si
+00|00|00|00|00|GS1|C|Feiyi Snake
+00|00|00|00|00|GS1|C|Ferocious Zheng
+00|00|00|00|00|GS1|U|Fire-Omen Crane
+00|00|00|00|00|GS1|L|Forest
+00|00|00|00|00|GS1|C|Giant Spider
+00|00|00|00|00|GS1|C|Hardened-Scale Armor
+00|00|00|00|00|GS1|C|Heavenly Qilin
+00|00|00|00|00|GS1|L|Island
+00|00|00|00|00|GS1|M|Jiang Yanggu
+00|00|00|00|00|GS1|R|Journey for the Elixir
+00|00|00|00|00|GS1|C|Leopard-Spotted Jiao
+00|00|00|00|00|GS1|C|Meandering River
+00|00|00|00|00|GS1|U|Moon-Eating Dog
+00|00|00|00|00|GS1|L|Mountain
+00|00|00|00|00|GS1|M|Mu Yanling
+00|00|00|00|00|GS1|C|Nine-Tail White Fox
+00|00|00|00|00|GS1|L|Plains
+00|00|00|00|00|GS1|C|Purple-Crystal Crab
+00|00|00|00|00|GS1|C|Qilin's Blessing
+00|00|00|00|00|GS1|C|Reckless Pangolin
+00|00|00|00|00|GS1|R|Rhythmic Water Vortex
+00|00|00|00|00|GS1|U|Sacred White Deer
+00|00|00|00|00|GS1|R|Screeching Phoenix
+00|00|00|00|00|GS1|U|Stormcloud Spirit
+00|00|00|00|00|GS1|C|Timber Gorge
+00|00|00|00|00|GS1|C|Vivid Flying Fish
+00|00|00|00|00|GS1|C|Welkin Tern
+00|00|00|00|00|M19|C|Abnormal Endurance
+00|00|00|00|00|M19|C|Act of Treason
+00|00|00|00|00|M19|U|Aegis of the Heavens
+00|00|00|00|00|M19|U|Aerial Engineer
+00|00|00|00|00|M19|U|AEther Tunnel
+00|00|00|00|00|M19|U|AEthershield Artificer
+00|00|00|00|00|M19|R|Aggressive Mammoth
+00|00|00|00|00|M19|U|Air Elemental
+00|00|00|00|00|M19|M|Ajani, Adversary of Tyrants
+00|00|00|00|00|M19|M|Ajani, Wise Counselor
+00|00|00|00|00|M19|R|Ajani's Influence
+00|00|00|00|00|M19|R|Ajani's Last Stand
+00|00|00|00|00|M19|U|Ajani's Pridemate
+00|00|00|00|00|M19|U|Ajani's Welcome
+00|00|00|00|00|M19|R|Alpine Moon
+00|00|00|00|00|M19|R|Amulet of Safekeeping
+00|00|00|00|00|M19|C|Angel of the Dawn
+00|00|00|00|00|M19|C|Anticipate
+00|00|00|00|00|M19|M|Apex of Power
+00|00|00|00|00|M19|M|Arcades, the Strategist
+00|00|00|00|00|M19|U|Arcane Encyclopedia
+00|00|00|00|00|M19|U|Arisen Gorgon
+00|00|00|00|00|M19|C|Aven Wind Mage
+00|00|00|00|00|M19|C|Aviation Pioneer
+00|00|00|00|00|M19|R|Banefire
+00|00|00|00|00|M19|C|Befuddle
+00|00|00|00|00|M19|U|Blanchwood Armor
+00|00|00|00|00|M19|U|Blood Divination
+00|00|00|00|00|M19|C|Boggart Brute
+00|00|00|00|00|M19|C|Bogstomper
+00|00|00|00|00|M19|M|Bone Dragon
+00|00|00|00|00|M19|U|Bone to Ash
+00|00|00|00|00|M19|U|Brawl-Bash Ogre
+00|00|00|00|00|M19|C|Bristling Boar
+00|00|00|00|00|M19|C|Cancel
+00|00|00|00|00|M19|C|Catalyst Elemental
+00|00|00|00|00|M19|C|Cavalry Drillmaster
+00|00|00|00|00|M19|C|Centaur Courser
+00|00|00|00|00|M19|R|Chaos Wand
+00|00|00|00|00|M19|C|Child of Night
+00|00|00|00|00|M19|M|Chromium, the Mutable
+00|00|00|00|00|M19|C|Cinder Barrens
+00|00|00|00|00|M19|R|Cleansing Nova
+00|00|00|00|00|M19|C|Colossal Dreadmaw
+00|00|00|00|00|M19|U|Colossal Majesty
+00|00|00|00|00|M19|U|Court Cleric
+00|00|00|00|00|M19|C|Crash Through
+00|00|00|00|00|M19|M|Crucible of Worlds
+00|00|00|00|00|M19|C|Daggerback Basilisk
+00|00|00|00|00|M19|R|Dark-Dweller Oracle
+00|00|00|00|00|M19|C|Daybreak Chaplain
+00|00|00|00|00|M19|R|Death Baron
+00|00|00|00|00|M19|U|Declare Dominance
+00|00|00|00|00|M19|R|Demanding Dragon
+00|00|00|00|00|M19|R|Demon of Catastrophes
+00|00|00|00|00|M19|U|Departed Deckhand
+00|00|00|00|00|M19|R|Desecrated Tomb
+00|00|00|00|00|M19|R|Detection Tower
+00|00|00|00|00|M19|U|Diamond Mare
+00|00|00|00|00|M19|U|Diregraf Ghoul
+00|00|00|00|00|M19|R|Dismissive Pyromancer
+00|00|00|00|00|M19|C|Disperse
+00|00|00|00|00|M19|C|Divination
+00|00|00|00|00|M19|R|Djinn of Wishes
+00|00|00|00|00|M19|C|Doomed Dissenter
+00|00|00|00|00|M19|U|Doublecast
+00|00|00|00|00|M19|U|Draconic Disciple
+00|00|00|00|00|M19|U|Dragon Egg
+00|00|00|00|00|M19|R|Dragon's Hoard
+00|00|00|00|00|M19|U|Druid of Horns
+00|00|00|00|00|M19|C|Druid of the Cowl
+00|00|00|00|00|M19|U|Dryad Greenseeker
+00|00|00|00|00|M19|C|Duress
+00|00|00|00|00|M19|C|Dwarven Priest
+00|00|00|00|00|M19|C|Dwindle
+00|00|00|00|00|M19|C|Electrify
+00|00|00|00|00|M19|R|Elvish Clancaller
+00|00|00|00|00|M19|C|Elvish Rejuvenator
+00|00|00|00|00|M19|U|Enigma Drake
+00|00|00|00|00|M19|C|Epicure of Blood
+00|00|00|00|00|M19|C|Essence Scatter
+00|00|00|00|00|M19|U|Exclusion Mage
+00|00|00|00|00|M19|C|Explosive Apparatus
+00|00|00|00|00|M19|U|Fell Specter
+00|00|00|00|00|M19|C|Field Creeper
+00|00|00|00|00|M19|U|Fiery Finish
+00|00|00|00|00|M19|C|Fire Elemental
+00|00|00|00|00|M19|L|Forest
+00|00|00|00|00|M19|L|Forest
+00|00|00|00|00|M19|L|Forest
+00|00|00|00|00|M19|L|Forest
+00|00|00|00|00|M19|C|Forsaken Sanctuary
+00|00|00|00|00|M19|C|Foul Orchard
+00|00|00|00|00|M19|U|Fountain of Renewal
+00|00|00|00|00|M19|R|Fraying Omnipotence
+00|00|00|00|00|M19|C|Frilled Sea Serpent
+00|00|00|00|00|M19|C|Gallant Cavalry
+00|00|00|00|00|M19|U|Gargoyle Sentinel
+00|00|00|00|00|M19|C|Gearsmith Guardian
+00|00|00|00|00|M19|C|Gearsmith Prodigy
+00|00|00|00|00|M19|U|Ghastbark Twins
+00|00|00|00|00|M19|U|Ghirapur Guide
+00|00|00|00|00|M19|C|Ghostform
+00|00|00|00|00|M19|C|Giant Spider
+00|00|00|00|00|M19|U|Gift of Paradise
+00|00|00|00|00|M19|R|Gigantosaurus
+00|00|00|00|00|M19|C|Goblin Instigator
+00|00|00|00|00|M19|C|Goblin Motivator
+00|00|00|00|00|M19|R|Goblin Trashmaster
+00|00|00|00|00|M19|R|Goreclaw, Terror of Qal Sisma
+00|00|00|00|00|M19|C|Grasping Scoundrel
+00|00|00|00|00|M19|U|Gravedigger
+00|00|00|00|00|M19|R|Gravewaker
+00|00|00|00|00|M19|R|Graveyard Marshal
+00|00|00|00|00|M19|C|Greenwood Sentinel
+00|00|00|00|00|M19|U|Guttersnipe
+00|00|00|00|00|M19|C|Havoc Devils
+00|00|00|00|00|M19|U|Herald of Faith
+00|00|00|00|00|M19|U|Heroic Reinforcements
+00|00|00|00|00|M19|U|Hieromancer's Cage
+00|00|00|00|00|M19|C|Highland Game
+00|00|00|00|00|M19|C|Highland Lake
+00|00|00|00|00|M19|C|Hired Blade
+00|00|00|00|00|M19|U|Horizon Scholar
+00|00|00|00|00|M19|C|Hostile Minotaur
+00|00|00|00|00|M19|R|Hungering Hydra
+00|00|00|00|00|M19|C|Infectious Horror
+00|00|00|00|00|M19|R|Infernal Reckoning
+00|00|00|00|00|M19|C|Infernal Scarring
+00|00|00|00|00|M19|U|Inferno Hellion
+00|00|00|00|00|M19|C|Inspired Charge
+00|00|00|00|00|M19|C|Invoke the Divine
+00|00|00|00|00|M19|R|Isareth the Awakener
+00|00|00|00|00|M19|L|Island
+00|00|00|00|00|M19|L|Island
+00|00|00|00|00|M19|L|Island
+00|00|00|00|00|M19|L|Island
+00|00|00|00|00|M19|R|Isolate
+00|00|00|00|00|M19|C|Kargan Dragonrider
+00|00|00|00|00|M19|C|Knight of the Tusk
+00|00|00|00|00|M19|U|Knightly Valor
+00|00|00|00|00|M19|C|Knight's Pledge
+00|00|00|00|00|M19|R|Lathliss, Dragon Queen
+00|00|00|00|00|M19|C|Lava Axe
+00|00|00|00|00|M19|R|Lena, Selfless Champion
+00|00|00|00|00|M19|U|Leonin Vanguard
+00|00|00|00|00|M19|R|Leonin Warleader
+00|00|00|00|00|M19|C|Lich's Caress
+00|00|00|00|00|M19|U|Lightning Mare
+00|00|00|00|00|M19|U|Lightning Strike
+00|00|00|00|00|M19|M|Liliana, the Necromancer
+00|00|00|00|00|M19|M|Liliana, Untouched by Death
+00|00|00|00|00|M19|R|Liliana's Contract
+00|00|00|00|00|M19|R|Liliana's Spoils
+00|00|00|00|00|M19|C|Llanowar Elves
+00|00|00|00|00|M19|C|Loxodon Line Breaker
+00|00|00|00|00|M19|C|Luminous Bonds
+00|00|00|00|00|M19|C|Macabre Waltz
+00|00|00|00|00|M19|R|Magistrate's Scepter
+00|00|00|00|00|M19|U|Make a Stand
+00|00|00|00|00|M19|C|Manalith
+00|00|00|00|00|M19|C|Marauder's Axe
+00|00|00|00|00|M19|C|Meandering River
+00|00|00|00|00|M19|R|Mentor of the Meek
+00|00|00|00|00|M19|R|Metamorphic Alteration
+00|00|00|00|00|M19|U|Meteor Golem
+00|00|00|00|00|M19|C|Mighty Leap
+00|00|00|00|00|M19|U|Militia Bugler
+00|00|00|00|00|M19|U|Millstone
+00|00|00|00|00|M19|C|Mind Rot
+00|00|00|00|00|M19|U|Mirror Image
+00|00|00|00|00|M19|R|Mistcaller
+00|00|00|00|00|M19|C|Mist-Cloaked Herald
+00|00|00|00|00|M19|L|Mountain
+00|00|00|00|00|M19|L|Mountain
+00|00|00|00|00|M19|L|Mountain
+00|00|00|00|00|M19|L|Mountain
+00|00|00|00|00|M19|U|Murder
+00|00|00|00|00|M19|R|Mystic Archaeologist
+00|00|00|00|00|M19|C|Naturalize
+00|00|00|00|00|M19|M|Nexus of Fate
+00|00|00|00|00|M19|M|Nicol Bolas, the Arisen
+00|00|00|00|00|M19|M|Nicol Bolas, the Ravager
+00|00|00|00|00|M19|U|Nightmare's Thirst
+00|00|00|00|00|M19|U|Novice Knight
+00|00|00|00|00|M19|C|Oakenform
+00|00|00|00|00|M19|C|Omenspeaker
+00|00|00|00|00|M19|M|Omniscience
+00|00|00|00|00|M19|C|Onakke Ogre
+00|00|00|00|00|M19|R|One with the Machine
+00|00|00|00|00|M19|R|Open the Graves
+00|00|00|00|00|M19|C|Oreskos Swiftclaw
+00|00|00|00|00|M19|M|Palladia-Mors, the Ruiner
+00|00|00|00|00|M19|R|Patient Rebuilding
+00|00|00|00|00|M19|C|Pegasus Courser
+00|00|00|00|00|M19|R|Pelakka Wurm
+00|00|00|00|00|M19|C|Pendulum of Patterns
+00|00|00|00|00|M19|R|Phylactery Lich
+00|00|00|00|00|M19|U|Plague Mare
+00|00|00|00|00|M19|L|Plains
+00|00|00|00|00|M19|L|Plains
+00|00|00|00|00|M19|L|Plains
+00|00|00|00|00|M19|L|Plains
+00|00|00|00|00|M19|C|Plummet
+00|00|00|00|00|M19|U|Poison-Tip Archer
+00|00|00|00|00|M19|R|Prodigious Growth
+00|00|00|00|00|M19|U|Psychic Corrosion
+00|00|00|00|00|M19|U|Psychic Symbiont
+00|00|00|00|00|M19|C|Rabid Bite
+00|00|00|00|00|M19|C|Radiating Lightning
+00|00|00|00|00|M19|U|Ravenous Harpy
+00|00|00|00|00|M19|U|Reassembling Skeleton
+00|00|00|00|00|M19|U|Reclamation Sage
+00|00|00|00|00|M19|U|Recollect
+00|00|00|00|00|M19|U|Regal Bloodlord
+00|00|00|00|00|M19|U|Reliquary Tower
+00|00|00|00|00|M19|R|Remorseful Cleric
+00|00|00|00|00|M19|M|Resplendent Angel
+00|00|00|00|00|M19|C|Revitalize
+00|00|00|00|00|M19|C|Rhox Oracle
+00|00|00|00|00|M19|R|Riddlemaster Sphinx
+00|00|00|00|00|M19|U|Rise from the Grave
+00|00|00|00|00|M19|U|Rogue's Gloves
+00|00|00|00|00|M19|C|Root Snare
+00|00|00|00|00|M19|R|Runic Armasaur
+00|00|00|00|00|M19|U|Rupture Spire
+00|00|00|00|00|M19|C|Rustwing Falcon
+00|00|00|00|00|M19|R|Sai, Master Thopterist
+00|00|00|00|00|M19|C|Salvager of Secrets
+00|00|00|00|00|M19|M|Sarkhan, Dragonsoul
+00|00|00|00|00|M19|M|Sarkhan, Fireblood
+00|00|00|00|00|M19|R|Sarkhan's Dragonfire
+00|00|00|00|00|M19|R|Sarkhan's Unsealing
+00|00|00|00|00|M19|U|Sarkhan's Whelp
+00|00|00|00|00|M19|U|Satyr Enchanter
+00|00|00|00|00|M19|M|Scapeshift
+00|00|00|00|00|M19|C|Scholar of Stars
+00|00|00|00|00|M19|R|Serra's Guardian
+00|00|00|00|00|M19|U|Shield Mare
+00|00|00|00|00|M19|R|Shivan Dragon
+00|00|00|00|00|M19|C|Shock
+00|00|00|00|00|M19|U|Siegebreaker Giant
+00|00|00|00|00|M19|U|Sift
+00|00|00|00|00|M19|R|Sigiled Sword of Valeron
+00|00|00|00|00|M19|C|Silverbeak Griffin
+00|00|00|00|00|M19|R|Skalla Wolf
+00|00|00|00|00|M19|C|Skeleton Archer
+00|00|00|00|00|M19|U|Skilled Animator
+00|00|00|00|00|M19|C|Skymarch Bloodletter
+00|00|00|00|00|M19|U|Skyrider Patrol
+00|00|00|00|00|M19|C|Skyscanner
+00|00|00|00|00|M19|U|Sleep
+00|00|00|00|00|M19|C|Smelt
+00|00|00|00|00|M19|C|Snapping Drake
+00|00|00|00|00|M19|C|Sovereign's Bite
+00|00|00|00|00|M19|C|Sparktongue Dragon
+00|00|00|00|00|M19|R|Spit Flame
+00|00|00|00|00|M19|C|Star-Crowned Stag
+00|00|00|00|00|M19|U|Stitcher's Supplier
+00|00|00|00|00|M19|C|Stone Quarry
+00|00|00|00|00|M19|C|Strangling Spores
+00|00|00|00|00|M19|C|Submerged Boneyard
+00|00|00|00|00|M19|C|Sun Sentinel
+00|00|00|00|00|M19|R|Suncleanser
+00|00|00|00|00|M19|R|Supreme Phantom
+00|00|00|00|00|M19|C|Sure Strike
+00|00|00|00|00|M19|U|Surge Mare
+00|00|00|00|00|M19|U|Suspicious Bookcase
+00|00|00|00|00|M19|L|Swamp
+00|00|00|00|00|M19|L|Swamp
+00|00|00|00|00|M19|L|Swamp
+00|00|00|00|00|M19|L|Swamp
+00|00|00|00|00|M19|U|Switcheroo
+00|00|00|00|00|M19|C|Take Vengeance
+00|00|00|00|00|M19|C|Talons of Wildwood
+00|00|00|00|00|M19|C|Tattered Mummy
+00|00|00|00|00|M19|U|Tectonic Rift
+00|00|00|00|00|M19|M|Tezzeret, Artifice Master
+00|00|00|00|00|M19|M|Tezzeret, Cruel Machinist
+00|00|00|00|00|M19|R|Tezzeret's Gatebreaker
+00|00|00|00|00|M19|U|Tezzeret's Strider
+00|00|00|00|00|M19|R|Thorn Lieutenant
+00|00|00|00|00|M19|C|Thornhide Wolves
+00|00|00|00|00|M19|U|Thud
+00|00|00|00|00|M19|C|Timber Gorge
+00|00|00|00|00|M19|C|Titanic Growth
+00|00|00|00|00|M19|C|Tolarian Scholar
+00|00|00|00|00|M19|C|Tormenting Voice
+00|00|00|00|00|M19|C|Totally Lost
+00|00|00|00|00|M19|C|Tranquil Expanse
+00|00|00|00|00|M19|R|Transmogrifying Wand
+00|00|00|00|00|M19|C|Trumpet Blast
+00|00|00|00|00|M19|C|Trusty Packbeast
+00|00|00|00|00|M19|C|Two-Headed Zombie
+00|00|00|00|00|M19|C|Uncomfortable Chill
+00|00|00|00|00|M19|C|Ursine Champion
+00|00|00|00|00|M19|M|Vaevictis Asmadi, the Dire
+00|00|00|00|00|M19|R|Valiant Knight
+00|00|00|00|00|M19|C|Vampire Neonate
+00|00|00|00|00|M19|U|Vampire Sovereign
+00|00|00|00|00|M19|C|Viashino Pyromancer
+00|00|00|00|00|M19|U|Vigilant Baloth
+00|00|00|00|00|M19|U|Vine Mare
+00|00|00|00|00|M19|M|Vivien of the Arkbow
+00|00|00|00|00|M19|M|Vivien Reid
+00|00|00|00|00|M19|R|Vivien's Invocation
+00|00|00|00|00|M19|U|Vivien's Jaguar
+00|00|00|00|00|M19|U|Volcanic Dragon
+00|00|00|00|00|M19|U|Volley Veteran
+00|00|00|00|00|M19|C|Walking Corpse
+00|00|00|00|00|M19|C|Wall of Mist
+00|00|00|00|00|M19|C|Wall of Vines
+00|00|00|00|00|M19|C|Waterknot
+00|00|00|00|00|M19|R|Windreader Sphinx
+00|00|00|00|00|M19|C|Woodland Stream
+00|00|00|00|00|M19|R|Blue Elemental Blast
+00|00|00|00|00|M19|R|Brainstorm
+00|00|00|00|00|M19|R|Counterspell
+00|00|00|00|00|M19|R|Gifts Ungiven
+00|00|00|00|00|M19|M|Jace Beleren
+00|00|00|00|00|M19|R|Mystical Tutor
+00|00|00|00|00|M19|R|Negate
+00|00|00|00|00|M19|R|Threads of Disloyalty

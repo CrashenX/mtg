@@ -91,11 +91,20 @@ my %sets = ( "LEA" => { order => 199308,
            , "M15" => { order => 201407,
                         name => 'Magic 2015 Core Set'
                       }
+           , "M19" => { order => 201807,
+                        name => 'Magic 2018 Core Set'
+                      }
            , "CMD" => { order => 201106,
                         name => 'Commander'
                       }
-           , "CMA" => { order => 201211,
+           , "CMA" => { order => 201709,
+                        name => 'Commander Anthology'
+                      }
+           , "CM1" => { order => 201211,
                         name => 'Commander\'s Arsenal'
+                      }
+           , "CM2" => { order => 201806,
+                        name => 'Commander Anthology Volume II'
                       }
            , "C13" => { order => 201311,
                         name => 'Commander 2013'
@@ -111,6 +120,9 @@ my %sets = ( "LEA" => { order => 199308,
                       }
            , "C17" => { order => 201708,
                         name => 'Commander 2017'
+                      }
+           , "C18" => { order => 201808,
+                        name => 'Commander 2018'
                       }
            , "MMA" => { order => 201306,
                         name => 'Modern Masters'
@@ -498,6 +510,24 @@ my %sets = ( "LEA" => { order => 199308,
                       }
            , "RIX" => { order => 201801,
                         name => 'Rivals of Ixalan'
+                      }
+           , "DDU" => { order => 201804,
+                        name => 'Duel Decks: Elves vs. Inventors'
+                      }
+           , "DOM" => { order => 201804,
+                        name => 'Dominaria'
+                      }
+           , "GS1" => { order => 201806,
+                        name => 'Global Series: Jiang Yanggu & Mu Yanling'
+                      }
+           , "BBD" => { order => 201806,
+                        name => 'Battlebond'
+                      }
+           , "SS1" => { order => 201806,
+                        name => 'Signature Spellbook: Jace'
+                      }
+           , "GRN" => { order => 201809,
+                        name => 'Guilds of Ravinica'
                       }
            );
 
