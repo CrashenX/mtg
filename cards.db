@@ -1741,7 +1741,7 @@
 00|00|00|00|00|A25|R|Azusa, Lost but Seeking
 01|00|00|00|00|ISD|R|Back from the Brink
 00|00|00|00|00|USG|R|Back to Basics
-00|00|00|00|00|UMA|R|Back to Basics
+02|00|00|00|00|UMA|R|Back to Basics
 00|00|00|00|00|M11|U|Back to Nature
 00|00|00|00|00|M15|U|Back to Nature
 00|00|00|00|00|LEG|U|Backdraft
@@ -3881,7 +3881,7 @@
 00|00|00|00|00|THS|R|Celestial Archon
 00|00|00|00|00|C18|R|Celestial Archon
 03|00|00|00|00|WWK|R|Celestial Colonnade
-00|00|00|00|00|UMA|R|Celestial Colonnade
+04|00|00|00|00|UMA|R|Celestial Colonnade
 00|00|00|00|00|PCY|R|Celestial Convergence
 01|00|00|00|00|C14|U|Celestial Crusader
 00|00|00|00|00|DDF|U|Celestial Crusader
@@ -10112,7 +10112,7 @@
 00|00|00|00|00|CHR|R|Gabriel Angelfire
 00|00|00|00|00|LEG|R|Gabriel Angelfire
 01|00|00|00|00|LRW|R|Gaddock Teeg
-00|00|00|00|00|UMA|R|Gaddock Teeg
+02|00|00|00|00|UMA|R|Gaddock Teeg
 00|00|00|00|00|MM3|U|Gaea's Anthem
 00|00|00|00|00|PLC|R|Gaea's Anthem
 00|00|00|00|00|ATQ|R|Gaea's Avenger
@@ -15031,7 +15031,7 @@
 00|00|00|00|00|GS1|C|Leopard-Spotted Jiao
 00|00|00|00|00|CN2|C|Leovold's Operative
 00|00|00|00|00|CN2|M|Leovold, Emissary of Trest
-00|00|00|00|00|UMA|M|Leovold, Emissary of Trest
+03|00|00|00|00|UMA|M|Leovold, Emissary of Trest
 00|00|00|00|00|5ED|U|Leshrac's Rite
 00|00|00|00|00|6ED|U|Leshrac's Rite
 00|00|00|00|00|7ED|U|Leshrac's Rite
@@ -20882,7 +20882,7 @@
 00|00|00|00|00|MMQ|C|Rampart Crawler
 00|00|00|00|00|ORI|U|Ramroller
 00|00|00|00|00|LEG|R|Ramses Overdark
-00|00|00|00|00|HOU|R|Ramunap Excavator
+01|00|00|00|00|HOU|R|Ramunap Excavator
 00|00|00|00|00|HOU|R|Ramunap Hydra
 00|00|00|00|00|HOU|U|Ramunap Ruins
 00|00|00|00|00|TOR|C|Rancid Earth
@@ -27113,7 +27113,7 @@
 00|00|00|00|00|ICE|U|Thermokarst
 00|00|00|00|00|CSP|C|Thermopod
 00|00|00|00|00|GTC|R|Thespian's Stage
-00|00|00|00|00|UMA|R|Thespian's Stage
+04|00|00|00|00|UMA|R|Thespian's Stage
 00|00|00|00|00|TSP|U|Thick-Skinned Goblin
 00|00|00|00|00|2ED|U|Thicket Basilisk
 00|00|00|00|00|3ED|U|Thicket Basilisk
@@ -30093,7 +30093,7 @@
 00|00|00|00|00|C18|R|Whiptongue Hydra
 00|00|00|00|00|AER|R|Whir of Invention
 00|00|00|00|00|ORI|U|Whirler Rogue
-00|00|00|00|00|C18|U|Whirler Rogue
+08|00|00|00|00|C18|U|Whirler Rogue
 00|00|00|00|00|DDU|U|Whirler Rogue
 00|00|00|00|00|KLD|U|Whirler Virtuoso
 00|00|00|00|00|KLD|U|Whirlermaker
