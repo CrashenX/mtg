@@ -62,7 +62,8 @@
 04|00|MMA|Ethersworn Canonist
 01|00|CNS|Exploration
 04|00|MMA|Faerie Macabre
-04|00|M11|Fauna Shaman
+02|00|M11|Fauna Shaman
+02|00|UMA|Fauna Shaman
 04|00|ISD|Fiend Hunter
 04|00|M14|Fiendslayer Paladin
 04|00|MMA|Figure of Destiny
@@ -127,7 +128,7 @@
 04|00|EMA|Natural Order
 04|00|MM2|Noble Hierarch
 04|00|M13|Oblivion Ring
-05|00|RTR|Overgrown Tomb
+04|00|GRN|Overgrown Tomb
 04|00|MMA|Paradise Mantle
 04|00|MMA|Path to Exile
 02|00|CNS|Pernicious Deed
@@ -148,7 +149,7 @@
 04|00|RTR|Rest in Peace
 04|00|MM3|Restoration Angel
 04|00|M13|Rootbound Crag
-04|00|GTC|Sacred Foundry
+04|00|GRN|Sacred Foundry
 04|00|3ED|Savannah
 04|00|MM3|Scalding Tarn
 04|00|M14|Scavenging Ooze
@@ -169,7 +170,7 @@
 04|00|NPH|Spellskite
 04|00|MMA|Spellstutter Sprite
 04|00|BNG|Spirit of the Labyrinth
-04|00|RTR|Steam Vents
+04|00|GRN|Steam Vents
 04|00|5DN|Steelshaper's Gift
 05|00|GTC|Stomping Ground
 04|00|WWK|Stoneforge Mystic
@@ -191,7 +192,7 @@
 04|00|3ED|Taiga
 04|00|MM3|Tarmogoyf
 08|00|WWK|Tectonic Edge
-04|00|RTR|Temple Garden
+04|00|GRN|Temple Garden
 04|00|DKA|Thalia, Guardian of Thraben
 04|00|MRD|Thoughtcast
 04|00|MMA|Tidehollow Sculler
@@ -209,7 +210,7 @@
 04|00|DGM|Voice of Resurgence
 04|00|3ED|Volcanic Island
 04|00|EMA|Wasteland
-05|00|GTC|Watery Grave
+04|00|GRN|Watery Grave
 04|00|MM2|Wilt-Leaf Liege
 99|00|KTK|Windswept Heath
 04|00|EMA|Wirewood Symbiote

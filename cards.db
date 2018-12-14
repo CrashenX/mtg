@@ -3964,7 +3964,7 @@
 02|00|00|00|00|SOM|R|Cerebral Eruption
 00|00|00|00|00|GPT|R|Cerebral Vortex
 00|00|00|00|00|MMQ|C|Ceremonial Guard
-00|00|00|00|00|KLD|U|Ceremonious Rejection
+03|00|00|00|00|KLD|U|Ceremonious Rejection
 00|00|00|00|00|ARB|C|Cerodon Yearling
 00|00|00|00|00|HOP|C|Cerodon Yearling
 00|00|00|00|00|EMN|C|Certain Death
@@ -8814,7 +8814,7 @@
 00|00|00|00|00|CMD|C|Faultgrinder
 00|00|00|00|00|LRW|C|Faultgrinder
 02|00|00|00|00|M11|R|Fauna Shaman
-00|00|00|00|00|UMA|R|Fauna Shaman
+02|00|00|00|00|UMA|R|Fauna Shaman
 00|00|00|00|00|LRW|R|Favor of the Mighty
 00|00|00|00|00|EVE|C|Favor of the Overbeing
 00|00|00|00|00|DKA|C|Favor of the Woods
@@ -16924,7 +16924,7 @@
 00|00|00|00|00|DIS|U|Mistral Charger
 01|01|00|00|00|EMA|C|Mistral Charger
 01|00|00|00|00|SHM|U|Mistveil Plains
-00|00|00|00|00|UMA|U|Mistveil Plains
+01|00|00|00|00|UMA|U|Mistveil Plains
 00|00|00|00|00|ARB|C|Mistvein Borderpost
 00|00|00|00|00|ARC|C|Mistvein Borderpost
 04|00|00|00|00|MM3|M|Misty Rainforest
@@ -17708,7 +17708,7 @@
 00|00|00|00|00|POR|U|Natural Spring
 00|00|00|00|00|S99|U|Natural Spring
 00|00|00|00|00|TMP|C|Natural Spring
-00|00|00|00|00|OGW|C|Natural State
+04|00|00|00|00|OGW|C|Natural State
 00|00|00|00|00|10E|C|Naturalize
 00|00|00|00|00|8ED|C|Naturalize
 00|00|00|00|00|9ED|C|Naturalize
@@ -25125,7 +25125,7 @@
 00|01|00|00|00|MBS|C|Spire Serpent
 00|00|00|00|00|GTC|C|Spire Tracer
 00|00|00|00|00|RIX|C|Spire Winder
-02|00|00|00|00|AER|R|Spire of Industry
+03|00|00|00|00|AER|R|Spire of Industry
 04|00|00|00|00|KLD|R|Spirebluff Canal
 00|00|00|00|00|XLN|R|Spires of Orazca
 00|00|00|00|00|KLD|C|Spireside Infiltrator
@@ -25647,7 +25647,7 @@
 00|00|00|00|00|TSP|R|Stonebrow, Krosan Hero
 00|00|00|00|00|C13|U|Stonecloaker
 00|00|00|00|00|PLC|U|Stonecloaker
-00|00|00|00|00|CMA|U|Stonecloaker
+03|00|00|00|00|CMA|U|Stonecloaker
 00|00|00|00|00|RTR|C|Stonefare Crocodile
 00|00|00|00|00|OGW|U|Stoneforge Acolyte
 00|00|00|00|00|OGW|R|Stoneforge Masterwork
