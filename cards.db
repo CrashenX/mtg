@@ -1389,7 +1389,7 @@
 00|00|00|00|00|POR|U|Assassin's Blade
 01|00|00|00|00|RTR|U|Assassin's Strike
 00|00|00|00|00|BBD|U|Assassin's Strike
-00|00|00|00|00|GRN|R|Assassin's Trophy
+04|00|00|00|00|GRN|R|Assassin's Trophy
 00|00|00|00|00|10E|C|Assassinate
 00|00|00|00|00|CNS|C|Assassinate
 00|00|00|00|00|M10|C|Assassinate
@@ -3079,7 +3079,7 @@
 00|00|00|00|00|M10|C|Bountiful Harvest
 00|00|00|00|00|M12|C|Bountiful Harvest
 00|00|00|00|00|M13|C|Bountiful Harvest
-00|00|00|00|00|BBD|R|Bountiful Promenade
+04|00|00|00|00|BBD|R|Bountiful Promenade
 00|00|00|00|00|GRN|R|Bounty Agent
 00|00|00|00|00|TMP|R|Bounty Hunter
 00|00|00|00|00|GRN|R|Bounty of Might
@@ -4780,7 +4780,7 @@
 00|00|00|00|00|PCA|U|Concentrate
 00|00|00|00|00|RAV|R|Concerted Effort
 00|00|00|00|00|FEM|R|Conch Horn
-00|00|00|00|00|GRN|U|Conclave Cavalier
+04|00|00|00|00|GRN|U|Conclave Cavalier
 00|00|00|00|00|DDF|C|Conclave Equenaut
 00|00|00|00|00|RAV|C|Conclave Equenaut
 00|00|00|00|00|GRN|U|Conclave Guildmage
@@ -14469,7 +14469,7 @@
 04|00|00|00|00|DDG|R|Knight Exemplar
 00|00|00|00|00|M11|R|Knight Exemplar
 00|00|00|00|00|GTC|C|Knight Watch
-00|00|00|00|00|GRN|R|Knight of Autumn
+06|00|00|00|00|GRN|R|Knight of Autumn
 02|00|00|00|00|DDG|C|Knight of Cliffhaven
 00|00|00|00|00|DDP|C|Knight of Cliffhaven
 00|00|00|00|00|ROE|C|Knight of Cliffhaven
@@ -15695,7 +15695,7 @@
 01|00|00|00|00|ROE|U|Lust for War
 00|00|00|00|00|SOM|M|Lux Cannon
 00|00|00|00|00|AKG|C|Luxa River Shrine
-00|00|00|00|00|BBD|R|Luxury Suite
+04|00|00|00|00|BBD|R|Luxury Suite
 00|00|00|00|00|DGM|C|Lyev Decree
 04|00|00|00|00|RTR|U|Lyev Skyknight
 00|00|00|00|00|FUT|C|Lymph Sliver
@@ -16613,7 +16613,7 @@
 00|00|00|00|00|SOI|C|Militant Inquisitor
 00|00|00|00|00|TOR|C|Militant Monk
 00|00|00|00|00|M15|U|Military Intelligence
-00|00|00|00|00|M19|U|Militia Bugler
+02|00|00|00|00|M19|U|Militia Bugler
 00|00|00|00|00|LRW|R|Militia's Pride
 00|00|00|00|00|GTC|C|Millennial Gargoyle
 00|00|00|00|00|BBD|C|Millennial Gargoyle
@@ -17164,7 +17164,7 @@
 00|00|00|00|00|DDH|U|Moroii
 00|00|00|00|00|MM3|U|Moroii
 00|00|00|00|00|RAV|U|Moroii
-00|00|00|00|00|BBD|R|Morphic Pool
+04|00|00|00|00|BBD|R|Morphic Pool
 00|00|00|00|00|USG|R|Morphling
 00|01|00|00|00|MOR|C|Morsel Theft
 00|00|00|00|00|SHM|C|Morselhoarder
@@ -18851,7 +18851,7 @@
 00|00|00|00|00|APC|R|Overgrown Estate
 00|00|00|00|00|RAV|R|Overgrown Tomb
 04|00|00|00|00|RTR|R|Overgrown Tomb
-00|00|00|00|00|GRN|R|Overgrown Tomb
+04|00|00|00|00|GRN|R|Overgrown Tomb
 00|00|00|00|00|10E|C|Overgrowth
 00|00|00|00|00|9ED|C|Overgrowth
 00|00|00|00|00|STH|C|Overgrowth
@@ -18959,7 +18959,7 @@
 00|00|00|00|00|DTK|C|Palace Familiar
 00|00|00|00|00|M10|C|Palace Guard
 00|01|00|00|00|M11|C|Palace Guard
-00|00|00|00|00|CN2|U|Palace Jailer
+04|00|00|00|00|CN2|U|Palace Jailer
 00|00|00|00|00|CN2|C|Palace Sentinels
 00|00|00|00|00|FTF|R|Palace Siege
 00|00|00|00|00|C17|R|Palace Siege
@@ -19195,7 +19195,7 @@
 00|00|00|00|00|ATH|S|Pendelhaven
 00|00|00|00|00|LEG|U|Pendelhaven
 00|00|00|00|00|TSB|S|Pendelhaven
-00|00|00|00|00|A25|R|Pendelhaven
+01|00|00|00|00|A25|R|Pendelhaven
 00|00|00|00|00|TSP|U|Pendelhaven Elder
 00|00|00|00|00|USG|C|Pendrell Drake
 00|00|00|00|00|USG|C|Pendrell Flux
@@ -19928,7 +19928,7 @@
 00|00|00|00|00|LRW|C|Ponder
 00|00|00|00|00|M10|C|Ponder
 03|00|00|00|00|M12|C|Ponder
-00|00|00|00|00|C18|C|Ponder
+04|00|00|00|00|C18|C|Ponder
 00|00|00|00|00|C14|U|Pongify
 00|00|00|00|00|PLC|U|Pongify
 00|00|00|00|00|C14|R|Pontiff of Blight
@@ -19947,7 +19947,7 @@
 00|00|00|00|00|5ED|C|Portent
 00|00|00|00|00|CSP|S|Portent
 00|00|00|00|00|ICE|C|Portent
-00|00|00|00|00|C18|C|Portent
+04|00|00|00|00|C18|C|Portent
 00|00|00|00|00|THS|C|Portent of Betrayal
 00|00|00|00|00|TOR|R|Possessed Aven
 00|00|00|00|00|TOR|R|Possessed Barbarian
@@ -21153,7 +21153,7 @@
 00|00|00|00|00|ICE|R|Reclamation
 00|00|00|00|00|C14|U|Reclamation Sage
 01|00|00|00|00|M15|U|Reclamation Sage
-00|00|00|00|00|C18|U|Reclamation Sage
+02|00|00|00|00|C18|U|Reclamation Sage
 00|00|00|00|00|CMA|U|Reclamation Sage
 00|00|00|00|00|M19|U|Reclamation Sage
 00|00|00|00|00|ORI|U|Reclusive Artificer
@@ -22264,7 +22264,7 @@
 00|00|00|00|00|AKG|U|Sacred Excavation
 03|00|00|00|00|GTC|R|Sacred Foundry
 00|00|00|00|00|RAV|R|Sacred Foundry
-00|00|00|00|00|GRN|R|Sacred Foundry
+04|00|00|00|00|GRN|R|Sacred Foundry
 00|00|00|00|00|7ED|R|Sacred Ground
 00|00|00|00|00|8ED|R|Sacred Ground
 00|00|00|00|00|9ED|R|Sacred Ground
@@ -22906,7 +22906,7 @@
 00|00|00|00|00|5ED|U|Sea Sprite
 00|00|00|00|00|HML|U|Sea Sprite
 00|00|00|00|00|HML|U|Sea Troll
-00|00|00|00|00|BBD|R|Sea of Clouds
+04|00|00|00|00|BBD|R|Sea of Clouds
 00|00|00|00|00|9ED|C|Sea's Claim
 00|00|00|00|00|ONS|C|Sea's Claim
 03|00|00|00|00|SOM|R|Seachrome Coast
@@ -25114,7 +25114,7 @@
 00|00|00|00|00|SOK|C|Spiraling Embers
 00|00|00|00|00|DDI|C|Spire Barrage
 00|00|00|00|00|ZEN|C|Spire Barrage
-00|00|00|00|00|BBD|R|Spire Garden
+04|00|00|00|00|BBD|R|Spire Garden
 00|00|00|00|00|DD2|C|Spire Golem
 00|00|00|00|00|DST|C|Spire Golem
 00|00|00|00|00|MM3|C|Spire Monitor
@@ -26806,7 +26806,7 @@
 00|00|00|00|00|P02|U|Temple Elder
 00|00|00|00|00|RAV|R|Temple Garden
 04|00|00|00|00|RTR|R|Temple Garden
-00|00|00|00|00|GRN|R|Temple Garden
+04|00|00|00|00|GRN|R|Temple Garden
 04|00|00|00|00|THS|R|Temple of Abandon
 00|00|00|00|00|XLN|R|Temple of Aclazotz
 04|00|00|00|00|THS|R|Temple of Deceit
@@ -28102,7 +28102,7 @@
 02|00|00|00|00|SOM|R|True Conviction
 00|00|00|00|00|SOI|C|True-Faith Censer
 01|00|00|00|00|C13|R|True-Name Nemesis
-00|00|00|00|00|BBD|M|True-Name Nemesis
+03|00|00|00|00|BBD|M|True-Name Nemesis
 00|00|00|00|00|GRN|U|Truefire Captain
 07|00|00|00|00|GTC|U|Truefire Paladin
 00|00|00|00|00|AKG|U|Trueheart Duelist
@@ -28426,7 +28426,7 @@
 01|00|00|00|00|GTC|R|Unexpected Results
 00|00|00|00|00|C13|R|Unexpectedly Absent
 00|00|00|00|00|EMA|R|Unexpectedly Absent
-00|00|00|00|00|CMA|R|Unexpectedly Absent
+02|00|00|00|00|CMA|R|Unexpectedly Absent
 00|00|00|00|00|GRN|C|Unexplained Disappearance
 04|00|00|00|00|DGM|U|Unflinching Courage
 00|00|00|00|00|MM3|U|Unflinching Courage
@@ -29917,7 +29917,7 @@
 03|00|00|00|00|KTK|U|Waterwhirl
 05|00|00|00|00|GTC|R|Watery Grave
 00|00|00|00|00|RAV|R|Watery Grave
-00|00|00|00|00|GRN|R|Watery Grave
+04|00|00|00|00|GRN|R|Watery Grave
 00|00|00|00|00|MIR|U|Wave Elemental
 00|00|00|00|00|ONS|C|Wave of Indifference
 00|00|00|00|00|C16|R|Wave of Reckoning
