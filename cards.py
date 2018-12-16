@@ -27,7 +27,18 @@ ALL_TARGETS = 'everything'
 BACKUPS = 'backups/'
 
 
+def load_backup(db, target):
+    print("Loading %s from %s directory..." % (target, BACKUPS), end='')
+    stdout.flush()
+    with open("%s/%s.json" % (BACKUPS, target), 'r') as f:
+        for i in loads(f.read()):
+            getattr(db, target).insert_one(i).inserted_id
+    print("Done")
+
+
 def load_mtgjson(db, target):
+    print("Loading %s from mtgjson.com..." % target, end='')
+    stdout.flush()
     emsg = ""
     try:
         r = httpget('https://mtgjson.com/v4/json/All%s.json' %
@@ -39,13 +50,11 @@ def load_mtgjson(db, target):
     if emsg == "":
         for k, v in r.json().items():
             getattr(db, target).insert_one(v).inserted_id
+        print("Done")
     else:
-        print("Error\n\tLoading data from mtgjson.com failed: %s" % emsg)
-        print("Loading %s from '%s' instead..." % (target, BACKUPS), end='')
-        stdout.flush()
-        with open("%s/%s.json" % (BACKUPS, target), 'r') as f:
-            for i in loads(f.read()):
-                getattr(db, target).insert_one(i).inserted_id
+        print("Error❗- Loading data from mtgjson.com failed: %s" % emsg)
+        print("🛈 The system will attempt to load from backup instead.")
+        load_backup(db, target)
 
 
 def load(db, args):
@@ -57,12 +66,9 @@ def load(db, args):
             load_mtgjson(db, target)
 
         def load_collection(db, target):
-            pass
+            load_backup(db, target)
 
-        print("Loading %s..." % target, end='')
-        stdout.flush()
         locals()["load_%s" % target](db, target)
-        print("Done")
 
     drop(db, args)
     if args.target == ALL_TARGETS:
