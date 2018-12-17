@@ -16,17 +16,29 @@
 # cards.py
 
 from argcomplete import autocomplete
-from argparse import ArgumentParser
+from argparse import ArgumentParser, ArgumentTypeError
 from pymongo import MongoClient
 from bson.json_util import loads, dumps
 from requests import get as httpget
 from requests import codes
 from sys import stdout
 
-ACTIONS = ['load', 'dump', 'drop']
+ACTIONS = ['get', 'load', 'dump', 'drop']
 TARGETS = ['cards', 'sets', 'collection']
 ALL_TARGETS = 'everything'
 BACKUPS = 'backups/'
+
+
+def get(db, target):
+    def target_get(db, target):
+        for i in getattr(db, target).find({}, {'_id': 0}).limit(args.limit):
+            print(i)
+
+    if args.target == ALL_TARGETS:
+        for t in TARGETS:
+            target_get(db, t)
+    else:
+        target_get(db, args.target)
 
 
 def load_backup(db, target):
@@ -109,6 +121,13 @@ def drop(db, args):
         target_drop(db, args.target)
 
 
+def check_positive(v):
+    i = int(v)
+    if i <= 0:
+        raise ArgumentTypeError("%s is not a positive integer" % v)
+    return i
+
+
 if __name__ == '__main__':
     parser = ArgumentParser(description='Manage MTG Collection')
     subparsers = parser.add_subparsers(metavar='CMD')
@@ -121,6 +140,9 @@ if __name__ == '__main__':
                        choices=tgts,
                        help="{%s}" % '|'.join(tgts))
         p.set_defaults(func=locals()[cmd])
+        if cmd == 'get':
+            p.add_argument("--limit", default=10, type=check_positive,
+                           help="max records returned (positive integer)")
     subparsers.required = True
     autocomplete(parser)
     args = parser.parse_args()

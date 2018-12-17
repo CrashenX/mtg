@@ -8,6 +8,12 @@
 
 ### Tab Completion
 
-    eval "$(venv/bin/register-python-argcomplete cards.py)"
+    venv/bin/register-python-argcomplete cards.py>~/.bash_completion.d/cards.sh
 
 Docs: https://argcomplete.readthedocs.io/en/latest/index.html
+
+NB: You might need to create `~/.bash_completion` and source in `~/.bashrc`
+
+    for bcfile in ~/.bash_completion.d/* ; do
+        [ -f "$bcfile" ] && . $bcfile
+    done
