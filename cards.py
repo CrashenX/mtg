@@ -1,3 +1,4 @@
+#!venv/bin/python
 # Copyright 2018 Jesse J. Cook
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
@@ -14,7 +15,8 @@
 
 # cards.py
 
-import argparse
+from argcomplete import autocomplete
+from argparse import ArgumentParser
 from pymongo import MongoClient
 from bson.json_util import loads, dumps
 from requests import get as httpget
@@ -108,7 +110,7 @@ def drop(db, args):
 
 
 if __name__ == '__main__':
-    parser = argparse.ArgumentParser(description='Manage MTG Collection')
+    parser = ArgumentParser(description='Manage MTG Collection')
     subparsers = parser.add_subparsers(metavar='CMD')
     for cmd in ACTIONS:
         p = subparsers.add_parser(cmd, help='%s mtg data' % cmd)
@@ -120,6 +122,7 @@ if __name__ == '__main__':
                        help="{%s}" % '|'.join(tgts))
         p.set_defaults(func=locals()[cmd])
     subparsers.required = True
+    autocomplete(parser)
     args = parser.parse_args()
     client = MongoClient()
     db = client.mtg
