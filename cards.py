@@ -32,6 +32,7 @@ SYMBOLS = {'colors': {'B': '💀', 'U': '💧', 'G': '🌳', 'R': '🔥', 'W': '
                        '5': '⑤', '6': '⑥', '7': '⑦', '8': '⑧', '9': '⑨',
                        '10': '⑩', '11': '⑪', '12': '⑫', '13': '⑬', '14': '⑭',
                        '15': '⑮', '16': '⑯', '17': '⑰', '18': '⑱', '19': '⑲',
+                       'P': 'ϕ', 'X': 'ⓧ',
                        },
            'types': {'Artifact': '💎',
                      'Creature': '🐻',
@@ -42,7 +43,7 @@ SYMBOLS = {'colors': {'B': '💀', 'U': '💧', 'G': '🌳', 'R': '🔥', 'W': '
                      'Sorcery': '⏳',
                      'Tribal': '👪',
                      },
-           'supertypes': {'Basic': '𝞫',
+           'supertypes': {'Basic': '🅱️',
                           'Legendary': '👑',
                           'Snow': '🏔',
                           'World': '🌎',
@@ -90,19 +91,23 @@ def format_row(row):
             elem += i
         return "".join(ucost)
 
-    print(row)
-    row['Type'] = u"".join(
-            [to_unicode('supertypes', t) for t in row.get('STypes')] +
-            [to_unicode('types', t) for t in row.get('Types')])
+    row['Type'] = "".join(
+            [to_unicode('supertypes', t) for t in row.get('STypes', [])] +
+            [to_unicode('types', t) for t in row.get('Types', [])])
     row['Cost'] = parse_cost(row.get('aCost'))
 
 
 def pad_row(row):
-    return (str(row.get('∑')).center(2) + ' ' +
-            row.get('Set').center(3) + ' ' +
-            row.get('Name').center(33) + ' ' +
-            row.get('Type').center(6) + ' ' +
-            row.get('Cost').center(25))
+    alen = len(row.get('Type'))
+    ulen = len(row.get('Type').encode('UTF-8'))
+    tpad = (7 - int((ulen+1)/4))
+    if alen == ulen:
+        tpad = 7
+    return (str(row.get('∑')).ljust(3) +
+            row.get('Set').ljust(4) +
+            row.get('Name').ljust(34) +
+            row.get('Type').ljust(tpad) +
+            row.get('Cost'))
 
 
 def get(db, target):
