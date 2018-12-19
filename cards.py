@@ -103,7 +103,7 @@ def pad_row(row):
     tpad = (7 - int((ulen+1)/4))
     if alen == ulen:
         tpad = 7
-    return (str(row.get('∑')).ljust(3) +
+    return (str(row.get('∑')).rjust(2) + ' ' +
             row.get('Set').ljust(4) +
             row.get('Name').ljust(34) +
             row.get('Type').ljust(tpad) +
