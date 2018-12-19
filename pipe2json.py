@@ -5,10 +5,10 @@ today = datetime.date.today()
 
 
 def get_row(foil, promo, textless, miscut):
-    return ('    {"added": "%s", "name": "%s", "lookupName": "%s", "set": "%s"'
+    return ('    {"added": "%s", "name": "%s", "cfkey": "%s", "set": "%s"'
             ', "properties": {"condition": "Unknown", "foil": %s, "promo": %s'
             ', "textless": %s, "miscut": %s}},\n' %
-            (str(today), name, lkup, mset, foil, promo, textless, miscut))
+            (str(today), name, fkey, mset, foil, promo, textless, miscut))
 
 
 with open('cards.db', 'r') as nf, open('backups/collection.json', 'w') as of:
@@ -27,8 +27,8 @@ with open('cards.db', 'r') as nf, open('backups/collection.json', 'w') as of:
         msct = values[4]
         mset = values[5]
         name = values[7]
-        lkup = name.split(' //')[0]
-        lkup = lkup.replace('AEther', 'Aether')
+        fkey = name.split(' //')[0]
+        fkey = fkey.replace('AEther', 'Aether')
         for i in range(int(norm)):
             of.write(get_row("false", "false", "false", "false"))
         for i in range(int(foil)):

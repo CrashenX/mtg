@@ -17,7 +17,7 @@
 
 from argcomplete import autocomplete
 from argparse import ArgumentParser, ArgumentTypeError
-from pymongo import MongoClient
+from pymongo import MongoClient, ASCENDING, TEXT
 from bson.json_util import loads, dumps
 from requests import get as httpget
 from requests import codes
@@ -114,10 +114,11 @@ def get(db, target):
     def target_get(db, target):
         first_time = True
         for i in getattr(db, target).aggregate([
-            {'$group': {'_id': {'name': '$name', 'set': '$set',
-                                'fkey': '$lookupName'}, '∑': {'$sum': 1}}},
+            {'$group': {'_id': {'name': '$name', 'cfkey': '$cfkey',
+                                'set': '$set'}, '∑': {'$sum': 1}}},
+                {'$sort': {'_id.name': 1, '_id.set': 1}},
                 {'$lookup': {'from': 'cards',
-                             'localField': '_id.fkey',
+                             'localField': '_id.cfkey',
                              'foreignField': 'name',
                              'as': 'm'}},
                 {'$project': {'_id': 0, '∑': 1,
@@ -177,12 +178,35 @@ def load(db, args):
     def target_load(db, target):
         def load_cards(db, target):
             load_mtgjson(db, target)
+            print('Creating indexes...', end='')
+            db.cards.create_index('name', unique=True)
+            db.cards.create_index('convertedManaCost')
+            db.cards.create_index([('name', TEXT), ('manaCost', TEXT),
+                                   ('supertypes', TEXT), ('types', TEXT),
+                                   ('rules', TEXT)])
+            print("Done")
 
         def load_sets(db, target):
             load_mtgjson(db, target)
+            print('Creating indexes...', end='')
+            db.sets.create_index('code', unique=True, sparse=True)
+            db.sets.create_index('name', unique=True)
+            db.sets.create_index('releaseDate')
+            db.sets.create_index([('name', TEXT)])
+            print("Done")
 
         def load_collection(db, target):
             load_backup(db, target)
+            print('Creating indexes...', end='')
+            c = db.collection.create_index
+            c('name')
+            c('cfkey')
+            c('set')
+            c([('name', ASCENDING), ('set', ASCENDING)])
+            c([('set', ASCENDING), ('name', ASCENDING)])
+            c([('name', ASCENDING), ('cfkey', ASCENDING), ('set', ASCENDING)])
+            c([('name', TEXT)])
+            print("Done")
 
         locals()["load_%s" % target](db, target)
 
@@ -252,38 +276,14 @@ if __name__ == '__main__':
     db = client.mtg
     args.func(db, args)
 
+# NOTE: How to create a fast search with regex
 
-def maxfl(field):
-    mlen = 0
-    for i in db.cards.find():
-        if i['printings'][0] in ['UNH', 'UGL', 'UST', 'PMOA']:
-            continue
-        try:
-            if len(i[field]) > mlen:
-                print(i[field])
-                mlen = len(i[field])
-                print(i['name'])
-        except Exception as e:
-            pass
-            # print("%s: %s: %s" % (i['type'], i['name'], str(e)))
-    print(mlen)
-
-
-def maxfl2(field1, field2):
-    from pymongo import MongoClient
-    client = MongoClient()
-    db = client.mtg
-    mlen = 0
-    for i in db.cards.find():
-        if i['printings'][0] in ['UNH', 'UGL', 'UST', 'PMOA']:
-            continue
-        try:
-            l = len(i[field1]) + len(i[field2])
-            if l > mlen:
-                print(i[field1], i[field2])
-                mlen = l
-                print(i['name'])
-        except Exception as e:
-            pass
-            # print("%s: %s: %s" % (i['type'], i['name'], str(e)))
-    print(mlen)
+# db.movies.find({
+# $and:[{
+#     $text: {
+#         $search: "Moss Carrie-Anne"
+#     }},{
+#     cast: {
+#         $elemMatch: {$regex: /Moss/, $regex: /Carrie-Anne/}}
+#     }]}
+# );
