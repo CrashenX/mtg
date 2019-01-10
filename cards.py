@@ -112,6 +112,9 @@ def pad_row(row):
 
 def get(db, target):
     def target_get(db, target):
+        if target != 'collection':
+            print('TOOD(jesse): Implement get %s' % target)
+            return
         first_time = True
         for i in getattr(db, target).aggregate([
             {'$group': {'_id': {'name': '$name', 'cfkey': '$cfkey',
