@@ -1,0 +1,4 @@
+argcomplete
+pymongo
+requests
+tabulate
