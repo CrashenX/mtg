@@ -8,9 +8,14 @@
 
 ### Tab Completion
 
-    venv/bin/register-python-argcomplete cards.py>~/.bash_completion.d/cards.sh
-
 Docs: https://argcomplete.readthedocs.io/en/latest/index.html
+
+    venv/bin/register-python-argcomplete cards.py>~/.bash_completion.d/cards.sh
+    complete | grep cards   # if you see: complete -F _minimal ./cards.py
+    complete -r ./cards.py  # then run this to remove
+    source ~/.bash_completion.d/cards.sh
+    complete | grep cards   # should see: complete -o default -o nospace -F \
+                            #             _python_argcomplete cards.py
 
 NB: You might need to create `~/.bash_completion` and source in `~/.bashrc`
 
