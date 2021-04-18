@@ -17,11 +17,13 @@
 
 from argcomplete import autocomplete
 from argparse import ArgumentParser, ArgumentTypeError
+from os import get_terminal_size
 from pymongo import MongoClient, ASCENDING, TEXT
 from bson.json_util import loads, dumps
 from requests import get as httpget
 from requests import codes
 from sys import stdout
+from textwrap import wrap
 
 ACTIONS = ['get', 'load', 'dump', 'drop']
 TARGETS = ['cards', 'sets', 'collection']
@@ -63,7 +65,7 @@ def format_row(row):
         t = None
         try:
             t = SYMBOLS.get(category).get(item.capitalize())
-        except:
+        except Exception:
             pass
         if t is None:
             return type
@@ -103,37 +105,72 @@ def pad_row(row):
     tpad = (7 - int((ulen+1)/4))
     if alen == ulen:
         tpad = 7
+    alen = len(row.get('Cost'))
+    ulen = len(row.get('Cost').encode('UTF-8'))
+    cpad = (21 - int((ulen+1)/4))
+    if alen == ulen:
+        cpad = 21
+    cardset = row.get('Set', '')
+    start = 66
+    width = get_terminal_size().columns - start
+    text = row.get('Text', '')
+    if text:
+        text = ('\n' + ' '*start).join(wrap(text, width)) + '\n'
     return (str(row.get('∑')).rjust(2) + ' ' +
-            row.get('Set').ljust(4) +
+            cardset.ljust(len(cardset) + 1) +
             row.get('Name').ljust(34) +
             row.get('Type').ljust(tpad) +
-            row.get('Cost'))
+            row.get('Cost').ljust(cpad) +
+            text)
 
 
-def get(db, target):
-    def target_get(db, target):
-        if target != 'collection':
-            print('TOOD(jesse): Implement get %s' % target)
-            return
-        first_time = True
-        for i in getattr(db, target).aggregate([
-            {'$group': {'_id': {'name': '$name', 'cfkey': '$cfkey',
-                                'set': '$set'}, '∑': {'$sum': 1}}},
+def get(db, args):
+    def target_get(db, target, search_terms):
+        pipeline = []
+        search = " ".join([f'"{s}"' for s in search_terms])
+        if target == 'collection':
+            pipeline = [
+                {'$group': {'_id': {'name': '$name', 'cfkey': '$cfkey',
+                                    'set': '$set'}, '∑': {'$sum': 1}}},
                 {'$sort': {'_id.name': 1, '_id.set': 1}},
                 {'$lookup': {'from': 'cards',
                              'localField': '_id.cfkey',
                              'foreignField': 'name',
                              'as': 'm'}},
-                {'$project': {'_id': 0, '∑': 1,
-                              'Name': '$_id.name',
-                              'Set': '$_id.set',
-                              'STypes': {'$arrayElemAt': ['$m.supertypes', 0]},
-                              'Types': {'$arrayElemAt': ['$m.types', 0]},
-                              'P/T': {'$concat': [
-                                  {'$arrayElemAt': ['$m.power', 0]}, '/',
-                                  {'$arrayElemAt': ['$m.toughness', 0]}]},
-                              'aCost': {'$arrayElemAt': ['$m.manaCost', 0]}}},
-                ]):
+                {'$project': {
+                    '_id': 0, '∑': 1,
+                    'Name': '$_id.name',
+                    'Set': '$_id.set',
+                    'STypes': {'$arrayElemAt': ['$m.supertypes', 0]},
+                    'Types': {'$arrayElemAt': ['$m.types', 0]},
+                    'P/T': {'$concat': [
+                        {'$arrayElemAt': ['$m.power', 0]}, '/',
+                        {'$arrayElemAt': ['$m.toughness', 0]}]},
+                    'aCost': {'$arrayElemAt': ['$m.manaCost', 0]}}},
+                ]
+        elif target == 'cards':
+            pipeline = [
+                {'$match': {'$text': {'$search': f'{search}'}}},
+                {'$sort': {'name': 1}},
+                {'$lookup': {'from': 'collection',
+                             'localField': 'name',
+                             'foreignField': 'cfkey',
+                             'as': 'm'}},
+                {'$project': {
+                    '_id': 0, '∑': {'$size': '$m'},
+                    'Name': '$name',
+                    'STypes': '$supertypes',
+                    'Text': '$text',
+                    'Types': '$types',
+                    'P/T': {'$concat': ['$power', '/', '$toughness']},
+                    'aCost': '$manaCost',
+                    }},
+                ]
+        else:
+            print('TOOD(jesse): Implement get %s' % target)
+            return
+        first_time = True
+        for i in getattr(db, target).aggregate(pipeline):
             format_row(i)
             if first_time:
                 print(pad_row(gen_hdr(i)))
@@ -144,7 +181,7 @@ def get(db, target):
         for t in TARGETS:
             target_get(db, t)
     else:
-        target_get(db, args.target)
+        target_get(db, args.target, args.search_terms)
 
 
 def load_backup(db, target):
@@ -270,8 +307,11 @@ if __name__ == '__main__':
                        help="{%s}" % '|'.join(tgts))
         p.set_defaults(func=locals()[cmd])
         if cmd == 'get':
-            p.add_argument("--limit", default=10, type=check_positive,
-                           help="max records returned (positive integer)")
+            p.add_argument('search_terms',
+                           metavar='SEARCH_TERM',
+                           type=str,
+                           help="Limit results by search terms",
+                           nargs='*')
     subparsers.required = True
     autocomplete(parser)
     args = parser.parse_args()
