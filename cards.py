@@ -68,7 +68,7 @@ def format_row(row):
         except Exception:
             pass
         if t is None:
-            return type
+            return '❓'
         return t
 
     def parse_cost(cost):
@@ -93,35 +93,58 @@ def format_row(row):
             elem += i
         return "".join(ucost)
 
-    row['Type'] = "".join(
+    typ = "".join(
             [to_unicode('supertypes', t) for t in row.get('STypes', [])] +
             [to_unicode('types', t) for t in row.get('Types', [])])
-    row['Cost'] = parse_cost(row.get('aCost'))
+    if typ:
+        row['Type'] = typ
+
+    cost = parse_cost(row.get('aCost'))
+    if cost:
+        row['Cost'] = cost
 
 
 def pad_row(row):
-    alen = len(row.get('Type'))
-    ulen = len(row.get('Type').encode('UTF-8'))
-    tpad = (7 - int((ulen+1)/4))
-    if alen == ulen:
-        tpad = 7
-    alen = len(row.get('Cost'))
-    ulen = len(row.get('Cost').encode('UTF-8'))
-    cpad = (21 - int((ulen+1)/4))
-    if alen == ulen:
-        cpad = 21
-    cardset = row.get('Set', '')
-    start = 66
-    width = get_terminal_size().columns - start
+    t = ''
+    start = 0
+    if row.get('∑', None) is not None:
+        t += str(row.get('∑')).rjust(2) + ' '
+        start += 3
+    date = row.get('Date', '')
+    if date:
+        t += date.ljust(11)
+        start += 11
+    cset = row.get('Set', '')
+    if cset:
+        t += cset.ljust(4)
+        start += 4
+    name = row.get('Name')
+    if name:
+        t += name.ljust(34)
+        start += 34
+    typ = row.get('Type')
+    if typ:
+        alen = len(typ)
+        ulen = len(typ.encode('UTF-8'))
+        tpad = (7 - int((ulen+1)/4))
+        if alen == ulen:
+            tpad = 7
+        t += typ.ljust(tpad)
+        start += 7
+    cost = row.get('Cost')
+    if cost:
+        alen = len(row.get('Cost'))
+        ulen = len(row.get('Cost').encode('UTF-8'))
+        cpad = (21 - int((ulen+1)/4))
+        if alen == ulen:
+            cpad = 21
+        t += cost.ljust(cpad)
+        start += 21
     text = row.get('Text', '')
     if text:
-        text = ('\n' + ' '*start).join(wrap(text, width)) + '\n'
-    return (str(row.get('∑')).rjust(2) + ' ' +
-            cardset.ljust(len(cardset) + 1) +
-            row.get('Name').ljust(34) +
-            row.get('Type').ljust(tpad) +
-            row.get('Cost').ljust(cpad) +
-            text)
+        width = get_terminal_size().columns - start
+        t += ('\n' + ' '*start).join(wrap(text, width)) + '\n'
+    return t
 
 
 def get(db, args):
@@ -166,6 +189,17 @@ def get(db, args):
                     'aCost': '$manaCost',
                     }},
                 ]
+        elif target == 'sets':
+            pipeline = [
+                {'$match': {'$text': {'$search': f'{search}'}}},
+                {'$sort': {'releaseDate': 1}},
+                {'$project': {
+                    '_id': 0,
+                    'Date': '$releaseDate',
+                    'Set': '$code',
+                    'Name': '$name',
+                    }},
+                ]
         else:
             print('TOOD(jesse): Implement get %s' % target)
             return
@@ -197,16 +231,32 @@ def load_mtgjson(db, target):
     print("Loading %s from mtgjson.com..." % target, end='')
     stdout.flush()
     emsg = ""
+    urls = {'cards': 'https://mtgjson.com/api/v5/AtomicCards.json',
+            'sets': 'https://mtgjson.com/api/v5/SetList.json',
+            }
     try:
-        r = httpget('https://mtgjson.com/v4/json/All%s.json' %
-                    target.capitalize())
+        r = httpget(urls[target])
     except Exception as e:
         emsg = str(e)
     if emsg == "" and r.status_code != codes.ok:
         emsg = "Received status code: %d" % r.status_code
     if emsg == "":
-        for k, v in r.json().items():
-            getattr(db, target).insert_one(v).inserted_id
+        if target == 'cards':
+            for k, v in r.json()['data'].items():
+                val = v[0]
+                if len(v) == 2 and v[0].get('side', None):
+                    if v[0]['side'] == 'a':
+                        val['sideb'] = v[1]
+                    else:
+                        val = v[1]
+                        val['sideb'] = v[0]
+                elif len(v) > 1:
+                    val = v[-1]
+                val['name'] = val['name'].replace(' . . .', ' …')
+                getattr(db, target).insert_one(val).inserted_id
+        else:
+            for v in r.json()['data']:
+                getattr(db, target).insert_one(v).inserted_id
         print("Done")
     else:
         print("Error❗- Loading data from mtgjson.com failed: %s" % emsg)
@@ -219,6 +269,7 @@ def load(db, args):
         def load_cards(db, target):
             load_mtgjson(db, target)
             print('Creating indexes...', end='')
+            stdout.flush()
             db.cards.create_index('name', unique=True)
             db.cards.create_index('convertedManaCost')
             db.cards.create_index([('name', TEXT), ('manaCost', TEXT),
@@ -229,6 +280,7 @@ def load(db, args):
         def load_sets(db, target):
             load_mtgjson(db, target)
             print('Creating indexes...', end='')
+            stdout.flush()
             db.sets.create_index('code', unique=True, sparse=True)
             db.sets.create_index('name', unique=True)
             db.sets.create_index('releaseDate')
@@ -238,6 +290,7 @@ def load(db, args):
         def load_collection(db, target):
             load_backup(db, target)
             print('Creating indexes...', end='')
+            stdout.flush()
             c = db.collection.create_index
             c('name')
             c('cfkey')
