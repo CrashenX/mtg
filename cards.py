@@ -161,6 +161,7 @@ def pad_row(row):
 def get(db, args):
     def target_get(db, target, search_terms):
         pipeline = []
+        search = " ".join([f'"{s}"' for s in search_terms])
         if target == 'collection':
             match = {}
             terms = []
@@ -176,7 +177,6 @@ def get(db, args):
                 pipeline.append({'$match': match})
             pipeline += [
                 {'$group': {'_id': {'name': '$name',
-                                    'cfkey': '$cfkey',
                                     'set': '$set',
                                     'condition': '$properties.condition',
                                     'foil': '$properties.foil',
@@ -186,7 +186,7 @@ def get(db, args):
                                     }, '∑': {'$sum': 1}}},
                 {'$sort': {'_id.name': 1, '_id.set': 1}},
                 {'$lookup': {'from': 'cards',
-                             'localField': '_id.cfkey',
+                             'localField': '_id.name',
                              'foreignField': 'name',
                              'as': 'm'}},
                 {'$project': {
@@ -206,13 +206,12 @@ def get(db, args):
                     'aCost': {'$arrayElemAt': ['$m.manaCost', 0]}}},
                 ]
         elif target == 'cards':
-            search = " ".join([f'"{s}"' for s in search_terms])
             pipeline = [
                 {'$match': {'$text': {'$search': f'{search}'}}},
                 {'$sort': {'name': 1}},
                 {'$lookup': {'from': 'collection',
                              'localField': 'name',
-                             'foreignField': 'cfkey',
+                             'foreignField': 'name',
                              'as': 'm'}},
                 {'$project': {
                     '_id': 0, '∑': {'$size': '$m'},
@@ -320,7 +319,8 @@ def load(db, args):
             db.sets.create_index('code', unique=True, sparse=True)
             db.sets.create_index('name', unique=True)
             db.sets.create_index('releaseDate')
-            db.sets.create_index([('name', TEXT), ('releaseDate', TEXT)])
+            db.sets.create_index([('code', TEXT), ('name', TEXT),
+                                  ('releaseDate', TEXT)])
             print("Done")
 
         def load_collection(db, target):
@@ -329,11 +329,9 @@ def load(db, args):
             stdout.flush()
             c = db.collection.create_index
             c('name')
-            c('cfkey')
             c('set')
             c([('name', ASCENDING), ('set', ASCENDING)])
-            c([('set', ASCENDING), ('name', ASCENDING)])
-            c([('name', ASCENDING), ('cfkey', ASCENDING), ('set', ASCENDING)])
+            c([('set', ASCENDING), ('name', ASCENDING), ('set', ASCENDING)])
             c([('name', TEXT)])
             print("Done")
 
