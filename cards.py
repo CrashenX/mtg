@@ -107,54 +107,83 @@ def format_row(row):
 def pad_row(row):
     t = ''
     start = 0
-    if row.get('∑', None) is not None:
-        t += str(row.get('∑')).rjust(2) + ' '
+    if '∑' in row:
+        t += str(row['∑']).rjust(2) + ' '
         start += 3
-    date = row.get('Date', '')
-    if date:
-        t += date.ljust(11)
+    if 'Date' in row:
+        t += row['Date'].ljust(11)
         start += 11
-    cset = row.get('Set', '')
-    if cset:
-        t += cset.ljust(4)
-        start += 4
-    name = row.get('Name')
-    if name:
-        t += name.ljust(34)
+    if 'Set' in row:
+        t += row['Set'].ljust(5)
+        start += 5
+    if 'Name' in row:
+        t += row['Name'].ljust(34)
         start += 34
-    typ = row.get('Type')
-    if typ:
-        alen = len(typ)
-        ulen = len(typ.encode('UTF-8'))
+    if 'Condition' in row:
+        if row['Condition'] == 'Condition':
+            t += 'Properties'.ljust(14)
+            start += 14
+        else:
+            props = []
+            c = row.get('Condition', '')
+            if 'D' in c or 'P' in c:
+                props.append(c)
+            for p in ['Foil', 'Miscut', 'Promo', 'Textless']:
+                if row.get(p):
+                    props.append(p.lower())
+            t += ", ".join(props).ljust(14)
+            start += 14
+    if 'P/T' in row:
+        t += (row['P/T'] or '').ljust(6)
+        start += 6
+    if 'Type' in row:
+        alen = len(row['Type'])
+        ulen = len(row['Type'].encode('UTF-8'))
         tpad = (7 - int((ulen+1)/4))
         if alen == ulen:
             tpad = 7
-        t += typ.ljust(tpad)
+        t += row['Type'].ljust(tpad)
         start += 7
-    cost = row.get('Cost')
-    if cost:
-        alen = len(row.get('Cost'))
-        ulen = len(row.get('Cost').encode('UTF-8'))
+    if 'Cost' in row:
+        alen = len(row['Cost'])
+        ulen = len(row['Cost'].encode('UTF-8'))
         cpad = (21 - int((ulen+1)/4))
         if alen == ulen:
             cpad = 21
-        t += cost.ljust(cpad)
+        t += row['Cost'].ljust(cpad)
         start += 21
-    text = row.get('Text', '')
-    if text:
+    if 'Text' in row:
         width = get_terminal_size().columns - start
-        t += ('\n' + ' '*start).join(wrap(text, width)) + '\n'
+        t += ('\n' + ' '*start).join(wrap(row['Text'], width)) + '\n'
     return t
 
 
 def get(db, args):
     def target_get(db, target, search_terms):
         pipeline = []
-        search = " ".join([f'"{s}"' for s in search_terms])
         if target == 'collection':
-            pipeline = [
-                {'$group': {'_id': {'name': '$name', 'cfkey': '$cfkey',
-                                    'set': '$set'}, '∑': {'$sum': 1}}},
+            match = {}
+            terms = []
+            for s in search_terms:
+                if s.lower() in ['foil', 'miscut', 'promo', 'textless']:
+                    match[f"properties.{s}"] = True
+                else:
+                    terms.append(s)
+            if len(terms) > 0:
+                search = " ".join([f'"{s}"' for s in terms])
+                match['$text'] = {'$search': f'{search}'}
+            if match:
+                pipeline.append({'$match': match})
+            pipeline += [
+                {'$group': {'_id': {'name': '$name',
+                                    'cfkey': '$cfkey',
+                                    'set': '$set',
+                                    'condition': '$properties.condition',
+                                    'foil': '$properties.foil',
+                                    'miscut': '$properties.miscut',
+                                    'promo': '$properties.promo',
+                                    'textless': '$properties.textless',
+                                    }, '∑': {'$sum': 1}}},
                 {'$sort': {'_id.name': 1, '_id.set': 1}},
                 {'$lookup': {'from': 'cards',
                              'localField': '_id.cfkey',
@@ -163,6 +192,11 @@ def get(db, args):
                 {'$project': {
                     '_id': 0, '∑': 1,
                     'Name': '$_id.name',
+                    'Condition': '$_id.condition',
+                    'Foil': '$_id.foil',
+                    'Miscut': '$_id.miscut',
+                    'Promo': '$_id.promo',
+                    'Textless': '$_id.textless',
                     'Set': '$_id.set',
                     'STypes': {'$arrayElemAt': ['$m.supertypes', 0]},
                     'Types': {'$arrayElemAt': ['$m.types', 0]},
@@ -172,6 +206,7 @@ def get(db, args):
                     'aCost': {'$arrayElemAt': ['$m.manaCost', 0]}}},
                 ]
         elif target == 'cards':
+            search = " ".join([f'"{s}"' for s in search_terms])
             pipeline = [
                 {'$match': {'$text': {'$search': f'{search}'}}},
                 {'$sort': {'name': 1}},
@@ -253,6 +288,7 @@ def load_mtgjson(db, target):
                 elif len(v) > 1:
                     val = v[-1]
                 val['name'] = val['name'].replace(' . . .', ' …')
+                val.pop('foreignData', None)
                 getattr(db, target).insert_one(val).inserted_id
         else:
             for v in r.json()['data']:
@@ -272,9 +308,9 @@ def load(db, args):
             stdout.flush()
             db.cards.create_index('name', unique=True)
             db.cards.create_index('convertedManaCost')
-            db.cards.create_index([('name', TEXT), ('manaCost', TEXT),
-                                   ('supertypes', TEXT), ('types', TEXT),
-                                   ('rules', TEXT)])
+            db.cards.create_index([('convertedManaCost', TEXT), ('name', TEXT),
+                                   ('manaCost', TEXT), ('text', TEXT),
+                                   ('type', TEXT)])
             print("Done")
 
         def load_sets(db, target):
@@ -284,7 +320,7 @@ def load(db, args):
             db.sets.create_index('code', unique=True, sparse=True)
             db.sets.create_index('name', unique=True)
             db.sets.create_index('releaseDate')
-            db.sets.create_index([('name', TEXT)])
+            db.sets.create_index([('name', TEXT), ('releaseDate', TEXT)])
             print("Done")
 
         def load_collection(db, target):
