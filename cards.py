@@ -17,6 +17,7 @@
 
 from argcomplete import autocomplete
 from argparse import ArgumentParser, ArgumentTypeError
+from datetime import date
 from os import get_terminal_size
 from pymongo import MongoClient, ASCENDING, TEXT
 from bson.json_util import loads, dumps
@@ -24,8 +25,9 @@ from requests import get as httpget
 from requests import codes
 from sys import stdout
 from textwrap import wrap
+from typing import List
 
-ACTIONS = ['get', 'load', 'dump', 'drop']
+ACTIONS = ['add', 'get', 'load', 'dump', 'drop', 'remove']
 TARGETS = ['cards', 'sets', 'collection']
 ALL_TARGETS = 'everything'
 BACKUPS = 'backups/'
@@ -43,6 +45,7 @@ SYMBOLS = {'colors': {'B': '💀', 'U': '💧', 'G': '🌳', 'R': '🔥', 'W': '
                      'Land': '🌄',
                      'Planeswalker': '🧙',
                      'Sorcery': '⏳',
+                     'Summon': '🐻',
                      'Tribal': '👪',
                      },
            'supertypes': {'Basic': '🅱️',
@@ -119,20 +122,21 @@ def pad_row(row):
     if 'Name' in row:
         t += row['Name'].ljust(34)
         start += 34
-    if 'Condition' in row:
-        if row['Condition'] == 'Condition':
-            t += 'Properties'.ljust(14)
-            start += 14
+    if 'Properties' in row:
+        prop = row['Properties']
+        if prop == 'Properties':
+            t += 'Properties'.ljust(15)
+            start += 15
         else:
             props = []
-            c = row.get('Condition', '')
+            c = prop.get('Condition', '')
             if 'D' in c or 'P' in c:
                 props.append(c)
-            for p in ['Foil', 'Miscut', 'Promo', 'Textless']:
-                if row.get(p):
+            for p in ['foil', 'miscut', 'promo', 'textless']:
+                if prop.get(p):
                     props.append(p.lower())
-            t += ", ".join(props).ljust(14)
-            start += 14
+            t += ", ".join(props).ljust(15)
+            start += 15
     if 'P/T' in row:
         t += (row['P/T'] or '').ljust(6)
         start += 6
@@ -158,85 +162,216 @@ def pad_row(row):
     return t
 
 
-def get(db, args):
-    def target_get(db, target, search_terms):
-        pipeline = []
-        search = " ".join([f'"{s}"' for s in search_terms])
-        if target == 'collection':
-            match = {}
-            terms = []
-            for s in search_terms:
-                if s.lower() in ['foil', 'miscut', 'promo', 'textless']:
-                    match[f"properties.{s}"] = True
-                else:
-                    terms.append(s)
-            if len(terms) > 0:
-                search = " ".join([f'"{s}"' for s in terms])
-                match['$text'] = {'$search': f'{search}'}
-            if match:
-                pipeline.append({'$match': match})
-            pipeline += [
-                {'$group': {'_id': {'name': '$name',
-                                    'set': '$set',
-                                    'condition': '$properties.condition',
-                                    'foil': '$properties.foil',
-                                    'miscut': '$properties.miscut',
-                                    'promo': '$properties.promo',
-                                    'textless': '$properties.textless',
-                                    }, '∑': {'$sum': 1}}},
-                {'$sort': {'_id.name': 1, '_id.set': 1}},
-                {'$lookup': {'from': 'cards',
-                             'localField': '_id.name',
-                             'foreignField': 'name',
-                             'as': 'm'}},
-                {'$project': {
-                    '_id': 0, '∑': 1,
-                    'Name': '$_id.name',
-                    'Condition': '$_id.condition',
-                    'Foil': '$_id.foil',
-                    'Miscut': '$_id.miscut',
-                    'Promo': '$_id.promo',
-                    'Textless': '$_id.textless',
-                    'Set': '$_id.set',
-                    'STypes': {'$arrayElemAt': ['$m.supertypes', 0]},
-                    'Types': {'$arrayElemAt': ['$m.types', 0]},
-                    'P/T': {'$concat': [
-                        {'$arrayElemAt': ['$m.power', 0]}, '/',
-                        {'$arrayElemAt': ['$m.toughness', 0]}]},
-                    'aCost': {'$arrayElemAt': ['$m.manaCost', 0]}}},
-                ]
-        elif target == 'cards':
-            pipeline = [
-                {'$match': {'$text': {'$search': f'{search}'}}},
-                {'$sort': {'name': 1}},
-                {'$lookup': {'from': 'collection',
-                             'localField': 'name',
-                             'foreignField': 'name',
-                             'as': 'm'}},
-                {'$project': {
-                    '_id': 0, '∑': {'$size': '$m'},
-                    'Name': '$name',
-                    'STypes': '$supertypes',
-                    'Text': '$text',
-                    'Types': '$types',
-                    'P/T': {'$concat': ['$power', '/', '$toughness']},
-                    'aCost': '$manaCost',
-                    }},
-                ]
-        elif target == 'sets':
-            pipeline = [
-                {'$match': {'$text': {'$search': f'{search}'}}},
-                {'$sort': {'releaseDate': 1}},
-                {'$project': {
-                    '_id': 0,
-                    'Date': '$releaseDate',
-                    'Set': '$code',
-                    'Name': '$name',
-                    }},
-                ]
-        else:
-            print('TOOD(jesse): Implement get %s' % target)
+def add(db, args):
+    def add_cards(db, n: int, name: str, cset: str, attr: List[str]):
+        print('Adding cards not currently supported')
+
+    def add_sets(db, n: int, name: str, cset: str, attr: List[str]):
+        print('Adding sets not currently supported')
+
+    def add_collection(db, n: int, name: str, cset: str, attr: List[str]):
+        query = {'name': name}
+        code = cset.upper()
+        r = getattr(db, 'cards').find_one(query)
+        if not r:
+            print(f"Card not found. name={name}")
             return
+        p = r.get('printings', {})
+        if code not in p:
+            print(f"Invalid set for card. set={code} printings={p}")
+            return
+        card = {'name': r['name'],
+                'set': code,
+                'properties': {
+                    'condition': 'Unknown',
+                    'foil': False,
+                    'miscut': False,
+                    'promo': False,
+                    'textless': False,
+                    }
+                }
+        for a in attr:
+            card['properties'][a] = True
+        have = [c for c in getattr(db, 'collection').find(card)]
+        print(f"Adding card(s). name={name} have={len(have)} adding={n}")
+        card['added'] = str(date.today())
+        for i in range(n):
+            getattr(db, 'collection').insert_one(card)
+            card.pop('_id', None)  # Allow duplicate card entry
+        p = r.get('power')
+        t = r.get('toughness')
+        pt = f"{p}/{t}" if p and t else None
+        card.pop('added', None)
+        count = getattr(db, 'collection').count_documents(card)
+        card = {'∑': count,
+                'aCost': r['manaCost'],
+                'Name': r['name'],
+                'Properties': card['properties'],
+                'P/T': pt,
+                'Set': card['set'],
+                'STypes': r['supertypes'],
+                'Text': r['text'],
+                'Types': r['types'],
+                }
+        format_row(card)
+        print(pad_row(gen_hdr(card)))
+        print(pad_row(card))
+
+    a = args
+    if a.target == ALL_TARGETS:
+        for t in TARGETS:
+            locals()["add_%s" % t](db, a.n, a.name, a.set, a.attr)
+    else:
+        locals()["add_%s" % args.target](db, a.n, a.name, a.set, a.attr)
+
+
+def remove(db, args):
+    def remove_cards(db, n: int, name: str, cset: str, attr: List[str]):
+        print('Removing cards not currently supported')
+
+    def remove_sets(db, n: int, name: str, cset: str, attr: List[str]):
+        print('Removing sets not currently supported')
+
+    def remove_collection(db, n: int, name: str, cset: str, attr: List[str]):
+        print('ToDo: Change this code to remove instead of add')
+        query = {'name': name}
+        code = cset.upper()
+        r = getattr(db, 'cards').find_one(query)
+        if not r:
+            print(f"Card not found. name={name}")
+            return
+        p = r.get('printings', {})
+        if code not in p:
+            print(f"Invalid set for card. set={code} printings={p}")
+            return
+        card = {'name': r['name'],
+                'set': code,
+                'properties': {
+                    'condition': 'Unknown',
+                    'foil': False,
+                    'miscut': False,
+                    'promo': False,
+                    'textless': False,
+                    }
+                }
+        for a in attr:
+            card['properties'][a] = True
+        have = [c for c in getattr(db, 'collection').find(card)]
+        print(f"Adding card(s). name={name} have={len(have)} adding={n}")
+        card['added'] = str(date.today())
+        for i in range(n):
+            getattr(db, 'collection').insert_one(card)
+            card.pop('_id', None)  # Allow duplicate card entry
+        p = r.get('power')
+        t = r.get('toughness')
+        pt = f"{p}/{t}" if p and t else None
+        card.pop('added', None)
+        count = getattr(db, 'collection').count_documents(card)
+        card = {'∑': count,
+                'aCost': r['manaCost'],
+                'Name': r['name'],
+                'Properties': card['properties'],
+                'P/T': pt,
+                'Set': card['set'],
+                'STypes': r['supertypes'],
+                'Text': r['text'],
+                'Types': r['types'],
+                }
+        format_row(card)
+        print(pad_row(gen_hdr(card)))
+        print(pad_row(card))
+
+    a = args
+    if a.target == ALL_TARGETS:
+        for t in TARGETS:
+            locals()["remove_%s" % t](db, a.n, a.name, a.set, a.attr)
+    else:
+        locals()["remove_%s" % args.target](db, a.n, a.name, a.set, a.attr)
+
+
+def get(db, args):
+    def get_collection_pipeline(search_terms):
+        pipeline = []
+        match = {}
+        terms = []
+        for s in search_terms:
+            if s.lower() in ['foil', 'miscut', 'promo', 'textless']:
+                match[f"properties.{s}"] = True
+            else:
+                terms.append(s)
+        if len(terms) > 0:
+            search = " ".join([f'"{s}"' for s in terms])
+            match['$text'] = {'$search': f'{search}'}
+        if match:
+            pipeline.append({'$match': match})
+        pipeline += [
+            {'$group': {'_id': {'name': '$name', 'set': '$set',
+                                'condition': '$properties.condition',
+                                'foil': '$properties.foil',
+                                'miscut': '$properties.miscut',
+                                'promo': '$properties.promo',
+                                'textless': '$properties.textless',
+                                }, '∑': {'$sum': 1}}},
+            {'$sort': {'_id.name': 1, '_id.set': 1}},
+            {'$lookup': {'from': 'cards',
+                         'localField': '_id.name',
+                         'foreignField': 'name',
+                         'as': 'm'}},
+            {'$project': {
+                '_id': 0, '∑': 1,
+                'Name': '$_id.name',
+                'Condition': '$_id.condition',
+                'Properties': {'foil': '$_id.foil',
+                               'miscut': '$_id.miscut',
+                               'promo': '$_id.promo',
+                               'textless': '$_id.textless',
+                               },
+                'Set': '$_id.set',
+                'STypes': {'$arrayElemAt': ['$m.supertypes', 0]},
+                'Types': {'$arrayElemAt': ['$m.types', 0]},
+                'P/T': {'$concat': [
+                    {'$arrayElemAt': ['$m.power', 0]}, '/',
+                    {'$arrayElemAt': ['$m.toughness', 0]}]},
+                'aCost': {'$arrayElemAt': ['$m.manaCost', 0]}}},
+            ]
+        return pipeline
+
+    def get_cards_pipeline(search_terms):
+        search = " ".join([f'"{s}"' for s in search_terms])
+        pipeline = [
+            {'$match': {'$text': {'$search': f'{search}'}}},
+            {'$sort': {'name': 1}},
+            {'$lookup': {'from': 'collection',
+                         'localField': 'name',
+                         'foreignField': 'name',
+                         'as': 'm'}},
+            {'$project': {
+                '_id': 0, '∑': {'$size': '$m'},
+                'Name': '$name',
+                'STypes': '$supertypes',
+                'Text': '$text',
+                'Types': '$types',
+                'P/T': {'$concat': ['$power', '/', '$toughness']},
+                'aCost': '$manaCost',
+                }},
+            ]
+        return pipeline
+
+    def get_sets_pipeline(search_terms):
+        search = " ".join([f'"{s}"' for s in search_terms])
+        pipeline = [
+            {'$match': {'$text': {'$search': f'{search}'}}},
+            {'$sort': {'releaseDate': 1}},
+            {'$project': {
+                '_id': 0,
+                'Date': '$releaseDate',
+                'Set': '$code',
+                'Name': '$name',
+                }},
+            ]
+        return pipeline
+
+    def print_results(db, target, pipeline):
         first_time = True
         for i in getattr(db, target).aggregate(pipeline):
             format_row(i)
@@ -247,9 +382,13 @@ def get(db, args):
 
     if args.target == ALL_TARGETS:
         for t in TARGETS:
-            target_get(db, t)
+            print(f"{t.capitalize()}:")
+            pipeline = locals()["get_%s_pipeline" % t](args.search_terms)
+            print_results(db, t, pipeline)
+            print()
     else:
-        target_get(db, args.target, args.search_terms)
+        pipeline = locals()["get_%s_pipeline" % args.target](args.search_terms)
+        print_results(db, args.target, pipeline)
 
 
 def load_backup(db, target):
@@ -300,49 +439,46 @@ def load_mtgjson(db, target):
 
 
 def load(db, args):
-    def target_load(db, target):
-        def load_cards(db, target):
-            load_mtgjson(db, target)
-            print('Creating indexes...', end='')
-            stdout.flush()
-            db.cards.create_index('name', unique=True)
-            db.cards.create_index('convertedManaCost')
-            db.cards.create_index([('convertedManaCost', TEXT), ('name', TEXT),
-                                   ('manaCost', TEXT), ('text', TEXT),
-                                   ('type', TEXT)])
-            print("Done")
+    def load_cards(db, target):
+        load_mtgjson(db, target)
+        print('Creating indexes...', end='')
+        stdout.flush()
+        db.cards.create_index('name', unique=True)
+        db.cards.create_index('convertedManaCost')
+        db.cards.create_index([('convertedManaCost', TEXT), ('name', TEXT),
+                               ('manaCost', TEXT), ('text', TEXT),
+                               ('type', TEXT)])
+        print("Done")
 
-        def load_sets(db, target):
-            load_mtgjson(db, target)
-            print('Creating indexes...', end='')
-            stdout.flush()
-            db.sets.create_index('code', unique=True, sparse=True)
-            db.sets.create_index('name', unique=True)
-            db.sets.create_index('releaseDate')
-            db.sets.create_index([('code', TEXT), ('name', TEXT),
-                                  ('releaseDate', TEXT)])
-            print("Done")
+    def load_sets(db, target):
+        load_mtgjson(db, target)
+        print('Creating indexes...', end='')
+        stdout.flush()
+        db.sets.create_index('code', unique=True, sparse=True)
+        db.sets.create_index('name', unique=True)
+        db.sets.create_index('releaseDate')
+        db.sets.create_index([('code', TEXT), ('name', TEXT),
+                              ('releaseDate', TEXT)])
+        print("Done")
 
-        def load_collection(db, target):
-            load_backup(db, target)
-            print('Creating indexes...', end='')
-            stdout.flush()
-            c = db.collection.create_index
-            c('name')
-            c('set')
-            c([('name', ASCENDING), ('set', ASCENDING)])
-            c([('set', ASCENDING), ('name', ASCENDING), ('set', ASCENDING)])
-            c([('name', TEXT)])
-            print("Done")
-
-        locals()["load_%s" % target](db, target)
+    def load_collection(db, target):
+        load_backup(db, target)
+        print('Creating indexes...', end='')
+        stdout.flush()
+        c = db.collection.create_index
+        c('name')
+        c('set')
+        c([('name', ASCENDING), ('set', ASCENDING)])
+        c([('set', ASCENDING), ('name', ASCENDING), ('set', ASCENDING)])
+        c([('name', TEXT)])
+        print("Done")
 
     drop(db, args)
     if args.target == ALL_TARGETS:
         for t in TARGETS:
-            target_load(db, t)
+            locals()["load_%s" % t](db, t)
     else:
-        target_load(db, args.target)
+        locals()["load_%s" % args.target](db, args.target)
 
 
 def dump(db, args):
@@ -382,38 +518,37 @@ def check_positive(v):
 
 
 if __name__ == '__main__':
+    def pint(v):
+        i = int(v)
+        if i <= 0:
+            raise ArgumentTypeError("%s is not a positive integer" % v)
+        return i
+
     parser = ArgumentParser(description='Manage MTG Collection')
     subparsers = parser.add_subparsers(metavar='CMD')
+
+    def aa(p, *args, **kwargs):
+        p.add_argument(*args, **kwargs)
+
     for cmd in ACTIONS:
         p = subparsers.add_parser(cmd, help='%s mtg data' % cmd)
         tgts = TARGETS + [ALL_TARGETS]
-        p.add_argument('target',
-                       metavar='DATA',
-                       type=str,
-                       choices=tgts,
-                       help="{%s}" % '|'.join(tgts))
+        aa(p, 'target', metavar='TARGET', type=str, choices=tgts,
+           help="{%s}" % '|'.join(tgts))
         p.set_defaults(func=locals()[cmd])
         if cmd == 'get':
-            p.add_argument('search_terms',
-                           metavar='SEARCH_TERM',
-                           type=str,
-                           help="Limit results by search terms",
-                           nargs='*')
+            aa(p, 'search_terms', metavar='SEARCH_TERM', type=str, nargs='*',
+               help="Limit results by search terms")
+        elif cmd in ['add', 'remove']:
+            aa(p, 'n', metavar='QUANTITY', type=pint, help='Quantity')
+            aa(p, 'name', metavar='NAME', type=str, help="Target name")
+            aa(p, 'set', metavar='SET', type=str, help="Set Code")
+            aa(p, 'attr', metavar='ATTR', type=str, help="Attributes",
+               choices=['foil', 'miscut', 'promo', 'textless', []], nargs='*')
+
     subparsers.required = True
     autocomplete(parser)
     args = parser.parse_args()
     client = MongoClient()
     db = client.mtg
     args.func(db, args)
-
-# NOTE: How to create a fast search with regex
-
-# db.movies.find({
-# $and:[{
-#     $text: {
-#         $search: "Moss Carrie-Anne"
-#     }},{
-#     cast: {
-#         $elemMatch: {$regex: /Moss/, $regex: /Carrie-Anne/}}
-#     }]}
-# );
