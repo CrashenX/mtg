@@ -171,7 +171,7 @@ def add(db, args):
         ptrn = re_compile(r'\s*(\d+)\s*(.*)')
         for path in files:
             print(f"Adding deck... name={name}")
-            if db.deck.find_one({'name': name}):
+            if db.decks.find_one({'name': name}):
                 print(f"Not adding deck; name taken. name={name}")
                 continue
             deck = {'name': name, 'main': [], 'sideboard': []}
@@ -202,7 +202,7 @@ def add(db, args):
             if ms != 60 or ss not in [0, 15]:
                 print(f"Deck not added; Invalid size. {log_args}")
                 continue
-            db.deck.insert_one(deck)
+            db.decks.insert_one(deck)
             print(f"Added deck. name={name} ")
 
     def add_collection(db, n: int, name: str, cset: str, attr: List[str]):
@@ -312,7 +312,7 @@ def remove(db, args):
 
     def remove_decks(db, name: str):
         print(f"Removing deck. name={name}")
-        db.deck.delete_many({'name': name})
+        db.decks.delete_many({'name': name})
         print(f"All dekcs with name deleted. name={name}")
 
     def remove_sets(db, n: int, name: str, cset: str, attr: List[str]):
@@ -326,7 +326,7 @@ def remove(db, args):
 
 
 def get(db, args):
-    def get_collection_pipeline(search_terms):
+    def get_collection(db, search_terms: List[str]):
         pipeline = []
         match = {}
         terms = []
@@ -370,9 +370,25 @@ def get(db, args):
                     {'$arrayElemAt': ['$m.toughness', 0]}]},
                 'aCost': {'$arrayElemAt': ['$m.manaCost', 0]}}},
             ]
-        return pipeline
+        return db.collection.aggregate(pipeline)
 
-    def get_cards_pipeline(search_terms):
+    def get_decks(db, search_terms: List[str]):
+        search = " ".join([f'"{s}"' for s in search_terms])
+        pipeline = [
+            {'$match': {'$text': {'$search': f'{search}'}}},
+            {'$sort': {'name': 1}},
+            {'$project': {'_id': 0}},
+            ]
+        rows = db.decks.aggregate(pipeline)
+        cards = []
+        for row in rows:
+            for card in row['main']:
+                cards.append({'Name': card['name'], '∑': card['n']})
+            for card in row['sideboard']:
+                cards.append({'Name': card['name'], '∑': card['n']})
+        return cards
+
+    def get_cards(db, search_terms: List[str]):
         search = " ".join([f'"{s}"' for s in search_terms])
         pipeline = [
             {'$match': {'$text': {'$search': f'{search}'}}},
@@ -391,9 +407,9 @@ def get(db, args):
                 'aCost': '$manaCost',
                 }},
             ]
-        return pipeline
+        return db.cards.aggregate(pipeline)
 
-    def get_sets_pipeline(search_terms):
+    def get_sets(db, search_terms: List[str]):
         search = " ".join([f'"{s}"' for s in search_terms])
         pipeline = [
             {'$match': {'$text': {'$search': f'{search}'}}},
@@ -405,26 +421,26 @@ def get(db, args):
                 'Name': '$name',
                 }},
             ]
-        return pipeline
+        return db.sets.aggregate(pipeline)
 
-    def print_results(db, target, pipeline):
+    def print_results(db, target, rows):
         first_time = True
-        for i in getattr(db, target).aggregate(pipeline):
-            format_row(i)
+        for row in rows:
+            format_row(row)
             if first_time:
-                print(pad_row(gen_hdr(i)))
+                print(pad_row(gen_hdr(row)))
                 first_time = False
-            print(pad_row(i))
+            print(pad_row(row))
 
     if args.target == ALL_TARGETS:
         for t in TARGETS:
             print(f"{t.capitalize()}:")
-            pipeline = locals()["get_%s_pipeline" % t](args.search_terms)
-            print_results(db, t, pipeline)
+            rows = locals()[f"get_{t}"](db, args.search_terms)
+            print_results(db, t, rows)
             print()
     else:
-        pipeline = locals()["get_%s_pipeline" % args.target](args.search_terms)
-        print_results(db, args.target, pipeline)
+        rows = locals()[f"get_{args.target}"](db, args.search_terms)
+        print_results(db, args.target, rows)
 
 
 def load_backup(db, target):
@@ -484,6 +500,15 @@ def load(db, args):
         db.cards.create_index([('convertedManaCost', TEXT), ('name', TEXT),
                                ('manaCost', TEXT), ('text', TEXT),
                                ('type', TEXT)])
+        print("Done")
+
+    def load_decks(db, target):
+        load_backup(db, target)
+        print('Creating indexes...', end='')
+        stdout.flush()
+        db.decks.create_index('name', unique=True)
+        db.decks.create_index([('name', TEXT), ('main.name', TEXT),
+                              ('sideboard.name', TEXT)])
         print("Done")
 
     def load_sets(db, target):
