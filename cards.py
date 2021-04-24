@@ -19,8 +19,9 @@ from argcomplete import autocomplete
 from argparse import ArgumentParser, ArgumentTypeError
 from datetime import date
 from os import get_terminal_size
-from pymongo import MongoClient, ASCENDING, TEXT
+from pymongo import MongoClient, ASCENDING, DESCENDING, TEXT
 from bson.json_util import loads, dumps
+from re import compile as re_compile
 from requests import get as httpget
 from requests import codes
 from sys import stdout
@@ -28,7 +29,7 @@ from textwrap import wrap
 from typing import List
 
 ACTIONS = ['add', 'get', 'load', 'dump', 'drop', 'remove']
-TARGETS = ['cards', 'sets', 'collection']
+TARGETS = ['cards', 'decks', 'sets', 'collection']
 ALL_TARGETS = 'everything'
 BACKUPS = 'backups/'
 SYMBOLS = {'colors': {'B': '💀', 'U': '💧', 'G': '🌳', 'R': '🔥', 'W': '🌟'},
@@ -166,13 +167,47 @@ def add(db, args):
     def add_cards(db, n: int, name: str, cset: str, attr: List[str]):
         print('Adding cards not currently supported')
 
-    def add_sets(db, n: int, name: str, cset: str, attr: List[str]):
-        print('Adding sets not currently supported')
+    def add_decks(db, name: str, files: List[str]):
+        ptrn = re_compile(r'\s*(\d+)\s*(.*)')
+        for path in files:
+            print(f"Adding deck... name={name}")
+            if db.deck.find_one({'name': name}):
+                print(f"Not adding deck; name taken. name={name}")
+                continue
+            deck = {'name': name, 'main': [], 'sideboard': []}
+            with open(path) as f:
+                count = 0
+                for line in f:
+                    line = line.strip(' ')
+                    if line.startswith('#'):
+                        continue
+                    m = ptrn.match(line)
+                    n = int(m.group(1))
+                    card = m.group(2)
+                    r = db.cards.find_one({'name': card})
+                    log_args = f"copies={n} name={card}"
+                    if not r:
+                        print(f"Card not added; Card not found. {log_args}")
+                        continue
+                    count += n
+                    if count <= 60:
+                        deck['main'].append({'n': n, 'name': card})
+                        print(f"Adding to deck. {log_args}")
+                    else:
+                        deck['sideboard'].append({'n': n, 'name': card})
+                        print(f"Adding to sideboard. {log_args}")
+            ms = sum([c['n'] for c in deck['main']])
+            ss = sum([c['n'] for c in deck['sideboard']])
+            log_args = f"main={ms} sideboard={ss}"
+            if ms != 60 or ss not in [0, 15]:
+                print(f"Deck not added; Invalid size. {log_args}")
+                continue
+            db.deck.insert_one(deck)
+            print(f"Added deck. name={name} ")
 
     def add_collection(db, n: int, name: str, cset: str, attr: List[str]):
-        query = {'name': name}
         code = cset.upper()
-        r = getattr(db, 'cards').find_one(query)
+        r = db.cards.find_one({'name': name})
         if not r:
             print(f"Card not found. name={name}")
             return
@@ -192,17 +227,17 @@ def add(db, args):
                 }
         for a in attr:
             card['properties'][a] = True
-        have = [c for c in getattr(db, 'collection').find(card)]
+        have = [c for c in db.collection.find(card)]
         print(f"Adding card(s). name={name} have={len(have)} adding={n}")
         card['added'] = str(date.today())
         for i in range(n):
-            getattr(db, 'collection').insert_one(card)
+            db.collection.insert_one(card)
             card.pop('_id', None)  # Allow duplicate card entry
         p = r.get('power')
         t = r.get('toughness')
         pt = f"{p}/{t}" if p and t else None
         card.pop('added', None)
-        count = getattr(db, 'collection').count_documents(card)
+        count = db.collection.count_documents(card)
         card = {'∑': count,
                 'aCost': r['manaCost'],
                 'Name': r['name'],
@@ -217,34 +252,23 @@ def add(db, args):
         print(pad_row(gen_hdr(card)))
         print(pad_row(card))
 
+    def add_sets(db, n: int, name: str, cset: str, attr: List[str]):
+        print('Adding sets not currently supported')
+
     a = args
-    if a.target == ALL_TARGETS:
-        for t in TARGETS:
-            locals()["add_%s" % t](db, a.n, a.name, a.set, a.attr)
-    else:
-        locals()["add_%s" % args.target](db, a.n, a.name, a.set, a.attr)
+    if a.target == 'collection':
+        add_collection(db, a.n, a.name, a.set, a.attr)
+    elif a.target == 'decks':
+        add_decks(db, a.name, a.files)
 
 
 def remove(db, args):
     def remove_cards(db, n: int, name: str, cset: str, attr: List[str]):
         print('Removing cards not currently supported')
 
-    def remove_sets(db, n: int, name: str, cset: str, attr: List[str]):
-        print('Removing sets not currently supported')
-
     def remove_collection(db, n: int, name: str, cset: str, attr: List[str]):
-        print('ToDo: Change this code to remove instead of add')
-        query = {'name': name}
         code = cset.upper()
-        r = getattr(db, 'cards').find_one(query)
-        if not r:
-            print(f"Card not found. name={name}")
-            return
-        p = r.get('printings', {})
-        if code not in p:
-            print(f"Invalid set for card. set={code} printings={p}")
-            return
-        card = {'name': r['name'],
+        card = {'name': name,
                 'set': code,
                 'properties': {
                     'condition': 'Unknown',
@@ -256,17 +280,22 @@ def remove(db, args):
                 }
         for a in attr:
             card['properties'][a] = True
-        have = [c for c in getattr(db, 'collection').find(card)]
-        print(f"Adding card(s). name={name} have={len(have)} adding={n}")
-        card['added'] = str(date.today())
-        for i in range(n):
-            getattr(db, 'collection').insert_one(card)
-            card.pop('_id', None)  # Allow duplicate card entry
+        have = [c for c in db.collection.find(card).sort('added', DESCENDING)]
+        log_vars = f"name={name} attrs={attr} have={len(have)} removing={n}"
+        if len(have) < n:
+            print(f"No cards removed; requested more than have {log_vars}")
+            return
+        print(f"Removing card(s). {log_vars}")
+        for c in have[:n]:
+            db.collection.delete_one({'_id': c['_id']})
+        r = db.cards.find_one({'name': name})
+        if not r:
+            print(f"Card info not found. name={name}")
+            return
         p = r.get('power')
         t = r.get('toughness')
         pt = f"{p}/{t}" if p and t else None
-        card.pop('added', None)
-        count = getattr(db, 'collection').count_documents(card)
+        count = db.collection.count_documents(card)
         card = {'∑': count,
                 'aCost': r['manaCost'],
                 'Name': r['name'],
@@ -281,12 +310,19 @@ def remove(db, args):
         print(pad_row(gen_hdr(card)))
         print(pad_row(card))
 
+    def remove_decks(db, name: str):
+        print(f"Removing deck. name={name}")
+        db.deck.delete_many({'name': name})
+        print(f"All dekcs with name deleted. name={name}")
+
+    def remove_sets(db, n: int, name: str, cset: str, attr: List[str]):
+        print('Removing sets not currently supported')
+
     a = args
-    if a.target == ALL_TARGETS:
-        for t in TARGETS:
-            locals()["remove_%s" % t](db, a.n, a.name, a.set, a.attr)
-    else:
-        locals()["remove_%s" % args.target](db, a.n, a.name, a.set, a.attr)
+    if a.target == 'collection':
+        remove_collection(db, a.n, a.name, a.set, a.attr)
+    elif a.target == 'decks':
+        remove_decks(db, a.name)
 
 
 def get(db, args):
@@ -524,31 +560,43 @@ if __name__ == '__main__':
             raise ArgumentTypeError("%s is not a positive integer" % v)
         return i
 
-    parser = ArgumentParser(description='Manage MTG Collection')
-    subparsers = parser.add_subparsers(metavar='CMD')
-
     def aa(p, *args, **kwargs):
         p.add_argument(*args, **kwargs)
 
+    parent_parser = ArgumentParser(add_help=False)
+    main_parser = ArgumentParser(description='Manage MTG Collection')
+    cmd_subparsers = main_parser.add_subparsers(metavar='CMD')
     for cmd in ACTIONS:
-        p = subparsers.add_parser(cmd, help='%s mtg data' % cmd)
-        tgts = TARGETS + [ALL_TARGETS]
-        aa(p, 'target', metavar='TARGET', type=str, choices=tgts,
-           help="{%s}" % '|'.join(tgts))
-        p.set_defaults(func=locals()[cmd])
-        if cmd == 'get':
-            aa(p, 'search_terms', metavar='SEARCH_TERM', type=str, nargs='*',
-               help="Limit results by search terms")
-        elif cmd in ['add', 'remove']:
-            aa(p, 'n', metavar='QUANTITY', type=pint, help='Quantity')
-            aa(p, 'name', metavar='NAME', type=str, help="Target name")
-            aa(p, 'set', metavar='SET', type=str, help="Set Code")
-            aa(p, 'attr', metavar='ATTR', type=str, help="Attributes",
-               choices=['foil', 'miscut', 'promo', 'textless', []], nargs='*')
-
-    subparsers.required = True
-    autocomplete(parser)
-    args = parser.parse_args()
+        cmd_parser = cmd_subparsers.add_parser(
+            cmd, help=f"{cmd} mtg data", parents=[parent_parser])
+        cmd_parser.set_defaults(func=locals()[cmd], action=cmd)
+        tgt_subparser = cmd_parser.add_subparsers(metavar='TARGET')
+        tgt_subparser.required = True
+        targets = TARGETS
+        if cmd in ['get', 'load', 'dump', 'drop']:
+            targets = TARGETS + [ALL_TARGETS]
+        for tgt in targets:
+            p = tgt_subparser.add_parser(tgt, help=f"{cmd} {tgt}",
+                                         parents=[parent_parser])
+            p.set_defaults(target=tgt)
+            if cmd == 'get':
+                aa(p, 'search_terms', metavar='SEARCH_TERM', type=str,
+                   nargs='*', help="Limit results by search terms")
+            elif cmd in ['add', 'remove'] and tgt == 'collection':
+                aa(p, 'n', metavar='QUANTITY', type=pint, help='Quantity')
+                aa(p, 'name', metavar='NAME', type=str, help="Card name")
+                aa(p, 'set', metavar='SET', type=str, help="Set Code")
+                aa(p, 'attr', metavar='ATTR', type=str, help="Attribute",
+                   choices=['foil', 'miscut', 'promo', 'textless', []],
+                   nargs='*')
+            elif cmd in ['add', 'remove'] and tgt == 'decks':
+                aa(p, 'name', metavar='NAME', type=str, help="Deck name")
+                if cmd == 'add':
+                    aa(p, 'files', metavar='FILE', type=str, help="Deck File",
+                       nargs='+')
+    cmd_subparsers.required = True
+    autocomplete(main_parser)
+    args = main_parser.parse_args()
     client = MongoClient()
     db = client.mtg
     args.func(db, args)
