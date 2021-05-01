@@ -243,14 +243,14 @@ def add(db, args):
             print(f"Invalid set for card. set={code} printings={p}")
             return
         card = {'name': r['name'],
-                'set': code,
                 'properties': {
                     'condition': 'Unknown',
                     'foil': False,
                     'miscut': False,
                     'promo': False,
                     'textless': False,
-                    }
+                    },
+                'set': code,
                 }
         for a in attr:
             card['properties'][a] = True
@@ -296,14 +296,14 @@ def remove(db, args):
     def remove_collection(db, n: int, name: str, cset: str, attr: List[str]):
         code = cset.upper()
         card = {'name': name,
-                'set': code,
                 'properties': {
                     'condition': 'Unknown',
                     'foil': False,
                     'miscut': False,
                     'promo': False,
                     'textless': False,
-                    }
+                    },
+                'set': code,
                 }
         for a in attr:
             card['properties'][a] = True
@@ -603,7 +603,8 @@ def dump(db, args):
         print("Dumping %s..." % target, end='')
         stdout.flush()
         with open("%s/%s.json" % (BACKUPS, target), 'w') as f:
-            f.write(dumps(getattr(db, target).find({}, {"_id": 0})))
+            f.write(dumps(getattr(db, target).find({}, {"_id": 0}),
+                          sort_keys=True))
         print("Done")
 
     if args.target == ALL_TARGETS:
