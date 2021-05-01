@@ -19,6 +19,7 @@ from argcomplete import autocomplete
 from argparse import ArgumentParser, ArgumentTypeError
 from datetime import date
 from os import get_terminal_size
+from os.path import basename
 from pymongo import MongoClient, ASCENDING, DESCENDING, TEXT
 from bson.json_util import loads, dumps
 from re import compile as re_compile
@@ -77,7 +78,7 @@ def format_row(row):
 
     def parse_cost(cost):
         if not cost:
-            return ""
+            return " "
         elem = ""
         ucost = []
         for i in cost:
@@ -103,9 +104,8 @@ def format_row(row):
     if typ:
         row['Type'] = typ
 
-    cost = parse_cost(row.get('aCost'))
-    if cost:
-        row['Cost'] = cost
+    if 'aCost' in row:
+        row['Cost'] = parse_cost(row['aCost'])
 
 
 def pad_row(row):
@@ -113,6 +113,19 @@ def pad_row(row):
     start = 0
     if '∑' in row:
         t += str(row['∑']).rjust(2) + ' '
+        start += 3
+    if '☆' in row:
+        p = 2
+        if row['☆'] == '☆':
+            t += ' ' + str(row['☆']).rjust(1)
+        else:
+            t += str(row['☆']).rjust(2) + ' '
+        start += 3
+    if '🃧' in row:
+        t += str(row['🃧']).rjust(2) + ' '
+        start += 3
+    if '🃩' in row:
+        t += str(row['🃩']).rjust(2) + ' '
         start += 3
     if 'Date' in row:
         t += row['Date'].ljust(11)
@@ -157,8 +170,21 @@ def pad_row(row):
             cpad = 21
         t += row['Cost'].ljust(cpad)
         start += 21
+    if 'Sets' in row:
+        if type(row['Sets']) is str:
+            sets = row['Sets']
+        else:
+            sets = ", ".join(row['Sets'])
+        try:
+            width = get_terminal_size().columns - start
+        except OSError:
+            width = 10000
+        t += ('\n' + ' '*start).join(wrap(sets, width)) + '\n'
     if 'Text' in row:
-        width = get_terminal_size().columns - start
+        try:
+            width = get_terminal_size().columns - start
+        except OSError:
+            width = 10000
         t += ('\n' + ' '*start).join(wrap(row['Text'], width)) + '\n'
     return t
 
@@ -167,9 +193,10 @@ def add(db, args):
     def add_cards(db, n: int, name: str, cset: str, attr: List[str]):
         print('Adding cards not currently supported')
 
-    def add_decks(db, name: str, files: List[str]):
+    def add_decks(db, files: List[str]):
         ptrn = re_compile(r'\s*(\d+)\s*(.*)')
         for path in files:
+            name = basename(path).split('.')[0].replace('-', ' ').title()
             print(f"Adding deck... name={name}")
             if db.decks.find_one({'name': name}):
                 print(f"Not adding deck; name taken. name={name}")
@@ -198,7 +225,7 @@ def add(db, args):
                         print(f"Adding to sideboard. {log_args}")
             ms = sum([c['n'] for c in deck['main']])
             ss = sum([c['n'] for c in deck['sideboard']])
-            log_args = f"main={ms} sideboard={ss}"
+            log_args = f"name={name} main={ms} sideboard={ss}"
             if ms != 60 or ss not in [0, 15]:
                 print(f"Deck not added; Invalid size. {log_args}")
                 continue
@@ -259,7 +286,7 @@ def add(db, args):
     if a.target == 'collection':
         add_collection(db, a.n, a.name, a.set, a.attr)
     elif a.target == 'decks':
-        add_decks(db, a.name, a.files)
+        add_decks(db, a.files)
 
 
 def remove(db, args):
@@ -370,7 +397,7 @@ def get(db, args):
                     {'$arrayElemAt': ['$m.toughness', 0]}]},
                 'aCost': {'$arrayElemAt': ['$m.manaCost', 0]}}},
             ]
-        return db.collection.aggregate(pipeline)
+        return [c for c in db.collection.aggregate(pipeline)]
 
     def get_decks(db, search_terms: List[str]):
         search = " ".join([f'"{s}"' for s in search_terms])
@@ -380,13 +407,42 @@ def get(db, args):
             {'$project': {'_id': 0}},
             ]
         rows = db.decks.aggregate(pipeline)
-        cards = []
+        pipeline = [
+            {'$match': {'name': ''}},
+            {'$lookup': {'from': 'collection',
+                         'localField': 'name',
+                         'foreignField': 'name',
+                         'as': 'm'}},
+            {'$project': {
+                '_id': 0, '∑': {'$size': '$m'},
+                'Name': '$name',
+                'Sets': '$printings',
+                'STypes': '$supertypes',
+                'Types': '$types',
+                'P/T': {'$concat': ['$power', '/', '$toughness']},
+                'aCost': {'$ifNull': ['$manaCost', '']},
+                'cmc': '$convertedManaCost',
+                }},
+            ]
+        cards = {}
         for row in rows:
-            for card in row['main']:
-                cards.append({'Name': card['name'], '∑': card['n']})
-            for card in row['sideboard']:
-                cards.append({'Name': card['name'], '∑': card['n']})
-        return cards
+            print(f"Deck matches query. name={row['name']}")
+            for board in ['main', 'sideboard']:
+                for card in row[board]:
+                    name = card['name']
+                    pipeline[0]['$match']['name'] = name
+                    c = next(db.cards.aggregate(pipeline))
+                    cards[name] = cards.get(name, c)
+                    cards[name]['☆'] = cards[name].get('☆', 0) + card['n']
+                    if board == 'main':
+                        cards[name]['🃧'] = cards[name].get('🃧', 0) + card['n']
+                        cards[name]['🃩'] = cards[name].get('🃩', 0)
+                    else:
+                        cards[name]['🃩'] = cards[name].get('🃩', 0) + card['n']
+                        cards[name]['🃧'] = cards[name].get('🃧', 0)
+        for c in cards.values():
+            c['☆'] = max(0, c['☆'] - c['∑'])
+        return sorted([c for c in cards.values()], key=lambda c: c['Name'])
 
     def get_cards(db, search_terms: List[str]):
         search = " ".join([f'"{s}"' for s in search_terms])
@@ -404,10 +460,10 @@ def get(db, args):
                 'Text': '$text',
                 'Types': '$types',
                 'P/T': {'$concat': ['$power', '/', '$toughness']},
-                'aCost': '$manaCost',
+                'aCost': {'$ifNull': ['$manaCost', '']},
                 }},
             ]
-        return db.cards.aggregate(pipeline)
+        return [c for c in db.cards.aggregate(pipeline)]
 
     def get_sets(db, search_terms: List[str]):
         search = " ".join([f'"{s}"' for s in search_terms])
@@ -421,15 +477,15 @@ def get(db, args):
                 'Name': '$name',
                 }},
             ]
-        return db.sets.aggregate(pipeline)
+        return [c for c in db.sets.aggregate(pipeline)]
 
     def print_results(db, target, rows):
-        first_time = True
+        if not rows or len(rows) < 1:
+            return
+        format_row(rows[-1])
+        print(pad_row(gen_hdr(rows[-1])))
         for row in rows:
             format_row(row)
-            if first_time:
-                print(pad_row(gen_hdr(row)))
-                first_time = False
             print(pad_row(row))
 
     if args.target == ALL_TARGETS:
@@ -497,9 +553,9 @@ def load(db, args):
         stdout.flush()
         db.cards.create_index('name', unique=True)
         db.cards.create_index('convertedManaCost')
-        db.cards.create_index([('convertedManaCost', TEXT), ('name', TEXT),
-                               ('manaCost', TEXT), ('text', TEXT),
-                               ('type', TEXT)])
+        db.cards.create_index([('code', TEXT), ('convertedManaCost', TEXT),
+                               ('name', TEXT), ('manaCost', TEXT),
+                               ('text', TEXT), ('type', TEXT)])
         print("Done")
 
     def load_decks(db, target):
@@ -531,7 +587,7 @@ def load(db, args):
         c('set')
         c([('name', ASCENDING), ('set', ASCENDING)])
         c([('set', ASCENDING), ('name', ASCENDING), ('set', ASCENDING)])
-        c([('name', TEXT)])
+        c([('name', TEXT), ('set', TEXT)])
         print("Done")
 
     drop(db, args)
@@ -614,11 +670,11 @@ if __name__ == '__main__':
                 aa(p, 'attr', metavar='ATTR', type=str, help="Attribute",
                    choices=['foil', 'miscut', 'promo', 'textless', []],
                    nargs='*')
-            elif cmd in ['add', 'remove'] and tgt == 'decks':
+            elif cmd == 'add' and tgt == 'decks':
+                aa(p, 'files', metavar='FILE', type=str,
+                   help="Deck File", nargs='+')
+            elif cmd == 'remove' and tgt == 'decks':
                 aa(p, 'name', metavar='NAME', type=str, help="Deck name")
-                if cmd == 'add':
-                    aa(p, 'files', metavar='FILE', type=str, help="Deck File",
-                       nargs='+')
     cmd_subparsers.required = True
     autocomplete(main_parser)
     args = main_parser.parse_args()
