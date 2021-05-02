@@ -22201,18 +22201,6 @@
     },
     {
         "added": "2021-04-19",
-        "name": "Gaddock Teeg",
-        "properties": {
-            "condition": "Unknown",
-            "foil": false,
-            "miscut": false,
-            "promo": false,
-            "textless": false
-        },
-        "set": "UMA"
-    },
-    {
-        "added": "2021-04-19",
         "name": "Gaea's Blessing",
         "properties": {
             "condition": "Unknown",
