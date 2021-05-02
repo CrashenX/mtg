@@ -604,7 +604,7 @@ def dump(db, args):
         stdout.flush()
         with open("%s/%s.json" % (BACKUPS, target), 'w') as f:
             f.write(dumps(getattr(db, target).find({}, {"_id": 0}),
-                          sort_keys=True))
+                          indent=4, sort_keys=True))
         print("Done")
 
     if args.target == ALL_TARGETS:
