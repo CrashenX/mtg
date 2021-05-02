@@ -1,47 +1,40 @@
 # Main Deck
 # Creatures [24]
-01|00|Gaddock Teeg
-01|00|Knight of Autumn
-04|00|Knight of the Reliquary
-04|00|Mother of Runes
-04|00|Noble Hierarch
-02|00|Palace Jailer
-01|00|Scavenging Ooze
-01|00|Scryb Ranger
-02|00|Stoneforge Mystic
-04|00|Thalia, Guardian of Thraben
+ 1 Gaddock Teeg
+ 1 Knight of Autumn
+ 4 Knight of the Reliquary
+ 4 Mother of Runes
+ 4 Noble Hierarch
+ 2 Palace Jailer
+ 1 Scavenging Ooze
+ 1 Scryb Ranger
+ 2 Stoneforge Mystic
+ 4 Thalia, Guardian of Thraben
 # Instants & Sorceries [8]
-04|00|Green Sun's Zenith
-04|00|Swords to Plowshares
+ 4 Green Sun's Zenith
+ 4 Swords to Plowshares
 # Other Spells [4]
-01|00|Sword of Fire and Ice
-01|00|Sword of Light and Shadow
-01|00|Sylvan Library
-01|00|Umezawa's Jitte
+ 1 Sword of Fire and Ice
+ 1 Sword of Light and Shadow
+ 1 Sylvan Library
+ 1 Umezawa's Jitte
 # Lands [24]
-01|00|Dryad Arbor
-02|00|Forest
-02|00|Horizon Canopy
-01|00|Karakas
-01|00|Maze of Ith
-02|00|Plains
-03|00|Savannah
-04|00|Verdant Catacombs
-04|00|Wasteland
-04|00|Windswept Heath
-# Alternatives
-01|00|Batterskull
-01|00|Dark Depths
-01|00|Ramunap Excavator
-01|00|Sylvan Safekeeper
-01|00|Thespian's Stage
-01|00|Tireless Tracker
+ 1 Dryad Arbor
+ 2 Forest
+ 2 Horizon Canopy
+ 1 Karakas
+ 1 Maze of Ith
+ 2 Plains
+ 3 Savannah
+ 4 Verdant Catacombs
+ 4 Wasteland
+ 4 Windswept Heath
 # Sideboard
-01|00|Bojuka Bog
-02|00|Choke
-02|00|Council's Judgment
-03|00|Ethersworn Canonist
-02|00|Faerie Macabre
-02|00|Gideon, Ally of Zendikar
-01|00|Knight of Autumn
-02|00|Surgical Extraction
+ 1 Bojuka Bog
+ 2 Choke
+ 2 Council's Judgment
+ 3 Ethersworn Canonist
+ 2 Faerie Macabre
+ 2 Gideon, Ally of Zendikar
+ 1 Knight of Autumn
+ 2 Surgical Extraction
