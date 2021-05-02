@@ -266,7 +266,7 @@ def add(db, args):
         card.pop('added', None)
         count = db.collection.count_documents(card)
         card = {'∑': count,
-                'aCost': r['manaCost'],
+                'aCost': r.get('manaCost'),
                 'Name': r['name'],
                 'Properties': card['properties'],
                 'P/T': pt,
@@ -324,7 +324,7 @@ def remove(db, args):
         pt = f"{p}/{t}" if p and t else None
         count = db.collection.count_documents(card)
         card = {'∑': count,
-                'aCost': r['manaCost'],
+                'aCost': r.get('manaCost'),
                 'Name': r['name'],
                 'Properties': card['properties'],
                 'P/T': pt,
