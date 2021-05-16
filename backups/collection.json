@@ -71398,5 +71398,137 @@
             "textless": false
         },
         "set": "ORI"
+    },
+    {
+        "added": "2021-05-08",
+        "name": "Emmara, Soul of the Accord",
+        "properties": {
+            "condition": "Unknown",
+            "foil": false,
+            "miscut": false,
+            "promo": false,
+            "textless": false
+        },
+        "set": "GRN"
+    },
+    {
+        "added": "2021-05-08",
+        "name": "Dowsing Dagger // Lost Vale",
+        "properties": {
+            "condition": "Unknown",
+            "foil": false,
+            "miscut": false,
+            "promo": false,
+            "textless": false
+        },
+        "set": "XLN"
+    },
+    {
+        "added": "2021-05-08",
+        "name": "Settle the Wreckage",
+        "properties": {
+            "condition": "Unknown",
+            "foil": false,
+            "miscut": false,
+            "promo": false,
+            "textless": false
+        },
+        "set": "XLN"
+    },
+    {
+        "added": "2021-05-08",
+        "name": "Dire Fleet Interloper",
+        "properties": {
+            "condition": "Unknown",
+            "foil": true,
+            "miscut": false,
+            "promo": false,
+            "textless": false
+        },
+        "set": "XLN"
+    },
+    {
+        "added": "2021-05-08",
+        "name": "Merfolk Branchwalker",
+        "properties": {
+            "condition": "Unknown",
+            "foil": false,
+            "miscut": false,
+            "promo": false,
+            "textless": false
+        },
+        "set": "XLN"
+    },
+    {
+        "added": "2021-05-08",
+        "name": "Chart a Course",
+        "properties": {
+            "condition": "Unknown",
+            "foil": false,
+            "miscut": false,
+            "promo": false,
+            "textless": false
+        },
+        "set": "XLN"
+    },
+    {
+        "added": "2021-05-08",
+        "name": "Lightning-Rig Crew",
+        "properties": {
+            "condition": "Unknown",
+            "foil": false,
+            "miscut": false,
+            "promo": false,
+            "textless": false
+        },
+        "set": "XLN"
+    },
+    {
+        "added": "2021-05-08",
+        "name": "Sheltering Light",
+        "properties": {
+            "condition": "Unknown",
+            "foil": false,
+            "miscut": false,
+            "promo": false,
+            "textless": false
+        },
+        "set": "XLN"
+    },
+    {
+        "added": "2021-05-08",
+        "name": "Drover of the Mighty",
+        "properties": {
+            "condition": "Unknown",
+            "foil": false,
+            "miscut": false,
+            "promo": false,
+            "textless": false
+        },
+        "set": "XLN"
+    },
+    {
+        "added": "2021-05-08",
+        "name": "Lightning Strike",
+        "properties": {
+            "condition": "Unknown",
+            "foil": false,
+            "miscut": false,
+            "promo": false,
+            "textless": false
+        },
+        "set": "XLN"
+    },
+    {
+        "added": "2021-05-08",
+        "name": "Hostage Taker",
+        "properties": {
+            "condition": "Unknown",
+            "foil": false,
+            "miscut": false,
+            "promo": false,
+            "textless": false
+        },
+        "set": "XLN"
     }
 ]
