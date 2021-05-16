@@ -71386,5 +71386,17 @@
             "textless": false
         },
         "set": "THB"
+    },
+    {
+        "added": "2021-05-02",
+        "name": "Whirler Rogue",
+        "properties": {
+            "condition": "Unknown",
+            "foil": false,
+            "miscut": false,
+            "promo": false,
+            "textless": false
+        },
+        "set": "ORI"
     }
 ]
