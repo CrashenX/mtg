@@ -1,0 +1,1530 @@
+[
+    {
+        "main": [
+            {
+                "n": 1,
+                "name": "Arid Mesa"
+            },
+            {
+                "n": 4,
+                "name": "Brainstorm"
+            },
+            {
+                "n": 2,
+                "name": "Counterspell"
+            },
+            {
+                "n": 4,
+                "name": "Flooded Strand"
+            },
+            {
+                "n": 2,
+                "name": "Flusterstorm"
+            },
+            {
+                "n": 4,
+                "name": "Force of Will"
+            },
+            {
+                "n": 6,
+                "name": "Island"
+            },
+            {
+                "n": 3,
+                "name": "Jace, the Mind Sculptor"
+            },
+            {
+                "n": 1,
+                "name": "Misty Rainforest"
+            },
+            {
+                "n": 3,
+                "name": "Monastery Mentor"
+            },
+            {
+                "n": 2,
+                "name": "Plains"
+            },
+            {
+                "n": 2,
+                "name": "Polluted Delta"
+            },
+            {
+                "n": 4,
+                "name": "Ponder"
+            },
+            {
+                "n": 3,
+                "name": "Portent"
+            },
+            {
+                "n": 2,
+                "name": "Predict"
+            },
+            {
+                "n": 1,
+                "name": "Scalding Tarn"
+            },
+            {
+                "n": 4,
+                "name": "Snapcaster Mage"
+            },
+            {
+                "n": 4,
+                "name": "Swords to Plowshares"
+            },
+            {
+                "n": 3,
+                "name": "Terminus"
+            },
+            {
+                "n": 3,
+                "name": "Tundra"
+            },
+            {
+                "n": 2,
+                "name": "Unexpectedly Absent"
+            }
+        ],
+        "name": "Legacy Miracles",
+        "sideboard": [
+            {
+                "n": 2,
+                "name": "Back to Basics"
+            },
+            {
+                "n": 3,
+                "name": "Disenchant"
+            },
+            {
+                "n": 2,
+                "name": "Flusterstorm"
+            },
+            {
+                "n": 3,
+                "name": "Leyline of Sanctity"
+            },
+            {
+                "n": 2,
+                "name": "Rest in Peace"
+            },
+            {
+                "n": 3,
+                "name": "Vendilion Clique"
+            }
+        ]
+    },
+    {
+        "main": [
+            {
+                "n": 2,
+                "name": "Baleful Strix"
+            },
+            {
+                "n": 1,
+                "name": "Batterskull"
+            },
+            {
+                "n": 4,
+                "name": "Brainstorm"
+            },
+            {
+                "n": 4,
+                "name": "Deathrite Shaman"
+            },
+            {
+                "n": 4,
+                "name": "Flooded Strand"
+            },
+            {
+                "n": 4,
+                "name": "Force of Will"
+            },
+            {
+                "n": 1,
+                "name": "Island"
+            },
+            {
+                "n": 1,
+                "name": "Jace, the Mind Sculptor"
+            },
+            {
+                "n": 2,
+                "name": "Leovold, Emissary of Trest"
+            },
+            {
+                "n": 2,
+                "name": "Misty Rainforest"
+            },
+            {
+                "n": 4,
+                "name": "Polluted Delta"
+            },
+            {
+                "n": 3,
+                "name": "Ponder"
+            },
+            {
+                "n": 1,
+                "name": "Savannah"
+            },
+            {
+                "n": 1,
+                "name": "Scrubland"
+            },
+            {
+                "n": 1,
+                "name": "Snapcaster Mage"
+            },
+            {
+                "n": 4,
+                "name": "Stoneforge Mystic"
+            },
+            {
+                "n": 4,
+                "name": "Swords to Plowshares"
+            },
+            {
+                "n": 4,
+                "name": "Thoughtseize"
+            },
+            {
+                "n": 1,
+                "name": "Tropical Island"
+            },
+            {
+                "n": 4,
+                "name": "True-Name Nemesis"
+            },
+            {
+                "n": 2,
+                "name": "Tundra"
+            },
+            {
+                "n": 1,
+                "name": "Umezawa's Jitte"
+            },
+            {
+                "n": 3,
+                "name": "Underground Sea"
+            },
+            {
+                "n": 2,
+                "name": "Wasteland"
+            }
+        ],
+        "name": "Legacy Stoneblade",
+        "sideboard": [
+            {
+                "n": 2,
+                "name": "Council's Judgment"
+            },
+            {
+                "n": 2,
+                "name": "Flusterstorm"
+            },
+            {
+                "n": 1,
+                "name": "Leovold, Emissary of Trest"
+            },
+            {
+                "n": 2,
+                "name": "Meddling Mage"
+            },
+            {
+                "n": 3,
+                "name": "Surgical Extraction"
+            },
+            {
+                "n": 1,
+                "name": "Sword of Fire and Ice"
+            },
+            {
+                "n": 1,
+                "name": "Sylvan Library"
+            },
+            {
+                "n": 3,
+                "name": "Zealous Persecution"
+            }
+        ]
+    },
+    {
+        "main": [
+            {
+                "n": 4,
+                "name": "Axebane Guardian"
+            },
+            {
+                "n": 1,
+                "name": "Emrakul, the Aeons Torn"
+            },
+            {
+                "n": 2,
+                "name": "Fauna Shaman"
+            },
+            {
+                "n": 1,
+                "name": "Kozilek, Butcher of Truth"
+            },
+            {
+                "n": 4,
+                "name": "Llanowar Elves"
+            },
+            {
+                "n": 4,
+                "name": "Overgrown Battlement"
+            },
+            {
+                "n": 4,
+                "name": "Primeval Titan"
+            },
+            {
+                "n": 2,
+                "name": "Sylvan Caryatid"
+            },
+            {
+                "n": 3,
+                "name": "Sylvan Primordial"
+            },
+            {
+                "n": 1,
+                "name": "Ulamog, the Infinite Gyre"
+            },
+            {
+                "n": 4,
+                "name": "Eldrazi Temple"
+            },
+            {
+                "n": 1,
+                "name": "Eye of Ugin"
+            },
+            {
+                "n": 11,
+                "name": "Forest"
+            },
+            {
+                "n": 2,
+                "name": "Mosswort Bridge"
+            },
+            {
+                "n": 1,
+                "name": "Mystifying Maze"
+            },
+            {
+                "n": 1,
+                "name": "Nykthos, Shrine to Nyx"
+            },
+            {
+                "n": 1,
+                "name": "Sanctum of Ugin"
+            },
+            {
+                "n": 3,
+                "name": "Shrine of the Forsaken Gods"
+            },
+            {
+                "n": 1,
+                "name": "Tectonic Edge"
+            },
+            {
+                "n": 4,
+                "name": "Summoning Trap"
+            },
+            {
+                "n": 4,
+                "name": "Growth Spasm"
+            },
+            {
+                "n": 1,
+                "name": "Garruk, Caller of Beasts"
+            }
+        ],
+        "name": "Legacy Summon Trap",
+        "sideboard": []
+    },
+    {
+        "main": [
+            {
+                "n": 4,
+                "name": "Birds of Paradise"
+            },
+            {
+                "n": 3,
+                "name": "Kitchen Finks"
+            },
+            {
+                "n": 3,
+                "name": "Loxodon Smiter"
+            },
+            {
+                "n": 4,
+                "name": "Noble Hierarch"
+            },
+            {
+                "n": 1,
+                "name": "Qasali Pridemage"
+            },
+            {
+                "n": 4,
+                "name": "Siege Rhino"
+            },
+            {
+                "n": 4,
+                "name": "Voice of Resurgence"
+            },
+            {
+                "n": 3,
+                "name": "Wilt-Leaf Liege"
+            },
+            {
+                "n": 3,
+                "name": "Abrupt Decay"
+            },
+            {
+                "n": 4,
+                "name": "Lingering Souls"
+            },
+            {
+                "n": 4,
+                "name": "Path to Exile"
+            },
+            {
+                "n": 3,
+                "name": "Forest"
+            },
+            {
+                "n": 3,
+                "name": "Gavony Township"
+            },
+            {
+                "n": 1,
+                "name": "Godless Shrine"
+            },
+            {
+                "n": 1,
+                "name": "Marsh Flats"
+            },
+            {
+                "n": 1,
+                "name": "Overgrown Tomb"
+            },
+            {
+                "n": 1,
+                "name": "Plains"
+            },
+            {
+                "n": 3,
+                "name": "Razorverge Thicket"
+            },
+            {
+                "n": 1,
+                "name": "Swamp"
+            },
+            {
+                "n": 1,
+                "name": "Temple Garden"
+            },
+            {
+                "n": 4,
+                "name": "Verdant Catacombs"
+            },
+            {
+                "n": 4,
+                "name": "Windswept Heath"
+            }
+        ],
+        "name": "Modern Abzan Aggro",
+        "sideboard": []
+    },
+    {
+        "main": [
+            {
+                "n": 1,
+                "name": "Brimaz, King of Oreskos"
+            },
+            {
+                "n": 3,
+                "name": "Containment Priest"
+            },
+            {
+                "n": 4,
+                "name": "Dark Confidant"
+            },
+            {
+                "n": 3,
+                "name": "Deathrite Shaman"
+            },
+            {
+                "n": 1,
+                "name": "Flickerwisp"
+            },
+            {
+                "n": 2,
+                "name": "Judge's Familiar"
+            },
+            {
+                "n": 4,
+                "name": "Stoneforge Mystic"
+            },
+            {
+                "n": 1,
+                "name": "Tidehollow Sculler"
+            },
+            {
+                "n": 1,
+                "name": "Batterskull"
+            },
+            {
+                "n": 1,
+                "name": "Umezawa's Jitte"
+            },
+            {
+                "n": 1,
+                "name": "Council's Judgment"
+            },
+            {
+                "n": 1,
+                "name": "Hymn to Tourach"
+            },
+            {
+                "n": 3,
+                "name": "Inquisition of Kozilek"
+            },
+            {
+                "n": 2,
+                "name": "Lingering Souls"
+            },
+            {
+                "n": 4,
+                "name": "Thoughtseize"
+            },
+            {
+                "n": 2,
+                "name": "Abrupt Decay"
+            },
+            {
+                "n": 4,
+                "name": "Swords to Plowshares"
+            },
+            {
+                "n": 1,
+                "name": "Bayou"
+            },
+            {
+                "n": 1,
+                "name": "Cavern of Souls"
+            },
+            {
+                "n": 1,
+                "name": "Horizon Canopy"
+            },
+            {
+                "n": 1,
+                "name": "Karakas"
+            },
+            {
+                "n": 4,
+                "name": "Marsh Flats"
+            },
+            {
+                "n": 1,
+                "name": "Plains"
+            },
+            {
+                "n": 1,
+                "name": "Savannah"
+            },
+            {
+                "n": 4,
+                "name": "Scrubland"
+            },
+            {
+                "n": 4,
+                "name": "Wasteland"
+            },
+            {
+                "n": 1,
+                "name": "Urborg, Tomb of Yawgmoth"
+            },
+            {
+                "n": 3,
+                "name": "Windswept Heath"
+            }
+        ],
+        "name": "Modern Abzan Control",
+        "sideboard": [
+            {
+                "n": 1,
+                "name": "Abrupt Decay"
+            },
+            {
+                "n": 1,
+                "name": "Containment Priest"
+            },
+            {
+                "n": 2,
+                "name": "Council's Judgment"
+            },
+            {
+                "n": 2,
+                "name": "Darkblast"
+            },
+            {
+                "n": 2,
+                "name": "Lingering Souls"
+            },
+            {
+                "n": 3,
+                "name": "Mirran Crusader"
+            },
+            {
+                "n": 2,
+                "name": "Spirit of the Labyrinth"
+            },
+            {
+                "n": 2,
+                "name": "Zealous Persecution"
+            }
+        ]
+    },
+    {
+        "main": [
+            {
+                "n": 1,
+                "name": "Cavern of Souls"
+            },
+            {
+                "n": 2,
+                "name": "Ghost Quarter"
+            },
+            {
+                "n": 4,
+                "name": "Godless Shrine"
+            },
+            {
+                "n": 2,
+                "name": "Isolated Chapel"
+            },
+            {
+                "n": 4,
+                "name": "Marsh Flats"
+            },
+            {
+                "n": 1,
+                "name": "Plains"
+            },
+            {
+                "n": 4,
+                "name": "Swamp"
+            },
+            {
+                "n": 4,
+                "name": "Temple of Silence"
+            },
+            {
+                "n": 1,
+                "name": "Urborg, Tomb of Yawgmoth"
+            },
+            {
+                "n": 1,
+                "name": "Vault of the Archangel"
+            },
+            {
+                "n": 4,
+                "name": "Liliana of the Veil"
+            },
+            {
+                "n": 1,
+                "name": "Sorin, Solemn Visitor"
+            },
+            {
+                "n": 2,
+                "name": "Inquisition of Kozilek"
+            },
+            {
+                "n": 4,
+                "name": "Lingering Souls"
+            },
+            {
+                "n": 3,
+                "name": "Thoughtseize"
+            },
+            {
+                "n": 1,
+                "name": "Timely Reinforcements"
+            },
+            {
+                "n": 3,
+                "name": "Agent of the Fates"
+            },
+            {
+                "n": 4,
+                "name": "Dark Confidant"
+            },
+            {
+                "n": 2,
+                "name": "Monastery Mentor"
+            },
+            {
+                "n": 4,
+                "name": "Wall of Omens"
+            },
+            {
+                "n": 2,
+                "name": "Darkblast"
+            },
+            {
+                "n": 2,
+                "name": "Dawn Charm"
+            },
+            {
+                "n": 4,
+                "name": "Path to Exile"
+            }
+        ],
+        "name": "Modern Bw",
+        "sideboard": [
+            {
+                "n": 1,
+                "name": "Damnation"
+            },
+            {
+                "n": 3,
+                "name": "Disenchant"
+            },
+            {
+                "n": 1,
+                "name": "Duress"
+            },
+            {
+                "n": 1,
+                "name": "Engineered Explosives"
+            },
+            {
+                "n": 1,
+                "name": "Inquisition of Kozilek"
+            },
+            {
+                "n": 1,
+                "name": "Oblivion Ring"
+            },
+            {
+                "n": 1,
+                "name": "Rest in Peace"
+            },
+            {
+                "n": 1,
+                "name": "Stony Silence"
+            },
+            {
+                "n": 1,
+                "name": "Surgical Extraction"
+            },
+            {
+                "n": 1,
+                "name": "Thoughtseize"
+            },
+            {
+                "n": 2,
+                "name": "Timely Reinforcements"
+            },
+            {
+                "n": 1,
+                "name": "Zealous Persecution"
+            }
+        ]
+    },
+    {
+        "main": [
+            {
+                "n": 4,
+                "name": "Cryptic Command"
+            },
+            {
+                "n": 1,
+                "name": "Dispel"
+            },
+            {
+                "n": 1,
+                "name": "Faerie Conclave"
+            },
+            {
+                "n": 17,
+                "name": "Island"
+            },
+            {
+                "n": 3,
+                "name": "Mana Leak"
+            },
+            {
+                "n": 3,
+                "name": "Mistbind Clique"
+            },
+            {
+                "n": 4,
+                "name": "Mutavault"
+            },
+            {
+                "n": 1,
+                "name": "Relic of Progenitus"
+            },
+            {
+                "n": 3,
+                "name": "Remand"
+            },
+            {
+                "n": 4,
+                "name": "Scion of Oona"
+            },
+            {
+                "n": 4,
+                "name": "Spell Snare"
+            },
+            {
+                "n": 1,
+                "name": "Spellskite"
+            },
+            {
+                "n": 4,
+                "name": "Spellstutter Sprite"
+            },
+            {
+                "n": 3,
+                "name": "Tectonic Edge"
+            },
+            {
+                "n": 3,
+                "name": "Vedalken Shackles"
+            },
+            {
+                "n": 4,
+                "name": "Vendilion Clique"
+            }
+        ],
+        "name": "Modern Faeries",
+        "sideboard": []
+    },
+    {
+        "main": [
+            {
+                "n": 3,
+                "name": "Auriok Glaivemaster"
+            },
+            {
+                "n": 4,
+                "name": "Auriok Steelshaper"
+            },
+            {
+                "n": 1,
+                "name": "Brimaz, King of Oreskos"
+            },
+            {
+                "n": 3,
+                "name": "Kitesail Apprentice"
+            },
+            {
+                "n": 4,
+                "name": "Kor Duelist"
+            },
+            {
+                "n": 2,
+                "name": "Mirran Crusader"
+            },
+            {
+                "n": 3,
+                "name": "Puresteel Paladin"
+            },
+            {
+                "n": 4,
+                "name": "Bone Saw"
+            },
+            {
+                "n": 4,
+                "name": "Bonesplitter"
+            },
+            {
+                "n": 1,
+                "name": "Infiltration Lens"
+            },
+            {
+                "n": 1,
+                "name": "Mox Opal"
+            },
+            {
+                "n": 1,
+                "name": "Sword of Fire and Ice"
+            },
+            {
+                "n": 1,
+                "name": "Sword of War and Peace"
+            },
+            {
+                "n": 4,
+                "name": "Path to Exile"
+            },
+            {
+                "n": 3,
+                "name": "Steelshaper's Gift"
+            },
+            {
+                "n": 1,
+                "name": "Elspeth, Knight-Errant"
+            },
+            {
+                "n": 4,
+                "name": "Blinkmoth Nexus"
+            },
+            {
+                "n": 3,
+                "name": "Cavern of Souls"
+            },
+            {
+                "n": 1,
+                "name": "Inkmoth Nexus"
+            },
+            {
+                "n": 12,
+                "name": "Plains"
+            }
+        ],
+        "name": "Modern Flesh Bone",
+        "sideboard": []
+    },
+    {
+        "main": [
+            {
+                "n": 4,
+                "name": "Geist of Saint Traft"
+            },
+            {
+                "n": 1,
+                "name": "Keranos, God of Storms"
+            },
+            {
+                "n": 3,
+                "name": "Restoration Angel"
+            },
+            {
+                "n": 4,
+                "name": "Snapcaster Mage"
+            },
+            {
+                "n": 1,
+                "name": "Thundermaw Hellkite"
+            },
+            {
+                "n": 3,
+                "name": "Vendilion Clique"
+            },
+            {
+                "n": 3,
+                "name": "Electrolyze"
+            },
+            {
+                "n": 4,
+                "name": "Lightning Bolt"
+            },
+            {
+                "n": 4,
+                "name": "Lightning Helix"
+            },
+            {
+                "n": 4,
+                "name": "Path to Exile"
+            },
+            {
+                "n": 4,
+                "name": "Remand"
+            },
+            {
+                "n": 2,
+                "name": "Arid Mesa"
+            },
+            {
+                "n": 4,
+                "name": "Celestial Colonnade"
+            },
+            {
+                "n": 1,
+                "name": "Eiganjo Castle"
+            },
+            {
+                "n": 4,
+                "name": "Flooded Strand"
+            },
+            {
+                "n": 2,
+                "name": "Ghost Quarter"
+            },
+            {
+                "n": 1,
+                "name": "Hallowed Fountain"
+            },
+            {
+                "n": 1,
+                "name": "Island"
+            },
+            {
+                "n": 1,
+                "name": "Minamo, School at Water's Edge"
+            },
+            {
+                "n": 1,
+                "name": "Moorland Haunt"
+            },
+            {
+                "n": 1,
+                "name": "Mountain"
+            },
+            {
+                "n": 1,
+                "name": "Plains"
+            },
+            {
+                "n": 1,
+                "name": "Sacred Foundry"
+            },
+            {
+                "n": 2,
+                "name": "Scalding Tarn"
+            },
+            {
+                "n": 2,
+                "name": "Steam Vents"
+            },
+            {
+                "n": 1,
+                "name": "Sulfur Falls"
+            }
+        ],
+        "name": "Modern Jeskai",
+        "sideboard": [
+            {
+                "n": 3,
+                "name": "Aven Mindcensor"
+            },
+            {
+                "n": 1,
+                "name": "Batterskull"
+            },
+            {
+                "n": 1,
+                "name": "Celestial Purge"
+            },
+            {
+                "n": 2,
+                "name": "Counterflux"
+            },
+            {
+                "n": 2,
+                "name": "Engineered Explosives"
+            },
+            {
+                "n": 2,
+                "name": "Magma Spray"
+            },
+            {
+                "n": 1,
+                "name": "Negate"
+            },
+            {
+                "n": 1,
+                "name": "Shatterstorm"
+            },
+            {
+                "n": 2,
+                "name": "Wear // Tear"
+            }
+        ]
+    },
+    {
+        "main": [
+            {
+                "n": 2,
+                "name": "Court Hussar"
+            },
+            {
+                "n": 4,
+                "name": "Judge's Familiar"
+            },
+            {
+                "n": 4,
+                "name": "Knight Exemplar"
+            },
+            {
+                "n": 4,
+                "name": "Lyev Skyknight"
+            },
+            {
+                "n": 2,
+                "name": "Phantasmal Image"
+            },
+            {
+                "n": 2,
+                "name": "Silverblade Paladin"
+            },
+            {
+                "n": 4,
+                "name": "Student of Warfare"
+            },
+            {
+                "n": 1,
+                "name": "Sun Titan"
+            },
+            {
+                "n": 1,
+                "name": "Weathered Wayfarer"
+            },
+            {
+                "n": 2,
+                "name": "Detention Sphere"
+            },
+            {
+                "n": 1,
+                "name": "Elspeth, Knight-Errant"
+            },
+            {
+                "n": 3,
+                "name": "Honor of the Pure"
+            },
+            {
+                "n": 1,
+                "name": "Lightning Greaves"
+            },
+            {
+                "n": 4,
+                "name": "Path to Exile"
+            },
+            {
+                "n": 1,
+                "name": "Venser, the Sojourner"
+            },
+            {
+                "n": 1,
+                "name": "Wrath of God"
+            },
+            {
+                "n": 3,
+                "name": "Cavern of Souls"
+            },
+            {
+                "n": 4,
+                "name": "Flooded Strand"
+            },
+            {
+                "n": 2,
+                "name": "Glacial Fortress"
+            },
+            {
+                "n": 4,
+                "name": "Hallowed Fountain"
+            },
+            {
+                "n": 8,
+                "name": "Plains"
+            },
+            {
+                "n": 2,
+                "name": "Windbrisk Heights"
+            }
+        ],
+        "name": "Modern Knights",
+        "sideboard": []
+    },
+    {
+        "main": [
+            {
+                "n": 4,
+                "name": "Burning-Tree Emissary"
+            },
+            {
+                "n": 4,
+                "name": "Experiment One"
+            },
+            {
+                "n": 4,
+                "name": "Flinthoof Boar"
+            },
+            {
+                "n": 2,
+                "name": "Ghor-Clan Rampager"
+            },
+            {
+                "n": 4,
+                "name": "Goblin Guide"
+            },
+            {
+                "n": 4,
+                "name": "Kird Ape"
+            },
+            {
+                "n": 4,
+                "name": "Reckless Bushwhacker"
+            },
+            {
+                "n": 4,
+                "name": "Wild Nacatl"
+            },
+            {
+                "n": 4,
+                "name": "Atarka's Command"
+            },
+            {
+                "n": 4,
+                "name": "Lightning Bolt"
+            },
+            {
+                "n": 2,
+                "name": "Mutagenic Growth"
+            },
+            {
+                "n": 2,
+                "name": "Rancor"
+            },
+            {
+                "n": 4,
+                "name": "Bloodstained Mire"
+            },
+            {
+                "n": 1,
+                "name": "Forest"
+            },
+            {
+                "n": 1,
+                "name": "Mountain"
+            },
+            {
+                "n": 1,
+                "name": "Sacred Foundry"
+            },
+            {
+                "n": 2,
+                "name": "Stomping Ground"
+            },
+            {
+                "n": 1,
+                "name": "Temple Garden"
+            },
+            {
+                "n": 4,
+                "name": "Windswept Heath"
+            },
+            {
+                "n": 4,
+                "name": "Wooded Foothills"
+            }
+        ],
+        "name": "Modern Zoo",
+        "sideboard": [
+            {
+                "n": 4,
+                "name": "Destructive Revelry"
+            },
+            {
+                "n": 1,
+                "name": "Gaddock Teeg"
+            },
+            {
+                "n": 2,
+                "name": "Gut Shot"
+            },
+            {
+                "n": 3,
+                "name": "Kitchen Finks"
+            },
+            {
+                "n": 2,
+                "name": "Path to Exile"
+            },
+            {
+                "n": 2,
+                "name": "Rest in Peace"
+            },
+            {
+                "n": 1,
+                "name": "Scavenging Ooze"
+            }
+        ]
+    },
+    {
+        "main": [
+            {
+                "n": 4,
+                "name": "Gladecover Scout"
+            },
+            {
+                "n": 1,
+                "name": "Heliod's Pilgrim"
+            },
+            {
+                "n": 4,
+                "name": "Silhana Ledgewalker"
+            },
+            {
+                "n": 4,
+                "name": "Slippery Bogle"
+            },
+            {
+                "n": 2,
+                "name": "Ram Through"
+            },
+            {
+                "n": 4,
+                "name": "Abundant Growth"
+            },
+            {
+                "n": 4,
+                "name": "Ancestral Mask"
+            },
+            {
+                "n": 4,
+                "name": "Armadillo Cloak"
+            },
+            {
+                "n": 2,
+                "name": "Cartouche of Solidarity"
+            },
+            {
+                "n": 4,
+                "name": "Ethereal Armor"
+            },
+            {
+                "n": 4,
+                "name": "Rancor"
+            },
+            {
+                "n": 1,
+                "name": "Sentinel's Eyes"
+            },
+            {
+                "n": 4,
+                "name": "Utopia Sprawl"
+            },
+            {
+                "n": 2,
+                "name": "Ash Barrens"
+            },
+            {
+                "n": 1,
+                "name": "Cave of Temptation"
+            },
+            {
+                "n": 1,
+                "name": "Crumbling Vestige"
+            },
+            {
+                "n": 12,
+                "name": "Forest"
+            },
+            {
+                "n": 1,
+                "name": "Khalni Garden"
+            },
+            {
+                "n": 1,
+                "name": "Plains"
+            }
+        ],
+        "name": "Pauper Bogles",
+        "sideboard": []
+    },
+    {
+        "main": [
+            {
+                "n": 1,
+                "name": "Guardian of the Guildpact"
+            },
+            {
+                "n": 3,
+                "name": "Palace Sentinels"
+            },
+            {
+                "n": 4,
+                "name": "Seeker of the Way"
+            },
+            {
+                "n": 4,
+                "name": "Squadron Hawk"
+            },
+            {
+                "n": 4,
+                "name": "Thraben Inspector"
+            },
+            {
+                "n": 4,
+                "name": "Battle Screech"
+            },
+            {
+                "n": 4,
+                "name": "Faithless Looting"
+            },
+            {
+                "n": 4,
+                "name": "Lightning Bolt"
+            },
+            {
+                "n": 4,
+                "name": "Prismatic Strands"
+            },
+            {
+                "n": 2,
+                "name": "Rally the Peasants"
+            },
+            {
+                "n": 3,
+                "name": "Journey to Nowhere"
+            },
+            {
+                "n": 2,
+                "name": "Oblivion Ring"
+            },
+            {
+                "n": 1,
+                "name": "Ash Barrens"
+            },
+            {
+                "n": 4,
+                "name": "Boros Garrison"
+            },
+            {
+                "n": 5,
+                "name": "Mountain"
+            },
+            {
+                "n": 7,
+                "name": "Plains"
+            },
+            {
+                "n": 4,
+                "name": "Wind-Scarred Crag"
+            }
+        ],
+        "name": "Pauper Boros Monarch",
+        "sideboard": []
+    },
+    {
+        "main": [
+            {
+                "n": 4,
+                "name": "Burning-Tree Emissary"
+            },
+            {
+                "n": 4,
+                "name": "Nest Invader"
+            },
+            {
+                "n": 4,
+                "name": "Nettle Sentinel"
+            },
+            {
+                "n": 3,
+                "name": "Quirion Ranger"
+            },
+            {
+                "n": 2,
+                "name": "River Boa"
+            },
+            {
+                "n": 2,
+                "name": "Silhana Ledgewalker"
+            },
+            {
+                "n": 3,
+                "name": "Skarrgan Pit-Skulk"
+            },
+            {
+                "n": 3,
+                "name": "Vault Skirge"
+            },
+            {
+                "n": 4,
+                "name": "Savage Swipe"
+            },
+            {
+                "n": 4,
+                "name": "Hunger of the Howlpack"
+            },
+            {
+                "n": 3,
+                "name": "Vines of Vastwood"
+            },
+            {
+                "n": 3,
+                "name": "Elephant Guide"
+            },
+            {
+                "n": 4,
+                "name": "Rancor"
+            },
+            {
+                "n": 17,
+                "name": "Forest"
+            }
+        ],
+        "name": "Pauper Green",
+        "sideboard": []
+    },
+    {
+        "main": [
+            {
+                "n": 3,
+                "name": "Akroan Skyguard"
+            },
+            {
+                "n": 4,
+                "name": "Deftblade Elite"
+            },
+            {
+                "n": 4,
+                "name": "Lagonna-Band Trailblazer"
+            },
+            {
+                "n": 3,
+                "name": "Sacred Cat"
+            },
+            {
+                "n": 3,
+                "name": "Emerge Unscathed"
+            },
+            {
+                "n": 3,
+                "name": "Karametra's Blessing"
+            },
+            {
+                "n": 3,
+                "name": "Mutagenic Growth"
+            },
+            {
+                "n": 4,
+                "name": "Benevolent Blessing"
+            },
+            {
+                "n": 4,
+                "name": "Cartouche of Solidarity"
+            },
+            {
+                "n": 4,
+                "name": "Ethereal Armor"
+            },
+            {
+                "n": 4,
+                "name": "Hyena Umbra"
+            },
+            {
+                "n": 4,
+                "name": "Sentinel's Eyes"
+            },
+            {
+                "n": 15,
+                "name": "Plains"
+            },
+            {
+                "n": 2,
+                "name": "Secluded Steppe"
+            }
+        ],
+        "name": "Pauper White",
+        "sideboard": []
+    }
+]
