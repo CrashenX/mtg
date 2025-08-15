@@ -10,15 +10,9 @@
 
 Docs: https://argcomplete.readthedocs.io/en/latest/index.html
 
-    venv/bin/register-python-argcomplete cards>~/.bash_completion.d/cards.sh
+    venv/bin/register-python-argcomplete cards>~/.completions/cards.sh
     complete | grep cards # if you see: complete -F _minimal ./cards
     complete -r ./cards   # then run this to remove
-    source ~/.bash_completion.d/cards.sh
+    source ~/.completions/cards.sh
     complete | grep cards # should see: complete -o default -o nospace -F \
                           #             _python_argcomplete cards
-
-NB: You might need to create `~/.bash_completion` and source in `~/.bashrc`
-
-    for bcfile in ~/.bash_completion.d/* ; do
-        [ -f "$bcfile" ] && . $bcfile
-    done

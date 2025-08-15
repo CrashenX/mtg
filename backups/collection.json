@@ -72646,5 +72646,65 @@
             "textless": false
         },
         "set": "SLD"
+    },
+    {
+        "added": "2025-08-15",
+        "name": "Emrakul, the Promised End",
+        "properties": {
+            "condition": "Unknown",
+            "foil": false,
+            "miscut": false,
+            "promo": false,
+            "textless": false
+        },
+        "set": "SLD"
+    },
+    {
+        "added": "2025-08-15",
+        "name": "Brainstorm",
+        "properties": {
+            "condition": "Unknown",
+            "foil": false,
+            "miscut": false,
+            "promo": false,
+            "textless": false
+        },
+        "set": "SLD"
+    },
+    {
+        "added": "2025-08-15",
+        "name": "Serra Angel",
+        "properties": {
+            "condition": "Unknown",
+            "foil": false,
+            "miscut": false,
+            "promo": false,
+            "textless": false
+        },
+        "set": "SLD"
+    },
+    {
+        "added": "2025-08-15",
+        "name": "Brainstorm",
+        "properties": {
+            "condition": "Unknown",
+            "foil": false,
+            "miscut": false,
+            "promo": true,
+            "textless": false
+        },
+        "set": "SLD"
+    },
+    {
+        "added": "2025-08-15",
+        "name": "Progenitus",
+        "properties": {
+            "condition": "Unknown",
+            "foil": false,
+            "miscut": false,
+            "promo": false,
+            "textless": false
+        },
+        "set": "SLD"
     }
 ]
