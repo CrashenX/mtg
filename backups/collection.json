@@ -40789,18 +40789,6 @@
     },
     {
         "added": "2021-04-19",
-        "name": "Nissa Revane",
-        "properties": {
-            "condition": "Unknown",
-            "foil": false,
-            "miscut": false,
-            "promo": false,
-            "textless": false
-        },
-        "set": "ZEN"
-    },
-    {
-        "added": "2021-04-19",
         "name": "Nissa's Renewal",
         "properties": {
             "condition": "Unknown",
